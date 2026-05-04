@@ -1,0 +1,106 @@
+No... Dammit, no!{#Name="Soldier B"}
+Ugh. She's so strong!{#Name="Soldier A"}
+At this rate, she's gonna reach the Intoners soon!{#Name="Soldier G"}
+Never. We must protect them with our lives!{#Name="Soldier A"}
+How can we stand against an Intoner and a dragon?{#Name="Soldier E"}
+What choice do we have!? All men, take position! Attaaack!{#Name="Soldier A"}
+Your grave beckons, apostate!{#Name="Soldier B"}
+Die, you damned traitorous Intoner!{#Name="Soldier G"}
+I might take you more seriously if your voice{LF}wasn't quivering...{#Name="Zero"}
+Why is an Intoner killing her own?{#Name="Soldier A"}
+Shall we tell them? They seem genuinely curious.{#Name="Michael"}
+Why bother? They're about to die anyway.{#Name="Zero"}
+The end of the world is nigh...{#Name="Soldier F"}
+343{#Name="343"}
+They...they told me Intoners were{LF}supposed to be peaceful!{#Name="Soldier E"}
+What kind of crap are they teaching{LF}you people these days?{#Name="Zero"}
+Get a medic! This crazy Intoner's gonna kill us all!{#Name="Soldier C"}
+Sure, why not? I haven't killed any medics yet.{#Name="Zero"}
+Get outta my way, dammit!{#Name="Zero"}
+Be calm, Zero. Anger will only slow your sword.{#Name="Michael"}
+Look, I know that, it's just... Ah, forget it!{#Name="Zero"}
+Michael! Take 'em out!{#Name="Zero"}
+As you wish.{#Name="Michael"}
+Where the hell are my sisters?{#Name="Zero"}
+Are you certain about this, Zero?{LF}About slaying all the Intoners?{#Name="Michael"}
+Of course. Why else would I be stabbing everyone?{#Name="Zero"}
+Damned...traitorous...Intoner!{#Name="Soldier A"}
+Do you hear that? They all name you traitor.{#Name="Michael"}
+I've been called worse.{#Name="Zero"}
+Kill the foul beast! Bring it down!{#Name="Soldier B"}
+They view me as some kind of monster.{#Name="Michael"}
+Yeah, I wouldn't worry about it.{#Name="Zero"}
+I'm doing nothing of the sort.{#Name="Michael"}
+Heh. You always were the sensitive type.{#Name="Zero"}
+I am nothing of the sort!{#Name="Michael"}
+Oh, hell. What's this thing?{#Name="Zero"}
+It's no human... And yet, not quite a beast.{#Name="Michael"}
+Likely some sort of automaton devised by{LF}the Intoners.{#Name="Michael"}
+Crafty little bastards...{#Name="Zero"}
+Men, take your positions! Stand strong!{#Name="Soldier A"}
+Get. Out of. My WAY!{#Name="Zero"}
+Don't let her through!{#Name="Soldier B"}
+Move!{#Name="Zero"}
+{06}>{#Name="Soldier B"}
+She can't be an Intoner... There's no way!{#Name="Soldier G"}
+She's a damned demon...{#Name="Soldier F"}
+There's no way we can win...{LF}We're all gonna die!{#Name="Soldier G"}
+This is no time for cowardice!{LF}Stand tall and fight!{#Name="Soldier B"}
+Oh, God... No, no, no, no, noooo!{#Name="Soldier G"}
+Damn sniveling civilian recruits...{LF}Charge! Charge now!{#Name="Soldier B"}
+Our messengers are dead! Summon more!{#Name="Soldier C"}
+They'll never arrive in time!{#Name="Soldier D"}
+Look at her... Look how fast she is!{#Name="Soldier C"}
+Shit! She's coming this way! Ruuun!{#Name="Soldier D"}
+This world can't survive without Intoners.{#Name="Soldier F"}
+If we want the good Intoners to live...{#Name="Soldier F"}
+then the traitorous one must die!{#Name="Soldier F"}
+Shut up with the bullshit already, would you?{#Name="Zero"}
+Fall back! Everyone, fall back!{#Name="Soldier A"}
+What!? If we abandon our posts,{LF}the Intoners will be in danger!{#Name="Soldier B"}
+You really think I give a shit right now!?{#Name="Soldier A"}
+Snap out of it, you pathetic craven!{LF}You're a soldier!{#Name="Soldier B"}
+Move, move, move, MOVE!{#Name="Zero"}
+It's Zero! Zero the betrayer!{#Name="Soldier E"}
+Get the hell outta my way!{#Name="Zero"}
+Oh crap, she's here! Retreat! Retreeeat!{#Name="Soldier D"}
+Outta my way!{#Name="Soldier C"}
+How...how could this happen...?{#Name="Soldier D"}
+Hold on, my beloved sisters.{LF}I'm coming to kill you all.{#Name="Zero"}
+Defeat the Titan!{#Name=" "}
+Find and defeat your sisters at the Cathedral.{#Name=" "}
+Old Man
+Zero
+Soldier A
+Soldier C
+ゼロ
+Michael
+343
+Soldier F
+Soldier B
+Soldier E
+Soldier D
+Soldier G
+ 
+It's been a long time, Zero.{#Name="One"}
+Has it? I didn't notice.{#Name="Zero"}
+You haven't changed a bit. You're still insane.{#Name="One"}
+Stop it. You're embarrassing me.{#Name="Zero"}
+That wasn't a compliment.{#Name="One"}
+Hey, it's Zero! Hey, Zeeerooo!{#Name="Two"}
+{06}>{#Name="Three"}
+Zero, this fighting is pointless!{LF}You have to stop! We're sisters!{#Name="Four"}
+Oh, don't be such a prude, Four.{LF}A good catfight really gets my juices flowing...{#Name="Five"}
+ {#Name="ファイブ"}
+Wow, I sure am popular around here...{#Name="Zero"}
+Enough talk, Zero.{#Name="One"}
+This is the end.{#Name="One"}
+Hey, Zero, guess what?{LF}Next month, I'm goin' on a trip!{#Name="Two"}
+So actually? I really don't have{LF}time for this right now!{#Name="Two"}
+I wouldn't bother packing for{LF}your trip, Two.{#Name="Zero"}
+Huh? Why not?{LF}Are you gonna pack for me!?{#Name="Two"}
+No, I'm gonna kill you!{#Name="Zero"}
+A caged bird cannot be free,{LF}even if it flees the cage.{#Name="Three"}
+A bird without freedom has{LF}no place in the skies.{#Name="Three"}
+You never did make any damn{LF}sense, Three.{#Name="Zero"}
+Perhaps restraint is a source{LF}of happiness unto itself.{#Name="Three"}

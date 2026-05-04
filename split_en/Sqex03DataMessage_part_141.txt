@@ -1,0 +1,105 @@
+Mission Completion Bonus!
+Slayer Bonus:
+Request Bonus 2:
+Request Bonus 3:
+Request Completion Bonus:
+Gold Soldier Bonus:
+Perfect Bonus
+Request Bonus 7:
+Request Bonus 8:
+Request Bonus 9:
+Request Bonus 10:
+I've got a new job I need help with,
+and I think you're just the woman to handle it.
+I posted it to my list of requests,
+so check it out when you have a sec!
+Sincerely, Accord (from the Weapon Shop)
+Dropped by the boss!
+Found in a chest!
+Gift obtained!
+First-time Completion Bonus!
+Completion Bonus!
+Treasure obtained!
+Lost verse "Accord's Song" unlocked.
+Lost verse "Accord's Prayer" unlocked.
+THE END
+"{04}
+You now have three disciples.{LF}You can select which disciples to bring with you{LF}at the Battle Preparation menu.
+Branch B unlocked.
+Branch C unlocked.
+Lost verses unlocked.
+Branch D unlocked.
+The Beloved Stones
+Horn Hunting
+Book Club: Hope
+Pinkstone Pilgrimage
+Communicorns
+Book Club: Ambition
+Seaside Payday
+The First Survival
+The Second Survival
+The Third Survival
+The Final Survival
+Flint Stint
+Hawk Whisperer
+Book Club: Reticence
+Mountain Payday
+The Amberstone Zone
+Eagle Scout
+Book Club: Stoicism
+On the Move
+Lucky Fangs
+Book Club: Mystery
+Forest Payday
+Food Festival
+Stinger Meds
+Book Club: Sanctity
+Like a Floating Stone
+Famous Fossils
+Book Club: Purity
+Compass Cash-in
+Plant Your Claim
+Book Club: Innocence
+Desert Payday
+Shooting Stars
+Ancient Treasures
+Book Club: Discipline
+The Comet's Trail
+History Unearthed
+Book Club: Doctrine
+Cathedral Payday
+Survival
+Memories of the Intoners{LF}has been unlocked.
+Raising this character's level has unlocked a new memory.{LF}You can view it from the Memories of the Intoners menu.
+All missions complete. You've obtained {04}
+All missions complete. You've obtained {04}
+Gold Soldiers will now appear somewhere in the mission.
+Settings
+Abandon Mission
+Adjust various game settings.
+Abandon the current mission and return to the Chapter Select menu.
+Abandon the current mission and return to the Chapter Select menu?
+Music
+Change the background music that plays during the mission.
+Abandon the current mission and return to the Main Menu.
+Abandon the current mission and return to the Main Menu?
+Select Menu
+Aaron J. Adams (QA Manager, SQUARE ENIX, INC.)
+Adam Erde (Information Center Representative, SQUARE ENIX, INC.)
+Adam Pelc (QA Translator, SQUARE ENIX, INC.)
+Adam Sullivan (Sr. Counsel, Business & Legal Affairs, SQUARE ENIX, INC.)
+Aimi Tokutake (Project Com and Events Coordinator, SQUARE ENIX, INC.)
+Akari Yamamoto (Sets & Props Modeler, ACCESS GAMES INC.)
+Akihiko Kamiya (CG Designer, ATTIC CO., LTD.)
+Akihiro Minami (Audio Programmer, SQUARE ENIX CO., LTD.)
+Akihiro Miura (Animator, DigitalMediaLab., Inc.)
+Akinori Ozawa (Manager, iNiS Corporation)
+Akira Chodo (CG Designer, MOZOO, Inc.)
+Akira Hisamoto (Sales & Marketing Staff, SQUARE ENIX CO., LTD.)
+Akira Iwasawa (Cutscene Facial Animation Supervisor, SQUARE ENIX CO., LTD.)
+Alan Averill (English Localization Editor, 8-4, Ltd.)
+Alec Anderson (QA Tester, SQUARE ENIX, INC.)
+Alex Huhtala (PR Manager, SQUARE ENIX LTD.)
+Alex Moresby (Senior Localisation Producer, SQUARE ENIX LTD.)
+Alfred Holz (Events Assistant Manager, SQUARE ENIX, INC.)
+Alfred Persch (Information Center Representative, SQUARE ENIX, INC.)

@@ -1,0 +1,106 @@
+That big baby of yours sure{LF}does get tied up a lot.{#Name="Dito"}
+If Lady Three catches him, she{LF}may experiment on his body.{#Name="Octa"}
+B-Body experiments? Ungh... That would{LF}be delectib... Er, I mean...detestable...{#Name="Decadus"}
+Sorry I messed up again, Zero. I'll be better...{#Name="Mikhail"}
+You're awfully reserved.{#Name="Zero"}
+Huh?{#Name="Mikhail"}
+You're not going "Aww!" or "I tried super hard!"{LF}or whatever.{#Name="Zero"}
+Oh, can I!? Hey, in that case, guess what?{LF}Guess what, huh?{#Name="Mikhail"}
+Shut it, dummy. The ivy's just gonna dig{LF}deeper into you. Hold still and be quiet{LF}until I can cut you down.{#Name="Zero"}
+I don't think you're telling the truth.{#Name="Three"}
+My lady, I—{#Name="Octa"}
+You left because your lust needed{LF}a more eager partner.{#Name="Three"}
+Your limitless desire no longer{LF}caused my honey to flow...{#Name="Three"}
+And so you grew restless.{#Name="Three"}
+That's... Well, it may have been a reason, but...{#Name="Octa"}
+So tell me, Three...{LF}What does make the old honey flow these days?{#Name="Zero"}
+Hmm?{#Name="Three"}
+Oh, please. Don't play dumb with me.{LF}I know you have desires.{#Name="Zero"}
+I...{#Name="Three"}
+I no longer hold any love for my disciple.{LF}My love is reserved for my soldiers now.{#Name="Three"}
+My sweet, beloved little soldiers.{#Name="Three"}
+You must flee at once!{LF}We cannot stop Lady Three now!{#Name="Octa"}
+Pfft! I'm not scared of some whack-job loser{LF}who hides in her room making dolls all day.{#Name="Zero"}
+They're not dolls, my lady.{LF}They're soldiers she's operated on!{#Name="Octa"}
+Wh-What?{#Name="Decadus"}
+Oh, that's terrible. ...I LOVE IT!{#Name="Dito"}
+Zero! Hey! Listen!{#Name="Mikhail"}
+Hush. I'm in the middle of something right now.{#Name="Zero"}
+Me too! I'm in the middle of something!{LF}Something weird!{#Name="Mikhail"}
+What is it?{#Name="Zero"}
+Whenever I look at Three, it's like...{LF}like, my body gets all hot...{#Name="Mikhail"}
+There's this weird pain in my chest and tummy,{LF}and I start to get all tingly...{#Name="Mikhail"}
+What should I do, Zero? Am I sick?{#Name="Mikhail"}
+Yeah, it's called "love." Probably terminal.{#Name="Zero"}
+No, Zero! It's not like that! This is serious!{LF}It's... It's more like...{#Name="Mikhail"}
+ミハ……イル{#Name="ゼロ"}
+ミハイル……{#Name="ゼロ"}
+……ミハイル！！{#Name="ゼロ"}
+Ow! Zero, these guys explode!{LF}They explode all over you!{#Name="Mikhail"}
+Pay attention! Don't let 'em latch on to you!{#Name="Zero"}
+If the pain's that bad, shake 'em off!{#Name="Zero"}
+Aaah! Their heads came off! They came off!{#Name="Mikhail"}
+Good! Now crush those bastards!{#Name="Zero"}
+That attack looks like it uses up a lot of power.{LF}Wait for an opening and then strike!{#Name="Zero"}
+Wait for an opening and then strike!{#Name="Zero"}
+Zerooo! It's too small for me to fly in here!{#Name="Mikhail"}
+Ughhh! Piece of shit dragon...{#Name="Zero"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+Mikhail
+Zero
+Octa
+Three
+Dito
+Decadus
+? ? ?
+Cent
+145
+73
+説明文
+目的文
+Soldier F
+Soldier E
+Soldier A
+Soldier C
+Soldier D
+Soldier G
+Soldier B
+ゼロ
+テスト
+Make your way through this eerie forest.{#Name="説明文"}
+Defeat the Necromancers!{#Name="説明文"}
+Defeat the army of Armisael!{#Name="説明文"}
+Defeat the enemies blocking your way!{#Name="説明文"}

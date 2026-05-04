@@ -1,0 +1,105 @@
+Soldier
+Soldier
+Soldier
+Soldier
+Gold Soldier
+Enhanced Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Cannoneer
+Cannoneer
+Cannoneer
+Cannoneer
+Cannoneer
+-
+Wolf
+Sandwolf
+-
+Wolf
+Sandwolf
+-
+Lancer
+Lancer Captain
+-
+Spirit
+Greater Spirit
+-
+Imp
+-
+-
+Ogre
+Sand Ogre
+-
+Troll
+Brute Troll
+-
+Wizard
+-
+Necromancer
+Sorcerer
+-
+Undead
+Undead Soldier
+Undead Paladin
+-
+-
+Wyvern
+-
+-
+Specter
+-
+-
+Wyvern
+Wyvern
+-
+Gigas
+Gigas
+Undead Gigas
+-
+Titan
+Titan Lord
+Arch Titan
+-
+Cerberus
+-
+Flame Cerberus
+Gray Cerberus
+Golem
+-
+花（ワン）
+花（トウ）
+花（スリイ）
+花（フォウ）
+花（ファイブ）
+-
+Centaur
+Flame Centaur
+-
+-
+Gargoyle Cube
+-
+-
+-
+Soldier
+Soldier
+Soldier
+Soldier
+Soldier
+Bomber
+Phanuel
+Armaros
+Armaros
+Armaros

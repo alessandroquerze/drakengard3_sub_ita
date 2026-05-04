@@ -1,0 +1,106 @@
+飛空艇を撃ったような大砲がいっぱいあるから{#Name="ミハイル"}
+あんまり高く飛んじゃうと、ドカーンってやられちゃうよ！{#Name="ミハイル"}
+Uuungh...{#Name="Zero"}
+Zero! What is it? Are you okay? Are you hurt?{#Name="Mikhail"}
+No, I'm sighing. This is such a pain in the ass.{#Name="Zero"}
+Ugh. I guess we've no choice but to take{LF}these guys out.{#Name="Zero"}
+Leave this to me! No matter how a foe may whip{LF}and kick me, I always fulfill my mission!{#Name="Decadus"}
+Heh, yeah... Isn't the whole point that you like{LF}getting whipped and kicked?{#Name="Dito"}
+Zero, look! Look! Now we can go through that tree!{#Name="Mikhail"}
+...We?{#Name="Zero"}
+Uh, well, yeah, I mean... Right?{#Name="Mikhail"}
+You can't fit in that tiny hole, dummy.{#Name="Zero"}
+Awwwwww!{#Name="Mikhail"}
+This forest is...eerie. {#Name="Decadus"}
+Hey, Big Baby, you scared yet?{#Name="Dito"}
+I'm not scared! I'm not scared at all!{#Name="Mikhail"}
+Boo!{#Name="Zero"}
+AAAAAAAAAAAAH!{#Name="Mikhail"}
+Nice going there, Z.{LF}I think he just pissed himself.{#Name="Dito"}
+It's not my fault! She was mean to me!{LF}She was mean!{#Name="Mikhail"}
+Urrrnnngghhh...{#Name="Decadus"}
+Really? THAT turns you on too?{#Name="Dito"}
+Goddammit. What is this, a fucking petting zoo?{LF}I don't have time for this!{#Name="Zero"}
+What's the rush? We'll cut 'em down soon enough.{#Name="Dito"}
+289{#Name="289"}
+649{#Name="649"}
+ {#Name="ディト"}
+We're all shut in again!{#Name="Mikhail"}
+Heh heh heh heh heh...{#Name="Zero"}
+Lady Zero? Why are you laughing?{#Name="Decadus"}
+Uh oh. I think she finally snapped.{#Name="Dito"}
+199{#Name="199"}
+Um, guys? Maybe we should stay away{LF}from Zero for a bit...{#Name="Mikhail"}
+This is really starting to piss me off.{LF}I just wanna kill my sister and be done with it!{#Name="Zero"}
+Aw, chin up. Anticipation is half the fun of murder!{LF}Ha ha!{#Name="Dito"}
+Zero's impatience prevented her from learning anything from the faeries.{#Name="Accord"}
+Thus, the party was forced to wander the Land of Forests in search of Three.{#Name="Accord"}
+Little did they know, a fearsomely powerful disciple was lying in wait...{#Name="Accord"}
+Don't go any higher than that!{#Name="Zero"}
+You want me to go after the cannon?{#Name="Mikhail"}
+テスト１１８{#Name="テスト"}
+テスト１１９{#Name="テスト"}
+テスト１２０{#Name="テスト"}
+テスト１２１{#Name="テスト"}
+テスト１２２{#Name="テスト"}
+テスト１２３{#Name="テスト"}
+テスト１２４{#Name="テスト"}
+テスト１２５{#Name="テスト"}
+テスト１２６{#Name="テスト"}
+テスト１２７{#Name="テスト"}
+テスト１２８{#Name="テスト"}
+ゼロ
+Octa
+Zero
+Mikhail
+ミハイル
+説明文
+Soldier C
+Soldier D
+Soldier A
+Soldier B
+Soldier E
+Soldier F
+Soldier G
+Dito
+Decadus
+289
+649
+ディト
+199
+Accord
+テスト
+Make your way through this mysterious forest.{#Name="説明文"}
+Defeat the enemy soldiers!{#Name="説明文"}
+ガーゴイルキューブを門にはめろ！{#Name="説明文"}
+ガーゴイルキューブ４体を門にはめろ！{#Name="説明文"}
+ガーゴイルキューブ６体を門にはめろ！{#Name="説明文"}
+ガーゴイルキューブ８体を門にはめろ！{#Name="説明文"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+Alert! Alert! Octa has joined with the enemy!{#Name="Soldier A"}
+A disciple betraying his own Intoner? Unthinkable!{#Name="Soldier B"}
+It is true? Octa's our enemy now?{#Name="Soldier C"}
+There must be a reason! Maybe he's actually a double-agent.{#Name="Soldier D"}
+Hey, yeah... Yeah! That MUST be it!{#Name="Soldier C"}
+Shit! I'm wounded!{#Name="Soldier E"}
+It's all right—here, I'll prop you up. You're gonna be okay! We have to keep fighting!{#Name="Soldier G"}
+Don't give up! If you do, it'll be over for sure!{#Name="Soldier F"}
+A man needs a brave spirit to best a cursed Intoner. Give her all you've got!{#Name="Soldier B"}
+It's hopeless. There's no way we can win. Even Octa's abandoned his post!{#Name="Soldier G"}
+Never mind Octa! You're still here, aren't ya? Now get back in formation!{#Name="Soldier C"}
+So Three sounds kinda messed up.{#Name="Dito"}
+Oh ho ho. Not so much messed up as{LF}simply...odd.{#Name="Octa"}
+True, she's unpredictable and armed with giant{LF}scissors. But when she gets aroused...grrawl!{#Name="Octa"}
+Heh. Sounds like a handful.{#Name="Dito"}
+Oh yes. Though her mind is sharp.{LF}Almost as sharp as her blades! Ho ho ho!{#Name="Octa"}
+Hey, you seen what's-his-face lately?{#Name="Zero"}
+I assume you mean Mikhail?{LF}No, I have not.{#Name="Decadus"}
+Would you like me to turn back{LF}and look for him, my lady?{#Name="Decadus"}
+No. Do it once and he'll expect it.{LF}Dummy's probably just lost again.{#Name="Zero"}
+ミハイル知らない？お子ちゃまドラゴンなんだけど{#Name="ディト"}
+さあ？さすがのオクタも、ドラゴンとヤッたことはありませぬ{#Name="オクタ"}
+ヤッたかどうかは聞いてないよ{#Name="ディト"}
+ヤッたことのないモノのことは、３歩歩くと忘れます。ほっほっほ{#Name="オクタ"}

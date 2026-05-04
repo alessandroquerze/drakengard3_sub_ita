@@ -1,0 +1,105 @@
+163{#Name="163"}
+343{#Name="343"}
+271{#Name="271"}
+フォウのいる要塞を目指せ！{#Name="説明文"}
+砦にある全ての砲台を破壊せよ！{#Name="説明文"}
+巨大砲台が現れた！{#Name="説明文"}
+ギガース兵と増援兵団が現れた！{#Name="説明文"}
+全てのオーガ兵を倒せ！{#Name="説明文"}
+ギガース兵を倒せ！{#Name="説明文"}
+兵士たちを殲滅せよ！{#Name="説明文"}
+目標達成 ： 全ての砲台を破壊した！{#Name="説明文"}
+目標達成 ： 巨大砲台を破壊した！{#Name="説明文"}
+60
+73
+253
+325
+379
+307
+181
+541
+271
+127
+361
+ディト
+オクタ
+セント
+デカート
+289
+109
+433
+235
+91
+415
+343
+397
+163
+217
+145
+451
+523
+199
+469
+505
+739
+559
+487
+595
+667
+631
+577
+649
+説明文
+Mission Complete!{#Name="Explanation"}
+Mission Failed...{#Name="Explanation"}
+Triple gold bonus earned!{#Name="Explanation"}
+Double gold bonus earned!{#Name="Explanation"}
+You collected a little gold.{#Name="Explanation"}
+You collected a fair amount of gold.{#Name="Explanation"}
+You collected a lot of gold!{#Name="Explanation"}
+You collected all the gold!{#Name="Explanation"}
+You took a little gold.{#Name="Explanation"}
+You took a fair amount of gold.{#Name="Explanation"}
+You took a lot of gold!{#Name="Explanation"}
+Time's up!{#Name="Explanation"}
+Gold soldier incoming.{LF}Defeat him for a gold multiplier bonus!{#Name="Explanation"}
+More gold soldier reinforcements.{LF}Earn a gold multiplier bonus for each one defeated!{#Name="Explanation"}
+Gold multiplier bonus earned!{#Name="Explanation"}
+All earned gold lost...{#Name="Explanation"}
+All gold soldiers defeated!{#Name="Explanation"}
+I'll take these fools for all they got!{#Name="Zero"}
+Those treasures are mine!{#Name="Zero"}
+I get to let loose AND earn cash?{LF}What more can a girl ask for?{#Name="Zero"}
+Hey, long as it's fun AND profitable...{#Name="Zero"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Collect money and head for the goal.{#Name="Explanation"}
+If you reach the goal after collecting all of the money, you'll earn a triple bonus!{#Name="Explanation"}
+If you don't reach the goal, the money you collected will be magically transformed into ash.{#Name="Explanation"}

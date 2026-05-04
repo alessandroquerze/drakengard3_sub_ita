@@ -1,0 +1,105 @@
+Galgaliels
+Galgaliels
+Galgaliels
+Ezrael
+Raphael
+Abdiel
+Abdiel
+Abdiel
+Big, Juicy Crabs
+Little Juicy Crabs
+Michael
+Airships
+Air Skiffs
+Evil Elf Pirate Ships
+-
+One
+One
+Two
+Three
+Four
+Five
+ゼロ最終
+Cent
+Three Statues
+バリケード小
+バリケード中
+バリケード大
+バリケード大 2
+Cannons
+Heavy Cannons
+Hyper Cannons
+戦艦大砲台
+戦艦長距離大砲台
+ハイパー砲台透明
+ハイパー砲台 (アルマロス周囲)
+ハイパー砲台 (アルマロス上部)
+大砲台(4020)
+浮遊石S
+ガーゴイルキューブ（OBJ）
+壊せる人面木
+壊せる蔦柱
+壊せる木0
+壊せる木1
+壊せる蔦壁小
+壊せる蔦壁大
+引っ込む蔦
+Landing Crafts
+Battleships
+木汎用
+ZH00 ゼロ家柱
+アイテムボックス（木箱）
+ワイバーンの岩
+宝箱
+爆弾（クエスト用）
+Metallic Chests
+Cannons
+Hyper Cannons
+Battleships
+Battleships
+Soldiers
+Southern Towers
+Eastern Towers
+Western Towers
+Northern Towers
+Soldiers
+Soldiers
+Enhanced Ogres
+Enhanced Imps
+Enhanced Cerberuses
+Female Soldiers
+On
+Off
+Max
+Min
+Controller Settings
+Visual Settings
+Audio Settings
+カメラ操作
+画面表示
+Restore Defaults
+Adjust settings related to the controller.
+Adjust settings related to the game screen.
+Adjust settings related to audio volume.
+カメラの操作方式について設定します
+画面の表示物について設定します
+Restore all settings to the default configuration.
+通常攻撃
+固有攻撃
+ジャンプ
+回避ステップ
+ロックオン
+武器チェンジ
+魔法
+籠手チェンジ
+ロックオン方式
+切り替えタイプ
+ホールドタイプ
+Air Battle Controls
+Normal
+Inverted
+Brightness
+Music Volume
+SFX Volume
+Voice Volume
+音質

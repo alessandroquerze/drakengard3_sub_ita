@@ -1,0 +1,105 @@
+A large, ornately decorated chakram.
+A chakram said to espouse the way{LF}of the gods.
+A chakram said to espouse the way{LF}of the gods.
+A chakram said to espouse the way{LF}of the gods.
+A chakram said to espouse the way{LF}of the gods.
+A compact chakram modeled after{LF}the feathers of the bird Vidofnir.
+A compact chakram modeled after{LF}the feathers of the bird Vidofnir.
+A compact chakram modeled after{LF}the feathers of the bird Vidofnir.
+A compact chakram modeled after{LF}the feathers of the bird Vidofnir.
+A chakram based on wind blown by{LF}a heavenly horse crossing the skies.
+A chakram based on wind blown by{LF}a heavenly horse crossing the skies.
+A chakram based on wind blown by{LF}a heavenly horse crossing the skies.
+A chakram based on wind blown by{LF}a heavenly horse crossing the skies.
+A large chakram with multiple spikes{LF}designed to bewilder foes.
+A large chakram with multiple spikes{LF}designed to bewilder foes.
+A large chakram with multiple spikes{LF}designed to bewilder foes.
+A large chakram with multiple spikes{LF}designed to bewilder foes.
+A chakram left behind by the{LF}Holy Emperor. Effective vs. undead.
+A chakram left behind by the{LF}Holy Emperor. Effective vs. undead.
+A chakram left behind by the{LF}Holy Emperor. Effective vs. undead.
+A chakram left behind by the{LF}Holy Emperor. Effective vs. undead.
+-
+-
+-
+-
+-
+-
+-
+-
+From the moment I was born, there was nothing.{LF}That's how I wound up with the name Zero.{#Name="Zero's Blade Lv. 1"}
+I tried and failed to find value in my life.{LF}Even religion failed me, for I would have sooner{LF}fought and killed a god than prayed to it.{#Name="Zero's Blade Lv. 2"}
+I took lives and felt nothing. I killed without regret.{LF}Right? Wrong? Sin? Redemption? I couldn't even{LF}work up the energy to care.{#Name="Zero's Blade Lv. 3"}
+Like a child, I waited and hoped. Hoped for the moment{LF}when this sad shell of a life would finally be over.{#Name="Zero's Blade Lv. 4"}
+He committed a crime. The famine raged, taxes rose without{LF}mercy, and his parents vanished. Soon his siblings grew{LF}gaunt with hunger, and for them, he took action.{#Name="Sinful Scream Lv. 1"}
+He committed a crime. He shared the stolen milk and bread{LF}with his five young siblings, allowing himself none.{LF}Instead, he simply watched as they devoured the bounty.{#Name="Sinful Scream Lv. 2"}
+He committed a crime. When the rich merchants found him,{LF}he was not allowed to die for his sin. That honor fell to his{LF}siblings, for they alone had consumed the stolen goods.{#Name="Sinful Scream Lv. 3"}
+He committed a crime. His siblings' ravaged bodies lay in{LF}the street. He gazed upon them, rubbed the open sores from{LF}his own public whipping, and heaved a voiceless sob.{#Name="Sinful Scream Lv. 4"}
+A visitor? Ah, yes. Come hear the song, then. The innkeeper{LF}and her daughter will greet you warmly. Their food and drink{LF}is without compare, and the girl is a feast for the eyes.{#Name="Eternal Voice Lv. 1"}
+The girl's song is the best thing about the place. A single{LF}listen will drive all your troubles away. Did you know{LF}she has a sister? Ah, if only they sang a duet...{#Name="Eternal Voice Lv. 2"}
+Welcome back, traveler! It's been a while. Come to see the{LF}girls again? You certainly do like them! It's been decades{LF}since I first told you of them, and yet here you are again.{#Name="Eternal Voice Lv. 3"}
+What's that, traveler? You wonder why the girls never age?{LF}Ha ha ha! Those are the children of the girls you once knew!{LF}Surely you didn't think they were immortal! ...Did you?{#Name="Eternal Voice Lv. 4"}
+The prince I serve was destined to lead our nation.{LF}But alas, we had been nearly destroyed in an unjust war;{LF}betrayed from within, and left to wither and die.{#Name="Ceremonial Blade Lv. 1"}
+The prince I serve grew into a strong, handsome young man.{LF}After much grueling toil, he rebuilt our land and became{LF}its king. It was a wonderful, wonderful land.{#Name="Ceremonial Blade Lv. 2"}
+But that land is long gone. You will find it on no map.{LF}And my king fell when his nation was defeated.{#Name="Ceremonial Blade Lv. 3"}
+My king kept this ceremonial blade close. And to the very{LF}end, he never suspected me. It remains a regret of mine.{LF}...Ah, but no matter. It's just a silly little story now.{#Name="Ceremonial Blade Lv. 4"}
+Once there was a hellish wasteland covered by thundering{LF}skies. It changed hands countless times, and its people were{LF}tormented by unending hunger and merciless lightning.{#Name="Thunder Lord Lv. 1"}
+One day, a valiant young baron swore to conquer the land{LF}and turn it into a place of bounty. Few of his exhausted{LF}subjects believed him. Some even laughed openly.{#Name="Thunder Lord Lv. 2"}
+The baron had forged a fine sword of silver, then ordered a{LF}group of virgins to pray for three days and nights. Atop a hill,{LF}he raised the sword high, then thrust it into the ground.{#Name="Thunder Lord Lv. 3"}
+After a stormy night, the skies cleared. The young baron was{LF}gone, and a fruit tree stood on the hill with the silver sword{LF}entangled in its branches. It still rumbles to this day.{#Name="Thunder Lord Lv. 4"}
+Once, there were three young girls. Though they lived in an{LF}age when arranged marriages were the standard, they swore{LF}to each other that they would always protect their chastity.{#Name="Virginal Sin Lv. 1"}
+One girl cut her beautiful blonde hair and commanded{LF}a battalion in place of her dead brother. She died a fine{LF}death, with her beloved manservant at her side.{#Name="Virginal Sin Lv. 2"}
+One girl, a brunette and an avid reader of books, loved{LF}a man from a poor family. Knowing their love could{LF}never be, the couple threw themselves into the sea.{#Name="Virginal Sin Lv. 3"}
+The last girl, a flaxen-haired beauty, never knew her{LF}friends had broken their vows of chastity. She remained{LF}a virgin all her life, eventually passing away of old age.{#Name="Virginal Sin Lv. 4"}
+The villagers doubted the strange new missionary at first,{LF}but soon his charming words and handsome smile won{LF}them over, and they welcomed him with open arms.{#Name="Saintly Brimstone Lv. 1"}
+Beauty was power in the village. The beautiful were royalty,{LF}while the ugly suffered as slaves. Soon, the scarred and{LF}deformed of the village begged the missionary for help.{#Name="Saintly Brimstone Lv. 2"}
+Smiling, the missionary raised a hand. In a flash, the ugly{LF}villagers were transformed, their faces all identical to{LF}his own. And yet, his work was not complete...{#Name="Saintly Brimstone Lv. 3"}
+Soon, every man, woman, and child looked like the missionary,{LF}right down to the grin. They no longer cried or grew angry,{LF}leaving the village with nothing but grim, hollow smiles.{#Name="Saintly Brimstone Lv. 4"}
+My cursed body bleeds once a month like clockwork.{LF}I am thin and weak and more ugly than most. I am, in a word,{LF}different—and people do not take kindly to such.{#Name="Bloodletter Lv. 1"}
+Too weak to work, a mere useless husk, I spend my days in{LF}a basement waiting for the abuse I know is sure to come.{LF}...In my dreams, my body no longer bleeds.{#Name="Bloodletter Lv. 2"}
+I feel sick. Sick. Sick and queasy. In my dream, the man{LF}who abuses me appears again. But this time, I seize the{LF}weapon he has long used to torment me. {#Name="Bloodletter Lv. 3"}
+In the dream, I hit him again and again. And then I see,{LF}for the very first time, that I am not the only one who bleeds.{LF}I am human. Just like him. And this makes me smile.{#Name="Bloodletter Lv. 4"}
+One of the villagers was a compulsive liar. He bandied a{LF}sword about carelessly, boasting of his demon-slaying{LF}exploits. Soon, he had lost the trust of all his peers.{#Name="False Pact Lv. 1"}
+One day, a traveler arrived asking the way to a lair of{LF}demons. The villagers were silent, but the great liar spoke.{LF}"Have no fear!" he said. "I will lead you to the demons' den!"{#Name="False Pact Lv. 2"}
+The man lied and lied, and each time the traveler believed him,{LF}they became more lost. But when the liar finally showed the{LF}true path, he was forced to save the traveler from the demon.{#Name="False Pact Lv. 3"}
+"I finally told the truth," said the dying liar, "and now I must{LF}pay for it." The traveler slayed the demon, became a hero,{LF}and has carried his newfound friend's sword ever since.{#Name="False Pact Lv. 4"}
+ironironironironironironironironironironironironironiron{LF}The iron was beaten into shape. It stood alone in battle.{LF}ironironironironironironironironironironironironironiron{#Name="Broken Iron Lv. 1"}
+killkillkillkillkillkillkillkillkillkillkillkillkillkillkillkillkillkillkill{LF}The iron killed with abandon. That was its reason to exist.{LF}killkillkillkillkillkillkillkillkillkillkillkillkillkillkillkillkillkillkill{#Name="Broken Iron Lv. 2"}
+meatmeatmeatmeatmeatmeatmeatmeatmeatmeatmeat{LF}The iron took countless lives to make its dream come true.{LF}meatmeatmeatmeatmeatmeatmeatmeatmeatmeatmeat{#Name="Broken Iron Lv. 3"}
+bloodbloodbloodbloodbloodbloodbloodbloodbloodblood{LF}The iron shed bloody tears, for it could not be human again.{LF}bloodbloodbloodbloodbloodbloodbloodbloodbloodblood{#Name="Broken Iron Lv. 4"}
+Beauty is only skin deep.{LF}The twisted hearts within remain unseen.{#Name="Gaia's Flame Lv. 1"}
+I wish for the fortune of man.{LF}I scorn the persistent insects.{#Name="Gaia's Flame Lv. 2"}
+A flame illuminates the night.{LF}But it brings only Stygian dark.{#Name="Gaia's Flame Lv. 3"}
+To burn is proof of witchery.{LF}And I am the one who lights the fire.{#Name="Gaia's Flame Lv. 4"}
+The marble sword was imbued with the blacksmith's{LF}blazing soul. It yearned for an owner who thirsted for blood.{LF}Who pined for battle. Who hungered for war.{#Name="Moonfire Lv. 1"}
+But its razor edge emitted searing heat, enough to{LF}reduce to ash any stalwart warrior who wielded it.{#Name="Moonfire Lv. 2"}
+The sword waited for a strong soul to tame its boiling{LF}heart. It waited for the warrior who would let blood{LF}spill across its blade.{#Name="Moonfire Lv. 3"}
+Even as it took the lives of those it sought, the sword{LF}waited. It waited for a vessel for its soul, and eternity{LF}spread before it like an icy embrace.{#Name="Moonfire Lv. 4"}
+One day, a young boy encountered a white horse with blue{LF}eyes by the side of a lush forest spring. Each day he passed{LF}the animal, he stopped to tend to its injured leg.{#Name="Skyward Thunder Lv. 1"}
+On the fifth day, the horse allowed the boy to touch its{LF}beautiful white hair. On the tenth day, its deep blue eyes{LF}revealed a hard-won trust. Soon after, the horse vanished.{#Name="Skyward Thunder Lv. 2"}
+The boy figured the leg had healed, and regretted missing{LF}his chance to ride the steed. Decades passed. The boy, now a{LF}withered old man, told his grandchildren of the white horse.{#Name="Skyward Thunder Lv. 3"}
+Just as the man spoke of the horse, thunder boomed from{LF}the sky and he vanished. Some say they saw a man on a{LF}white horse amid the lightning, storming off to the heavens.{#Name="Skyward Thunder Lv. 4"}
+Seriously? You don't even know how to use this sword?{LF}Now that's just pathetic. It couldn't possibly be easier.{LF}Even little ol' me can spin this thing around!{#Name="Cries and Whispers Lv. 1"}
+A disciple at my level has more than strength, you know.{LF}He has enough bewitching beauty to make his enemies swoon.{LF}Looks like it's working on you, too! Hah!{#Name="Cries and Whispers Lv. 2"}
+Money really does make the world go 'round, doesn't it?{LF}I should know, given the vast fortune I command.{LF}...Not that they let me use it yet. Lord knows why.{#Name="Cries and Whispers Lv. 3"}
+Hm? Is there anything more important in life than beauty,{LF}strength, and money...? Hah! What a kidder you are!{LF}I mean, do you even need to ask?{#Name="Cries and Whispers Lv. 4"}
+The tower loomed, its white stonework unmarked by a single{LF}crack or crevice. Inside, a girl lived alone. Because none of{LF}her servants spoke to her, she knew nothing of speech.{#Name="Once a Woman Lv. 1"}
+Throughout her captivity, the girl's servants refused to{LF}acknowledge her existence. But local villagers knew of her,{LF}and when a great famine struck the land, they took action.{#Name="Once a Woman Lv. 2"}
+The villagers killed every last servant as they climbed the{LF}tower. "Cursed wench!" they shouted. "This is your fault!"{LF}But the girl could not understand the words. {#Name="Once a Woman Lv. 3"}
+The girl was overjoyed to finally be exposed to emotion,{LF}even that of rage. A smile came to her face as the sword struck{LF}home, securing her place as an offering to the village gods.{#Name="Once a Woman Lv. 4"}
+The warming breath of green granted fortune to all.{LF}The shining azure flow gave blessings to all.{LF}Flowers bloomed. Life teemed. It was a land of promise.{#Name="Imperial Fang Lv. 1"}
+Countless great forces waged war over the land, troubling{LF}and trampling its bounties. Soon, mountains of mangled{LF}corpses replaced the blessings of earlier, better days.{#Name="Imperial Fang Lv. 2"}
+Time passed. Trees grew over the bodies, and soon the cries{LF}of war were replaced with softly babbling brooks. Only a{LF}lone sword planted in the ground spoke of the terrible past.{#Name="Imperial Fang Lv. 3"}
+The young king drew the sword from the earth. "I claim this{LF}beautiful land for my own!" he said. Will the cycle begin anew?{LF}...Alas, I must save that story for another time.{#Name="Imperial Fang Lv. 4"}
+Ah! You have an eye for quality, sir. This sword comes from{LF}a far-off land. Know you the tale? A young man slew a horrid{LF}beast, and grew so renowned, the king became mad with envy.{#Name="Feral King's Wildblade Lv. 1"}
+The king sent him on an impossible quest, and the young man{LF}fell to the very monsters he was meant to slay. His sister{LF}pleaded for his remains, but all she received was his sword.{#Name="Feral King's Wildblade Lv. 2"}
+The sister became the king's mistress, and she used the{LF}sword to murder him before turning it on herself. And now{LF}the blade is used to exact revenge on... Sir? Are you okay?{#Name="Feral King's Wildblade Lv. 3"}
+What's with that sword in your hand? ...Revenge, you say?{LF}B-But I'm just a weapons merchant! My sword didn't kill{LF}your family! It's just a blade! Just a... No! Stop! Wai—{#Name="Feral King's Wildblade Lv. 4"}
+Why did I lose my child?{LF}Why did my child have to die?{LF}Why must I bear this punishment?{#Name="Mourning Thorn Lv. 1"}
+All the other children survived. Why did mine perish?{LF}Theirs should have died, too! Every last one of them!{LF}...No. I mustn't think this way. They are all precious.{#Name="Mourning Thorn Lv. 2"}
+We must protect my lost child, and all the others, too.{LF}But this world is chaos and strife. How can we hope to{LF}safeguard the children? The precious, precious children.{#Name="Mourning Thorn Lv. 3"}
+To protect them, I must join them. But there are so many.{LF}Wait. I know. I must chew them up. Chew them all.{LF}Open my mouth and chew all the pretty baaaaaabieeeeees...{#Name="Mourning Thorn Lv. 4"}
+-{#Name="剣180"}
+-{#Name="剣181"}
+-{#Name="剣182"}
+-{#Name="剣183"}

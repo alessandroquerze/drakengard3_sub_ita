@@ -1,0 +1,106 @@
+Would you just shut up and{LF}die already?{#Name="Zero"}
+{06}>{#Name="Three"}
+Please, Sister!{LF}Reconsider your actions!{#Name="Four"}
+The real Zero would never do{LF}anything like this!{#Name="Four"}
+We're family! Whatever's troubling{LF}you, I'll help however I can! {#Name="Four"}
+You'll help, huh?{#Name="Zero"}
+Well, I suppose there is ONE{LF}thing you can do for me...{#Name="Zero"}
+You can curl up and DIE!{#Name="Zero"}
+Are you really about to get ravaged{LF}by your own sisters, Zero?{#Name="Five"}
+Whatever. Stop leering at me.{#Name="Zero"}
+I just love a sore loser...{#Name="Five"}
+Ugh. I get the worst headaches{LF}listening to you.{#Name="Zero"}
+You poor thing. I'd love to let you rest{LF}your head on my magnificent bosom...{#Name="Five"}
+But it seems like we're destined{LF}to fight instead.{#Name="Five"}
+Fate can be such a cruel mistress...{#Name="Five"}
+What do you want from us, Zero?{#Name="One"}
+What do you think?{#Name="Zero"}
+There's only enough room in this{LF}world for one Intoner.{#Name="Zero"}
+And you'd kill your own sisters{LF}for that right?{#Name="One"}
+That's kind of what I'm doing, yeah.{#Name="Zero"}
+...Traitor.{#Name="One"}
+Gabriel!{#Name="One"}
+Heh. Well, look who decided to summon a daemon.{#Name="Zero"}
+That's no longer a dragon you've got there, One.{#Name="Zero"}
+It's just a monster!{#Name="Zero"}
+Shut up! I'm not subject to your judgment, Sister!{#Name="One"}
+We Intoners swore to keep the world in balance.{#Name="One"}
+And now you seek all our power for yourself?{LF}It's shameful!{#Name="One"}
+Yak yak yak yak. Shut up and DIE ALREADY!{#Name="Zero"}
+{06}>{#Name="Zero"}
+{06}>{#Name="Zero"}
+Finish her.{#Name="One"}
+Y-You...{#Name="Zero"}
+{06}>{#Name="Zero"}
+will DIE!{#Name="Zero"}
+Zero!{#Name="Michael"}
+Fiiiiiire!{#Name="Zero"}
+One!{#Name="Four"}
+How can he still have so much strength...{#Name="One"}
+{06}>{#Name="Michael"}
+{06}>{#Name="Zero"}
+She fled.{#Name="One"}
+You truly thought to kill the Intoners?{#Name="One"}
+Silly girl.{#Name="One"}
+{06}>{#Name="One"}
+Now... Let us sing of the world's end.{#Name="One"}
+Kill your sisters.{#Name="説明文"}
+Oh, it's the end all right...{#Name="Zero"}
+Defeat Gabriel!{#Name="説明文"}
+One
+Zero
+Two
+Three
+Four
+Five
+ファイブ
+Michael
+説明文
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+I'm sooorrryyyyyy!{#Name="Mikhail"}
+It won't... It won't happen again...{#Name="Mikhail"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+What the...!?{#Name="Soldier B"}
+It's her! That crazed Intoner's come to kill us!{#Name="Soldier A"}
+Gyaaaah!{#Name="Soldier G"}
+Take it easy. She's an Intoner, too!{#Name="Soldier E"}
+B-But she's nothing like Lady Five... She's terrifying!{#Name="Soldier G"}
+Shit... That dragon's headed for the battleship!{#Name="Soldier C"}
+Well, staring at it won't help!{#Name="Soldier B"}
+Does that dragon seem...small to you?{#Name="Soldier D"}
+Just a hatchling, I'd wager.{#Name="Soldier C"}
+But don't hold back. It's still lethal!{#Name="Soldier C"}
+ダミー{#Name="ダミー"}
+The bloody Intoner is an accursed sight.{#Name="Soldier F"}
+Quite a difference from Lady Five and her beautiful golden aura...{#Name="Soldier E"}
+Damn. We need a new plan, and fast!{#Name="Soldier A"}
+I told you, we don't stand a chance against an Intoner!{#Name="Soldier E"}
+Is this divine punishment? Have we sinned in some way?{#Name="Soldier F"}
+Don't be absurd! Our Lady Five is on the side of benevolence!{#Name="Soldier B"}
+This wound...is nothing... So long as I keep...Lady Five safe...{#Name="Soldier B"}
+Don't get yourself killed over it. Lady Five still has Dito, remember?{#Name="Soldier E"}
+Pfft. That sadistic little twit?{#Name="Soldier B"}
+It's Zero! All infantry to the front!{#Name="Soldier D"}
+One woman against an army... She must be mad!{#Name="Soldier G"}
+Belay that kind of talk!{#Name="Soldier D"}
+We've got casualties!{#Name="Soldier E"}
+Medic! We need a medic now!{#Name="Soldier B"}
+I think...this might be the end...{#Name="Soldier A"}
+To die for Lady Five is to die in glory!{#Name="Soldier F"}

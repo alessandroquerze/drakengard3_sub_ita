@@ -1,0 +1,105 @@
+ステレオ
+5.1ch サラウンド
+Camera Control (Left/Right)
+Camera Sensitivity (Left/Right)
+Camera Control (Up/Down)
+Camera Sensitivity (Up/Down)
+カメラ距離
+近
+Normal
+遠
+カメラディレイ
+Chase Cam
+Air Battle Controls
+ロックオン方式
+Normal
+Inverted
+Blood Splatter
+字幕
+敵体力表示
+チェイン表示
+Leave the settings screen.
+Leave without confirming changes?
+Apply Changes
+操作タイプ
+Vibration
+Settings
+{04}
+切り替え
+ガード
+ステップ
+Toggle controller vibration on and off.
+Choose between normal and inverted controls during air battle stages.
+Choose between normal and inverted horizontal camera control.
+Adjust the camera's horizontal movement sensitivity.
+Choose between normal and inverted vertical camera control.
+Adjust the camera's vertical movement sensitivity.
+Adjust whether the camera auto-follows behind Zero or remains static.
+Adjust the brightness level of the screen.
+Adjust the gamma value of the screen.
+Adjust the volume of background music.
+Adjust the volume of sound effects.
+Adjust the volume of character voices.
+Choose whether to have blood splattering on the screen during combat.
+Gamma
+Restore all settings to the default configuration?
+不使用1
+不使用2
+不使用3
+不使用4
+不使用5
+不使用6
+不使用7
+不使用8
+不使用9
+不使用10
+不使用11
+不使用12
+不使用13
+不使用14
+Yes
+No
+不使用15
+Select
+Confirm
+Back
+不使用15
+不使用16
+不使用17
+不使用18
+不使用19
+不使用20
+不使用21
+不使用22
+不使用23
+不使用24
+不使用25
+不使用26
+不使用27
+不使用28
+不使用29
+不使用30
+不使用31
+不使用32
+不使用33
+不使用34
+不使用35
+不使用36
+不使用37
+不使用38
+不使用39
+不使用40
+不使用41
+不使用42
+不使用43
+不使用44
+不使用45
+不使用46
+不使用47
+不使用48
+不使用49
+不使用50
+不使用51
+不使用52
+不使用53
+不使用54

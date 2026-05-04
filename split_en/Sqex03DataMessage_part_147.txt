@@ -1,0 +1,105 @@
+Stuff544(***********. ************* INC.)
+Stuff545(***********. ************* INC.)
+Stuff546(***********. ************* INC.)
+Stuff547(***********. ************* INC.)
+Stuff548(***********. ************* INC.)
+Stuff549(***********. ************* INC.)
+Stuff550(***********. ************* INC.)
+ストーリー００１０
+ストーリー００２０
+ストーリー１０１０
+ストーリー１０２０
+ストーリー１０３０
+ストーリー１０４０
+ストーリー２０１０
+ストーリー２０２０
+ストーリー２０３０
+ストーリー２０４０
+ストーリー２０５０
+ストーリー２０６０
+ストーリー３０１０
+ストーリー３０２０
+ストーリー３０３０
+ストーリー３０４０
+ストーリー３０５０
+ストーリー３０６０
+ストーリー４０１０
+ストーリー４０２０
+ストーリー４０３０
+ストーリー４０４０
+ストーリー５０１０
+ストーリー５０２０
+ストーリー５０３０
+ストーリー５０４０
+ストーリー３２１０
+ストーリー３２２０
+ストーリー３２３０
+ストーリー３２４０
+ストーリー３２５０
+ストーリー４１１０
+ストーリー４１２０
+ストーリー４１３０
+ストーリー５１１０
+ストーリー５１２０
+ストーリー２３１０
+ストーリー２３２０
+ストーリー３３２０
+ストーリー４３１０
+ストーリー４３２０
+ストーリー１３１０
+ストーリー５３１０
+ストーリー５３２０
+サブルート１４１０
+サブルート２４１０
+サブルート４５１０
+New Game
+Continue
+Settings
+Database
+Change Outfits/Music
+Press the START Button
+Select a recording file to use.
+Delete Recording File
+Delete this recording file?
+Begin a new campaign.
+Continue a campaign in progress.
+Adjust various game settings.
+View the weapons and characters that appear in the story.
+Change Zero's outfit, Mikhail's appearance, or the background music.
+Checking current data.{LF}Do not turn off your PlayStation®3 system.
+Recording {04}
+New Game
+Any unsaved progress will be lost.{LF}Return to the title screen?
+Deleting recording file.{LF}Do not turn off your PlayStation®3 system.
+Save data created by another user was loaded.{LF}This save data cannot be used.{LF}Overwrite this data and create new save data?
+No current save data found.{LF}The system will create new save data.
+Creating new save data.{LF}Do not turn off your PlayStation®3 system.
+New save data created.
+Overwriting save data.{LF}Do not turn off your PlayStation®3 system.
+Checking for valid downloadable content.{LF}Do not turn off your PlayStation®3 system.
+{06}>
+{06}>
+{06}>
+Controls: Evading
+Press {01}{0B} to evade in the direction you're facing.{LF}Use it while locked on to quickly get around your foes.
+Controls: Changing Weapons
+Press {01}{09} or {01}{0C} to open the weapons menu, then press{LF}the button that corresponds to the weapon you want to use.
+Zero's Weapons: Spears
+Spears not only pack power and have a long reach,{LF}they can also be used to break through the enemy's guard.
+Controls: Guarding
+Press {01}{02} to guard against enemy attacks. Guarding depletes stamina;{LF}if your Stamina Gauge hits 0, your guard will be broken.
+Zero's Weapons: Chakrams
+Chakrams are long-range weapons that are effective{LF}against airborne enemies and faraway foes.
+Controls: Intoner Mode
+Press {01}{0A} and {01}{0D} simultaneously to activate Intoner Mode.{LF}Press them again to end Intoner Mode.
+エネミー / 盾兵
+盾兵は、{01}{04}によるスキル攻撃によって、{LF}盾を破壊する事ができます。
+Treasure Chests
+Attack a chest to reveal the contents inside.{LF}Check the results screen at the end of the stage for more info.
+ミハイルの操作２
+ジャンプ中に{01}{01}で、飛翔モードとなります。{LF}{01}{02}で、モードを解除して地上に降りることができます。
+Controls: Basic Actions
+Use the left stick to move the targeting reticle.{LF}Press {01}{03} to breathe fire at the targeted location.
+Controls: Multi Lock-on
+Hold {01}{03} and use the left stick to lock on to multiple foes.{LF}Release {01}{03} to attack all targeted foes at once.
+Controls: Rolling

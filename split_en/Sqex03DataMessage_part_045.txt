@@ -1,0 +1,106 @@
+217{#Name="ゼロ"}
+If I'm the singularity Accord was talking about,{#Name="Zero"}
+then maybe I'm the one bringing this world to ruin.{#Name="Zero"}
+163{#Name="ゼロ"}
+I think it's time to talk to Accord face-to-face.{#Name="Zero"}
+379{#Name="アコール"}
+361{#Name="アコール"}
+289{#Name="アコール"}
+469{#Name="アコール"}
+523{#Name="アコール"}
+Weeell, ain't this a grand reception?{#Name="Zero"}
+This land fell into chaos after Lady Five's death.{#Name="Decadus"}
+Still, I'm surprised to see so much resistance.{#Name="Decadus"}
+Zero! Lemme burn that up so you can get through!{#Name="Mikhail"}
+Looks like we're here...{#Name="Zero"}
+Finish your search and leave the cottage?{#Name=" "}
+So if Accord's telling the truth about this "branch" stuff...{#Name="Zero"}
+Maybe there's a world where the flower doesn't appear.{#Name="Zero"}
+There's gotta be a hint or something that can lead me there...{#Name="Zero"}
+The arm I lost to One...{#Name="Zero"}
+If that's when the branch occurred, I'm already too late.{#Name="Zero"}
+181{#Name="ゼロ"}
+Could there really be a world without this flower?{#Name="Zero"}
+I wonder what I'm like over there? Or what my sisters are like.{LF}...Do I even HAVE sisters?{#Name="Zero"}
+Meh, no point dwelling on it.{#Name="Zero"}
+127{#Name="ゼロ"}
+Medicine...{#Name="Zero"}
+I managed to survive, but at what cost?{#Name="Zero"}
+My body is cursed now, and the stupid thing{LF}won't even let me die.{#Name="Zero"}
+All those guys who call me the accursed Intoner{LF}are more right than they know.{#Name="Zero"}
+217{#Name="ゼロ"}
+If I'm the singularity Accord was talking about,{#Name="Zero"}
+then maybe I'm the one bringing this world to ruin.{#Name="Zero"}
+Meh, no point dwelling on it.{#Name="Zero"}
+I think it's time to talk to Accord face-to-face.{#Name="Zero"}
+Sooo...if this is the end of this branch, then... Wait, what?{#Name="アコール"}
+Oh, gosh, I didn't lose a recording by accident, did I?{#Name="アコール"}
+And what happened to the branches between A and C?{#Name="アコール"}
+Ugh. If I screw this up, I'm gonna be in soooo much trouble...{#Name="アコール"}
+Okay, just breathe. Whew! For starters, let's check out recording M1410_E0002_FL...{#Name="アコール"}
+Soldier B
+Soldier C
+Soldier A
+Soldier D
+Soldier E
+Soldier F
+Soldier G
+Accord
+Zero
+セント
+オクタ
+ディト
+デカート
+Octa
+Decadus
+Dito
+Mikhail
+ゼロ
+Cent
+Dito{0A}Cent{0A}Octa{0A}Decadus
+説明文
+アコール
+ 
+ゼロッ！先に渡るための橋が落ちてるよ！{#Name="ミハイル"}
+チッ……ミハイルは先に行け！私は他の道を探してみる！{#Name="ゼロ"}
+ドラゴンだ！ゼロがっ……ゼロが攻めてきたぞ！{#Name="敵兵Ａ"}
+総員！持ち場につけっ！{#Name="敵兵Ｂ"}
+ここから……行けそうだな{#Name="ゼロ"}
+ゼロだ！ゼロが来たぞっ！{#Name="敵兵Ａ"}
+フォウ様の為にも！ここで食い止める！{#Name="敵兵Ｂ"}
+殺せ！裏切り者のゼロを殺すんだ！{#Name="敵兵Ａ"}
+フォウ様！私たちに力を……っ！{#Name="敵兵Ｂ"}
+{06}>{#Name="Zero"}
+Hmph.{#Name="Zero"}
+Zero!{#Name="Mikhail"}
+Hmm?{#Name="Zero"}
+{06}>{#Name="Zero"}
+{06}>{#Name="Zero"}
+{06}>{#Name="Zero"}
+Zero! Are you okay!?{#Name="Mikhail"}
+{06}>{#Name="Zero"}
+{06}>{#Name="Zero"}
+Holy shit...{#Name="Dito"}
+So...that's how an Intoner regenerates...?{#Name="Dito"}
+This can't end...until all of them are dead.{#Name="Zero"}
+It can't end.{#Name="Zero"}
+Zero...{#Name="Mikhail"}
+Break through the enemy's defenses.{#Name="説明文"}
+Defeat the enemy soldiers!{#Name="説明文"}
+Defeat the Cerberus!{#Name="説明文"}
+Defeat the Cerberus!{#Name="説明文"}
+She's here! The demon Intoner is here!{#Name="Soldier C"}
+Dammit. I knew she'd come. We all should've known!{#Name="Soldier D"}
+Dragon!{#Name="Soldier A"}
+An Intoner atop a dragon? This must be the end of the world!{#Name="Soldier F"}
+An Intoner atop a dragon? {LF}This must be the end of the world!{#Name="兵士B"}
+You could never understand what Lady Four means to us!{#Name="Soldier C"}
+虫ならまだいいんじゃないか？{#Name="兵士B"}
+We've gotta do everything we can here!{#Name="Soldier G"}
+Yeah, until the dragon stomps us into pudding...{#Name="Soldier E"}
+Lady Four is under siege!{#Name="Soldier G"}
+What can we possibly do...?{#Name="Soldier F"}
+不憫なウタヒメ様だよな{#Name="兵士B"}
+Wow, dragons are HUGE!{#Name="Soldier D"}
+Watch the tail! It'll kill you in a single blow!{#Name="Soldier C"}
+Save your breath! Here it comes!{#Name="Soldier A"}

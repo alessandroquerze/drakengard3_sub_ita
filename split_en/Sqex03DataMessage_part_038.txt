@@ -1,0 +1,106 @@
+Is Five anything like you, Zero?{#Name="Mikhail"}
+No.{#Name="Zero"}
+I'm gonna talk to her.{LF}Maybe then you won't have to fight.{#Name="Mikhail"}
+Whatever.{#Name="Zero"}
+'Cause if she's nothing like you, maybe she'll{LF}actually listen to me!{#Name="Mikhail"}
+That can-do attitude's gonna get you killed.{#Name="Zero"}
+What the hell? Is that a shop?{#Name="Zero"}
+Weapons...{#Name="Zero"}
+Heh. Mail order, huh? Well, whatever works.{#Name="Zero"}
+The gate's open!{#Name="Mikhail"}
+Let's head for the shrine.{#Name="Zero"}
+Take revenge on your sisters.{#Name="説明文"}
+Defeat the enemy soldiers!{#Name="説明文"}
+This is a story of six sisters{#Name="アコール"}
+in a world protected by the power of song:{#Name="アコール"}
+The Land of Seas...{#Name="アコール"}
+The Land of Mountains...{#Name="アコール"}
+The Land of Forests...{#Name="アコール"}
+The Land of Sands...{#Name="アコール"}
+And...the Cathedral City.{#Name="アコール"}
+But one of these sisters seeks to bring about the world's ruin,{#Name="アコール"}
+and she won't rest until all the others are dead.{#Name="アコール"}
+The traitorous Intoner is called Zero...{#Name="アコール"}
+And she has fled to the Land of Seas, where she heals ...And waits.{#Name="アコール"}
+{06}>{#Name="Mikhail"}
+{06}>{#Name="Mikhail"}
+KNOCK IT OFFFFFFFFFFF!{#Name="Zero"}
+{06}>{#Name="Mikhail"}
+How many times have I told you...{LF}DON'T ROLL AROUND IN THE FUCKING MUD!{#Name="Zero"}
+Take revenge on your sisters.{#Name=" "}
+Defeat the enemy soldiers!{#Name=" "}
+ダミー
+Mikhail
+Soldier B
+Soldier A
+Soldier G
+Soldier E
+Soldier C
+Soldier D
+Soldier F
+Zero
+ゼロ
+199
+325
+469
+361
+73
+60
+289
+379
+235
+説明文
+アコール
+ 
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+What the hell is that?{#Name="Zero"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+Make your way toward the Shrine of Seas.{#Name="説明文"}
+Defeat the enemy soldiers!{#Name="説明文"}
+Defeat the enemy soldiers!{#Name="説明文"}
+Defeat the Gigas!{#Name="説明文"}
+敵残り 4 体！{#Name="説明文"}
+Ah! Aaaah! She's gonna get me!{#Name="Soldier G"}
+Stand firm!{#Name="Soldier A"}
+We won't let her lay a finger on Lady Five!{#Name="Soldier B"}
+I'd like to lay somethin' on Lady Five...{#Name="Soldier E"}
+What the hell? An eye socket is no place to be growin' a flower!{#Name="Soldier C"}
+She gets points for originality...{#Name="Soldier D"}
+ダミー{#Name="ダミー"}
+I'll tear you apart!{#Name="Soldier B"}
+So war has come to the Land of Seas...{#Name="Soldier F"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+(Panicked, frightened breathing){#Name="Soldier G"}
+Try not to piss yourself, kid!{#Name="Soldier B"}
+If we fight bravely, we might get an audience with Lady Five!{#Name="Soldier C"}
+Ooh! And then we'll get to see them beautiful gams!{#Name="Soldier D"}
+Chaaaaaaaaaarge!{#Name="Soldiers C/D"}
+She's after our Intoner! Stop her, no matter what!{#Name="Soldier A"}
+Where are the damn reinforcements!?{#Name="Soldier E"}
+The d-dragon... The dragon is...{#Name="Soldier G"}
+I thought dragons didn't care about people! What's going on!?{#Name="Soldier C"}
+ {#Name="兵士C"}
+She's somehow able to control that dragon...{#Name="Soldier C"}
+Keep your sword up, fool! You want to die?{#Name="Soldier E"}
+I...I can't! I'm scared!{#Name="Soldier G"}
+You think the rest of us are ENJOYING this!?{#Name="Soldier E"}
+Where's Lady Five!?{#Name="Soldier B"}
+She's with Dito! She's safe!{#Name="Soldier A"}
+Bah! Why does she waste time with that pathetic kid?{#Name="Soldier B"}
+Our lives are sacrifice to our mighty Intoner!{#Name="Soldier A"}
+Raaaaaagh!{#Name="Soldier B"}
+Just once...before I died...I wanted to be with Lady Five...{#Name="Soldier B"}
+Damn you, Zero!{#Name="Soldier C"}
+We can't hold her! We need support!{#Name="Soldier D"}

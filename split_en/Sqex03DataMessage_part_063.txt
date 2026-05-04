@@ -1,0 +1,106 @@
+Aren't you embarrassed to be seen out in public?{#Name="Faerie"}
+"Oh boo hoo! We lost our dragon! We don't know where he is!"{#Name="Faerie"}
+And yet, he's waiting in the Valley of Faeries juuust ahead!{#Name="Faerie"}
+Well, have fun being lost like a bunch of stupi—{#Name="Faerie"}
+Right then. Off we go.{#Name="Zero"}
+After murdering Four,{#Name="199"}
+Zero flew off to her next destination—the Land of Forests.{#Name="289"}
+It was a place steeped in insanity, and the home of her sister, Three...{#Name="433"}
+All right, it's a new day, we've got a new ship—{LF}it's time to set sail and conquer the world!{#Name="Zero"}
+We did it! We got her!{#Name="Soldier A"}
+We've slain the demon!{#Name="Soldier B"}
+KA-BOOM! We did it! Intoner down! Intoner down!{LF}Did you see that? Nailed her right in the—{#Name="Soldier B"}
+Lady Three's gonna be overjoyed!{#Name="Soldier A"}
+Woo-hoo! Yeah, baby, YEAH! Ha ha ha ha!{#Name="Soldier A"}
+After all the trouble I went through to get that goddamn airship...{#Name="Zero"}
+I am gonna slice the shit out of every last one of you!{#Name="Zero"}
+説明文
+Soldier A
+Soldier B
+Soldier F
+Soldier E
+Soldier G
+Soldier D
+379
+Soldier C
+Zero
+Dito
+Decadus
+253
+ゼロ
+ディト
+235
+271
+415
+109
+217
+361
+Faerie
+199
+289
+433
+Break through the enemy's defenses.{#Name="説明文"}
+Defeat the Trolls!{#Name="説明文"}
+Defeat the Spirits!{#Name="説明文"}
+Cut the ivy and free Mikhail!{#Name="説明文"}
+テスト1{#Name="説明文"}
+テスト2{#Name="説明文"}
+テスト3{#Name="説明文"}
+It's Zero! Zero the damned!{#Name="Soldier A"}
+All men, take positions! Do not retreat!{#Name="Soldier B"}
+Lady Three must remain safe!{#Name="Soldier D"}
+She built me to serve her, and serve her I shall!{#Name="Soldier C"}
+Is this the cursed Intoner? She fights like a woman possessed!{#Name="Soldier E"}
+Help! Help! Help meee!{#Name="Soldier G"}
+Calm down!{#Name="Soldier F"}
+The forest is our home! Zero must be stopped!{#Name="Soldier A"}
+Yaaaaaah!{#Name="Soldier G"}
+Hide the wounded in the thickets!{#Name="Soldier B"}
+Hurry up, before she dices us to pieces!{#Name="Soldier C"}
+Nnnnngh! Ow! Ow, ow, owwww!{#Name="Soldier D"}
+We need to hide!{#Name="Soldier G"}
+No! I make my stand here!{#Name="Soldier F"}
+You're gonna DIE here if you don't run!{#Name="Soldier G"}
+I've lived long enough. If I'm gonna die, I'm dying for Lady Three!{#Name="Soldier F"}
+Chaaarge!{#Name="Soldier C"}
+Yeeeeah!{#Name="Soldier D"}
+Y-You go first!{#Name="Soldier C"}
+What? No way! YOU go first!{#Name="Soldier D"}
+I said it first!{#Name="Soldier C"}
+Don't run, you coward! Stand and fight!{#Name="Soldier B"}
+Are you kidding? What's the point!?{#Name="Soldier E"}
+We need more men! Zero will wipe us out otherwise!{#Name="Soldier B"}
+All the men in the world won't stop that from happening! I wanna live!{#Name="Soldier E"}
+Shut up, you damned idiot! Fight for Lady Three's sake!{#Name="Soldier B"}
+Don't fall out of formation!{#Name="Soldier A"}
+We're almost there!{#Name="Soldier B"}
+Second squad, assemble!{#Name="Soldier C"}
+Shit! They got past us!{#Name="Soldier D"}
+We've got to do this!{#Name="Soldier E"}
+Lady Three is with us!{#Name="Soldier F"}
+Help! Help me!{#Name="Soldier G"}
+{06}>{#Name="Faerie"}
+Who are you?{#Name="Zero"}
+Who, me? I'm a faerie! A wise and beautiful faerie!{#Name="Faerie"}
+You seen an ugly, smelly dragon around here?{#Name="Zero"}
+Ugly? But everyone who's not a faerie is ugly!{#Name="Faerie"}
+...Did you see him or not?{#Name="Zero"}
+Sure did! That stupid dragon is in a big ol' stupid mess{LF}juuust up ahead.{#Name="Faerie"}
+And geez, is he ever stupid! He's so stupid,{LF}he can't find his own tail with four paws and a map!{#Name="Faerie"}
+Right. I get it. Stupid. Like you.{#Name="Zero"}
+Yeah, stupid! Just like... Hey! Screw you, lady!{LF}Dirty little deviant trollop Intoner! You go to hell!{LF}You hear me!? You go to hell and you DIE!{#Name="Faerie"}
+Hum de dum de doooooo...{#Name="Faerie"}
+Well, lookie here! Goood morning, you{LF}slow-witted, brainless buffoons!{#Name="Faerie"}
+Not again. Where are these pests coming from?{#Name="Dito"}
+Hey! Pretty boy! You're gonna be seriously ugly when{LF}you finally grow up. Why don't you just kill yourself{LF}now and save us the trouble of looking at you?{#Name="Faerie"}
+Hey!{#Name="Dito"}
+Dito, leave it. She's not worth our time.{#Name="Decadus"}
+And you! Flower lady! Nice outfit! Was that a{LF}birthday present from your pimp, or what?{#Name="Faerie"}
+Talk about being an attention whore—sheesh!{LF}I guess it makes sense that an insecure loser like{LF}you would try to compensate by dressing like that.{#Name="Faerie"}
+Okay, that's it, fuckbag!{#Name="Zero"}
+Lady Zero, please calm yourself!{LF}This accomplishes nothing!{#Name="Decadus"}
+Ooo! Look at the big perv trying to play the voice{LF}of reason! We all know you pretend to like S&M{LF}because you're actually terrible in the sack.{#Name="Faerie"}
+Nnngh...{#Name="Decadus"}
+Hee hee! Poor ugly, pervy baby...{LF}Did I make you cry? Guess I win!{#Name="Faerie"}
+I swear, when we're done here, I'm gonna{LF}burn this goddamn forest to the ground.{#Name="Dito"}
+Zero! Help me! Help meee!{#Name="Mikhail"}

@@ -1,0 +1,105 @@
+If you're scared, we can totally turn back!{#Name="Mikhail"}
+Nope.{#Name="Zero"}
+By the way, why were you completely{LF}out of touch back in the desert?{#Name="Zero"}
+We were about to die of exhaustion out there.{#Name="Zero"}
+They were using a song to put up{LF}some kind of magic wall.{#Name="Mikhail"}
+I couldn't get in until you beat up the bad guys.{#Name="Mikhail"}
+But I made sure to do my business{LF}before I came for you!{#Name="Mikhail"}
+And I covered it in sand just like you taught me!{#Name="Mikhail"}
+That's good, right? That's really good!{#Name="Mikhail"}
+*Sigh*{#Name="Zero"}
+Hey, Zero? What's wrong with Two,{LF}anyway?{#Name="Mikhail"}
+She fought her own powers and lost.{#Name="Zero"}
+You need a strong mind to withstand{LF}the power of a song.{#Name="Zero"}
+She didn't have it.{#Name="Zero"}
+So she's just sick, right?{LF}Can we cure her? Huh? Can we?{#Name="Mikhail"}
+No. And besides, I'm trying to kill{LF}her here!{#Name="Zero"}
+Just one left, Zero!{#Name="Mikhail"}
+Yep. Let's finish this!{#Name="Zero"}
+Get 'em, Zero, get 'em!{#Name="Mikhail"}
+Me? You're the one who has to get 'em!{#Name="Zero"}
+Lady Two's angel... It's losing its armor...{#Name="Cent"}
+Yeah, 'cause we're attacking it!{#Name="Zero"}
+Oh, my. If it loses it all, this will be bad.{LF}Very, very bad...{#Name="Cent"}
+Don't relax yet, friends.{LF}This show is faaar from over!{#Name="Cent"}
+Zero, look! He's running away!{#Name="Mikhail"}
+Don't let 'em get away!{#Name="Zero"}
+Kill Two.{#Name=" "}
+Defeat the Egregori!{#Name=" "}
+エグリゴリを倒した！{#Name=" "}
+Cent
+Zero
+Two
+91
+Mikhail
+Soldier A
+Soldier B
+Soldier F
+Soldier C
+Soldier D
+Soldier G
+Soldier E
+オクタ
+ゼロ
+ディト
+ 
+Cross the moonlit desert.{#Name="説明文"}
+Defeat the enemy soldiers!{#Name="説明文"}
+Defeat the enemies blocking your way!{#Name="説明文"}
+Defeat the enemies blocking your way!{#Name="説明文"}
+Defeat the enemies blocking your way!{#Name="説明文"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+It's her! Zero's here!{#Name="Soldier A"}
+Attack! Attack!{#Name="Soldier B"}
+Uh...ah... Ahhhhhhh!{#Name="Soldier G"}
+The darkness is our ally, men! We know the lay of this land!{#Name="Soldier E"}
+We can't let anything happen to Lady Two!{#Name="Soldier C"}
+Right! We stop Zero here, no matter what!{#Name="Soldier D"}
+Dammit! Are these bastards immortal!?{#Name="Soldier F"}
+Get a medic over here! Mediiic!{#Name="Soldier B"}
+Who are we here to protect?{#Name="Soldier A"}
+Lady Two, sir!{#Name="Soldiers C/D"}
+And what is our ultimate mission?{#Name="Soldier A"}
+Victory, sir!{#Name="Soldiers C/D"}
+Forward! Get a move on!{#Name="Soldier A"}
+B-But sir, it's so c-cold...{#Name="Soldier G"}
+You call yourself a soldier, rookie!?{#Name="Soldier A"}
+Augh! It's colder than a brass tit out here!{#Name="Soldier D"}
+Hey, you've been injured! Just sit still, okay?{#Name="Soldier E"}
+Goddammit. I don't want to die in this darkness...{#Name="Soldier D"}
+For Lady Twooooo!{#Name="Soldier F"}
+I'm not gonna lose! I'm not gonna lose! I'm not gonna loooose! {#Name="Soldier G"}
+It's nicer here at night, huh?{#Name="Zero"}
+Yeah. I got sand everywhere though.{#Name="Dito"}
+Hard to believe it was so hot earlier.{#Name="Zero"}
+In my hair. In my cracks...{LF}Lots of sand in my cracks.{#Name="Dito"}
+Enough already! How about I bury you{LF}in your precious sand, huh?{#Name="Zero"}
+Lady Zero.{#Name="Decadus"}
+Yeah?{#Name="Zero"}
+Fighting can still dehydrate you,{LF}even at low temperatures.{#Name="Decadus"}
+Please be mindful of your health at all times.{#Name="Decadus"}
+Thanks for the tip.{#Name="Zero"}
+That said, my mouth is kinda dry.{LF}And my head hurts...{#Name="Zero"}
+Lady Zero, those are classic dehydration symptoms!{LF}You need water right away!{#Name="Decadus"}
+379{#Name="379"}
+181{#Name="181"}
+487{#Name="487"}
+379{#Name="379"}
+235{#Name="235"}
+199{#Name="199"}
+505{#Name="505"}
+307{#Name="307"}
+325{#Name="325"}
+91{#Name="91"}
+The hell is that?{#Name="Zero"}
+What the hell? Why am I so cold right now?{#Name="Zero"}
+I fear it's a hostile magic attack.{#Name="Octa"}
+One that saps your bodily energy.{#Name="Octa"}
+I thought we were done with crap like this.{#Name="Dito"}
+Let's use the enemy's fires{LF}to keep warm as we move.{#Name="Decadus"}
+First it's hot as hell, and now it's cold as balls.{#Name="Zero"}
+Perhaps a little game of bury the{LF}sandworm would warm you up!{#Name="Octa"}

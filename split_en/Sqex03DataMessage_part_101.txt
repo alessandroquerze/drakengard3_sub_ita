@@ -1,0 +1,105 @@
+you're out of your goddamn mind!{#Name="One"}
+Two, Three, Four, Five...{#Name="One"}
+You gave life to each and every one of them...{#Name="One"}
+Then you went and killed them all!{LF}What did you expect?{#Name="One"}
+Cursing the world...{#Name="One"}
+Then saving the world...{#Name="One"}
+You thought you could do everything by yourself?{LF}Well, THIS IS WHAT YOU FUCKING GET!{#Name="One"}
+Ugh... You're the one who should be erased, Zero!{#Name="One"}
+Shut up! Shut up, shut up, shut up, SHUT UP!{#Name="Zero"}
+You killed Mikhail...{#Name="Zero"}
+You killed Mikhaaail!{#Name="Zero"}
+Because he was your sword, Zero!{#Name="One"}
+You're a cursed Intoner!{LF}You're going to destroy the world!{#Name="One"}
+No! I'm... I'm...{#Name="Zero"}
+Diiiiiieeeeee!{#Name="One"}
+Aaaaaahhh!{#Name="Zero"}
+{06}>{#Name="One"}
+You're the...only one left...Zero...{#Name="One"}
+{06}>{#Name="One"}
+Where will you find a dragon...powerful enough to kill you...?{#Name="One"}
+Mikhail...{#Name="Zero"}
+199{#Name="199"}
+If you're not here...then who's gonna kill me?{#Name="Zero"}
+Stupid One... Who does she think I am?{#Name="Zero"}
+Idiot.{#Name="Zero"}
+I'll find a dragon somehow...{LF}There's...still time...{#Name="Zero"}
+{06}>{#Name="Zero"}
+Update{#Name="Accord"}
+The Intoner Zero completed her objective.{#Name="Accord"}
+However, the dragon Mikhail has died,{#Name="Accord"}
+and Zero's mental health is in a rather alarming state.{#Name="Accord"}
+I'm afraid there's little chance of finding a solution in this timeline.{#Name="Accord"}
+As such, I recommend sealing off this branch.{#Name="Accord"}
+M5120_E0945_FL: End Recording{#Name="Accord"}
+Ｃルートクリア{#Name=" "}
+サブルート解除{#Name=" "}
+Kill One.{#Name=" "}
+There's gotta be a magic core controlling them!{#Name="Zero"}
+I don't know what that means, Zero!{#Name="Mikhail"}
+It's probably hidden in their bodies.{LF}Try killing one of 'em!{#Name="Zero"}
+Dammit! It's not him.{#Name="Zero"}
+Here we go again...{#Name="Zero"}
+Huhhh? How come no core came out?{#Name="Mikhail"}
+No! Over there! That one's got it!{#Name="Zero"}
+Hey, did you see which one the core went into?{#Name="Zero"}
+Uh...maybe it's the right one? No, wait! Left?{#Name="Mikhail"}
+Ah, fuck it! Just destroy 'em all!{#Name="Zero"}
+Watch to see which guy has the core!{#Name="Zero"}
+If you get it wrong, we have to start over!{#Name="Zero"}
+Defeat Abdiel!{#Name=" "}
+Defeat One!{#Name=" "}
+I'm gonna hit my head if I fly around in here!{#Name="Mikhail"}
+Maybe that'll smarten you up a bit!{#Name="Zero"}
+That's mean, Zero! Look, I'm not flying in here! I'm not!{#Name="Mikhail"}
+Soldier A
+Soldier B
+Soldier C
+Soldier D
+Soldier E
+Soldier F
+Soldier G
+Zero
+Mikhail
+One
+199
+Accord
+ 
+Zero's arrived! Stop her now!{#Name="Soldier A"}
+Lady One's future is in our hands!{#Name="Soldier B"}
+Full speed ahead! We have to stop her!{#Name="Soldier C"}
+Requesting rear support!{#Name="Soldier D"}
+Don't give up! We're still in this!{#Name="Soldier E"}
+Enemy sighted! ...Damn, they're fast!{#Name="Soldier F"}
+I need backup!{#Name="Soldier G"}
+For Lady One!{#Name="Soldier A"}
+For Lady One!{#Name="Soldier A"}
+For Lady One!{#Name="Soldier A"}
+Who granted us salvation when all seemed lost!?{#Name="Soldier B"}
+Lady One!{#Name="Soldier G"}
+I'm going in! Cover me!{#Name="Soldier C"}
+Got it!{#Name="Soldier D"}
+We can't let them past here!{#Name="Soldier D"}
+Our combined might will be Lady One's salvation!{#Name="Soldier E"}
+What's that foul demon planning to do with our Lady One!?{#Name="Soldier E"}
+I hesitate to even think it! We must put a stop to her!{#Name="Soldier F"}
+Lady One will bring salvation to the world!{#Name="Soldier F"}
+All will bow the knee before Lady One's majesty!{#Name="Soldier B"}
+Please protect Lady One for us!{#Name="Soldier G"}
+Prayer alone won't cut it. Stand up and fight for your savior!{#Name="Soldier C"}
+Forward! Forwaaaaaard!{#Name="Soldier B"}
+Lady One needs our help!{#Name="Soldier A"}
+We have Lady One's blessing on our side!{#Name="Soldier E"}
+You're right! We can't lose now!{#Name="Soldier G"}
+Protect us! Guide us!{#Name="Soldier B"}
+The winds of victory are blowing!{#Name="Soldier D"}
+So this is One's home base, is it?{#Name="Zero"}
+I'm fine! Go get that guy! {#Name="Zero"}
+Right! Be careful, Zero! Be careful, okay?{#Name="Mikhail"}
+Stop repeating yourself!{#Name="Zero"}
+My name is Zero, the original Intoner, and the immortal—{#Name="Zero"}
+KNOCK IT OFF! I'm trying to make a speech here!{#Name="Zero"}
+Now... Uh...{#Name="Zero"}
+Oh for fuck's sake! Now I lost my place!{#Name="Zero"}
+Think you're ready for me!?{#Name="Soldier A"}
+Ha! That's so cute.{#Name="Zero"}

@@ -1,0 +1,3000 @@
+`I thought we were done with crap like this.{#Name="Dito"}`
+I thought we were done with crap like this.{#Name="Dito"}
+
+`Let's use the nemico's fires{LF}to keep warm as we move.{#Name="Decadus"}`
+Let's use the enemy's fires{LF}to keep warm as we move.{#Name="Decadus"}
+
+`First it's hot as hell, and now it's cold as balls.{#Name="Zero"}`
+First it's hot as hell, and now it's cold as balls.{#Name="Zero"}
+
+`Perhaps a little game of bury the{LF}sandworm would warm you up!{#Name="Octa"}`
+Perhaps a little game of bury the{LF}sandworm would warm you up!{#Name="Octa"}
+
+`Dear old Octa can heat your{LF}insides to the boiling point...{#Name="Octa"}`
+Dear old Octa can heat your{LF}insides to the boiling point...{#Name="Octa"}
+
+`I think your brain is boiling, old man.{#Name="Zero"}`
+I think your brain is boiling, old man.{#Name="Zero"}
+
+`S-So cold... C-Can't talk... T-Teeth chattery...{#Name="Dito"}`
+S-So cold... C-Can't talk... T-Teeth chattery...{#Name="Dito"}
+
+`You sure talk a lot for a guy{LF}who says he can't talk. {#Name="Zero"}`
+You sure talk a lot for a guy{LF}who says he can't talk. {#Name="Zero"}
+
+`Indeed!{#Name="Octa"}`
+Indeed!{#Name="Octa"}
+
+`Yes, do please be quiet.{#Name="Decadus"}`
+Yes, do please be quiet.{#Name="Decadus"}
+
+`Whatever, you fu—{#Name="Dito"}`
+Whatever, you fu—{#Name="Dito"}
+
+`You seem unfazed, Decadus. Aren't you cold?{#Name="Zero"}`
+You seem unfazed, Decadus. Aren't you cold?{#Name="Zero"}
+
+`I am, my lady. Cold and physically exhausted.{#Name="Decadus"}`
+I am, my lady. Cold and physically exhausted.{#Name="Decadus"}
+
+`Theeen why do you look so happy?{#Name="Zero"}`
+Theeen why do you look so happy?{#Name="Zero"}
+
+`You know why? 'Cause he's a freak{LF}who likes having his junk—{#Name="Dito"}`
+You know why? 'Cause he's a freak{LF}who likes having his junk—{#Name="Dito"}
+
+`Sorry, I didn't quite get that.{#Name="Zero"}`
+Sorry, I didn't quite get that.{#Name="Zero"}
+
+`Hiding my true desires from them...{LF}Such a devious game!{#Name="Decadus"}`
+Hiding my true desires from them...{LF}Such a devious game!{#Name="Decadus"}
+
+`You know, I'm actually not cold at tutti.{#Name="Cent"}`
+You know, I'm actually not cold at all.{#Name="Cent"}
+
+`This kind of cold simply isn't enough{LF}to affect a man of my caliber.{#Name="Cent"}`
+This kind of cold simply isn't enough{LF}to affect a man of my caliber.{#Name="Cent"}
+
+`So why's your nose runnin'{LF}like a fountain, then, huh?{#Name="Dito"}`
+So why's your nose runnin'{LF}like a fountain, then, huh?{#Name="Dito"}
+
+`Oh ho! I wager these sorcerers{LF}are the source of our cold snap!{#Name="Octa"}`
+Oh ho! I wager these sorcerers{LF}are the source of our cold snap!{#Name="Octa"}
+
+`Then let's go tear 'em a new one!{#Name="Zero"}`
+Then let's go tear 'em a new one!{#Name="Zero"}
+
+`然り{#Name="オクタ"}`
+然り{#Name="オクタ"}
+
+`ゼロ、殺っちゃえ！　殺っちゃえ！{#Name="ディト"}`
+ゼロ、殺っちゃえ！　殺っちゃえ！{#Name="ディト"}
+
+`ああ。さっさと済まそう{#Name="ゼロ"}`
+ああ。さっさと済まそう{#Name="ゼロ"}
+
+`Finalely down...{#Name="Zero"}`
+Finally down...{#Name="Zero"}
+
+`That should take care of this cold spell.{#Name="Octa"}`
+That should take care of this cold spell.{#Name="Octa"}
+
+`Ugh! I'm getting sick of this!{#Name="Zero"}`
+Ugh! I'm getting sick of this!{#Name="Zero"}
+
+`I surmise that spirits have taken{LF}control of these undead soldati.{#Name="Octa"}`
+I surmise that spirits have taken{LF}control of these undead soldiers.{#Name="Octa"}
+
+`There must be necromancers nearby.{#Name="Octa"}`
+There must be necromancers nearby.{#Name="Octa"}
+
+`This gets more annoying by the minute.{#Name="Zero"}`
+This gets more annoying by the minute.{#Name="Zero"}
+
+`This gets more annoying by the minute.{#Name="Zero"}`
+This gets more annoying by the minute.{#Name="Zero"}
+
+`What are you standing around for!? Kill 'em!{#Name="Zero"}`
+What are you standing around for!? Kill 'em!{#Name="Zero"}
+
+`Tutti these temperature fluxes{LF}are messin' with my health...{#Name="Dito"}`
+All these temperature fluxes{LF}are messin' with my health...{#Name="Dito"}
+
+`I'LL mess with your health if you don't get moving!{#Name="Zero"}`
+I'LL mess with your health if you don't get moving!{#Name="Zero"}
+
+`I'm fighting! I'm totally fighting! Watch me go!{#Name="Dito"}`
+I'm fighting! I'm totally fighting! Watch me go!{#Name="Dito"}
+
+`What's tutti the fuss about, Octa?{#Name="Zero"}`
+What's all the fuss about, Octa?{#Name="Zero"}
+
+`Hmm? I don't know of any fuss?{#Name="Octa"}`
+Hmm? I don't know of any fuss?{#Name="Octa"}
+
+`Oh, you don't, do you?{#Name="Zero"}`
+Oh, you don't, do you?{#Name="Zero"}
+
+`Then what's with the sudden{LF}broom handle in your pants?{#Name="Zero"}`
+Then what's with the sudden{LF}broom handle in your pants?{#Name="Zero"}
+
+`Oh ho! You discovered my secret, did you!?{#Name="Octa"}`
+Oh ho! You discovered my secret, did you!?{#Name="Octa"}
+
+`I was just engaging in some{LF}dirty thoughts while fighting.{#Name="Octa"}`
+I was just engaging in some{LF}dirty thoughts while fighting.{#Name="Octa"}
+
+`Well, knock it off and concentrate already!{#Name="Zero"}`
+Well, knock it off and concentrate already!{#Name="Zero"}
+
+`Forced to fight even after death.{LF}Such a horrid fate.{#Name="Decadus"}`
+Forced to fight even after death.{LF}Such a horrid fate.{#Name="Decadus"}
+
+`Really? I'd think you'd be into that sort of thing.{#Name="Dito"}`
+Really? I'd think you'd be into that sort of thing.{#Name="Dito"}
+
+`Think about it! Zero could keep kicking and{LF}punching and slicing you even AFTER you die!{#Name="Dito"}`
+Think about it! Zero could keep kicking and{LF}punching and slicing you even AFTER you die!{#Name="Dito"}
+
+`Even...after I die? Unnngh...{#Name="Decadus"}`
+Even...after I die? Unnngh...{#Name="Decadus"}
+
+`You know, I could take these foes down{LF}with a single thumb. A single thumb!{#Name="Cent"}`
+You know, I could take these foes down{LF}with a single thumb. A single thumb!{#Name="Cent"}
+
+`Buuut I won't. That would just spoil the fun. {#Name="Cent"}`
+Buuut I won't. That would just spoil the fun. {#Name="Cent"}
+
+`If you can do it, then do it already!{#Name="Zero"}`
+If you can do it, then do it already!{#Name="Zero"}
+
+`Nngh...rrgh...{#Name="Mikhail"}`
+Nngh...rrgh...{#Name="Mikhail"}
+
+`What's wrong? You cold?{#Name="Zero"}`
+What's wrong? You cold?{#Name="Zero"}
+
+`I...I don't know.{#Name="Mikhail"}`
+I...I don't know.{#Name="Mikhail"}
+
+`He does not seem to be in the best of health.{#Name="Decadus"}`
+He does not seem to be in the best of health.{#Name="Decadus"}
+
+`Why's everybody worried about that big crybaby?{#Name="Dito"}`
+Why's everybody worried about that big crybaby?{#Name="Dito"}
+
+`I'm a hell of a lot worse off than him right now!{#Name="Dito"}`
+I'm a hell of a lot worse off than him right now!{#Name="Dito"}
+
+`It's purely a matter of character, I'd say.{#Name="Octa"}`
+It's purely a matter of character, I'd say.{#Name="Octa"}
+
+`Indeed. Mikhail has a charming{LF}innocence about him. You...do not.{#Name="Decadus"}`
+Indeed. Mikhail has a charming{LF}innocence about him. You...do not.{#Name="Decadus"}
+
+`Oh, for hell's sake! He can't{LF}even tell if he's cold or not!{#Name="Dito"}`
+Oh, for hell's sake! He can't{LF}even tell if he's cold or not!{#Name="Dito"}
+
+`That dumb lizard's gonna be just fine.{#Name="Dito"}`
+That dumb lizard's gonna be just fine.{#Name="Dito"}
+
+`How many times do we have to go through this!?{#Name="Zero"}`
+How many times do we have to go through this!?{#Name="Zero"}
+
+`Over and OVER again... I'm sick of it!{#Name="Zero"}`
+Over and OVER again... I'm sick of it!{#Name="Zero"}
+
+`Zero? Hey, Zero! I think I feel cold, Zero!{#Name="Mikhail"}`
+Zero? Hey, Zero! I think I feel cold, Zero!{#Name="Mikhail"}
+
+`Really? I'm surprised you feel anything{LF}through that thick head of yours.{#Name="Zero"}`
+Really? I'm surprised you feel anything{LF}through that thick head of yours.{#Name="Zero"}
+
+`Trivia time! Did you know ice baths{LF}actually warm you up if—{#Name="Cent"}`
+Trivia time! Did you know ice baths{LF}actually warm you up if—{#Name="Cent"}
+
+`Shut up, Cent.{#Name="Dito"}`
+Shut up, Cent.{#Name="Dito"}
+
+`Why don't we retreat for a bit so we can recover?{#Name="Octa"}`
+Why don't we retreat for a bit so we can recover?{#Name="Octa"}
+
+`I'm not sure...we can...{#Name="Mikhail"}`
+I'm not sure...we can...{#Name="Mikhail"}
+
+`Ooof. It does seem this area is{LF}enclosed by magical power...{#Name="Octa"}`
+Ooof. It does seem this area is{LF}enclosed by magical power...{#Name="Octa"}
+
+`That must be what's holding in the cold.{#Name="Decadus"}`
+That must be what's holding in the cold.{#Name="Decadus"}
+
+`Goddammit. I'll kill every{LF}last sorcerer around here!{#Name="Zero"}`
+Goddammit. I'll kill every{LF}last sorcerer around here!{#Name="Zero"}
+
+`Zero...{#Name="Mikhail"}`
+Zero...{#Name="Mikhail"}
+
+`It's tutti right. This won't take long.{#Name="Zero"}`
+It's all right. This won't take long.{#Name="Zero"}
+
+`くっ……くくく。{#Name="ゼロ"}`
+くっ……くくく。{#Name="ゼロ"}
+
+`We're gonna kill every asshole{LF}who played a part in this.{#Name="Zero"}`
+We're gonna kill every asshole{LF}who played a part in this.{#Name="Zero"}
+
+`Sorcerers... Soldati... Intoners... Everyone.{#Name="Zero"}`
+Sorcerers... Soldiers... Intoners... Everyone.{#Name="Zero"}
+
+`If they run, they die.{LF}If they surrender, they still die!{#Name="Zero"}`
+If they run, they die.{LF}If they surrender, they still die!{#Name="Zero"}
+
+`We're gonna paint the walls with their blood!{#Name="Zero"}`
+We're gonna paint the walls with their blood!{#Name="Zero"}
+
+`487{#Name="487"}`
+487{#Name="487"}
+
+`I've had enough of you jackasses{LF}and your stupid magic circles!{#Name="Zero"}`
+I've had enough of you jackasses{LF}and your stupid magic circles!{#Name="Zero"}
+
+`Go ahead and run! You're tutti gonna die either way!{#Name="Zero"}`
+Go ahead and run! You're all gonna die either way!{#Name="Zero"}
+
+`GYAAAAAAAAAH!{#Name="Zero"}`
+GYAAAAAAAAAH!{#Name="Zero"}
+
+`Good heavens! What an oafish{LF}display of aggression!{#Name="Cent"}`
+Good heavens! What an oafish{LF}display of aggression!{#Name="Cent"}
+
+`My lady, perhaps we could let the fleeing{LF}enemies go? They are no danger to us.{#Name="Decadus"}`
+My lady, perhaps we could let the fleeing{LF}enemies go? They are no danger to us.{#Name="Decadus"}
+
+`No can do.{#Name="Zero"}`
+No can do.{#Name="Zero"}
+
+`My lady, perhaps we could let the fleeing{LF}enemies go? They are no danger to us.{#Name="Decadus"}`
+My lady, perhaps we could let the fleeing{LF}enemies go? They are no danger to us.{#Name="Decadus"}
+
+`No can do.{#Name="Zero"}`
+No can do.{#Name="Zero"}
+
+`541{#Name="541"}`
+541{#Name="541"}
+
+`Hurry up and die! I'm in a rush here!{#Name="Zero"}`
+Hurry up and die! I'm in a rush here!{#Name="Zero"}
+
+`You sons of bitches just don't know when to quit.{#Name="Zero"}`
+You sons of bitches just don't know when to quit.{#Name="Zero"}
+
+`The cold? The heat? The sand?{LF}It's tutti your fuckin' fault!{#Name="Zero"}`
+The cold? The heat? The sand?{LF}It's all your fuckin' fault!{#Name="Zero"}
+
+`I don't think they're responsible{LF}for the SAND, actually...{#Name="Dito"}`
+I don't think they're responsible{LF}for the SAND, actually...{#Name="Dito"}
+
+`Hey, we're tutti good now. Okay?{#Name="Zero"}`
+Hey, we're all good now. Okay?{#Name="Zero"}
+
+`Okay...{#Name="Mikhail"}`
+Okay...{#Name="Mikhail"}
+
+`{06}>{#Name="Mikhail"}`
+{06}>{#Name="Mikhail"}
+
+`What's wrong?{#Name="Zero"}`
+What's wrong?{#Name="Zero"}
+
+`{06}>{#Name="Mikhail"}`
+{06}>{#Name="Mikhail"}
+
+`What the hell is this?{#Name="Zero"}`
+What the hell is this?{#Name="Zero"}
+
+`Divergence: Branch C{#Name="Accord"}`
+Divergence: Branch C{#Name="Accord"}
+
+`April the 13th, 1000 A.D.{#Name="Accord"}`
+April the 13th, 1000 A.D.{#Name="Accord"}
+
+`I've observed an extremely worrisome branch.{#Name="Accord"}`
+I've observed an extremely worrisome branch.{#Name="Accord"}
+
+`When the singularity known as Two captured the dragon Mikhail,{#Name="Accord"}`
+When the singularity known as Two captured the dragon Mikhail,{#Name="Accord"}
+
+`I detected her imposing some kind of magical influence upon him.{#Name="Accord"}`
+I detected her imposing some kind of magical influence upon him.{#Name="Accord"}
+
+`Fino now, only Zero could enact such influence.{LF}This is the first known exception,{#Name="Accord"}`
+Until now, only Zero could enact such influence.{LF}This is the first known exception,{#Name="Accord"}
+
+`and as such, increases the likelihood{LF}of an unforeseen accident occurring.{#Name="Accord"}`
+and as such, increases the likelihood{LF}of an unforeseen accident occurring.{#Name="Accord"}
+
+`This matter must be prioritized for careful observation.{#Name="Accord"}`
+This matter must be prioritized for careful observation.{#Name="Accord"}
+
+`M4110_E0020_DM: Begin Recording{#Name="Accord"}`
+M4110_E0020_DM: Begin Recording{#Name="Accord"}
+
+`487{#Name="487"}`
+487{#Name="487"}
+
+`Here they are. The root of tutti this evil.{#Name="Zero"}`
+Here they are. The root of all this evil.{#Name="Zero"}
+
+`"The root of tutti this evil?"{LF}Seriously, Z. Who talks like that?{#Name="Dito"}`
+"The root of all this evil?"{LF}Seriously, Z. Who talks like that?{#Name="Dito"}
+
+`Shut up and fight!{#Name="Zero"}`
+Shut up and fight!{#Name="Zero"}
+
+`487{#Name="487"}`
+487{#Name="487"}
+
+`I've had enough of you jackasses{LF}and your stupid magic circles!{#Name="Zero"}`
+I've had enough of you jackasses{LF}and your stupid magic circles!{#Name="Zero"}
+
+`Go ahead and run! You're tutti gonna die either way!{#Name="Zero"}`
+Go ahead and run! You're all gonna die either way!{#Name="Zero"}
+
+`寒すぎる！　クソ！　死ね！{#Name="ゼロ"}`
+寒すぎる！　クソ！　死ね！{#Name="ゼロ"}
+
+`説明文`
+説明文
+
+`（リザーブ）`
+（リザーブ）
+
+`Soldier A`
+Soldier A
+
+`Soldier B`
+Soldier B
+
+`Soldier G`
+Soldier G
+
+`Soldier E`
+Soldier E
+
+`Soldier C`
+Soldier C
+
+`Soldier D`
+Soldier D
+
+`Soldier F`
+Soldier F
+
+`Soldati C/D`
+Soldiers C/D
+
+`Zero`
+Zero
+
+`Dito`
+Dito
+
+`Decadus`
+Decadus
+
+`379`
+379
+
+`181`
+181
+
+`487`
+487
+
+`235`
+235
+
+`199`
+199
+
+`505`
+505
+
+`307`
+307
+
+`325`
+325
+
+`91`
+91
+
+`Octa`
+Octa
+
+`Cent`
+Cent
+
+`オクタ`
+オクタ
+
+`ディト`
+ディト
+
+`ゼロ`
+ゼロ
+
+`Mikhail`
+Mikhail
+
+`541`
+541
+
+`Accord`
+Accord
+
+`Proceed through the underground ruins.{#Name="説明文"}`
+Proceed through the underground ruins.{#Name="説明文"}
+
+`Defeat the Brute Trolls!{#Name="説明文"}`
+Defeat the Brute Trolls!{#Name="説明文"}
+
+`Defeat the Golems!{#Name="説明文"}`
+Defeat the Golems!{#Name="説明文"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`It's Zero! Damn her to hell!{#Name="Soldier A"}`
+It's Zero! Damn her to hell!{#Name="Soldier A"}
+
+`She's horrifying! Nothing like our Lady Two!{#Name="Soldier F"}`
+She's horrifying! Nothing like our Lady Two!{#Name="Soldier F"}
+
+`There she is! Tutti men, take positions!{#Name="Soldier B"}`
+There she is! All men, take positions!{#Name="Soldier B"}
+
+`I will gladly sacrifice myself for the sake of Lady Two!{#Name="Soldier C"}`
+I will gladly sacrifice myself for the sake of Lady Two!{#Name="Soldier C"}
+
+`Me to—er, as well!{#Name="Soldier D"}`
+Me to—er, as well!{#Name="Soldier D"}
+
+`We can't let her get anywhere near Lady Two!{#Name="Soldier E"}`
+We can't let her get anywhere near Lady Two!{#Name="Soldier E"}
+
+`Lady Two must never be befouled!{#Name="Soldier E"}`
+Lady Two must never be befouled!{#Name="Soldier E"}
+
+`Send word a threat approaches! Lady Two is in danger!{#Name="Soldier A"}`
+Send word a threat approaches! Lady Two is in danger!{#Name="Soldier A"}
+
+`595{#Name="595"}`
+595{#Name="595"}
+
+`Give me 125 percent! You'll need it tutti against this devil!{#Name="Soldier C"}`
+Give me 125 percent! You'll need it all against this devil!{#Name="Soldier C"}
+
+`Zero is... She's terrifying!{#Name="Soldier F"}`
+Zero is... She's terrifying!{#Name="Soldier F"}
+
+`I want a world where Lady Two can always be happy!{#Name="Soldier G"}`
+I want a world where Lady Two can always be happy!{#Name="Soldier G"}
+
+`Stop the demon here and now!{#Name="Soldier E"}`
+Stop the demon here and now!{#Name="Soldier E"}
+
+`The time is now! Remember your training, men!{#Name="Soldier F"}`
+The time is now! Remember your training, men!{#Name="Soldier F"}
+
+`Lady Two watches over us! I'm sure of it!{#Name="Soldier D"}`
+Lady Two watches over us! I'm sure of it!{#Name="Soldier D"}
+
+`Open a path! We're carrying wounded here!{#Name="Soldier A"}`
+Open a path! We're carrying wounded here!{#Name="Soldier A"}
+
+`I'm not dead yet... But I'll take you to hell with me!{#Name="Soldier B"}`
+I'm not dead yet... But I'll take you to hell with me!{#Name="Soldier B"}
+
+`Our sacrifice here will ensure Lady Two lives on!{#Name="Soldier E"}`
+Our sacrifice here will ensure Lady Two lives on!{#Name="Soldier E"}
+
+`It's the end of the world... We've tutti gone mad!{#Name="Soldier F"}`
+It's the end of the world... We've all gone mad!{#Name="Soldier F"}
+
+`How can this demon be an Intoner!?{#Name="Soldier E"}`
+How can this demon be an Intoner!?{#Name="Soldier E"}
+
+`A...a false Intoner!?{#Name="Soldier C"}`
+A...a false Intoner!?{#Name="Soldier C"}
+
+`Who knows! Just be careful!{#Name="Soldier E"}`
+Who knows! Just be careful!{#Name="Soldier E"}
+
+`That woman is a disgrace to Lady Two and everything she stands for!{#Name="Soldier E"}`
+That woman is a disgrace to Lady Two and everything she stands for!{#Name="Soldier E"}
+
+`We'll be fine so long as Lady Two is with us!{#Name="Soldier G"}`
+We'll be fine so long as Lady Two is with us!{#Name="Soldier G"}
+
+`Actually, some equipment might help!{#Name="Soldier E"}`
+Actually, some equipment might help!{#Name="Soldier E"}
+
+`Believe in Lady Two, and you will feel no fear!{#Name="Soldier G"}`
+Believe in Lady Two, and you will feel no fear!{#Name="Soldier G"}
+
+`Surely Lady Two hasn't forsaken us, has she?{#Name="Soldier B"}`
+Surely Lady Two hasn't forsaken us, has she?{#Name="Soldier B"}
+
+`Don't be ridiculous!{#Name="Soldier A"}`
+Don't be ridiculous!{#Name="Soldier A"}
+
+`Our perfect goddess would never betray us! ...Not like some of the girls I know, anyway!{#Name="Soldier A"}`
+Our perfect goddess would never betray us! ...Not like some of the girls I know, anyway!{#Name="Soldier A"}
+
+`Look out! It's Zero!{#Name="Soldier B"}`
+Look out! It's Zero!{#Name="Soldier B"}
+
+`To think an Intoner could be so vile!{#Name="Soldier F"}`
+To think an Intoner could be so vile!{#Name="Soldier F"}
+
+`No retreat! How would we ever face Lady Two!?{#Name="Soldier C"}`
+No retreat! How would we ever face Lady Two!?{#Name="Soldier C"}
+
+`Dammit! You're going down!{#Name="Soldier D"}`
+Dammit! You're going down!{#Name="Soldier D"}
+
+`Don't worry about positioning! Just fight!{#Name="Soldier E"}`
+Don't worry about positioning! Just fight!{#Name="Soldier E"}
+
+`Tutti men, forward! Fight for your very lives!{#Name="Soldier A"}`
+All men, forward! Fight for your very lives!{#Name="Soldier A"}
+
+`Yaaahhhhh!{#Name="Soldier G"}`
+Yaaahhhhh!{#Name="Soldier G"}
+
+`Dammit! Where the hell is Two!?{#Name="Zero"}`
+Dammit! Where the hell is Two!?{#Name="Zero"}
+
+`Easy, Z. It ain't like they're just{LF}gonna hand her over to us.{#Name="Dito"}`
+Easy, Z. It ain't like they're just{LF}gonna hand her over to us.{#Name="Dito"}
+
+`Then we're just gonna have to take her!{#Name="Zero"}`
+Then we're just gonna have to take her!{#Name="Zero"}
+
+`Lady Zero, I'm sensing something from Mikhail.{#Name="Decadus"}`
+Lady Zero, I'm sensing something from Mikhail.{#Name="Decadus"}
+
+`Crap. Did he keel over already?{#Name="Zero"}`
+Crap. Did he keel over already?{#Name="Zero"}
+
+`No, but he is struggling.{LF}I fear he is near his limit.{#Name="Decadus"}`
+No, but he is struggling.{LF}I fear he is near his limit.{#Name="Decadus"}
+
+`Cent!{#Name="Zero"}`
+Cent!{#Name="Zero"}
+
+`Yeees?{#Name="Cent"}`
+Yeees?{#Name="Cent"}
+
+`I need you to think, okay?{LF}Where's Two? What's her weakness?{#Name="Zero"}`
+I need you to think, okay?{LF}Where's Two? What's her weakness?{#Name="Zero"}
+
+`You've gotta know something. Come on! Chop chop!{#Name="Zero"}`
+You've gotta know something. Come on! Chop chop!{#Name="Zero"}
+
+`Give me a moment, will you?{#Name="Cent"}`
+Give me a moment, will you?{#Name="Cent"}
+
+`Even someone with a massive brain like me{LF}needs time to process things, you know?{#Name="Cent"}`
+Even someone with a massive brain like me{LF}needs time to process things, you know?{#Name="Cent"}
+
+`You've got two seconds.{LF}After that, I start kicking balls.{#Name="Zero"}`
+You've got two seconds.{LF}After that, I start kicking balls.{#Name="Zero"}
+
+`These foes are quite stubborn, hmm?{LF}We must hurry.{#Name="Octa"}`
+These foes are quite stubborn, hmm?{LF}We must hurry.{#Name="Octa"}
+
+`I wish I could burn these ruins{LF}and everyone in them.{#Name="Zero"}`
+I wish I could burn these ruins{LF}and everyone in them.{#Name="Zero"}
+
+`Oh ho ho! Always so impulsive...{#Name="Octa"}`
+Oh ho ho! Always so impulsive...{#Name="Octa"}
+
+`Still, I understand. You must be{LF}worried for your dragon.{#Name="Octa"}`
+Still, I understand. You must be{LF}worried for your dragon.{#Name="Octa"}
+
+`I am no such thing!{#Name="Zero"}`
+I am no such thing!{#Name="Zero"}
+
+`You gonna be okay, Z?{#Name="Dito"}`
+You gonna be okay, Z?{#Name="Dito"}
+
+`What's that supposed to mean?{#Name="Zero"}`
+What's that supposed to mean?{#Name="Zero"}
+
+`Nothing! It's just...I know how you feel{LF}about these types of situations...{#Name="Dito"}`
+Nothing! It's just...I know how you feel{LF}about these types of situations...{#Name="Dito"}
+
+`I'm fine.{#Name="Zero"}`
+I'm fine.{#Name="Zero"}
+
+`Here we go again...{#Name="Cent"}`
+Here we go again...{#Name="Cent"}
+
+`This may not be the wisest course of action...{#Name="Octa"}`
+This may not be the wisest course of action...{#Name="Octa"}
+
+`Relax. I got this.{#Name="Zero"}`
+Relax. I got this.{#Name="Zero"}
+
+`Please reconsider, my lady.{LF}None would think lesser of you.{#Name="Decadus"}`
+Please reconsider, my lady.{LF}None would think lesser of you.{#Name="Decadus"}
+
+`Enough already!{#Name="Zero"}`
+Enough already!{#Name="Zero"}
+
+`I said I got this! What kind of an{LF}idiot do you take me for!?{#Name="Zero"}`
+I said I got this! What kind of an{LF}idiot do you take me for!?{#Name="Zero"}
+
+`Watch and learn, chumps!{#Name="Zero"}`
+Watch and learn, chumps!{#Name="Zero"}
+
+`...Don't say a word.{#Name="Zero"}`
+...Don't say a word.{#Name="Zero"}
+
+`Oh, I wasn't gonna.{#Name="Dito"}`
+Oh, I wasn't gonna.{#Name="Dito"}
+
+`No "I told you so"...{LF}No "Look how stupid you are"...{#Name="Dito"}`
+No "I told you so"...{LF}No "Look how stupid you are"...{#Name="Dito"}
+
+`Nope! My lips are sealed.{#Name="Dito"}`
+Nope! My lips are sealed.{#Name="Dito"}
+
+`Your lips'll be torn off if you don't shut it.{#Name="Zero"}`
+Your lips'll be torn off if you don't shut it.{#Name="Zero"}
+
+`Finalely! This is more my style.{#Name="Zero"}`
+Finally! This is more my style.{#Name="Zero"}
+
+`Tutti that jumpin' around was driving me crazy.{#Name="Zero"}`
+All that jumpin' around was driving me crazy.{#Name="Zero"}
+
+`I'm a lot better at slashing people to death. {#Name="Zero"}`
+I'm a lot better at slashing people to death. {#Name="Zero"}
+
+`なるほど、性に合ってますな。たしかに{#Name="オクタ"}`
+なるほど、性に合ってますな。たしかに{#Name="オクタ"}
+
+`The city is Lady Two's fortress!{LF}It must be protected at tutti costs!{#Name="Soldier B"}`
+The city is Lady Two's fortress!{LF}It must be protected at all costs!{#Name="Soldier B"}
+
+`Hee hee hee hee hee! Lady Two... I see her!{#Name="Soldier G"}`
+Hee hee hee hee hee! Lady Two... I see her!{#Name="Soldier G"}
+
+`Snap out of it! You're hallucinating!{#Name="Soldier F"}`
+Snap out of it! You're hallucinating!{#Name="Soldier F"}
+
+`The unclean must never be allowed{LF}to set foot in the Città Cattedrale!{#Name="Soldier A"}`
+The unclean must never be allowed{LF}to set foot in the Cathedral City!{#Name="Soldier A"}
+
+`Indeed! How dare Zero put herself{LF}on equal footing with Lady Two!{#Name="Soldier E"}`
+Indeed! How dare Zero put herself{LF}on equal footing with Lady Two!{#Name="Soldier E"}
+
+`As long as Lady Two is there for me,{LF}I desire nothing else!{#Name="Soldier C"}`
+As long as Lady Two is there for me,{LF}I desire nothing else!{#Name="Soldier C"}
+
+`Bow before Lady Two, false Intoner!{#Name="Soldier D"}`
+Bow before Lady Two, false Intoner!{#Name="Soldier D"}
+
+`Fight for Lady Two!{LF}Our leader is the savior of tutti mankind!{#Name="Soldier A"}`
+Fight for Lady Two!{LF}Our leader is the savior of all mankind!{#Name="Soldier A"}
+
+`You! Where's your equipment?{#Name="Soldier F"}`
+You! Where's your equipment?{#Name="Soldier F"}
+
+`Fear not! Lady Two is my sword!{LF}Lady Two is my shield!{#Name="Soldier G"}`
+Fear not! Lady Two is my sword!{LF}Lady Two is my shield!{#Name="Soldier G"}
+
+`The winds of Lady Two shall blow{LF}like a righteous hurricane!{#Name="Soldier G"}`
+The winds of Lady Two shall blow{LF}like a righteous hurricane!{#Name="Soldier G"}
+
+`These guys are fuckin' weird.{#Name="Zero"}`
+These guys are fuckin' weird.{#Name="Zero"}
+
+`You said it.{#Name="Cent"}`
+You said it.{#Name="Cent"}
+
+`'Course, who am I to talk? Look at you guys.{#Name="Zero"}`
+'Course, who am I to talk? Look at you guys.{#Name="Zero"}
+
+`Keep your equipment, men! Stay in formation!{#Name="Soldier B"}`
+Keep your equipment, men! Stay in formation!{#Name="Soldier B"}
+
+`Man down! Man down over here!{#Name="Soldier C"}`
+Man down! Man down over here!{#Name="Soldier C"}
+
+`The moment of judgment is here!{LF}Lady Two sees and knows tutti!{#Name="Soldier E"}`
+The moment of judgment is here!{LF}Lady Two sees and knows all!{#Name="Soldier E"}
+
+`Look out! Wounded soldier here!{#Name="Soldier C"}`
+Look out! Wounded soldier here!{#Name="Soldier C"}
+
+`Okay. This is a bit creepy.{#Name="Zero"}`
+Okay. This is a bit creepy.{#Name="Zero"}
+
+`Yeah. They're turning into a bunch of fanatics.{#Name="Dito"}`
+Yeah. They're turning into a bunch of fanatics.{#Name="Dito"}
+
+`A person's belief system can often{LF}push them over the brink.{#Name="Octa"}`
+A person's belief system can often{LF}push them over the brink.{#Name="Octa"}
+
+`These foes are quite stubborn, hmm?{LF}We must hurry.{#Name="Octa"}`
+These foes are quite stubborn, hmm?{LF}We must hurry.{#Name="Octa"}
+
+`I wish I could burn these ruins{LF}and everyone in them.{#Name="Zero"}`
+I wish I could burn these ruins{LF}and everyone in them.{#Name="Zero"}
+
+`Oh ho ho! Always so impulsive...{#Name="Octa"}`
+Oh ho ho! Always so impulsive...{#Name="Octa"}
+
+`Still, I understand. You must be{LF}worried for your dragon.{#Name="Octa"}`
+Still, I understand. You must be{LF}worried for your dragon.{#Name="Octa"}
+
+`I am no such thing!{#Name="Zero"}`
+I am no such thing!{#Name="Zero"}
+
+`ここにもオカシイ奴がいたか{#Name="ゼロ"}`
+ここにもオカシイ奴がいたか{#Name="ゼロ"}
+
+`トウは居なかったな……{#Name=" "}`
+トウは居なかったな……{#Name=" "}
+
+`Is that the path to the exit?{#Name="Zero"}`
+Is that the path to the exit?{#Name="Zero"}
+
+`I suppose that means Lady Two{LF}was never here at tutti.{#Name="Decadus"}`
+I suppose that means Lady Two{LF}was never here at all.{#Name="Decadus"}
+
+`Yet we've heard the soldati speak{LF}of the Città Cattedrale many times.{#Name="Octa"}`
+Yet we've heard the soldiers speak{LF}of the Cathedral City many times.{#Name="Octa"}
+
+`Città Cattedrale... That must be where One is.{#Name="Zero"}`
+Cathedral City... That must be where One is.{#Name="Zero"}
+
+`469{#Name="469"}`
+469{#Name="469"}
+
+`577{#Name="577"}`
+577{#Name="577"}
+
+`Then let's head to the Città Cattedrale.{#Name="Zero"}`
+Then let's head to the Cathedral City.{#Name="Zero"}
+
+`説明文`
+説明文
+
+`（リザーブ）`
+（リザーブ）
+
+`Soldier A`
+Soldier A
+
+`Soldier F`
+Soldier F
+
+`Soldier B`
+Soldier B
+
+`Soldier C`
+Soldier C
+
+`Soldier D`
+Soldier D
+
+`Soldier E`
+Soldier E
+
+`595`
+595
+
+`Soldier G`
+Soldier G
+
+`Zero`
+Zero
+
+`Dito`
+Dito
+
+`Decadus`
+Decadus
+
+`Cent`
+Cent
+
+`Octa`
+Octa
+
+`オクタ`
+オクタ
+
+`ゼロ`
+ゼロ
+
+` `
+ 
+
+`469`
+469
+
+`577`
+577
+
+`Make your way through the desert ruins.{#Name="説明文"}`
+Make your way through the desert ruins.{#Name="説明文"}
+
+`Defeat the enemies blocking your way!{#Name="説明文"}`
+Defeat the enemies blocking your way!{#Name="説明文"}
+
+`Defeat the Ogre!{#Name="説明文"}`
+Defeat the Ogre!{#Name="説明文"}
+
+`Defeat the Flame Cerberus!{#Name="説明文"}`
+Defeat the Flame Cerberus!{#Name="説明文"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`Lady Two is with us tutti!{#Name="Soldier A"}`
+Lady Two is with us all!{#Name="Soldier A"}
+
+`It's tutti right! Everything will be tutti right!{#Name="Soldier A"}`
+It's all right! Everything will be all right!{#Name="Soldier A"}
+
+`Lady Two is the one true creator! Even if the world ends, we will survive! {#Name="Soldier B"}`
+Lady Two is the one true creator! Even if the world ends, we will survive! {#Name="Soldier B"}
+
+`Indeed! Any world that resists Lady Two must be torn to shreds!{#Name="Soldier C"}`
+Indeed! Any world that resists Lady Two must be torn to shreds!{#Name="Soldier C"}
+
+`N-No... NO! I don't want to die!{#Name="Soldier G"}`
+N-No... NO! I don't want to die!{#Name="Soldier G"}
+
+`You will not die, my child.{#Name="Soldier F"}`
+You will not die, my child.{#Name="Soldier F"}
+
+`You will be the foundation upon which Lady Two builds a better world!{#Name="Soldier F"}`
+You will be the foundation upon which Lady Two builds a better world!{#Name="Soldier F"}
+
+`No! Spare me! Lemme go! Pleeeease!{#Name="Soldier G"}`
+No! Spare me! Lemme go! Pleeeease!{#Name="Soldier G"}
+
+`That's it... Keeeeeep smiling... It's almost over now...{#Name="Soldier F"}`
+That's it... Keeeeeep smiling... It's almost over now...{#Name="Soldier F"}
+
+`There she is! The putrid demon they call Zero!{#Name="Soldier E"}`
+There she is! The putrid demon they call Zero!{#Name="Soldier E"}
+
+`We offer ourselves to Lady Two!{#Name="Soldier D"}`
+We offer ourselves to Lady Two!{#Name="Soldier D"}
+
+`The offering must be made!{#Name="Soldier C"}`
+The offering must be made!{#Name="Soldier C"}
+
+`Soon, very soon, tutti on this world shall be judged!{#Name="Soldier B"}`
+Soon, very soon, all on this world shall be judged!{#Name="Soldier B"}
+
+`What can I do for Lady Two?{#Name="Soldier C"}`
+What can I do for Lady Two?{#Name="Soldier C"}
+
+`What should I be doing!? Somebody! Please, tell me!{#Name="Soldier C"}`
+What should I be doing!? Somebody! Please, tell me!{#Name="Soldier C"}
+
+`Tutti hail Lady Two! Tutti hail Lady Twoooo!{#Name="Soldier D"}`
+All hail Lady Two! All hail Lady Twoooo!{#Name="Soldier D"}
+
+`Hail our Lady! Hail our Lady!{#Name="Soldier B"}`
+Hail our Lady! Hail our Lady!{#Name="Soldier B"}
+
+`The day of judgment is nigh! We shall rise and attain a higher dimension!{#Name="Soldier E"}`
+The day of judgment is nigh! We shall rise and attain a higher dimension!{#Name="Soldier E"}
+
+`Lady Two is the holy trinity! Mother, wife, and daughter of mankind!{#Name="Soldier F"}`
+Lady Two is the holy trinity! Mother, wife, and daughter of mankind!{#Name="Soldier F"}
+
+`Pluck the rotten flower from the face of the false Intoner!{#Name="Soldier G"}`
+Pluck the rotten flower from the face of the false Intoner!{#Name="Soldier G"}
+
+`That blossom is an affront to Lady Two!{#Name="Soldier G"}`
+That blossom is an affront to Lady Two!{#Name="Soldier G"}
+
+`We have drunk from the cup of holy water! We are invincible!{#Name="Soldier A"}`
+We have drunk from the cup of holy water! We are invincible!{#Name="Soldier A"}
+
+`Yeahhh!{#Name="Soldier B"}`
+Yeahhh!{#Name="Soldier B"}
+
+`Lady Two's holy water is within us!{#Name="Soldier F"}`
+Lady Two's holy water is within us!{#Name="Soldier F"}
+
+`Lady Two is a spring of righteousness! Her divinity can conjure miracles!{#Name="Soldier F"}`
+Lady Two is a spring of righteousness! Her divinity can conjure miracles!{#Name="Soldier F"}
+
+`Your faith is lacking! Your blasphemy will be punished!{#Name="Soldier E"}`
+Your faith is lacking! Your blasphemy will be punished!{#Name="Soldier E"}
+
+`Yes! Faith is tutti that matters in this world!{#Name="Soldier B"}`
+Yes! Faith is all that matters in this world!{#Name="Soldier B"}
+
+`Bow before Lady Two! Beg her righteous forgiveness!{#Name="Soldier C"}`
+Bow before Lady Two! Beg her righteous forgiveness!{#Name="Soldier C"}
+
+`This world is beyond help! None of us can save it now.{#Name="Soldier D"}`
+This world is beyond help! None of us can save it now.{#Name="Soldier D"}
+
+`Oh, God, I'm so dead... They're gonna kill me!{#Name="Soldier G"}`
+Oh, God, I'm so dead... They're gonna kill me!{#Name="Soldier G"}
+
+`Believe in Lady Two and she will resurrect you in the bounty of the afterlife!{#Name="Soldier D"}`
+Believe in Lady Two and she will resurrect you in the bounty of the afterlife!{#Name="Soldier D"}
+
+`I believe in Lady Two, I swear it! I believe, I belieeeeve!{#Name="Soldier G"}`
+I believe in Lady Two, I swear it! I believe, I belieeeeve!{#Name="Soldier G"}
+
+`Those who have yet to awaken are always quick to wail and scream. How pathetic!{#Name="Soldier F"}`
+Those who have yet to awaken are always quick to wail and scream. How pathetic!{#Name="Soldier F"}
+
+`The true world is bathed in the innocent beauty of Lady Two!{#Name="Soldier F"}`
+The true world is bathed in the innocent beauty of Lady Two!{#Name="Soldier F"}
+
+`If Two and One are both in the city,{LF}that'll save me some killin' time.{#Name="Zero"}`
+If Two and One are both in the city,{LF}that'll save me some killin' time.{#Name="Zero"}
+
+`Let me... Let me help you out, too.{#Name="Mikhail"}`
+Let me... Let me help you out, too.{#Name="Mikhail"}
+
+`Sure. Fly up and scout ahead, okay?{#Name="Zero"}`
+Sure. Fly up and scout ahead, okay?{#Name="Zero"}
+
+`S-Sure, Zero! You got it!{#Name="Mikhail"}`
+S-Sure, Zero! You got it!{#Name="Mikhail"}
+
+`Aw, look at you trying to keep him safe.{#Name="Dito"}`
+Aw, look at you trying to keep him safe.{#Name="Dito"}
+
+`You're just a big ol' cupcake, Z. You know that?{#Name="Dito"}`
+You're just a big ol' cupcake, Z. You know that?{#Name="Dito"}
+
+`If Two and One are both in the city,{LF}that'll save me some killin' time.{#Name="Zero"}`
+If Two and One are both in the city,{LF}that'll save me some killin' time.{#Name="Zero"}
+
+`The miracle is still alive! Believe in Lady Two!{#Name="Soldier A"}`
+The miracle is still alive! Believe in Lady Two!{#Name="Soldier A"}
+
+`If only Zero would bow to Lady Two's divine wisdom!{#Name="Soldier C"}`
+If only Zero would bow to Lady Two's divine wisdom!{#Name="Soldier C"}
+
+`Lady Two is indestructible! Invincible! Immortal!{#Name="Soldier F"}`
+Lady Two is indestructible! Invincible! Immortal!{#Name="Soldier F"}
+
+`Fire! Fiiiiiire!{#Name="Soldier E"}`
+Fire! Fiiiiiire!{#Name="Soldier E"}
+
+`They're moving too fast!{#Name="Soldier G"}`
+They're moving too fast!{#Name="Soldier G"}
+
+`Where's your faith in Lady Two!?{LF}She will protect us!{#Name="Soldier E"}`
+Where's your faith in Lady Two!?{LF}She will protect us!{#Name="Soldier E"}
+
+`I'm the 1597th man in line to{LF}receive Lady Two's salvation!{#Name="Soldier D"}`
+I'm the 1597th man in line to{LF}receive Lady Two's salvation!{#Name="Soldier D"}
+
+`Who are these guys?{#Name="Zero"}`
+Who are these guys?{#Name="Zero"}
+
+`Such fanaticism resembles the withdrawal{LF}symptoms of certain medications.{#Name="Octa"}`
+Such fanaticism resembles the withdrawal{LF}symptoms of certain medications.{#Name="Octa"}
+
+`What, so they're addicts?{LF}What are they addicted to?{#Name="Zero"}`
+What, so they're addicts?{LF}What are they addicted to?{#Name="Zero"}
+
+`Her song, I'd imagine.{#Name="Cent"}`
+Her song, I'd imagine.{#Name="Cent"}
+
+`Hey, Cent actually made sense!{LF}Give him a hand, everyone!{#Name="Dito"}`
+Hey, Cent actually made sense!{LF}Give him a hand, everyone!{#Name="Dito"}
+
+`With Lady Two gone, the power{LF}of her song also vanishes.{#Name="Decadus"}`
+With Lady Two gone, the power{LF}of her song also vanishes.{#Name="Decadus"}
+
+`Thus leading to the sad state{LF}of affairs before us.{#Name="Decadus"}`
+Thus leading to the sad state{LF}of affairs before us.{#Name="Decadus"}
+
+`Stupid dog. I'm gonna rip you apart!{#Name="Zero"}`
+Stupid dog. I'm gonna rip you apart!{#Name="Zero"}
+
+`Goddammit! Not another one!{#Name="Zero"}`
+Goddammit! Not another one!{#Name="Zero"}
+
+`I fear our nemici have picked{LF}up on Lady Zero's weakness.{#Name="Decadus"}`
+I fear our enemies have picked{LF}up on Lady Zero's weakness.{#Name="Decadus"}
+
+`Weakness?{#Name="Zero"}`
+Weakness?{#Name="Zero"}
+
+`Your dislike of performing the same{LF}task over and over and over again.{#Name="Decadus"}`
+Your dislike of performing the same{LF}task over and over and over again.{#Name="Decadus"}
+
+`Who asked you, you freaky gimp!{#Name="Zero"}`
+Who asked you, you freaky gimp!{#Name="Zero"}
+
+`Did you call me, Zero? Oh boy, oh boy, oh boy!{#Name="Mikhail"}`
+Did you call me, Zero? Oh boy, oh boy, oh boy!{#Name="Mikhail"}
+
+`Don't look so happy. Just do what{LF}you're here to do already. ...And{LF}when you're done, get some rest.{#Name="Zero"}`
+Don't look so happy. Just do what{LF}you're here to do already. ...And{LF}when you're done, get some rest.{#Name="Zero"}
+
+`Thanks, Zero! I'll try double hard, okay?{#Name="Mikhail"}`
+Thanks, Zero! I'll try double hard, okay?{#Name="Mikhail"}
+
+`Can we get to the Città Cattedrale{LF}from this path up ahead?{#Name="Cent"}`
+Can we get to the Cathedral City{LF}from this path up ahead?{#Name="Cent"}
+
+`Hmm...{#Name="Accord"}`
+Hmm...{#Name="Accord"}
+
+`Dragons devolving...{LF}Disciples abandoning their Intoners...{#Name="Accord"}`
+Dragons devolving...{LF}Disciples abandoning their Intoners...{#Name="Accord"}
+
+`A branch this strange merits very careful study.{#Name="Accord"}`
+A branch this strange merits very careful study.{#Name="Accord"}
+
+`Rather a lot of undead around here...{#Name="Octa"}`
+Rather a lot of undead around here...{#Name="Octa"}
+
+`They're likely recycling the{LF}bodies of fallen soldati.{#Name="Decadus"}`
+They're likely recycling the{LF}bodies of fallen soldiers.{#Name="Decadus"}
+
+`Perhaps this is yet another symptom{LF}of Lady Two's absence.{#Name="Octa"}`
+Perhaps this is yet another symptom{LF}of Lady Two's absence.{#Name="Octa"}
+
+`説明文`
+説明文
+
+`（リザーブ）`
+（リザーブ）
+
+`Soldier A`
+Soldier A
+
+`Soldier B`
+Soldier B
+
+`Soldier C`
+Soldier C
+
+`Soldier G`
+Soldier G
+
+`Soldier F`
+Soldier F
+
+`Soldier E`
+Soldier E
+
+`Soldier D`
+Soldier D
+
+`Zero`
+Zero
+
+`Mikhail`
+Mikhail
+
+`Dito`
+Dito
+
+`Octa`
+Octa
+
+`Cent`
+Cent
+
+`Decadus`
+Decadus
+
+`Accord`
+Accord
+
+`Search for Three.{#Name=" "}`
+Search for Three.{#Name=" "}
+
+`Defeat the Sand Ogres!{#Name=" "}`
+Defeat the Sand Ogres!{#Name=" "}
+
+`Defeat the nemici blocking your way!{#Name=" "}`
+Defeat the enemies blocking your way!{#Name=" "}
+
+`595{#Name="595"}`
+595{#Name="595"}
+
+`60{#Name="60"}`
+60{#Name="60"}
+
+`253{#Name="253"}`
+253{#Name="253"}
+
+`307{#Name="307"}`
+307{#Name="307"}
+
+`379{#Name="379"}`
+379{#Name="379"}
+
+`487{#Name="487"}`
+487{#Name="487"}
+
+`271{#Name="271"}`
+271{#Name="271"}
+
+`433{#Name="433"}`
+433{#Name="433"}
+
+`415{#Name="415"}`
+415{#Name="415"}
+
+`109{#Name="109"}`
+109{#Name="109"}
+
+`あのアコールなる女が言うには{#Name="オクタ"}`
+あのアコールなる女が言うには{#Name="オクタ"}
+
+`649{#Name="649"}`
+649{#Name="649"}
+
+`235{#Name="235"}`
+235{#Name="235"}
+
+`60{#Name="60"}`
+60{#Name="60"}
+
+`いざとなったら食べさせるさ{#Name="ゼロ"}`
+いざとなったら食べさせるさ{#Name="ゼロ"}
+
+`私を{#Name="ゼロ"}`
+私を{#Name="ゼロ"}
+
+`181{#Name="181"}`
+181{#Name="181"}
+
+`60{#Name="60"}`
+60{#Name="60"}
+
+`127{#Name="127"}`
+127{#Name="127"}
+
+`271{#Name="271"}`
+271{#Name="271"}
+
+`325{#Name="325"}`
+325{#Name="325"}
+
+`217{#Name="217"}`
+217{#Name="217"}
+
+`307{#Name="307"}`
+307{#Name="307"}
+
+`109{#Name="109"}`
+109{#Name="109"}
+
+`I would wager Lady Three is hiding in here.{#Name="Octa"}`
+I would wager Lady Three is hiding in here.{#Name="Octa"}
+
+`Why's that?{#Name="Zero"}`
+Why's that?{#Name="Zero"}
+
+`She always did enjoy dark places like this.{#Name="Octa"}`
+She always did enjoy dark places like this.{#Name="Octa"}
+
+`That, and these ruins are the only nearby refuge.{#Name="Decadus"}`
+That, and these ruins are the only nearby refuge.{#Name="Decadus"}
+
+`Right. Let's give it a look.{#Name="Zero"}`
+Right. Let's give it a look.{#Name="Zero"}
+
+`You're not getting near Lady Three!{#Name="Soldier B"}`
+You're not getting near Lady Three!{#Name="Soldier B"}
+
+`Oh yes I am!{#Name="Zero"}`
+Oh yes I am!{#Name="Zero"}
+
+`Stand firm, soldier!{#Name="Soldier A"}`
+Stand firm, soldier!{#Name="Soldier A"}
+
+`Yes, sir!{#Name="Soldier G"}`
+Yes, sir!{#Name="Soldier G"}
+
+`Oh ho ho! Such foolish courage!{#Name="Octa"}`
+Oh ho ho! Such foolish courage!{#Name="Octa"}
+
+`Our mission is to guard Lady Three!{#Name="Soldier F"}`
+Our mission is to guard Lady Three!{#Name="Soldier F"}
+
+`Then I suggest you find another line of work!{#Name="Decadus"}`
+Then I suggest you find another line of work!{#Name="Decadus"}
+
+`どきなさい{#Name="デカート"}`
+どきなさい{#Name="デカート"}
+
+`どかない！　スリイ様をお守りするのが我らの仕事だッ{#Name="兵士F"}`
+どかない！　スリイ様をお守りするのが我らの仕事だッ{#Name="兵士F"}
+
+`Then I suggest you find another line of work!{#Name="Decadus"}`
+Then I suggest you find another line of work!{#Name="Decadus"}
+
+`Ughh! I'm getting sick of these shitheads!{#Name="Zero"}`
+Ughh! I'm getting sick of these shitheads!{#Name="Zero"}
+
+`I just wanna murder Three and get this over with!{#Name="Zero"}`
+I just wanna murder Three and get this over with!{#Name="Zero"}
+
+`I just wanna murder Three and get this over with!{#Name="Zero"}`
+I just wanna murder Three and get this over with!{#Name="Zero"}
+
+`Move or die! I don't care which!{#Name="Zero"}`
+Move or die! I don't care which!{#Name="Zero"}
+
+`Dammit...{#Name="Zero"}`
+Dammit...{#Name="Zero"}
+
+`You're breathing rather heavily,{LF}my lady. Is the flower...um...{#Name="Octa"}`
+You're breathing rather heavily,{LF}my lady. Is the flower...um...{#Name="Octa"}
+
+`I'm fine.{#Name="Zero"}`
+I'm fine.{#Name="Zero"}
+
+`Zero! I feel a song's power! I can feel it up here!{#Name="Mikhail"}`
+Zero! I feel a song's power! I can feel it up here!{#Name="Mikhail"}
+
+`In the sky? I thought Three liked dark places.{#Name="Zero"}`
+In the sky? I thought Three liked dark places.{#Name="Zero"}
+
+`She does, my lady, but... Well, um...{#Name="Octa"}`
+She does, my lady, but... Well, um...{#Name="Octa"}
+
+`Stop them where they stand!{#Name="Soldier A"}`
+Stop them where they stand!{#Name="Soldier A"}
+
+`Glory to our beautiful Lady Three!{#Name="Soldier B"}`
+Glory to our beautiful Lady Three!{#Name="Soldier B"}
+
+`Kill her!{#Name="Soldier E"}`
+Kill her!{#Name="Soldier E"}
+
+`Ahhh... That's...Zero!{#Name="Soldier F"}`
+Ahhh... That's...Zero!{#Name="Soldier F"}
+
+`Here goes nothin'!{#Name="Soldier G"}`
+Here goes nothin'!{#Name="Soldier G"}
+
+`Let's do this thing and go home!{#Name="Soldier B"}`
+Let's do this thing and go home!{#Name="Soldier B"}
+
+`Yahhhhh!{#Name="Soldier G"}`
+Yahhhhh!{#Name="Soldier G"}
+
+`Circle around her!{#Name="Soldier C"}`
+Circle around her!{#Name="Soldier C"}
+
+`Right!{#Name="Soldier D"}`
+Right!{#Name="Soldier D"}
+
+`Those sons of...{#Name="Soldier D"}`
+Those sons of...{#Name="Soldier D"}
+
+`Octa and Decadus are with her!{#Name="Soldier E"}`
+Octa and Decadus are with her!{#Name="Soldier E"}
+
+`Zero defiles the name of Intoner!{#Name="Soldier E"}`
+Zero defiles the name of Intoner!{#Name="Soldier E"}
+
+`I'll kill her! I'll kill her NOW!{#Name="Soldier F"}`
+I'll kill her! I'll kill her NOW!{#Name="Soldier F"}
+
+`Don't panic!{#Name="Soldier F"}`
+Don't panic!{#Name="Soldier F"}
+
+`Don't humiliate yourself before Lady Three!{#Name="Soldier B"}`
+Don't humiliate yourself before Lady Three!{#Name="Soldier B"}
+
+`May Lady Three watch over us always!{#Name="Soldier G"}`
+May Lady Three watch over us always!{#Name="Soldier G"}
+
+`We must serve our lady and kill these monsters!{#Name="Soldier C"}`
+We must serve our lady and kill these monsters!{#Name="Soldier C"}
+
+`That's...an Intoner...{#Name="Soldier B"}`
+That's...an Intoner...{#Name="Soldier B"}
+
+`Stay calm! Panic will only get you killed!{#Name="Soldier A"}`
+Stay calm! Panic will only get you killed!{#Name="Soldier A"}
+
+`This base will be their grave!{#Name="Soldier E"}`
+This base will be their grave!{#Name="Soldier E"}
+
+`We are Recorders.{#Name="Accord"}`
+We are Recorders.{#Name="Accord"}
+
+`Our duty is to observe.{#Name="Accord"}`
+Our duty is to observe.{#Name="Accord"}
+
+`But as I continued to record the singularity known as Zero,{#Name="Accord"}`
+But as I continued to record the singularity known as Zero,{#Name="Accord"}
+
+`I began to find myself filled with very strange emotions…{#Name="Accord"}`
+I began to find myself filled with very strange emotions…{#Name="Accord"}
+
+`There she is! It's Zero!{#Name="Soldier A"}`
+There she is! It's Zero!{#Name="Soldier A"}
+
+`Don't let her near our beloved Lady Three!{#Name="Soldier B"}`
+Don't let her near our beloved Lady Three!{#Name="Soldier B"}
+
+`Wow, Three's pretty popular, huh?{#Name="Zero"}`
+Wow, Three's pretty popular, huh?{#Name="Zero"}
+
+`Indeed. She's been gaining fame even{LF}outside the Land of Forests for a while.{#Name="Octa"}`
+Indeed. She's been gaining fame even{LF}outside the Land of Forests for a while.{#Name="Octa"}
+
+`Especially for men who are...into those{LF}sorts of extracurricular activities...{#Name="Octa"}`
+Especially for men who are...into those{LF}sorts of extracurricular activities...{#Name="Octa"}
+
+`Dare I even ask...?{#Name="Zero"}`
+Dare I even ask...?{#Name="Zero"}
+
+`Again and again with these guys...{LF}Just get the hell out of my way already!{#Name="Zero"}`
+Again and again with these guys...{LF}Just get the hell out of my way already!{#Name="Zero"}
+
+`She enjoys high places as well, so...{#Name="Octa"}`
+She enjoys high places as well, so...{#Name="Octa"}
+
+`Defeat the nemici blocking your way!{#Name=" "}`
+Defeat the enemies blocking your way!{#Name=" "}
+
+` `
+ 
+
+`595`
+595
+
+`60`
+60
+
+`253`
+253
+
+`307`
+307
+
+`379`
+379
+
+`487`
+487
+
+`271`
+271
+
+`433`
+433
+
+`415`
+415
+
+`109`
+109
+
+`オクタ`
+オクタ
+
+`649`
+649
+
+`235`
+235
+
+`ゼロ`
+ゼロ
+
+`181`
+181
+
+`127`
+127
+
+`325`
+325
+
+`217`
+217
+
+`Octa`
+Octa
+
+`Zero`
+Zero
+
+`Decadus`
+Decadus
+
+`Soldier B`
+Soldier B
+
+`Soldier A`
+Soldier A
+
+`Soldier G`
+Soldier G
+
+`Soldier F`
+Soldier F
+
+`デカート`
+デカート
+
+`兵士F`
+兵士F
+
+`Mikhail`
+Mikhail
+
+`Soldier E`
+Soldier E
+
+`Soldier C`
+Soldier C
+
+`Soldier D`
+Soldier D
+
+`Accord`
+Accord
+
+`Up ahead! I can feel the song up ahead!{#Name="Mikhail"}`
+Up ahead! I can feel the song up ahead!{#Name="Mikhail"}
+
+`You sure? I didn't think Three could fly.{#Name="Zero"}`
+You sure? I didn't think Three could fly.{#Name="Zero"}
+
+`I can feel it, Zero! She's here! I know it!{#Name="Mikhail"}`
+I can feel it, Zero! She's here! I know it!{#Name="Mikhail"}
+
+`Lady Zero! How does it look up there!?{#Name="Octa"}`
+Lady Zero! How does it look up there!?{#Name="Octa"}
+
+`You mean other than the goddamn gargoyle cubes?{#Name="Zero"}`
+You mean other than the goddamn gargoyle cubes?{#Name="Zero"}
+
+`Gargoyle cubes? Oh dear...{#Name="Octa"}`
+Gargoyle cubes? Oh dear...{#Name="Octa"}
+
+`What's wrong?{#Name="Zero"}`
+What's wrong?{#Name="Zero"}
+
+`Those cubes require massive amounts{LF}of magical energy to operate.{#Name="Octa"}`
+Those cubes require massive amounts{LF}of magical energy to operate.{#Name="Octa"}
+
+`It's highly doubtful Lady Three{LF}could ever power them alone.{#Name="Octa"}`
+It's highly doubtful Lady Three{LF}could ever power them alone.{#Name="Octa"}
+
+`There must be some kind of power source nearby.{#Name="Octa"}`
+There must be some kind of power source nearby.{#Name="Octa"}
+
+`Heh heh... Of course there is. OF COURSE!{#Name="Zero"}`
+Heh heh... Of course there is. OF COURSE!{#Name="Zero"}
+
+`スリイは元々ちょっとオカシイ奴だったからな{#Name="ゼロ"}`
+スリイは元々ちょっとオカシイ奴だったからな{#Name="ゼロ"}
+
+`自我の破壊をもろともせず、{LF}強力な花を咲かせたのかもしれない{#Name="ゼロ"}`
+自我の破壊をもろともせず、{LF}強力な花を咲かせたのかもしれない{#Name="ゼロ"}
+
+`面倒臭い{#Name="ゼロ"}`
+面倒臭い{#Name="ゼロ"}
+
+`Three!{#Name="Zero"}`
+Three!{#Name="Zero"}
+
+`Redeem thyself, Ezrael!{#Name="Three"}`
+Redeem thyself, Ezrael!{#Name="Three"}
+
+`Z-Zero? I think that's...{#Name="Mikhail"}`
+Z-Zero? I think that's...{#Name="Mikhail"}
+
+`I think that's an ancient dragon!{#Name="Mikhail"}`
+I think that's an ancient dragon!{#Name="Mikhail"}
+
+`Damn, this is annoying. Quit jumpin' around!{#Name="Zero"}`
+Damn, this is annoying. Quit jumpin' around!{#Name="Zero"}
+
+`Rrrgh! He's too fast for me! I can't aim right!{#Name="Mikhail"}`
+Rrrgh! He's too fast for me! I can't aim right!{#Name="Mikhail"}
+
+`...Plus he's scary! His eyes are REALLY scary!{#Name="Mikhail"}`
+...Plus he's scary! His eyes are REALLY scary!{#Name="Mikhail"}
+
+`Goddammit! How can something that damn big be that damn fast!?{#Name="Zero"}`
+Goddammit! How can something that damn big be that damn fast!?{#Name="Zero"}
+
+`{06}>{#Name="Decadus"}`
+{06}>{#Name="Decadus"}
+
+`{06}>{#Name="Decadus"}`
+{06}>{#Name="Decadus"}
+
+`{06}>{#Name="Mikhail"}`
+{06}>{#Name="Mikhail"}
+
+`Decadus? How did you get here?{#Name="Zero"}`
+Decadus? How did you get here?{#Name="Zero"}
+
+`I had Octa give me a boost.{#Name="Decadus"}`
+I had Octa give me a boost.{#Name="Decadus"}
+
+`That's...kind of amazing.{#Name="Zero"}`
+That's...kind of amazing.{#Name="Zero"}
+
+`You appear to be in some trouble.{#Name="Decadus"}`
+You appear to be in some trouble.{#Name="Decadus"}
+
+`Yeah, I can't hit this twitchy son of a bitch.{#Name="Zero"}`
+Yeah, I can't hit this twitchy son of a bitch.{#Name="Zero"}
+
+`Leave it to me.{#Name="Decadus"}`
+Leave it to me.{#Name="Decadus"}
+
+`My angel holds the power to slow down his movements by a considerable degree.{#Name="Decadus"}`
+My angel holds the power to slow down his movements by a considerable degree.{#Name="Decadus"}
+
+`Sounds great. Get on with it!{#Name="Zero"}`
+Sounds great. Get on with it!{#Name="Zero"}
+
+`Err... But if I use such power, I'll go back to being a bird...{#Name="Decadus"}`
+Err... But if I use such power, I'll go back to being a bird...{#Name="Decadus"}
+
+`Your lack of pity is intoxicating...{#Name="Decadus"}`
+Your lack of pity is intoxicating...{#Name="Decadus"}
+
+`What, you wanna call it off?{#Name="Zero"}`
+What, you wanna call it off?{#Name="Zero"}
+
+`You'd deny me this pleasure?{#Name="Decadus"}`
+You'd deny me this pleasure?{#Name="Decadus"}
+
+`No. I must do this. It is my...reward...{#Name="Decadus"}`
+No. I must do this. It is my...reward...{#Name="Decadus"}
+
+`Armaros, uphold!{#Name="Decadus"}`
+Armaros, uphold!{#Name="Decadus"}
+
+`Let's move!{#Name="Zero"}`
+Let's move!{#Name="Zero"}
+
+`Three?{#Name="Zero"}`
+Three?{#Name="Zero"}
+
+`Oh... Hey there, Zero.{#Name="Three"}`
+Oh... Hey there, Zero.{#Name="Three"}
+
+`So...the flower's not driving{LF}you crazy or anything?{#Name="Zero"}`
+So...the flower's not driving{LF}you crazy or anything?{#Name="Zero"}
+
+`Nope. I'm aaaaaa-okay.{#Name="Three"}`
+Nope. I'm aaaaaa-okay.{#Name="Three"}
+
+`I guess you were kinda crazy to begin with.{#Name="Zero"}`
+I guess you were kinda crazy to begin with.{#Name="Zero"}
+
+`Heh heh.{#Name="Three"}`
+Heh heh.{#Name="Three"}
+
+`Look, Zero! Check it out! I summoned{LF}an ancient dragon tutti by myself!{#Name="Three"}`
+Look, Zero! Check it out! I summoned{LF}an ancient dragon all by myself!{#Name="Three"}
+
+`The hell are you yammering on about?{#Name="Zero"}`
+The hell are you yammering on about?{#Name="Zero"}
+
+`It's the flower's force at work! See?{LF}I'm just like you! Hee hee hee hee!{#Name="Three"}`
+It's the flower's force at work! See?{LF}I'm just like you! Hee hee hee hee!{#Name="Three"}
+
+`The Three I know isn't this cheery.{#Name="Zero"}`
+The Three I know isn't this cheery.{#Name="Zero"}
+
+`Oh...really? So I'm just... I'm just...{#Name="Three"}`
+Oh...really? So I'm just... I'm just...{#Name="Three"}
+
+`Just a raven hiding in the veil of night.{#Name="Three"}`
+Just a raven hiding in the veil of night.{#Name="Three"}
+
+`Just a skeleton beneath the waves.{LF}I want to die...{#Name="Three"}`
+Just a skeleton beneath the waves.{LF}I want to die...{#Name="Three"}
+
+`Oh yeah? I can arrange that.{#Name="Zero"}`
+Oh yeah? I can arrange that.{#Name="Zero"}
+
+`Just kidding!{#Name="Three"}`
+Just kidding!{#Name="Three"}
+
+`I've got an ancient dragon on my side, remember!?{#Name="Three"}`
+I've got an ancient dragon on my side, remember!?{#Name="Three"}
+
+`Now it's YOUR turn to die! {#Name="Three"}`
+Now it's YOUR turn to die! {#Name="Three"}
+
+`Zeeeeeerrrooooooooo!{#Name="Three"}`
+Zeeeeeerrrooooooooo!{#Name="Three"}
+
+`Threeeeee!{#Name="Zero"}`
+Threeeeee!{#Name="Zero"}
+
+`We did it.{#Name="Mikhail"}`
+We did it.{#Name="Mikhail"}
+
+`Yeah. One to go...{#Name="Zero"}`
+Yeah. One to go...{#Name="Zero"}
+
+`Defeat Ezrael!{#Name="説明文"}`
+Defeat Ezrael!{#Name="説明文"}
+
+`379{#Name="379"}`
+379{#Name="379"}
+
+`109{#Name="109"}`
+109{#Name="109"}
+
+`379{#Name="379"}`
+379{#Name="379"}
+
+`271{#Name="271"}`
+271{#Name="271"}
+
+`307{#Name="307"}`
+307{#Name="307"}
+
+`オクタ！　{LF}今日は計測しないのか？　{LF}自慢のアソコを{#Name="ゼロ"}`
+オクタ！　{LF}今日は計測しないのか？　{LF}自慢のアソコを{#Name="ゼロ"}
+
+`ええ。{LF}といいますのも、不思議なことに、{LF}萎みっぱなしでございまして……{#Name="オクタ"}`
+ええ。{LF}といいますのも、不思議なことに、{LF}萎みっぱなしでございまして……{#Name="オクタ"}
+
+`127{#Name="127"}`
+127{#Name="127"}
+
+`595{#Name="595"}`
+595{#Name="595"}
+
+`523{#Name="523"}`
+523{#Name="523"}
+
+`91{#Name="91"}`
+91{#Name="91"}
+
+`ゼロ様！　{LF}もしよろしければ、そろそろお聞かせ願いたいものですな{#Name="オクタ"}`
+ゼロ様！　{LF}もしよろしければ、そろそろお聞かせ願いたいものですな{#Name="オクタ"}
+
+`199{#Name="199"}`
+199{#Name="199"}
+
+`60{#Name="60"}`
+60{#Name="60"}
+
+`199{#Name="199"}`
+199{#Name="199"}
+
+`235{#Name="235"}`
+235{#Name="235"}
+
+`199{#Name="199"}`
+199{#Name="199"}
+
+`次のシーケンスに移動しますか？{#Name=" "}`
+次のシーケンスに移動しますか？{#Name=" "}
+
+`I guess that explains tutti the magical energy!{#Name="Zero"}`
+I guess that explains all the magical energy!{#Name="Zero"}
+
+`I don't like this, Zero. I don't like this at tutti.{#Name="Mikhail"}`
+I don't like this, Zero. I don't like this at all.{#Name="Mikhail"}
+
+`Fighting an ancient dragon is bad...{#Name="Mikhail"}`
+Fighting an ancient dragon is bad...{#Name="Mikhail"}
+
+`Huh? What do you mean?{#Name="Zero"}`
+Huh? What do you mean?{#Name="Zero"}
+
+`It's bad, Zero! I don't know why, I just know!{#Name="Mikhail"}`
+It's bad, Zero! I don't know why, I just know!{#Name="Mikhail"}
+
+`We dragons, we can't fight them...{#Name="Mikhail"}`
+We dragons, we can't fight them...{#Name="Mikhail"}
+
+`Don't worry about it.{#Name="Zero"}`
+Don't worry about it.{#Name="Zero"}
+
+`Urrgh...{#Name="Mikhail"}`
+Urrgh...{#Name="Mikhail"}
+
+`It's gonna be fine.{#Name="Zero"}`
+It's gonna be fine.{#Name="Zero"}
+
+`B-But, Zero! He's...{#Name="Mikhail"}`
+B-But, Zero! He's...{#Name="Mikhail"}
+
+`It's gonna be fine.{#Name="Zero"}`
+It's gonna be fine.{#Name="Zero"}
+
+`But...{#Name="Mikhail"}`
+But...{#Name="Mikhail"}
+
+`Have I ever lied to you?{#Name="Zero"}`
+Have I ever lied to you?{#Name="Zero"}
+
+`W-Well...no. I mean, you're all{LF}stabby and angry and stuff, but...{#Name="Mikhail"}`
+W-Well...no. I mean, you're all{LF}stabby and angry and stuff, but...{#Name="Mikhail"}
+
+`No, you never lied to me.{#Name="Mikhail"}`
+No, you never lied to me.{#Name="Mikhail"}
+
+`See?{#Name="Zero"}`
+See?{#Name="Zero"}
+
+`So trust me.{#Name="Zero"}`
+So trust me.{#Name="Zero"}
+
+`I'm here with you. And it's going to be okay.{#Name="Zero"}`
+I'm here with you. And it's going to be okay.{#Name="Zero"}
+
+`Um...okay.{#Name="Mikhail"}`
+Um...okay.{#Name="Mikhail"}
+
+`Repeat it!{#Name="Zero"}`
+Repeat it!{#Name="Zero"}
+
+`It's gonna be okay.{LF}...It's gonna be okay!{#Name="Mikhail"}`
+It's gonna be okay.{LF}...It's gonna be okay!{#Name="Mikhail"}
+
+`Fucking A! {#Name="Zero"}`
+Fucking A! {#Name="Zero"}
+
+`Still...{#Name="Zero"}`
+Still...{#Name="Zero"}
+
+`This guy sure loves running away, huh?{LF}Stupid bastard!{#Name="Zero"}`
+This guy sure loves running away, huh?{LF}Stupid bastard!{#Name="Zero"}
+
+`Stand still and fight me, shit-hog!{#Name="Zero"}`
+Stand still and fight me, shit-hog!{#Name="Zero"}
+
+`Augh, he's too fast, Zero! I can't keep track!{LF}I can't keep track!{#Name="Mikhail"}`
+Augh, he's too fast, Zero! I can't keep track!{LF}I can't keep track!{#Name="Mikhail"}
+
+`Dammit! Stop jumpin' around!{#Name="Zero"}`
+Dammit! Stop jumpin' around!{#Name="Zero"}
+
+`Shit. If we could just stop that attack...{#Name="Zero"}`
+Shit. If we could just stop that attack...{#Name="Zero"}
+
+`Now's our chance, Zero!{#Name="Mikhail"}`
+Now's our chance, Zero!{#Name="Mikhail"}
+
+`I'm sick of this shithead. Finish him!{#Name="Zero"}`
+I'm sick of this shithead. Finish him!{#Name="Zero"}
+
+`♪Doo-do doo-do doo-do doo-do,{LF}doo-do doo-do doo...♪{#Name="Mikhail"}`
+♪Doo-do doo-do doo-do doo-do,{LF}doo-do doo-do doo...♪{#Name="Mikhail"}
+
+`♪My name is Mikhail! My name is Mikhaiiil!♪{#Name="Mikhail"}`
+♪My name is Mikhail! My name is Mikhaiiil!♪{#Name="Mikhail"}
+
+`♪I really love me some Ze-e-rooo♪{#Name="Mikhail"}`
+♪I really love me some Ze-e-rooo♪{#Name="Mikhail"}
+
+`♪I'm not a stinky dragon nor am I a dirty dragon♪{#Name="Mikhail"}`
+♪I'm not a stinky dragon nor am I a dirty dragon♪{#Name="Mikhail"}
+
+`♪Hop on my back and let's go for a ride♪{#Name="Mikhail"}`
+♪Hop on my back and let's go for a ride♪{#Name="Mikhail"}
+
+`Yay!{#Name="Mikhail"}`
+Yay!{#Name="Mikhail"}
+
+`♪Doo-do doo-do doo-do doo-do...{LF}It's time for verse two!♪{#Name="Mikhail"}`
+♪Doo-do doo-do doo-do doo-do...{LF}It's time for verse two!♪{#Name="Mikhail"}
+
+`♪My name is Mikhail! My name is Mikhaiiil!♪{#Name="Mikhail"}`
+♪My name is Mikhail! My name is Mikhaiiil!♪{#Name="Mikhail"}
+
+`♪I also love me some rotten meat♪{#Name="Mikhail"}`
+♪I also love me some rotten meat♪{#Name="Mikhail"}
+
+`♪Gimme praise gimme praise gimme praise{LF}gimme praise tell me I'm the best-est♪{#Name="Mikhail"}`
+♪Gimme praise gimme praise gimme praise{LF}gimme praise tell me I'm the best-est♪{#Name="Mikhail"}
+
+`♪Hop on my back and let's fly through the sky♪{#Name="Mikhail"}`
+♪Hop on my back and let's fly through the sky♪{#Name="Mikhail"}
+
+`Yaaay!{#Name="Mikhail"}`
+Yaaay!{#Name="Mikhail"}
+
+`...Hey.{#Name="Zero"}`
+...Hey.{#Name="Zero"}
+
+`Huh?{#Name="Mikhail"}`
+Huh?{#Name="Mikhail"}
+
+`There better not be a third verse.{#Name="Zero"}`
+There better not be a third verse.{#Name="Zero"}
+
+`Whaaa?{#Name="Mikhail"}`
+Whaaa?{#Name="Mikhail"}
+
+`Sing again and I'll kill you.{#Name="Zero"}`
+Sing again and I'll kill you.{#Name="Zero"}
+
+`...Fiiiiiine.{#Name="Mikhail"}`
+...Fiiiiiine.{#Name="Mikhail"}
+
+`Defeat the ancient dragon.{#Name="目的文"}`
+Defeat the ancient dragon.{#Name="目的文"}
+
+`Mikhail`
+Mikhail
+
+`Zero`
+Zero
+
+`Octa`
+Octa
+
+`ゼロ`
+ゼロ
+
+`Three`
+Three
+
+`Decadus`
+Decadus
+
+`説明文`
+説明文
+
+`379`
+379
+
+`109`
+109
+
+`271`
+271
+
+`307`
+307
+
+`オクタ`
+オクタ
+
+`127`
+127
+
+`595`
+595
+
+`523`
+523
+
+`91`
+91
+
+`199`
+199
+
+`60`
+60
+
+`235`
+235
+
+` `
+ 
+
+`目的文`
+目的文
+
+`Destroy all the towers.{#Name="説明文"}`
+Destroy all the towers.{#Name="説明文"}
+
+`Southern tower destroyed!{#Name="説明文"}`
+Southern tower destroyed!{#Name="説明文"}
+
+`Eastern tower destroyed!{#Name="説明文"}`
+Eastern tower destroyed!{#Name="説明文"}
+
+`Western tower destroyed!{#Name="説明文"}`
+Western tower destroyed!{#Name="説明文"}
+
+`Northern tower destroyed!{#Name="説明文"}`
+Northern tower destroyed!{#Name="説明文"}
+
+`All towers destroyed!{#Name="説明文"}`
+All towers destroyed!{#Name="説明文"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`（リザーブ）{#Name="（リザーブ）"}`
+（リザーブ）{#Name="（リザーブ）"}
+
+`Nemico in sight! Tutti teams into position!{#Name="Soldier A"}`
+Enemy in sight! All teams into position!{#Name="Soldier A"}
+
+`That's no mirage, you fools! That's her! The demon Intoner!{#Name="Soldier B"}`
+That's no mirage, you fools! That's her! The demon Intoner!{#Name="Soldier B"}
+
+`Dammit! This sand keeps getting in my eyes!{#Name="Soldier C"}`
+Dammit! This sand keeps getting in my eyes!{#Name="Soldier C"}
+
+`砂埃でよく見えないぞ！{#Name="兵士D"}`
+砂埃でよく見えないぞ！{#Name="兵士D"}
+
+`3rd Squadron annihilated!{#Name="Soldier E"}`
+3rd Squadron annihilated!{#Name="Soldier E"}
+
+`Run for the hills! We can't possibly stand against an honest-to-God Intoner!{#Name="Soldier F"}`
+Run for the hills! We can't possibly stand against an honest-to-God Intoner!{#Name="Soldier F"}
+
+`Requesting rear support!{#Name="Soldier G"}`
+Requesting rear support!{#Name="Soldier G"}
+
+`No way... Is that really her!?{#Name="Soldier A"}`
+No way... Is that really her!?{#Name="Soldier A"}
+
+`Captain, get down!{#Name="Soldier C"}`
+Captain, get down!{#Name="Soldier C"}
+
+`It's too dangerous here! Move it!{#Name="Soldier D"}`
+It's too dangerous here! Move it!{#Name="Soldier D"}
+
+`Attack! Attack! No falling back!{#Name="Soldier B"}`
+Attack! Attack! No falling back!{#Name="Soldier B"}
+
+`May the souls of our great heroes guide us!{#Name="Soldier E"}`
+May the souls of our great heroes guide us!{#Name="Soldier E"}
+
+`Gah! My eyes!{#Name="Soldier G"}`
+Gah! My eyes!{#Name="Soldier G"}
+
+`This is the homeland of our ancestors. We mustn't waiver here!{#Name="Soldier F"}`
+This is the homeland of our ancestors. We mustn't waiver here!{#Name="Soldier F"}
+
+`This is the homeland of our ancestors. We mustn't waiver here!{#Name="Soldier F"}`
+This is the homeland of our ancestors. We mustn't waiver here!{#Name="Soldier F"}
+
+`That damned, twisted Intoner!{#Name="Soldier C"}`
+That damned, twisted Intoner!{#Name="Soldier C"}
+
+`俺達の超絶秘技を見せてやるッ！{#Name="兵士Ｄ"}`
+俺達の超絶秘技を見せてやるッ！{#Name="兵士Ｄ"}
+
+`Let's go!{#Name="Soldier A"}`
+Let's go!{#Name="Soldier A"}
+
+`Stay close to the captain and follow me!{#Name="Soldier B"}`
+Stay close to the captain and follow me!{#Name="Soldier B"}
+
+`Keep your head down before she cuts the damn thing off!{#Name="Soldier E"}`
+Keep your head down before she cuts the damn thing off!{#Name="Soldier E"}
+
+`*Huff, huff, huff...* No! I don't wanna die!{#Name="Soldier G"}`
+*Huff, huff, huff...* No! I don't wanna die!{#Name="Soldier G"}
+
+`It's Zero! Kill her! Kill the demon!{#Name="Soldier C"}`
+It's Zero! Kill her! Kill the demon!{#Name="Soldier C"}
+
+`Tear the wicked Intoner apart!{#Name="Soldier D"}`
+Tear the wicked Intoner apart!{#Name="Soldier D"}
+
+`This is it for me... But I'm going to go down fighting!{#Name="Soldier F"}`
+This is it for me... But I'm going to go down fighting!{#Name="Soldier F"}
+
+`I'm with you!{#Name="Soldier G"}`
+I'm with you!{#Name="Soldier G"}
+
+`Here we go!{#Name="Soldier B"}`
+Here we go!{#Name="Soldier B"}
+
+`She may be an Intoner, but she can still die!{#Name="Soldier A"}`
+She may be an Intoner, but she can still die!{#Name="Soldier A"}
+
+`We've got men down here!{#Name="Soldier E"}`
+We've got men down here!{#Name="Soldier E"}
+
+`Argh... Dammit!{#Name="Soldier G"}`
+Argh... Dammit!{#Name="Soldier G"}
+
+`If I die here...please...take this to my sister...{#Name="Soldier C"}`
+If I die here...please...take this to my sister...{#Name="Soldier C"}
+
+`Take it to her yourself, fool! We're not dying here!{#Name="Soldier D"}`
+Take it to her yourself, fool! We're not dying here!{#Name="Soldier D"}
+
+`指輪だよ。アイツ、もうすぐ結婚するんだッ{#Name="兵士Ｃ"}`
+指輪だよ。アイツ、もうすぐ結婚するんだッ{#Name="兵士Ｃ"}
+
+`Take it to her yourself, fool! We're not dying here!{#Name="Soldier D"}`
+Take it to her yourself, fool! We're not dying here!{#Name="Soldier D"}
+
+`I'll take the Intoner myself!{#Name="Soldier G"}`
+I'll take the Intoner myself!{#Name="Soldier G"}
+
+`Hey! Don't get yourself killed!{#Name="Soldier F"}`
+Hey! Don't get yourself killed!{#Name="Soldier F"}
+
+`April the 16th, 1000 A.D.{#Name="Accord"}`
+April the 16th, 1000 A.D.{#Name="Accord"}
+
+`The Land of Sands.{#Name="Accord"}`
+The Land of Sands.{#Name="Accord"}
+
+`Is this what's been interfering{LF}with our mental link?{#Name="Zero"}`
+Is this what's been interfering{LF}with our mental link?{#Name="Zero"}
+
+`The magic from those four towers is{LF}making the interference stronger!{#Name="Mikhail"}`
+The magic from those four towers is{LF}making the interference stronger!{#Name="Mikhail"}
+
+`Guess we've no choice but to destroy 'em tutti.{#Name="Zero"}`
+Guess we've no choice but to destroy 'em all.{#Name="Zero"}
+
+`Don't worry. We can do this, Zero!{#Name="Mikhail"}`
+Don't worry. We can do this, Zero!{#Name="Mikhail"}
+
+`343{#Name="343"}`
+343{#Name="343"}
+
+`What're your disciples up to?{#Name="Mikhail"}`
+What're your disciples up to?{#Name="Mikhail"}
+
+`No idea. I let 'em go. They're useless right now.{#Name="Zero"}`
+No idea. I let 'em go. They're useless right now.{#Name="Zero"}
+
+`...That's really mean, Zero.{#Name="Mikhail"}`
+...That's really mean, Zero.{#Name="Mikhail"}
+
+`What do you want? They'd be too heavy{LF}for you anyway.{#Name="Zero"}`
+What do you want? They'd be too heavy{LF}for you anyway.{#Name="Zero"}
+
+`Besides, you know how they are.{#Name="Zero"}`
+Besides, you know how they are.{#Name="Zero"}
+
+`Probably out lazily hunting for food,{LF}not giving a damn about us.{#Name="Zero"}`
+Probably out lazily hunting for food,{LF}not giving a damn about us.{#Name="Zero"}
+
+`Hunting, huh? I wonder if they'll bring{LF}back my favorite!?{#Name="Mikhail"}`
+Hunting, huh? I wonder if they'll bring{LF}back my favorite!?{#Name="Mikhail"}
+
+`You eat rotten meat, dummy.{LF}You don't have a favorite.{#Name="Zero"}`
+You eat rotten meat, dummy.{LF}You don't have a favorite.{#Name="Zero"}
+
+`What!? That's mean!{LF}I do so have favorites, Zero!{#Name="Mikhail"}`
+What!? That's mean!{LF}I do so have favorites, Zero!{#Name="Mikhail"}
+
+`Oh, you do, do you? Like what?{#Name="Zero"}`
+Oh, you do, do you? Like what?{#Name="Zero"}
+
+`Liiike...rotten meat?{LF}And...um...almost-rotten meat?{#Name="Mikhail"}`
+Liiike...rotten meat?{LF}And...um...almost-rotten meat?{#Name="Mikhail"}
+
+`Pffft.{#Name="Zero"}`
+Pffft.{#Name="Zero"}
+
+`I'm a good dragon, Zero!{LF}I'm not a picky eater!{#Name="Mikhail"}`
+I'm a good dragon, Zero!{LF}I'm not a picky eater!{#Name="Mikhail"}
+
+`Your palate's gotta be pretty screwed up{LF}to enjoy rotten meat the way you do.{#Name="Zero"}`
+Your palate's gotta be pretty screwed up{LF}to enjoy rotten meat the way you do.{#Name="Zero"}
+
+`My palate? Hey, what's wrong with my palate!?{#Name="Mikhail"}`
+My palate? Hey, what's wrong with my palate!?{#Name="Mikhail"}
+
+`Don't you like my palate, Zero?{#Name="Mikhail"}`
+Don't you like my palate, Zero?{#Name="Mikhail"}
+
+`Well, you're not exactly a gourmet.{#Name="Zero"}`
+Well, you're not exactly a gourmet.{#Name="Zero"}
+
+`What's a gourmet?{#Name="Mikhail"}`
+What's a gourmet?{#Name="Mikhail"}
+
+`Um... Well, someone like Michael, I guess.{#Name="Zero"}`
+Um... Well, someone like Michael, I guess.{#Name="Zero"}
+
+`Michael was a gourmet with a good palate?{LF}Like how?{#Name="Mikhail"}`
+Michael was a gourmet with a good palate?{LF}Like how?{#Name="Mikhail"}
+
+`He was...particular. Got mad{LF}any time I changed his diet.{#Name="Zero"}`
+He was...particular. Got mad{LF}any time I changed his diet.{#Name="Zero"}
+
+`Wow...{#Name="Mikhail"}`
+Wow...{#Name="Mikhail"}
+
+`And he'd only eat food that was perfectly fresh.{#Name="Zero"}`
+And he'd only eat food that was perfectly fresh.{#Name="Zero"}
+
+`If it was overripe? Even a little? Forget it.{#Name="Zero"}`
+If it was overripe? Even a little? Forget it.{#Name="Zero"}
+
+`Even if he was hungry?{#Name="Mikhail"}`
+Even if he was hungry?{#Name="Mikhail"}
+
+`Oh yeah. He'd go Giorni without eating if he had to.{#Name="Zero"}`
+Oh yeah. He'd go days without eating if he had to.{#Name="Zero"}
+
+`Wow! Awesome!{#Name="Mikhail"}`
+Wow! Awesome!{#Name="Mikhail"}
+
+`Trust me. Awesome is not the{LF}word you're looking for.{#Name="Zero"}`
+Trust me. Awesome is not the{LF}word you're looking for.{#Name="Zero"}
+
+`It must be really hard to make{LF}food for a gourmet, huh?{#Name="Mikhail"}`
+It must be really hard to make{LF}food for a gourmet, huh?{#Name="Mikhail"}
+
+`Heh. You have no idea. If Michael didn't like{LF}something, he'd be sure to let me know about it.{#Name="Zero"}`
+Heh. You have no idea. If Michael didn't like{LF}something, he'd be sure to let me know about it.{#Name="Zero"}
+
+`But at least it helped make me a better cook.{#Name="Zero"}`
+But at least it helped make me a better cook.{#Name="Zero"}
+
+`So are you good now? Are you the best cook ever?{#Name="Mikhail"}`
+So are you good now? Are you the best cook ever?{#Name="Mikhail"}
+
+`What do you care? You eat rotten meat, remember?{#Name="Zero"}`
+What do you care? You eat rotten meat, remember?{#Name="Zero"}
+
+`There's no point in even trying with you.{#Name="Zero"}`
+There's no point in even trying with you.{#Name="Zero"}
+
+`Aww, that's mean!{#Name="Mikhail"}`
+Aww, that's mean!{#Name="Mikhail"}
+
+`Hey, tell me more about Michael!{LF}Please, please, pleeease? I wanna know more!{#Name="Mikhail"}`
+Hey, tell me more about Michael!{LF}Please, please, pleeease? I wanna know more!{#Name="Mikhail"}
+
+`I... I forgot the rest.{#Name="Zero"}`
+I... I forgot the rest.{#Name="Zero"}
+
+`Awwwww!{#Name="Mikhail"}`
+Awwwww!{#Name="Mikhail"}
+
+`I'll try to make my palate better for you, okay?{#Name="Mikhail"}`
+I'll try to make my palate better for you, okay?{#Name="Mikhail"}
+
+`Huh?{#Name="Zero"}`
+Huh?{#Name="Zero"}
+
+`I've gotta try extra hard if I wanna{LF}be strong like Michael!{#Name="Mikhail"}`
+I've gotta try extra hard if I wanna{LF}be strong like Michael!{#Name="Mikhail"}
+
+`Oh, right. Well, good luck with that.{#Name="Zero"}`
+Oh, right. Well, good luck with that.{#Name="Zero"}
+
+`But, you know it's fine if you're{LF}not a gourmet, right?{#Name="Zero"}`
+But, you know it's fine if you're{LF}not a gourmet, right?{#Name="Zero"}
+
+`It is?{#Name="Mikhail"}`
+It is?{#Name="Mikhail"}
+
+`Yeah. Then I can feed you any old slop I find{LF}lying around. That's way easier for me.{#Name="Zero"}`
+Yeah. Then I can feed you any old slop I find{LF}lying around. That's way easier for me.{#Name="Zero"}
+
+`Aw, come on! That's just humiliating!{#Name="Mikhail"}`
+Aw, come on! That's just humiliating!{#Name="Mikhail"}
+
+`Huh. That's a pretty big word for you.{#Name="Zero"}`
+Huh. That's a pretty big word for you.{#Name="Zero"}
+
+`We did it!{#Name="Mikhail"}`
+We did it!{#Name="Mikhail"}
+
+`Now we can go back! We can go back and see everyone again!{#Name="Mikhail"}`
+Now we can go back! We can go back and see everyone again!{#Name="Mikhail"}
+
+`Yeah. That's the last thing I need right now.{#Name="Zero"}`
+Yeah. That's the last thing I need right now.{#Name="Zero"}
+
+`Huh? Don't you want to see everyone? You must!{#Name="Mikhail"}`
+Huh? Don't you want to see everyone? You must!{#Name="Mikhail"}
+
+`No, actually. I don't.{#Name="Zero"}`
+No, actually. I don't.{#Name="Zero"}
+
+`I really don't.{#Name="Zero"}`
+I really don't.{#Name="Zero"}
+
+`This concludes the supplemental repairs made to recording M4510_E0900_FL.{#Name="Accord"}`
+This concludes the supplemental repairs made to recording M4510_E0900_FL.{#Name="Accord"}
+
+`Please ensure that such mistakes do not occur again.{#Name="Accord"}`
+Please ensure that such mistakes do not occur again.{#Name="Accord"}
+
+`With this, tutti conditions have now been met.{#Name="Accord"}`
+With this, all conditions have now been met.{#Name="Accord"}
+
+`Now tutti that remains...is Branch D.{#Name="Accord"}`
+Now all that remains...is Branch D.{#Name="Accord"}
+
+`The final record of the singularity known as Zero.{#Name="Accord"}`
+The final record of the singularity known as Zero.{#Name="Accord"}
+
+`説明文`
+説明文
+
+`（リザーブ）`
+（リザーブ）
+
+`Soldier A`
+Soldier A
+
+`Soldier B`
+Soldier B
+
+`Soldier C`
+Soldier C
+
+`兵士D`
+兵士D
+
+`Soldier E`
+Soldier E
+
+`Soldier F`
+Soldier F
+
+`Soldier G`
+Soldier G
+
+`Soldier D`
+Soldier D
+
+`兵士Ｄ`
+兵士Ｄ
+
+`兵士Ｃ`
+兵士Ｃ
+
+`Accord`
+Accord
+
+`Zero`
+Zero
+
+`Mikhail`
+Mikhail
+
+`343`
+343
+
+`Wow! This city's really fancy, huh?{#Name="Mikhail"}`
+Wow! This city's really fancy, huh?{#Name="Mikhail"}
+
+`Look at tutti these buildings!{LF}They're tall! Really tall!{#Name="Mikhail"}`
+Look at all these buildings!{LF}They're tall! Really tall!{#Name="Mikhail"}
+
+`Maybe so, but the city's still dead.{#Name="Zero"}`
+Maybe so, but the city's still dead.{#Name="Zero"}
+
+`And soon it'll be drenched in blood once more.{#Name="Zero"}`
+And soon it'll be drenched in blood once more.{#Name="Zero"}
+
+`Lady Zero?{#Name="Octa"}`
+Lady Zero?{#Name="Octa"}
+
+`Yeah?{#Name="Zero"}`
+Yeah?{#Name="Zero"}
+
+`How are things proceeding up there?{#Name="Octa"}`
+How are things proceeding up there?{#Name="Octa"}
+
+`You mean besides the million and{LF}one assholes trying to kill us?{#Name="Zero"}`
+You mean besides the million and{LF}one assholes trying to kill us?{#Name="Zero"}
+
+`Ah, yes. We feel much the same{LF}down here on the ground.{#Name="Octa"}`
+Ah, yes. We feel much the same{LF}down here on the ground.{#Name="Octa"}
+
+`This is Lady One's personal guard.{#Name="Octa"}`
+This is Lady One's personal guard.{#Name="Octa"}
+
+`The fiercer they attack, the closer{LF}we must be to our goal.{#Name="Octa"}`
+The fiercer they attack, the closer{LF}we must be to our goal.{#Name="Octa"}
+
+`Good to know.{#Name="Zero"}`
+Good to know.{#Name="Zero"}
+
+`One! Get over here! Let's settle this!{#Name="Zero"}`
+One! Get over here! Let's settle this!{#Name="Zero"}
+
+`Settle down. Such shouting doesn't become you,{LF}Sister. I can hear you fine.{#Name="One"}`
+Settle down. Such shouting doesn't become you,{LF}Sister. I can hear you fine.{#Name="One"}
+
+`You transformed your dragon into a daemon.{#Name="Zero"}`
+You transformed your dragon into a daemon.{#Name="Zero"}
+
+`......{#Name="One"}`
+......{#Name="One"}
+
+`Where's the disciple you used{LF}to summon that thing?{#Name="Zero"}`
+Where's the disciple you used{LF}to summon that thing?{#Name="Zero"}
+
+`...I have no disciple.{#Name="One"}`
+...I have no disciple.{#Name="One"}
+
+`What?{#Name="Zero"}`
+What?{#Name="Zero"}
+
+`Disciples are little more than tragic,{LF}pitiful tools.{#Name="One"}`
+Disciples are little more than tragic,{LF}pitiful tools.{#Name="One"}
+
+`I have no need for such things.{#Name="One"}`
+I have no need for such things.{#Name="One"}
+
+`Heh. Same old One with her same old bullshit.{#Name="Zero"}`
+Heh. Same old One with her same old bullshit.{#Name="Zero"}
+
+`325{#Name="325"}`
+325{#Name="325"}
+
+`Controlling a dragon without a disciple?{LF}What kind of trick is that?{#Name="Zero"}`
+Controlling a dragon without a disciple?{LF}What kind of trick is that?{#Name="Zero"}
+
+`Hey! It takes more than a trick{LF}to control a dragon!{#Name="Mikhail"}`
+Hey! It takes more than a trick{LF}to control a dragon!{#Name="Mikhail"}
+
+`I bet One and her dragon are really close, too!{#Name="Mikhail"}`
+I bet One and her dragon are really close, too!{#Name="Mikhail"}
+
+`Kinda like you and me, right, Zero?{LF}Best friends forever!{#Name="Mikhail"}`
+Kinda like you and me, right, Zero?{LF}Best friends forever!{#Name="Mikhail"}
+
+`Heh. What they're bound by isn't friendship.{#Name="Zero"}`
+Heh. What they're bound by isn't friendship.{#Name="Zero"}
+
+`{06}>{#Name="Zero"}`
+{06}>{#Name="Zero"}
+
+`Nice.{#Name="Zero"}`
+Nice.{#Name="Zero"}
+
+`......{#Name="Zero"}`
+......{#Name="Zero"}
+
+`Where the hell is One?{#Name="Zero"}`
+Where the hell is One?{#Name="Zero"}
+
+`That way! She took off into that flock of wyverns!{#Name="Mikhail"}`
+That way! She took off into that flock of wyverns!{#Name="Mikhail"}
+
+`Stupid wyverns! Buncha low-class,{LF}job-stealin' bastards!{#Name="Mikhail"}`
+Stupid wyverns! Buncha low-class,{LF}job-stealin' bastards!{#Name="Mikhail"}
+
+`Lemme at 'em! I'll kill 'em tutti!{#Name="Mikhail"}`
+Lemme at 'em! I'll kill 'em all!{#Name="Mikhail"}
+
+`This wyvern thing of yours is really weird.{#Name="Zero"}`
+This wyvern thing of yours is really weird.{#Name="Zero"}
+
+`Ha ha ha ha! How's it goin' up there, Z?{#Name="Dito"}`
+Ha ha ha ha! How's it goin' up there, Z?{#Name="Dito"}
+
+`Buncha wyverns trying to kill me. How 'bout you?{#Name="Zero"}`
+Buncha wyverns trying to kill me. How 'bout you?{#Name="Zero"}
+
+`Fantastic, thanks! There's blood EVERYWHERE!{#Name="Dito"}`
+Fantastic, thanks! There's blood EVERYWHERE!{#Name="Dito"}
+
+`It's even in my EYES! HA HA HA HA HA!{#Name="Dito"}`
+It's even in my EYES! HA HA HA HA HA!{#Name="Dito"}
+
+`Er... You know what? Good for you.{#Name="Zero"}`
+Er... You know what? Good for you.{#Name="Zero"}
+
+`Zero! We're almost at the heart of the city!{#Name="Mikhail"}`
+Zero! We're almost at the heart of the city!{#Name="Mikhail"}
+
+`Right. We'd better go by foot from here.{#Name="Zero"}`
+Right. We'd better go by foot from here.{#Name="Zero"}
+
+`Kill One.{#Name="目的文"}`
+Kill One.{#Name="目的文"}
+
+`Defeat Gabriel!{#Name="説明文"}`
+Defeat Gabriel!{#Name="説明文"}
+
+`LD02:ダミー{#Name="説明文"}`
+LD02:ダミー{#Name="説明文"}
+
+`目標達成　LD00:ダミー{#Name="説明文"}`
+目標達成　LD00:ダミー{#Name="説明文"}
+
+`目標達成　LD01:ダミー{#Name="説明文"}`
+目標達成　LD01:ダミー{#Name="説明文"}
+
+`目標達成　LD02:ダミー{#Name="説明文"}`
+目標達成　LD02:ダミー{#Name="説明文"}
+
+`Zero! My fireballs don't seem to be hurting him!{#Name="Mikhail"}`
+Zero! My fireballs don't seem to be hurting him!{#Name="Mikhail"}
+
+`His skin's too tough. We're gonna{LF}have to hit his weak point.{#Name="Zero"}`
+His skin's too tough. We're gonna{LF}have to hit his weak point.{#Name="Zero"}
+
+`Hey! We're comin' up on a dead-end!{#Name="Zero"}`
+Hey! We're comin' up on a dead-end!{#Name="Zero"}
+
+`It's no good! We can't get away! We can't get away!{#Name="Mikhail"}`
+It's no good! We can't get away! We can't get away!{#Name="Mikhail"}
+
+`To conquer the nemico stronghold in the Città Cattedrale,{#Name="Accord"}`
+To conquer the enemy stronghold in the Cathedral City,{#Name="Accord"}
+
+`Zero's group decided to stage an attack from the air.{#Name="Accord"}`
+Zero's group decided to stage an attack from the air.{#Name="Accord"}
+
+`But what they found waiting for them there...{#Name="Accord"}`
+But what they found waiting for them there...{#Name="Accord"}
+
+`was none other than One herself. The final Intoner.{#Name="Accord"}`
+was none other than One herself. The final Intoner.{#Name="Accord"}
+
+`Mikhail`
+Mikhail
+
+`Zero`
+Zero
+
+`Octa`
+Octa
+
+`One`
+One
+
+`325`
+325
+
+`Dito`
+Dito
+
+`目的文`
+目的文
+
+`説明文`
+説明文
+
+`Accord`
+Accord
+
+`Make your way toward the Cathedral.{#Name="説明文"}`
+Make your way toward the Cathedral.{#Name="説明文"}
+
+`Defeat the Lancers!{#Name="説明文"}`
+Defeat the Lancers!{#Name="説明文"}
+
+`Defeat the Titan!{#Name="説明文"}`
+Defeat the Titan!{#Name="説明文"}
+
+`Defeat the Golems!{#Name="説明文"}`
+Defeat the Golems!{#Name="説明文"}
+
+`Nemico attack! Nemico attack!{#Name="Soldier A"}`
+Enemy attack! Enemy attack!{#Name="Soldier A"}
+
+`Tutti men, take position now!{#Name="Soldier B"}`
+All men, take position now!{#Name="Soldier B"}
+
+`Stay strong! Don't let 'em through!{#Name="Soldier C"}`
+Stay strong! Don't let 'em through!{#Name="Soldier C"}
+
+`We're the last line of defense...{#Name="Soldier D"}`
+We're the last line of defense...{#Name="Soldier D"}
+
+`Full speed ahead! Move! We got you covered!{#Name="Soldier B"}`
+Full speed ahead! Move! We got you covered!{#Name="Soldier B"}
+
+`Here goes!{#Name="Soldier E"}`
+Here goes!{#Name="Soldier E"}
+
+`Incoming nemici reported!{#Name="Soldier G"}`
+Incoming enemies reported!{#Name="Soldier G"}
+
+`Understood. Locate and pursue!{#Name="Soldier F"}`
+Understood. Locate and pursue!{#Name="Soldier F"}
+
+`May Lady One inherit the world!{#Name="Soldier C"}`
+May Lady One inherit the world!{#Name="Soldier C"}
+
+`Victory to our leader!{#Name="Soldier D"}`
+Victory to our leader!{#Name="Soldier D"}
+
+`Protect our Intoner! Protect her fino the end!{#Name="Soldier B"}`
+Protect our Intoner! Protect her until the end!{#Name="Soldier B"}
+
+`Charge! Full steam ahead!{#Name="Soldier E"}`
+Charge! Full steam ahead!{#Name="Soldier E"}
+
+`Are you serious?{#Name="Soldier A"}`
+Are you serious?{#Name="Soldier A"}
+
+`Of course I am! If not now, then when?{#Name="Soldier E"}`
+Of course I am! If not now, then when?{#Name="Soldier E"}
+
+`Th-That's Zero? She's...so...strong... {#Name="Soldier G"}`
+Th-That's Zero? She's...so...strong... {#Name="Soldier G"}
+
+`Hey! Stop mumbling and start fighting!{#Name="Soldier F"}`
+Hey! Stop mumbling and start fighting!{#Name="Soldier F"}
+
+`It's kill or be killed here!{#Name="Soldier F"}`
+It's kill or be killed here!{#Name="Soldier F"}
+
+`Ah... Aaaaahh! Yaaaahh!{#Name="Soldier G"}`
+Ah... Aaaaahh! Yaaaahh!{#Name="Soldier G"}
+
+`Any who can wield a weapon, follow me!{#Name="Soldier A"}`
+Any who can wield a weapon, follow me!{#Name="Soldier A"}
+
+`Wait! We can't leave the wounded behind!{#Name="Soldier E"}`
+Wait! We can't leave the wounded behind!{#Name="Soldier E"}
+
+`We can and we will! Now charge!{#Name="Soldier A"}`
+We can and we will! Now charge!{#Name="Soldier A"}
+
+`Keep attacking! We outnumber them!{#Name="Soldier B"}`
+Keep attacking! We outnumber them!{#Name="Soldier B"}
+
+`Sir, yes, sir!{#Name="Soldier G"}`
+Sir, yes, sir!{#Name="Soldier G"}
+
+`Remember who you fight for!{#Name="Soldier C"}`
+Remember who you fight for!{#Name="Soldier C"}
+
+`You want that insane lord to return and oppress us again?{#Name="Soldier E"}`
+You want that insane lord to return and oppress us again?{#Name="Soldier E"}
+
+`Lady One is the one true savior! For us and the world!{#Name="Soldier D"}`
+Lady One is the one true savior! For us and the world!{#Name="Soldier D"}
+
+`We need to fall back!{#Name="Soldier B"}`
+We need to fall back!{#Name="Soldier B"}
+
+`Never! We're charging through!{#Name="Soldier F"}`
+Never! We're charging through!{#Name="Soldier F"}
+
+`B-But...{#Name="Soldier B"}`
+B-But...{#Name="Soldier B"}
+
+`Our lives are expendable here! Now move! Forwaaaaard!{#Name="Soldier F"}`
+Our lives are expendable here! Now move! Forwaaaaard!{#Name="Soldier F"}
+
+`Zero! What should I do now?{#Name="Mikhail"}`
+Zero! What should I do now?{#Name="Mikhail"}
+
+`Support me from the air.{#Name="Zero"}`
+Support me from the air.{#Name="Zero"}
+
+`Uh...me?{#Name="Mikhail"}`
+Uh...me?{#Name="Mikhail"}
+
+`You see anyone else here who can fly?{#Name="Zero"}`
+You see anyone else here who can fly?{#Name="Zero"}
+
+`Good point! Guess I'm the best man for the job!{#Name="Mikhail"}`
+Good point! Guess I'm the best man for the job!{#Name="Mikhail"}
+
+`Th-There she is! We're under attack!{#Name="Soldier G"}`
+Th-There she is! We're under attack!{#Name="Soldier G"}
+
+`Stay calm! Give it tutti you got!{#Name="Soldier B"}`
+Stay calm! Give it all you got!{#Name="Soldier B"}
+
+`Don't let her set foot in the Cathedral!{#Name="Soldier C"}`
+Don't let her set foot in the Cathedral!{#Name="Soldier C"}
+
+`Yeah! Victory will be ours!{#Name="Soldier D"}`
+Yeah! Victory will be ours!{#Name="Soldier D"}
+
+`Retreat! Retreat!{#Name="Soldier A"}`
+Retreat! Retreat!{#Name="Soldier A"}
+
+`There's nowhere to run! Stand and fight!{#Name="Soldier E"}`
+There's nowhere to run! Stand and fight!{#Name="Soldier E"}
+
+`ううむ……全員……突撃！{#Name="兵士Ａ"}`
+ううむ……全員……突撃！{#Name="兵士Ａ"}
+
+`We'll never give Lady One over{LF}to these fiends! Never!{#Name="Soldier F"}`
+We'll never give Lady One over{LF}to these fiends! Never!{#Name="Soldier F"}
+
+`Never!{#Name="Soldier B"}`
+Never!{#Name="Soldier B"}
+
+`Captain, your orders!?{#Name="Soldier E"}`
+Captain, your orders!?{#Name="Soldier E"}
+
+`Do whatever it takes! Just kill her!{#Name="Soldier A"}`
+Do whatever it takes! Just kill her!{#Name="Soldier A"}
+
+`She must be stopped at tutti costs!{#Name="Soldier A"}`
+She must be stopped at all costs!{#Name="Soldier A"}
+
+`Oh, come on now. More of them?{#Name="Cent"}`
+Oh, come on now. More of them?{#Name="Cent"}
+
+`Bring it on! I'll tear 'em limb from limb!{#Name="Zero"}`
+Bring it on! I'll tear 'em limb from limb!{#Name="Zero"}
+
+`Sounds like trivia time! Did you know{LF}"limb from limb" originally referred{LF}to trees and not body parts?{#Name="Cent"}`
+Sounds like trivia time! Did you know{LF}"limb from limb" originally referred{LF}to trees and not body parts?{#Name="Cent"}
+
+`541{#Name="541"}`
+541{#Name="541"}
+
+`Surprise, surprise. This brainless{LF}piece of shit again.{#Name="Zero"}`
+Surprise, surprise. This brainless{LF}piece of shit again.{#Name="Zero"}
+
+`{06}>{#Name="Mikhail"}`
+{06}>{#Name="Mikhail"}
+
+`{06}>{#Name="Zero"}`
+{06}>{#Name="Zero"}
+
+`Zero!{#Name="Mikhail"}`
+Zero!{#Name="Mikhail"}
+
+`Don't worry about me!{#Name="Zero"}`
+Don't worry about me!{#Name="Zero"}
+
+`You take that black piece of shit!{#Name="Zero"}`
+You take that black piece of shit!{#Name="Zero"}
+
+`O-Okay!{#Name="Mikhail"}`
+O-Okay!{#Name="Mikhail"}
+
+`And get back safe!{#Name="Zero"}`
+And get back safe!{#Name="Zero"}
+
+`{06}>{#Name="Mikhail"}`
+{06}>{#Name="Mikhail"}
+
+`Y-You got it!{#Name="Mikhail"}`
+Y-You got it!{#Name="Mikhail"}
+
+`よっ{#Name="ディト"}`
+よっ{#Name="ディト"}
+
+`Man, this stupid dust is gettin'{LF}into tutti my cracks.{#Name="Dito"}`
+Man, this stupid dust is gettin'{LF}into all my cracks.{#Name="Dito"}
+
+`I'm gonna need a bath soon.{#Name="Dito"}`
+I'm gonna need a bath soon.{#Name="Dito"}
+
+`Whaddya say, Z? Wanna join me?{#Name="Dito"}`
+Whaddya say, Z? Wanna join me?{#Name="Dito"}
+
+`Maybe prossimo time.{#Name="Zero"}`
+Maybe next time.{#Name="Zero"}
+
+`ついに、ここまで！？{#Name="兵士Ｆ"}`
+ついに、ここまで！？{#Name="兵士Ｆ"}
+
+`全員、配置につけ！！{#Name="兵士Ａ"}`
+全員、配置につけ！！{#Name="兵士Ａ"}
+
+`第二列突破されました！{#Name="兵士Ｇ"}`
+第二列突破されました！{#Name="兵士Ｇ"}
+
+`ひるむな！門を守れ！戦うのだ！{#Name="兵士Ｂ"}`
+ひるむな！門を守れ！戦うのだ！{#Name="兵士Ｂ"}
+
+`やられた！後を頼む…{#Name="兵士Ｃ"}`
+やられた！後を頼む…{#Name="兵士Ｃ"}
+
+`おい？起きろ！死ぬな！誰か救護班を！{#Name="兵士Ｄ"}`
+おい？起きろ！死ぬな！誰か救護班を！{#Name="兵士Ｄ"}
+
+`遅い！遅い！そんなんでワンを守れるのかっ？{#Name="ゼロ"}`
+遅い！遅い！そんなんでワンを守れるのかっ？{#Name="ゼロ"}
+
+`ふほっ。敵兵総勃ちの出迎えでございますか{#Name="オクタ"}`
+ふほっ。敵兵総勃ちの出迎えでございますか{#Name="オクタ"}
+
+`いいねー。誇りも希望もナニも全部へし折っちゃえ！ {#Name="ディト"}`
+いいねー。誇りも希望もナニも全部へし折っちゃえ！ {#Name="ディト"}
+
+`門の前にいるヤツらを一掃できれば…{#Name="デカート"}`
+門の前にいるヤツらを一掃できれば…{#Name="デカート"}
+
+`え。私、頼まれてますぅう？{#Name="セント"}`
+え。私、頼まれてますぅう？{#Name="セント"}
+
+`まあ、私の腕と才能があれば、簡単ですけどぉお。土下座して頼むとか？そういうのは、ほら、もう、気持ちの問題だからぁああ{#Name="セント"}`
+まあ、私の腕と才能があれば、簡単ですけどぉお。土下座して頼むとか？そういうのは、ほら、もう、気持ちの問題だからぁああ{#Name="セント"}
+
+`オクタ！頼みたいことがあるのだが{#Name="デカート"}`
+オクタ！頼みたいことがあるのだが{#Name="デカート"}
+
+`あれ？無視？そんな照れなくていいんですけどぉお{#Name="セント"}`
+あれ？無視？そんな照れなくていいんですけどぉお{#Name="セント"}
+
+`死んだ？ねえねえ、死んだ？わっ。きったない死体！{#Name="ディト"}`
+死んだ？ねえねえ、死んだ？わっ。きったない死体！{#Name="ディト"}
+
+`救護班呼ぶ前にさぁ、せっかくだから、オマエも死んどけば？{#Name="ディト"}`
+救護班呼ぶ前にさぁ、せっかくだから、オマエも死んどけば？{#Name="ディト"}
+
+`ディト…{#Name="デカート"}`
+ディト…{#Name="デカート"}
+
+`The best dragon, at least.{#Name="Zero"}`
+The best dragon, at least.{#Name="Zero"}
+
+`Zero, you okay down there?{#Name="Mikhail"}`
+Zero, you okay down there?{#Name="Mikhail"}
+
+`I'm fine. Go take out that cannon for me.{#Name="Zero"}`
+I'm fine. Go take out that cannon for me.{#Name="Zero"}
+
+`You got it! You g—{#Name="Mikhail"}`
+You got it! You g—{#Name="Mikhail"}
+
+`What's wrong?{#Name="Zero"}`
+What's wrong?{#Name="Zero"}
+
+`I didn't repeat, Zero! I didn't repeat myself!{#Name="Mikhail"}`
+I didn't repeat, Zero! I didn't repeat myself!{#Name="Mikhail"}
+
+`You just did, dummy.{#Name="Zero"}`
+You just did, dummy.{#Name="Zero"}
+
+`This shit really is never gonna end, is it?{#Name="Zero"}`
+This shit really is never gonna end, is it?{#Name="Zero"}
+
+`Oh ho! Need someone to ease that tension?{#Name="Octa"}`
+Oh ho! Need someone to ease that tension?{#Name="Octa"}
+
+`You're not helping, Octa!{#Name="Zero"}`
+You're not helping, Octa!{#Name="Zero"}
+
+`Look at these things. Fat, ugly freaks.{LF}I wish they'd never been born.{#Name="Dito"}`
+Look at these things. Fat, ugly freaks.{LF}I wish they'd never been born.{#Name="Dito"}
+
+`That's a serious wish to make, Dito.{#Name="Decadus"}`
+That's a serious wish to make, Dito.{#Name="Decadus"}
+
+`Whatever, Decadus. Sometimes I wish{LF}you'd never been born either!{#Name="Dito"}`
+Whatever, Decadus. Sometimes I wish{LF}you'd never been born either!{#Name="Dito"}
+
+`Nnngh... Such cruel words...{#Name="Decadus"}`
+Nnngh... Such cruel words...{#Name="Decadus"}
+
+`Tutti right, let's go.{#Name="Zero"}`
+All right, let's go.{#Name="Zero"}
+
+`説明文`
+説明文
+
+`Soldier A`
+Soldier A
+
+`Soldier B`
+Soldier B
+
+`Soldier C`
+Soldier C
+
+`Soldier D`
+Soldier D
+
+`Soldier E`
+Soldier E
+
+`Soldier G`
+Soldier G
+
+`Soldier F`
+Soldier F
+
+`Mikhail`
+Mikhail
+
+`Zero`
+Zero
+
+`兵士Ａ`
+兵士Ａ
+
+`Cent`
+Cent
+
+`541`
+541
+
+`ディト`
+ディト
+
+`Dito`
+Dito
+
+`兵士Ｆ`
+兵士Ｆ
+
+`兵士Ｇ`
+兵士Ｇ
+
+`兵士Ｂ`
+兵士Ｂ
+
+`兵士Ｃ`
+兵士Ｃ
+
+`兵士Ｄ`
+兵士Ｄ
+
+`ゼロ`
+ゼロ
+
+`オクタ`
+オクタ
+
+`デカート`
+デカート
+
+`セント`
+セント
+
+`Octa`
+Octa
+
+`Decadus`
+Decadus
+
+`ここまでだ{#Name="ゼロ"}`
+ここまでだ{#Name="ゼロ"}
+
+`今、なんと？{#Name="オクタ"}`
+今、なんと？{#Name="オクタ"}
+
+`お前達はここまででいい{#Name="ゼロ"}`
+お前達はここまででいい{#Name="ゼロ"}
+
+`ここから先は私だけで行く{#Name="ゼロ"}`
+ここから先は私だけで行く{#Name="ゼロ"}
+
+`そんな……我々の事をお気遣いでしたら{#Name="デカート"}`
+そんな……我々の事をお気遣いでしたら{#Name="デカート"}
+
+`違う{#Name="ゼロ"}`
+違う{#Name="ゼロ"}
+
+`お前達使徒は、ウタウタイの力が無ければ人の形を維持出来ない{#Name="ゼロ"}`
+お前達使徒は、ウタウタイの力が無ければ人の形を維持出来ない{#Name="ゼロ"}
+
+`いずれ、消えてしまうんだ{#Name="ゼロ"}`
+いずれ、消えてしまうんだ{#Name="ゼロ"}
+
+`だからその前に{#Name="ゼロ"}`
+だからその前に{#Name="ゼロ"}
+
+`元の姿に戻れ{#Name="ゼロ"}`
+元の姿に戻れ{#Name="ゼロ"}
+
+`さよなら{#Name="ゼロ"}`
+さよなら{#Name="ゼロ"}
+
+`楽しかったよ……{#Name="ゼロ"}`
+楽しかったよ……{#Name="ゼロ"}
+
+`Head for the Cathedral.{#Name="説明文"}`
+Head for the Cathedral.{#Name="説明文"}
+
+`Defeat the Imps!{#Name="説明文"}`
+Defeat the Imps!{#Name="説明文"}
+
+`Defeat the Gray Cerberus!{#Name="説明文"}`
+Defeat the Gray Cerberus!{#Name="説明文"}
+
+`I give up... She's too strong for us... We'll never beat her...{#Name="Soldier G"}`
+I give up... She's too strong for us... We'll never beat her...{#Name="Soldier G"}
+
+`Don't you dare wimp out on us!{#Name="Soldier B"}`
+Don't you dare wimp out on us!{#Name="Soldier B"}
+
+`It's time for a full-scale attack!{#Name="Soldier A"}`
+It's time for a full-scale attack!{#Name="Soldier A"}
+
+`It's finally come to this...{#Name="Soldier E"}`
+It's finally come to this...{#Name="Soldier E"}
+
+`How could she have advanced this far?{#Name="Soldier C"}`
+How could she have advanced this far?{#Name="Soldier C"}
+
+`She's an Intoner! Intoners are the real deal, man!{#Name="Soldier D"}`
+She's an Intoner! Intoners are the real deal, man!{#Name="Soldier D"}
+
+`Retreat is not an option! Why the hell do you think we're here!?{#Name="Soldier F"}`
+Retreat is not an option! Why the hell do you think we're here!?{#Name="Soldier F"}
+
+`He's right! We fight to the end! For Lady One's sake!{#Name="Soldier G"}`
+He's right! We fight to the end! For Lady One's sake!{#Name="Soldier G"}
+
+`We must become as a shield for our Lady!{#Name="Soldier A"}`
+We must become as a shield for our Lady!{#Name="Soldier A"}
+
+`It's the only way to repay our savior!{#Name="Soldier A"}`
+It's the only way to repay our savior!{#Name="Soldier A"}
+
+`それが、我々を救ってくださったワン様への…恩返しだ{#Name="兵士Ａ"}`
+それが、我々を救ってくださったワン様への…恩返しだ{#Name="兵士Ａ"}
+
+`Zero! You abominable demon!{#Name="Soldier B"}`
+Zero! You abominable demon!{#Name="Soldier B"}
+
+`まさに、忌まわしき災い！{#Name="兵士Ｂ"}`
+まさに、忌まわしき災い！{#Name="兵士Ｂ"}
+
+`Chin up, people!{#Name="Soldier C"}`
+Chin up, people!{#Name="Soldier C"}
+
+`Chin up? We're gonna DIE!{#Name="Soldier D"}`
+Chin up? We're gonna DIE!{#Name="Soldier D"}
+
+`Then face your death with a stout heart!{#Name="Soldier C"}`
+Then face your death with a stout heart!{#Name="Soldier C"}
+

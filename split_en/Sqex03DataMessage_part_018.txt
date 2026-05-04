@@ -1,0 +1,106 @@
+Two
+One
+One's Brother
+Accord
+Phanuel
+Armaros
+Armisael
+Egregori
+Gabriel
+Raphael
+Abdiel
+Zophiel
+Galgaliel
+Ezrael
+Change Outfits/Music
+Zero
+Mikhail
+Music
+Change Zero's outfit.
+Change Mikhail's appearance.
+Change the music that plays during battle.
+Play
+Purchase Content
+Connect to PlayStation®Store to purchase downloadable content.
+This will end the current game. Are you sure?
+Zero
+Mikhail
+Music
+You must end your game before connecting to PlayStation®Store.{LF}Would you like to save your current progress?
+Connect to PlayStation®Store without saving?{LF}All unsaved progress will be lost.
+Stop
+You must sign in with your Sony Entertainment Network account to access this option.
+The parental control settings on your Sony Entertainment Network account prevent you from using online services.
+Voice
+Language
+Japanese
+English
+Change the voices used in the main game.
+Changing voices...
+Default
+-
+-
+-
+-
+-
+-
+-
+-
+-
+曲名１１
+曲名１２
+曲名１３
+曲名１４
+曲名１５
+曲名１６
+曲名１７
+曲名１８
+曲名１９
+曲名２０
+Mikhail as he usually appears.{#Name="Plain Old Mikhail"}
+-{#Name="モデル２"}
+-{#Name="モデル３"}
+-{#Name="モデル４"}
+モデルの説明が入ります{#Name="モデル５"}
+モデルの説明が入ります{#Name="モデル６"}
+モデルの説明が入ります{#Name="モデル７"}
+モデルの説明が入ります{#Name="モデル８"}
+モデルの説明が入ります{#Name="モデル９"}
+モデルの説明が入ります{#Name="モデル１０"}
+モデルの説明が入ります{#Name="モデル１１"}
+モデルの説明が入ります{#Name="モデル１２"}
+モデルの説明が入ります{#Name="モデル１３"}
+モデルの説明が入ります{#Name="モデル１４"}
+モデルの説明が入ります{#Name="モデル１５"}
+Plain Old Mikhail
+モデル２
+モデル３
+モデル４
+モデル５
+モデル６
+モデル７
+モデル８
+モデル９
+モデル１０
+モデル１１
+モデル１２
+モデル１３
+モデル１４
+モデル１５
+Zero's standard outfit.{#Name="Standard Garb"}
+衣装の説明が入ります{#Name="欠番"}
+An outfit stained in the color of blood.{LF}Fills the Blood Gauge automatically.{#Name="Bloodstained Garb"}
+-{#Name="衣装４"}
+-{#Name="衣装５"}
+-{#Name="衣装６"}
+-{#Name="衣装７"}
+-{#Name="衣装８"}
+-{#Name="衣装９"}
+-{#Name="衣装１０"}
+-{#Name="衣装１１"}
+-{#Name="衣装１２"}
+-{#Name="衣装１３"}
+衣装の説明が入ります{#Name="予備"}
+衣装の説明が入ります{#Name="予備"}
+Standard Garb
+欠番

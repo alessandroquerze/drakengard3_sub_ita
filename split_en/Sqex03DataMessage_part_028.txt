@@ -1,0 +1,106 @@
+生命の小瓶
+Recovery Potion (Max)
+神秘の欠片
+神秘の結晶
+霊長薬
+再生の刃
+Strength Potion
+高揚のコロン
+Defense Potion
+精力のコロン
+加虐の丸薬
+被虐の丸薬
+絶倫の丸薬
+衆愚の丸薬
+予備
+Healsphere (S)
+Healsphere (M)
+Healsphere (L)
+Bloodsphere (S)
+Bloodsphere (L)
+EXP Sphere
+Copper Base Material
+Silver Base Material
+Gold Base Material
+White Base Material
+Black Base Material
+海のメダル
+Rusted Copper Coin
+森のメダル
+Cracked Copper Coin
+Antique Silver Coin
+Polished Copper Coin
+Antique Gold Coin
+剣兵のメダルC
+Chalky Silver Coin
+剣兵のメダルE
+Copper Goblin Coin
+槍兵のメダルB
+Silver Merrow Coin
+Gold Valkyrie Coin
+Gold Phoenix Coin
+Copper Angelos Coin
+Silver Arche Coin
+Silver Thrones Coin
+Silver Cherub Coin
+Silver Seraph Coin
+弓兵のメダルA
+Devotion Coin
+弓兵のメダルC
+弓兵のメダルD
+Benevolence Coin
+Kindness Coin
+Affection Coin
+砲兵のメダルC
+砲兵のメダルD
+砲兵のメダルE
+魔導師のメダル
+魔導師２のメダル
+魔導師３のメダル
+アンデッドのメダル
+アンデッド２のメダル
+アンデッド３のメダル
+オーガのメダル
+オーガ２のメダル
+トロルのメダル
+トロル２のメダル
+オオカミのメダル
+オオカミ２のメダル
+騎馬兵のメダル
+騎馬兵２のメダル
+スピリットのメダル
+スピリット２のメダル
+インプのメダル
+ギガースのメダル
+ギガース２のメダル
+ギガース３のメダル
+巨人剣士のメダル
+巨人剣士２のメダル
+巨人剣士３のメダル
+ケルベロスのメダル
+ケルベロス２のメダル
+ケルベロス３のメダル
+ゴーレムのメダル
+ケンタウロスのメダル
+イーフリートのメダル
+ファヌエルのメダル
+アルサミエルのメダル
+エグリゴリのメダル
+ラファエルのメダル
+ガルガリエルのメダル
+アプディエルのメダル
+ゾフィエルのメダル
+ガブリエルのメダル
+予備のメダル１
+予備のメダル２
+予備のメダル３
+予備のメダル４
+予備のメダル５
+予備のメダル６
+予備のメダル７
+予備のメダル８
+予備のメダル９
+予備のメダル１０
+予備のメダル１１
+予備のメダル１２
+予備のメダル１３

@@ -1,0 +1,105 @@
+Acquire 3 Books of Innocence.
+Gather as much gold as you can before{LF}time expires.
+クエストクリア条件を表示　　４０３０＿２
+クエストクリア条件を表示　　４０４０＿１
+クエストクリア条件を表示　　４０４０＿２
+クエストクリア条件を表示　　５０１０＿１
+クエストクリア条件を表示　　５０１０＿２
+クエストクリア条件を表示　　５０２０＿１
+Acquire 3 Meteorite stones.
+Acquire 3 Old-World Shards.
+Acquire 3 Books of Discipline.
+クエストクリア条件を表示　　５０３０＿１
+Acquire 7 Cometstones.
+Acquire 8 Old-World Artifacts.
+Acquire 9 Books of Doctrine.
+Gather as much gold as you can before{LF}time expires.
+クエストクリア条件を表示　　５０４０＿２
+Next
+Select
+Experience Earned:
+Longest Chain:
+Damage Taken:
+No-continue Bonus:
+Total Experience Earned:
+hits
+exp
+Lv.
+Next Level:
+Health
+Stamina
+Attack
+Loyalty
+Rank
+Next Rank
+The mere thought of her using my weapon...{LF}Such...wondrous humiliation...
+{04}
+Your trust with {04}
+Total Gold:
+Gold Earned:
+Gold
+Treasure Chest
+New weapon obtained!
+{04}
+{04}
+Here you go, "Lady Zero." Maybe this'll help.
+Mikhail evolved into his second form!
+Mikhail evolved into his final form!
+Mikhail devolved!
+Request #{04}
+Completion Time:
+Enemies Defeated:
+Objects Destroyed:
+Spheres Obtained:
+Experience Earned:
+Gold Earned:
+{04}
+×
+＝
+Base Materials
+Exit the results screen?
+Iron Ore
+Low-Quality Iron Ore
+High-Quality Iron Ore
+{04}
+Enemies Defeated:
+Objects Destroyed:
+Spheres Obtained:
+Completion Time:
+{04}
+Damage: 
+xyz
+yza
+zab
+? ? ?
+{04}
+Branch A complete.
+Branch B complete.
+Branch C complete.
+All lost verses complete.
+Request unlocked in the Land of Seas.{LF}Access it from the Chapter Select menu.
+Request unlocked in the Land of Mountains.{LF}Access it from the Chapter Select menu.
+Request unlocked in the Land of Forests.{LF}Access it from the Chapter Select menu.
+Request unlocked in the Land of Sands.{LF}Access it from the Chapter Select menu.
+Request unlocked in the Cathedral City.{LF}Access it from the Chapter Select menu.
+Zero's Blade is now Lv. {04}
+Thank you for letting me join you, my lady.{LF}Please, keep this as a symbol of my loyalty.
+I want nothing more than to serve my Intoner...{LF}And perhaps look good while doing it.
+Airship acquired!
+Zero's Blade is now Lv. 2!
+Zero's Blade is now Lv. 3!
+Zero's Blade is now Lv. 4!
+You've been cleanin' up lately.{LF}Maybe you can handle this now.
+Permit me to repay you for your kindness, my lady.{LF}I hope to suffer more...much more...of it soon.
+A symbol of loyalty from me to you, my lady.{LF}May our mutual enjoyment endure for all time...and then some.
+Yeah, maybe feel free to thank me now?{LF}I mean, I have been rather helpful.
+Accord has posted a new request:
+Access it from the Chapter Select menu!
+Three Land of Seas requests completed!{LF}Bonus request "{04}
+Three Land of Mountains requests completed!{LF}Bonus request "{04}
+Three Land of Forests requests completed!{LF}Bonus request "{04}
+Three Land of Sands requests completed!{LF}Bonus request "{04}
+Three Cathedral City requests completed!{LF}Bonus request "{04}
+Completion Bonus:
+Mission Completion Bonus!
+{04}
