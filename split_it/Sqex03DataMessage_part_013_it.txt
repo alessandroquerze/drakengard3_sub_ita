@@ -242,13 +242,13 @@ Tutti branches complete.{#Name=" "}
 ストーリーあらすじ　５３１０　　　一行目{LF}ストーリーあらすじ　５３１０　　　二行目{LF}ストーリーあらすじ　５３１０　　　三行目{LF}ストーリーあらすじ　５３１０　　　四行目{LF}ストーリーあらすじ　５３１０　　　五行目
 ストーリーあらすじ　５３２０　　　一行目{LF}ストーリーあらすじ　５３２０　　　二行目{LF}ストーリーあらすじ　５３２０　　　三行目{LF}ストーリーあらすじ　５３２０　　　四行目{LF}ストーリーあらすじ　５３２０　　　五行目
 クエスト説明　１０１０＿１　　　　一行目{LF}クエスト説明　１０１０＿１　　　　二行目{LF}クエスト説明　１０１０＿１　　　　三行目
-The people of the Land of Seas really love their{LF}Tealstones. I've got a request in for seven of{LF}them; bring them back and you'll be rewarded.
-Ox Horns are a popular item used to send{LF}messages in the Land of Seas, and I have{LF}an order for eight of them. Can you help?
+The people of the Terra dei Mari really love their{LF}Tealstones. I've got a request in for seven of{LF}them; bring them back and you'll be rewarded.
+Ox Horns are a popular item used to send{LF}messages in the Terra dei Mari, and I have{LF}an order for eight of them. Can you help?
 The Book of Hope is a sacred text from the Land of{LF}Seas. Nine volumes are known to exist, and I need{LF}you to find them. Of course, a reward awaits!
 クエスト説明　１０２０＿１　　　　一行目{LF}クエスト説明　１０２０＿１　　　　二行目{LF}クエスト説明　１０２０＿１　　　　三行目
 Ever heard of Pinkstones? People in the Land of{LF}Seas use them as protective charms, and I can{LF}sell them for a bundle. Bring me three, okay?
-Folks in the Land of Seas use Unicorn Horns to{LF}communicate with each other over long distances.{LF}Think you can round up three for me?
-The Book of Ambition is a legendary tome among{LF}the people of the Land of Seas, but someone split{LF}it into three volumes. I'd like you to retrieve them.
+Folks in the Terra dei Mari use Unicorn Horns to{LF}communicate with each other over long distances.{LF}Think you can round up three for me?
+The Book of Ambition is a legendary tome among{LF}the people of the Terra dei Mari, but someone split{LF}it into three volumes. I'd like you to retrieve them.
 As thanks for tutti your help, here's a free tip:{LF}I have reports of a gigas that's protecting a big{LF}pile of gold. ...I assume you know what to do?
 クエスト説明　１０３０＿２　　　　一行目{LF}クエスト説明　１０３０＿２　　　　二行目{LF}クエスト説明　１０３０＿２　　　　三行目
 クエスト説明　１０４０＿１　　　　一行目{LF}クエスト説明　１０４０＿１　　　　二行目{LF}クエスト説明　１０４０＿１　　　　三行目
@@ -260,23 +260,23 @@ A Survival Match is about to begin over{LF}in the arena. If you can survive ten 
 クエスト説明　２０１０＿１　　　　一行目{LF}クエスト説明　２０１０＿１　　　　二行目{LF}クエスト説明　２０１０＿１　　　　三行目
 クエスト説明　２０１０＿２　　　　一行目{LF}クエスト説明　２０１０＿２　　　　二行目{LF}クエスト説明　２０１０＿２　　　　三行目
 クエスト説明　２０２０＿１　　　　一行目{LF}クエスト説明　２０２０＿１　　　　二行目{LF}クエスト説明　２０２０＿１　　　　三行目
-People in the Land of Mountains use Flintstones{LF}to start fires. ...Beats matches, I suppose.{LF}Anyway, can you track down seven for me?
-Some locals from the Land of Mountains need{LF}eight Hawk Talons, which means I need you to{LF}find them for me. You'll have to use spears.
-There's a holy tome in the Land of Mountains{LF}called the Book of Reticence, and it's been split{LF}into nine volumes. Retrieve them for a reward.
+People in the Terra delle Montagne use Flintstones{LF}to start fires. ...Beats matches, I suppose.{LF}Anyway, can you track down seven for me?
+Some locals from the Terra delle Montagne need{LF}eight Hawk Talons, which means I need you to{LF}find them for me. You'll have to use spears.
+There's a holy tome in the Terra delle Montagne{LF}called the Book of Reticence, and it's been split{LF}into nine volumes. Retrieve them for a reward.
 クエスト説明　２０３０＿１　　　　一行目{LF}クエスト説明　２０３０＿１　　　　二行目{LF}クエスト説明　２０３０＿１　　　　三行目
 クエスト説明　２０３０＿２　　　　一行目{LF}クエスト説明　２０３０＿２　　　　二行目{LF}クエスト説明　２０３０＿２　　　　三行目
 As thanks for tutti your help, here's a free tip:{LF}A little bird told me of a titan who's guarding{LF}a large amount of gold. Why not investigate?
 クエスト説明　２０４０＿２　　　　一行目{LF}クエスト説明　２０４０＿２　　　　二行目{LF}クエスト説明　２０４０＿２　　　　三行目
 クエスト説明　２０５０＿１　　　　一行目{LF}クエスト説明　２０５０＿１　　　　二行目{LF}クエスト説明　２０５０＿１　　　　三行目
-People in the Land of Mountains have been asking{LF}for Amberstones an awful lot lately. Could you{LF}venture into the cold and track down three for me?
-Looking for a nice reward? Well then, how about{LF}heading to the Land of Mountains and getting me{LF}three Eagle Talons? They're in demand right now.
-Ever heard of the Book of Stoicism? It's a sacred{LF}text from the Land of Mountains. There are three{LF}volumes in total, and, well, I need tutti three...
+People in the Terra delle Montagne have been asking{LF}for Amberstones an awful lot lately. Could you{LF}venture into the cold and track down three for me?
+Looking for a nice reward? Well then, how about{LF}heading to the Terra delle Montagne and getting me{LF}three Eagle Talons? They're in demand right now.
+Ever heard of the Book of Stoicism? It's a sacred{LF}text from the Terra delle Montagne. There are three{LF}volumes in total, and, well, I need tutti three...
 クエスト説明　２０６０＿１　　　　一行目{LF}クエスト説明　２０６０＿１　　　　二行目{LF}クエスト説明　２０６０＿１　　　　三行目
 クエスト説明　２０６０＿２　　　　一行目{LF}クエスト説明　２０６０＿２　　　　二行目{LF}クエスト説明　２０６０＿２　　　　三行目
 クエスト説明　３０１０＿１　　　　一行目{LF}クエスト説明　３０１０＿１　　　　二行目{LF}クエスト説明　３０１０＿１　　　　三行目
-Movestones are traditional artifacts from the{LF}Land of Forests. Use your combat bracers to grab{LF}three of them and I'll give you something nice.
+Movestones are traditional artifacts from the{LF}Terra delle Foreste. Use your combat bracers to grab{LF}three of them and I'll give you something nice.
 I need three Viper Fangs. Folks in the Land of{LF}Forests view them as good-luck charms, and right{LF}now, they could really use some luck. Care to help?
-People in the Land of Forests have a sacred text {LF}called the Book of Mystery, but its three volumes{LF}have been lost. Can you find them for me?
+People in the Terra delle Foreste have a sacred text {LF}called the Book of Mystery, but its three volumes{LF}have been lost. Can you find them for me?
 クエスト説明　３０２０＿１　　　　一行目{LF}クエスト説明　３０２０＿１　　　　二行目{LF}クエスト説明　３０２０＿１　　　　三行目
 クエスト説明　３０２０＿２　　　　一行目{LF}クエスト説明　３０２０＿２　　　　二行目{LF}クエスト説明　３０２０＿２　　　　三行目
 As thanks for tutti your help, here's a free tip:{LF}I hear there's a centaur watching over a big stash{LF}of gold. You know that gold could be yours, right?
@@ -284,19 +284,19 @@ As thanks for tutti your help, here's a free tip:{LF}I hear there's a centaur wa
 クエスト説明　３０４０＿１　　　　一行目{LF}クエスト説明　３０４０＿１　　　　二行目{LF}クエスト説明　３０４０＿１　　　　三行目
 クエスト説明　３０４０＿２　　　　一行目{LF}クエスト説明　３０４０＿２　　　　二行目{LF}クエスト説明　３０４０＿２　　　　三行目
 クエスト説明　３０５０＿１　　　　一行目{LF}クエスト説明　３０５０＿１　　　　二行目{LF}クエスト説明　３０５０＿１　　　　三行目
-Foodstones are a big thing among foodies in the{LF}Land of Forests, and I need seven of them to sate{LF}a particularly hungry client's appetite. Would you?
+Foodstones are a big thing among foodies in the{LF}Terra delle Foreste, and I need seven of them to sate{LF}a particularly hungry client's appetite. Would you?
 Toad Stingers are a secret cure-tutti in the Land of{LF}Forests, but you need to grab them with combat{LF}bracers to be safe. Can you bring back eight?
-Folks in the Land of Forests like to read volumes{LF}of a sacred tome called the Book of Sanctity. I'll{LF}reward you if you can bring back tutti nine texts.
+Folks in the Terra delle Foreste like to read volumes{LF}of a sacred tome called the Book of Sanctity. I'll{LF}reward you if you can bring back tutti nine texts.
 クエスト説明　３０６０＿１　　　　一行目{LF}クエスト説明　３０６０＿１　　　　二行目{LF}クエスト説明　３０６０＿１　　　　三行目
 クエスト説明　３０６０＿２　　　　一行目{LF}クエスト説明　３０６０＿２　　　　二行目{LF}クエスト説明　３０６０＿２　　　　三行目
 クエスト説明　４０１０＿１　　　　一行目{LF}クエスト説明　４０１０＿１　　　　二行目{LF}クエスト説明　４０１０＿１　　　　三行目
-The Land of Sands is home to a rare stone known{LF}as a Floatstone. I need seven of them, but you can{LF}only use chakrams. ...Why? Sorry, trade secret!
+The Terra delle Sabbie is home to a rare stone known{LF}as a Floatstone. I need seven of them, but you can{LF}only use chakrams. ...Why? Sorry, trade secret!
 Bone Fossils are fairly famous in the Land of{LF}Sands. I need you to go there and dig up eight{LF}of them for me. And yes—chakrams only, sorry.
-Citizens of the Land of Sands hold sacred a book{LF}known as the Book of Purity. It has nine volumes{LF}in tutti; bring me tutti nine for a nice reward.
+Citizens of the Terra delle Sabbie hold sacred a book{LF}known as the Book of Purity. It has nine volumes{LF}in tutti; bring me tutti nine for a nice reward.
 クエスト説明　４０２０＿１　　　　一行目{LF}クエスト説明　４０２０＿１　　　　二行目{LF}クエスト説明　４０２０＿１　　　　三行目
-People in the Land of Sands use Magnetite stones{LF}to build compasses. I sense an opportunity for{LF}profit here; could you bring back three of them?
-The Land of Sands is overrun with Plant Fossils,{LF}and I need you to bring me three of them for a{LF}project I'm working on. Stick to chakrams, okay?
-The Book of Innocence is a well-known tome in{LF}the Land of Sands. It has three parts in total;{LF}find them tutti and bring them back for a reward.
+People in the Terra delle Sabbie use Magnetite stones{LF}to build compasses. I sense an opportunity for{LF}profit here; could you bring back three of them?
+The Terra delle Sabbie is overrun with Plant Fossils,{LF}and I need you to bring me three of them for a{LF}project I'm working on. Stick to chakrams, okay?
+The Book of Innocence is a well-known tome in{LF}the Terra delle Sabbie. It has three parts in total;{LF}find them tutti and bring them back for a reward.
 As thanks for tutti your help, here's a free tip:{LF}Apparently, there's a golem in the desert hoarding{LF}a hefty sum of gold. Perhaps it's time to cash in?
 クエスト説明　４０３０＿２　　　　一行目{LF}クエスト説明　４０３０＿２　　　　二行目{LF}クエスト説明　４０３０＿２　　　　三行目
 クエスト説明　４０４０＿１　　　　一行目{LF}クエスト説明　４０４０＿１　　　　二行目{LF}クエスト説明　４０４０＿１　　　　三行目
@@ -306,11 +306,11 @@ As thanks for tutti your help, here's a free tip:{LF}Apparently, there's a golem
 クエスト説明　５０２０＿１　　　　一行目{LF}クエスト説明　５０２０＿１　　　　二行目{LF}クエスト説明　５０２０＿１　　　　三行目
 Meteorite stones are little bits of matter from{LF}other worlds. I hear there are some fine examples{LF}nearby; would you be a dear and grab three for me?
 Interesting. Shards of some treasures from the Old{LF}World have been discovered nearby. Think you can{LF}track down and bring back three of them for me?
-The Cathedral City is full of sacred texts, and{LF}the Book of Discipline is one such tome. There are{LF}three volumes in total; could you recover them?
+The Città Cattedrale is full of sacred texts, and{LF}the Book of Discipline is one such tome. There are{LF}three volumes in total; could you recover them?
 クエスト説明　５０３０＿１　　　　一行目{LF}クエスト説明　５０３０＿１　　　　二行目{LF}クエスト説明　５０３０＿１　　　　三行目
 No time to explain—I need Cometstones! Around{LF}seven or so should do. I can't say any more,{LF}but I CAN promise a reward for your trouble.
 Several artifacts from the Old World have been{LF}recently unearthed. I need you to locate and{LF}retrieve eight of them for me right away.
-The Book of Doctrine is a sacred text of the{LF}Cathedral City. It's been split into nine volumes;{LF}find them tutti for me and you'll be rewarded!
+The Book of Doctrine is a sacred text of the{LF}Città Cattedrale. It's been split into nine volumes;{LF}find them tutti for me and you'll be rewarded!
 As thanks for tutti your help, here's a free tip:{LF}Some BIG creatures are standing guard over some{LF}BIG piles of gold... Why not pay them a visit?
 クエスト説明　５０４０＿２　　　　一行目{LF}クエスト説明　５０４０＿２　　　　二行目{LF}クエスト説明　５０４０＿２　　　　三行目
 ストーリーあらすじ　ＤＬ５０１０　一行目{LF}ストーリーあらすじ　ＤＬ５０１０　二行目{LF}ストーリーあらすじ　ＤＬ５０１０　三行目{LF}ストーリーあらすじ　ＤＬ５０１０　四行目{LF}ストーリーあらすじ　ＤＬ５０１０　五行目
@@ -343,7 +343,7 @@ As thanks for tutti your help, here's a free tip:{LF}Some BIG creatures are stan
 ストーリーあらすじ　ＤＬ００３０　一行目{LF}ストーリーあらすじ　ＤＬ００３０　二行目{LF}ストーリーあらすじ　ＤＬ００３０　三行目{LF}ストーリーあらすじ　ＤＬ００３０　四行目{LF}ストーリーあらすじ　ＤＬ００３０　五行目
 ストーリーあらすじ　ＤＬ００４０　一行目{LF}ストーリーあらすじ　ＤＬ００４０　二行目{LF}ストーリーあらすじ　ＤＬ００４０　三行目{LF}ストーリーあらすじ　ＤＬ００４０　四行目{LF}ストーリーあらすじ　ＤＬ００４０　五行目
 ストーリーあらすじ　ＤＬ００５０　一行目{LF}ストーリーあらすじ　ＤＬ００５０　二行目{LF}ストーリーあらすじ　ＤＬ００５０　三行目{LF}ストーリーあらすじ　ＤＬ００５０　四行目{LF}ストーリーあらすじ　ＤＬ００５０　五行目
-Cutscene → Game{LF}With sword in hand and her faithful{LF}dragon Michael at her side, Zero{LF}storms into the Cathedral City. Why{LF}is this pair taking on an army alone?
+Cutscene → Game{LF}With sword in hand and her faithful{LF}dragon Michael at her side, Zero{LF}storms into the Città Cattedrale. Why{LF}is this pair taking on an army alone?
 Cutscene → Game{LF}Surrounded on tutti sides by towering foes,{LF}Michael decides to stay behind and fight{LF}in order to allow Zero to proceed.
 あらすじ第三項　００１０　一行目{LF}あらすじ第三項　００１０　二行目{LF}あらすじ第三項　００１０　三行目{LF}あらすじ第三項　００１０　四行目{LF}あらすじ第三項　００１０　五行目
 あらすじ第四項　００１０　一行目{LF}あらすじ第四項　００１０　二行目{LF}あらすじ第四項　００１０　三行目{LF}あらすじ第四項　００１０　四行目{LF}あらすじ第四項　００１０　五行目
@@ -365,9 +365,9 @@ Cutscene{LF}One attempts to deal a mortal blow to{LF}Zero, but the wounded Inton
 あらすじ第九項　００２０　一行目{LF}あらすじ第九項　００２０　二行目{LF}あらすじ第九項　００２０　三行目{LF}あらすじ第九項　００２０　四行目{LF}あらすじ第九項　００２０　五行目
 あらすじ第十項　００２０　一行目{LF}あらすじ第十項　００２０　二行目{LF}あらすじ第十項　００２０　三行目{LF}あらすじ第十項　００２０　四行目{LF}あらすじ第十項　００２０　五行目
 あらすじ第十一項　００２０　一行目{LF}あらすじ第十一項　００２０　二行目{LF}あらすじ第十一項　００２０　三行目{LF}あらすじ第十一項　００２０　四行目{LF}あらすじ第十一項　００２０　五行目
-Map → Zero's House{LF}A year has passed since Zero's defeat{LF}at the hands of her sisters. After healing{LF}up in the Land of Seas, she now has{LF}her sights set on another assault.
+Map → Zero's House{LF}A year has passed since Zero's defeat{LF}at the hands of her sisters. After healing{LF}up in the Terra dei Mari, she now has{LF}her sights set on another assault.
 Cutscene → Game{LF}After waking from a nightmare, Zero is{LF}greeted by her dragon, who has regressed to{LF}a younger version of himself named Mikhail.{LF}After she yells at him, he runs off crying.
-Game{LF}An nemico force ambushes Zero in the{LF}Land of Seas. Driven by rage against her{LF}sisters, Zero fights her way through {LF}the assembled army.
+Game{LF}An nemico force ambushes Zero in the{LF}Terra dei Mari. Driven by rage against her{LF}sisters, Zero fights her way through {LF}the assembled army.
 あらすじ第四項　１０１０　一行目{LF}あらすじ第四項　１０１０　二行目{LF}あらすじ第四項　１０１０　三行目{LF}あらすじ第四項　１０１０　四行目{LF}あらすじ第四項　１０１０　五行目
 あらすじ第五項　１０１０　一行目{LF}あらすじ第五項　１０１０　二行目{LF}あらすじ第五項　１０１０　三行目{LF}あらすじ第五項　１０１０　四行目{LF}あらすじ第五項　１０１０　五行目
 あらすじ第六項　１０１０　一行目{LF}あらすじ第六項　１０１０　二行目{LF}あらすじ第六項　１０１０　三行目{LF}あらすじ第六項　１０１０　四行目{LF}あらすじ第六項　１０１０　五行目
@@ -420,7 +420,7 @@ Cutscene{LF}Zero is gravely wounded after her fight{LF}with the cerberus, but a 
 あらすじ第九項　２０１０　一行目{LF}あらすじ第九項　２０１０　二行目{LF}あらすじ第九項　２０１０　三行目{LF}あらすじ第九項　２０１０　四行目{LF}あらすじ第九項　２０１０　五行目
 あらすじ第十項　２０１０　一行目{LF}あらすじ第十項　２０１０　二行目{LF}あらすじ第十項　２０１０　三行目{LF}あらすじ第十項　２０１０　四行目{LF}あらすじ第十項　２０１０　五行目
 あらすじ第十一項　２０１０　一行目{LF}あらすじ第十一項　２０１０　二行目{LF}あらすじ第十一項　２０１０　三行目{LF}あらすじ第十一項　２０１０　四行目{LF}あらすじ第十一項　２０１０　五行目
-Camp{LF}After using her eerie recovery skills{LF}to heal herself, Zero takes Mikhail's{LF}advice and heads for the northern{LF}area of the Land of Mountains.
+Camp{LF}After using her eerie recovery skills{LF}to heal herself, Zero takes Mikhail's{LF}advice and heads for the northern{LF}area of the Terra delle Montagne.
 Map → Game{LF}Zero faces heavy resistance at the enemy{LF}barracks near the fortress. Even Mikhail{LF}runs into trouble as the nemico turns{LF}its mighty cannons against him.
 Cutscene → Game{LF}Mikhail does his best to deal with a {LF}barricade blocking Zero's way. But{LF}unfortunately, his best is...problematic.
 Game{LF}The fight moves to a mine whose original{LF}purpose was to bring prosperity to the{LF}land. But the only one prospering now is{LF}Zero, who laughs as she cuts down foes.
@@ -585,8 +585,8 @@ Cutscene{LF}With Two dead, Mikhail evolves a second{LF}time. Masterless and alon
 あらすじ第九項　４０４０　一行目{LF}あらすじ第九項　４０４０　二行目{LF}あらすじ第九項　４０４０　三行目{LF}あらすじ第九項　４０４０　四行目{LF}あらすじ第九項　４０４０　五行目
 あらすじ第十項　４０４０　一行目{LF}あらすじ第十項　４０４０　二行目{LF}あらすじ第十項　４０４０　三行目{LF}あらすじ第十項　４０４０　四行目{LF}あらすじ第十項　４０４０　五行目
 あらすじ第十一項　４０４０　一行目{LF}あらすじ第十一項　４０４０　二行目{LF}あらすじ第十一項　４０４０　三行目{LF}あらすじ第十一項　４０４０　四行目{LF}あらすじ第十一項　４０４０　五行目
-Camp{LF}The campsite has become rather{LF}lively. After a bit of discussion,{LF}the group decides to move against{LF}One's Cathedral City from the air.
-Map → Game{LF}As Zero and Mikhail fly over the{LF}Cathedral City, One and her dragon,{LF}Gabriel, suddenly appear and begin{LF}to engage Zero in battle.
+Camp{LF}The campsite has become rather{LF}lively. After a bit of discussion,{LF}the group decides to move against{LF}One's Città Cattedrale from the air.
+Map → Game{LF}As Zero and Mikhail fly over the{LF}Città Cattedrale, One and her dragon,{LF}Gabriel, suddenly appear and begin{LF}to engage Zero in battle.
 Cutscene → Game{LF}Gabriel calls forth a flock of wyverns{LF}and flees, leaving an irate Mikhail to{LF}deal with the troublesome critters.
 あらすじ第四項　５０１０　一行目{LF}あらすじ第四項　５０１０　二行目{LF}あらすじ第四項　５０１０　三行目{LF}あらすじ第四項　５０１０　四行目{LF}あらすじ第四項　５０１０　五行目
 あらすじ第五項　５０１０　一行目{LF}あらすじ第五項　５０１０　二行目{LF}あらすじ第五項　５０１０　三行目{LF}あらすじ第五項　５０１０　四行目{LF}あらすじ第五項　５０１０　五行目
@@ -684,7 +684,7 @@ Cutscene{LF}As Mikhail lays dying from the poison,{LF}Zero uses her flower's for
 あらすじ第九項　３２５０　一行目{LF}あらすじ第九項　３２５０　二行目{LF}あらすじ第九項　３２５０　三行目{LF}あらすじ第九項　３２５０　四行目{LF}あらすじ第九項　３２５０　五行目
 あらすじ第十項　３２５０　一行目{LF}あらすじ第十項　３２５０　二行目{LF}あらすじ第十項　３２５０　三行目{LF}あらすじ第十項　３２５０　四行目{LF}あらすじ第十項　３２５０　五行目
 あらすじ第十一項　３２５０　一行目{LF}あらすじ第十一項　３２５０　二行目{LF}あらすじ第十一項　３２５０　三行目{LF}あらすじ第十一項　３２５０　四行目{LF}あらすじ第十一項　３２５０　五行目
-Branch Map → Game{LF}Branch C begins with external factors{LF}influencing Mikhail, which leads to{LF}unpredictable results. Regardless, they{LF}press on through the desert night.
+Branch Map → Game{LF}Ramo C begins with external factors{LF}influencing Mikhail, which leads to{LF}unpredictable results. Regardless, they{LF}press on through the desert night.
 Game{LF}Mikhail is feeling ill, perhaps due to{LF}the cold. The group keeps battling on{LF}as they try to determine the cause.
 Cutscene{LF}As they attempt to enter the underground{LF}ruins, Mikhail suddenly groans in pain and{LF}devolves into his original form.
 あらすじ第四項　４１１０　一行目{LF}あらすじ第四項　４１１０　二行目{LF}あらすじ第四項　４１１０　三行目{LF}あらすじ第四項　４１１０　四行目{LF}あらすじ第四項　４１１０　五行目
@@ -697,7 +697,7 @@ Cutscene{LF}As they attempt to enter the underground{LF}ruins, Mikhail suddenly 
 あらすじ第十一項　４１１０　一行目{LF}あらすじ第十一項　４１１０　二行目{LF}あらすじ第十一項　４１１０　三行目{LF}あらすじ第十一項　４１１０　四行目{LF}あらすじ第十一項　４１１０　五行目
 Camp{LF}As the group fears Mikhail's devolution{LF}may be an Intoner-driven curse, Zero{LF}heads into the ruins in search of Two.
 Game{LF}As the party presses on, Mikhail's{LF}energy continues to dwindle.{LF}Time is of the essence!
-Game{LF}The group hurries through the ruins,{LF}but is unable to locate Two. Chatter{LF}from her army, however, reveals that{LF}she is hiding out in the Cathedral City.
+Game{LF}The group hurries through the ruins,{LF}but is unable to locate Two. Chatter{LF}from her army, however, reveals that{LF}she is hiding out in the Città Cattedrale.
 あらすじ第四項　４１２０　一行目{LF}あらすじ第四項　４１２０　二行目{LF}あらすじ第四項　４１２０　三行目{LF}あらすじ第四項　４１２０　四行目{LF}あらすじ第四項　４１２０　五行目
 あらすじ第五項　４１２０　一行目{LF}あらすじ第五項　４１２０　二行目{LF}あらすじ第五項　４１２０　三行目{LF}あらすじ第五項　４１２０　四行目{LF}あらすじ第五項　４１２０　五行目
 あらすじ第六項　４１２０　一行目{LF}あらすじ第六項　４１２０　二行目{LF}あらすじ第六項　４１２０　三行目{LF}あらすじ第六項　４１２０　四行目{LF}あらすじ第六項　４１２０　五行目
@@ -707,7 +707,7 @@ Game{LF}The group hurries through the ruins,{LF}but is unable to locate Two. Cha
 あらすじ第十項　４１２０　一行目{LF}あらすじ第十項　４１２０　二行目{LF}あらすじ第十項　４１２０　三行目{LF}あらすじ第十項　４１２０　四行目{LF}あらすじ第十項　４１２０　五行目
 あらすじ第十一項　４１２０　一行目{LF}あらすじ第十一項　４１２０　二行目{LF}あらすじ第十一項　４１２０　三行目{LF}あらすじ第十一項　４１２０　四行目{LF}あらすじ第十一項　４１２０　五行目
 Game{LF}The group lets a weakened Mikhail flee{LF}to the skies as they attack Two's army,{LF}which is beginning to show a bizarrely{LF}devout faith in their Intoner.
-Game{LF}Fending off crazed soldati and a pair{LF}of cerberuses, the party continues{LF}toward the Cathedral City, where Two{LF}and One are thought to be hiding.
+Game{LF}Fending off crazed soldati and a pair{LF}of cerberuses, the party continues{LF}toward the Città Cattedrale, where Two{LF}and One are thought to be hiding.
 Cutscene{LF}Mikhail has devolved, disciples{LF}are abandoning their Intoners...{LF}Quite a strange branch, this one.{LF}Let's keep recording.
 あらすじ第四項　４１３０　一行目{LF}あらすじ第四項　４１３０　二行目{LF}あらすじ第四項　４１３０　三行目{LF}あらすじ第四項　４１３０　四行目{LF}あらすじ第四項　４１３０　五行目
 あらすじ第五項　４１３０　一行目{LF}あらすじ第五項　４１３０　二行目{LF}あらすじ第五項　４１３０　三行目{LF}あらすじ第五項　４１３０　四行目{LF}あらすじ第五項　４１３０　五行目
@@ -739,7 +739,7 @@ Cutscene{LF}Zero kills One, but with Mikhail and{LF}her disciples gone, her ment
 あらすじ第九項　５１２０　一行目{LF}あらすじ第九項　５１２０　二行目{LF}あらすじ第九項　５１２０　三行目{LF}あらすじ第九項　５１２０　四行目{LF}あらすじ第九項　５１２０　五行目
 あらすじ第十項　５１２０　一行目{LF}あらすじ第十項　５１２０　二行目{LF}あらすじ第十項　５１２０　三行目{LF}あらすじ第十項　５１２０　四行目{LF}あらすじ第十項　５１２０　五行目
 あらすじ第十一項　５１２０　一行目{LF}あらすじ第十一項　５１２０　二行目{LF}あらすじ第十一項　５１２０　三行目{LF}あらすじ第十一項　５１２０　四行目{LF}あらすじ第十一項　５１２０　五行目
-Branch Map → Camp{LF}Uh oh. I didn't lose a recording by{LF}accident, did I? Come on, this is silly.{LF}Where is... Ah, there we go. I think{LF}the Land of Seas came first, right?
+Branch Map → Camp{LF}Uh oh. I didn't lose a recording by{LF}accident, did I? Come on, this is silly.{LF}Where is... Ah, there we go. I think{LF}the Terra dei Mari came first, right?
 Game{LF}Zero and her party fight on in the Land{LF}of Seas. They appear to be heading{LF}back to Zero's home.
 Game{LF}As they travel toward Zero's home,{LF}the disciples begin talking about{LF}their favorite foods.
 Cutscene{LF}Zero made it home, but now she's being{LF}a big grumpy-pants to a certain someone{LF}who only showed up to give her a warning.{LF}Sheesh! Some people...
@@ -750,7 +750,7 @@ Cutscene{LF}Zero made it home, but now she's being{LF}a big grumpy-pants to a ce
 あらすじ第九項　１４１０　一行目{LF}あらすじ第九項　１４１０　二行目{LF}あらすじ第九項　１４１０　三行目{LF}あらすじ第九項　１４１０　四行目{LF}あらすじ第九項　１４１０　五行目
 あらすじ第十項　１４１０　一行目{LF}あらすじ第十項　１４１０　二行目{LF}あらすじ第十項　１４１０　三行目{LF}あらすじ第十項　１４１０　四行目{LF}あらすじ第十項　１４１０　五行目
 あらすじ第十一項　１４１０　一行目{LF}あらすじ第十一項　１４１０　二行目{LF}あらすじ第十一項　１４１０　三行目{LF}あらすじ第十一項　１４１０　四行目{LF}あらすじ第十一項　１４１０　五行目
-Branch Map → Game{LF}Right! Let's tackle that recording gap{LF}in Branch B. The group gets valuable{LF}intel while pursuing Three, and...{LF}Hmmm, what intel is it, I wonder?
+Branch Map → Game{LF}Right! Let's tackle that recording gap{LF}in Ramo B. The group gets valuable{LF}intel while pursuing Three, and...{LF}Hmmm, what intel is it, I wonder?
 Game{LF}The party trudges on through snowy{LF}mountains in search of Cent's rare{LF}fruit. I wonder if they'll find it? 
 Camp → Cutscene{LF}Zero struggles to change the future,{LF}while Accord continues to record.{LF}The two of them don't quite seem{LF}to see eye-to-eye just yet...
 あらすじ第四項　２４１０　一行目{LF}あらすじ第四項　２４１０　二行目{LF}あらすじ第四項　２４１０　三行目{LF}あらすじ第四項　２４１０　四行目{LF}あらすじ第四項　２４１０　五行目
@@ -763,7 +763,7 @@ Camp → Cutscene{LF}Zero struggles to change the future,{LF}while Accord contin
 あらすじ第十一項　２４１０　一行目{LF}あらすじ第十一項　２４１０　二行目{LF}あらすじ第十一項　２４１０　三行目{LF}あらすじ第十一項　２４１０　四行目{LF}あらすじ第十一項　２４１０　五行目
 Cutscene → Camp{LF}We return to the Giorni when Zero and{LF}Michael confirmed their unbreakable{LF}resolve. But Zero's more recent activity{LF}requires continued observation...{LF} 
 Game{LF}Zero joins with Mikhail to destroy the{LF}towers. She continues to be distracted{LF}by memories of Michael's palate when she{LF}should be focused on the task at hand.
-Branch Map{LF}This concludes the supplemental repairs.{LF}All conditions are now in order,{LF}which means Branch D is tutti that's left.{LF}...The final recording.
+Branch Map{LF}This concludes the supplemental repairs.{LF}All conditions are now in order,{LF}which means Ramo D is tutti that's left.{LF}...The final recording.
 あらすじ第四項　４５１０　一行目{LF}あらすじ第四項　４５１０　二行目{LF}あらすじ第四項　４５１０　三行目{LF}あらすじ第四項　４５１０　四行目{LF}あらすじ第四項　４５１０　五行目
 あらすじ第五項　４５１０　一行目{LF}あらすじ第五項　４５１０　二行目{LF}あらすじ第五項　４５１０　三行目{LF}あらすじ第五項　４５１０　四行目{LF}あらすじ第五項　４５１０　五行目
 あらすじ第六項　４５１０　一行目{LF}あらすじ第六項　４５１０　二行目{LF}あらすじ第六項　４５１０　三行目{LF}あらすじ第六項　４５１０　四行目{LF}あらすじ第六項　４５１０　五行目
@@ -772,7 +772,7 @@ Branch Map{LF}This concludes the supplemental repairs.{LF}All conditions are now
 あらすじ第九項　４５１０　一行目{LF}あらすじ第九項　４５１０　二行目{LF}あらすじ第九項　４５１０　三行目{LF}あらすじ第九項　４５１０　四行目{LF}あらすじ第九項　４５１０　五行目
 あらすじ第十項　４５１０　一行目{LF}あらすじ第十項　４５１０　二行目{LF}あらすじ第十項　４５１０　三行目{LF}あらすじ第十項　４５１０　四行目{LF}あらすじ第十項　４５１０　五行目
 あらすじ第十一項　４５１０　一行目{LF}あらすじ第十一項　４５１０　二行目{LF}あらすじ第十一項　４５１０　三行目{LF}あらすじ第十一項　４５１０　四行目{LF}あらすじ第十一項　４５１０　五行目
-Branch Map → Camp{LF}Zero's party is close to learning the{LF}truth of the Intoners, but their journey{LF}isn't over yet. Will Branch D bring{LF}about destruction...or salvation?
+Branch Map → Camp{LF}Zero's party is close to learning the{LF}truth of the Intoners, but their journey{LF}isn't over yet. Will Ramo D bring{LF}about destruction...or salvation?
 Game{LF}The party arrives in the Land of{LF}Mountains in search of Four, and her{LF}soldiers reveal that she's hiding out{LF}inside her fortress.
 Game{LF}The battle grows ever fiercer. Soon,{LF}the group overhears a rumor that the{LF}pure, innocent Four they once knew has{LF}turned into something else entirely...
 あらすじ第四項　２３１０　一行目{LF}あらすじ第四項　２３１０　二行目{LF}あらすじ第四項　２３１０　三行目{LF}あらすじ第四項　２３１０　四行目{LF}あらすじ第四項　２３１０　五行目
@@ -795,7 +795,7 @@ Cutscene{LF}Zero hands off the sconfitti Four{LF}to Mikhail, who eats her and ev
 あらすじ第十項　２３２０　一行目{LF}あらすじ第十項　２３２０　二行目{LF}あらすじ第十項　２３２０　三行目{LF}あらすじ第十項　２３２０　四行目{LF}あらすじ第十項　２３２０　五行目
 あらすじ第十一項　２３２０　一行目{LF}あらすじ第十一項　２３２０　二行目{LF}あらすじ第十一項　２３２０　三行目{LF}あらすじ第十一項　２３２０　四行目{LF}あらすじ第十一項　２３２０　五行目
 Branch Map → Camp{LF}Well, well. Who's this charming and{LF}beautiful woman talking about dragons{LF}and Intoners with Zero's party? She {LF}certainly is a treat for the eyes, mmm?
-Game{LF}The group is disturbed to learn that{LF}dragons consume Intoners out of pure{LF}instinct, but they continue on through{LF}the Land of Forests.
+Game{LF}The group is disturbed to learn that{LF}dragons consume Intoners out of pure{LF}instinct, but they continue on through{LF}the Terra delle Foreste.
 Game{LF}The party's way is blocked by undead{LF}monsters so hideous, they send Dito into{LF}spasms of delight. What else could be{LF}waiting for them ahead?
 あらすじ第四項　３３１０　一行目{LF}あらすじ第四項　３３１０　二行目{LF}あらすじ第四項　３３１０　三行目{LF}あらすじ第四項　３３１０　四行目{LF}あらすじ第四項　３３１０　五行目
 あらすじ第五項　３３１０　一行目{LF}あらすじ第五項　３３１０　二行目{LF}あらすじ第五項　３３１０　三行目{LF}あらすじ第五項　３３１０　四行目{LF}あらすじ第五項　３３１０　五行目
@@ -849,7 +849,7 @@ Game{LF}Intoners are seeds that will bring about{LF}the world's end, and only a 
 あらすじ第九項　１３１０　一行目{LF}あらすじ第九項　１３１０　二行目{LF}あらすじ第九項　１３１０　三行目{LF}あらすじ第九項　１３１０　四行目{LF}あらすじ第九項　１３１０　五行目
 あらすじ第十項　１３１０　一行目{LF}あらすじ第十項　１３１０　二行目{LF}あらすじ第十項　１３１０　三行目{LF}あらすじ第十項　１３１０　四行目{LF}あらすじ第十項　１３１０　五行目
 あらすじ第十一項　１３１０　一行目{LF}あらすじ第十一項　１３１０　二行目{LF}あらすじ第十一項　１３１０　三行目{LF}あらすじ第十一項　１３１０　四行目{LF}あらすじ第十一項　１３１０　五行目
-Branch Map → Cutscene{LF}As we approach the end of this{LF}branch, Zero leaves Gabriel to{LF}Mikhail and makes her way toward{LF}the Cathedral City on her own.
+Branch Map → Cutscene{LF}As we approach the end of this{LF}branch, Zero leaves Gabriel to{LF}Mikhail and makes her way toward{LF}the Città Cattedrale on her own.
 Game{LF}Mikhail and Gabriel battle in the sky,{LF}while Zero and Octa take the ground.{LF}But Zero is beginning to labor as the{LF}flower continues to eat away at her. 
 Cutscene → Game{LF}Zero is ready to face her sister One.{LF}Two corpses, once driven only by the{LF}flower, have gained their own wills,{LF}and now choose their own futures.
 Cutscene{LF}Zero corners One. Octa sacrifices himself{LF}by summoning an angel. And an observer{LF}forbidden from interfering with events{LF}steps forward...

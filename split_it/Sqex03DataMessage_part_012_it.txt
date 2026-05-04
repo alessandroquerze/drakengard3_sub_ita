@@ -1,7 +1,7 @@
-The Land of Seas
-The Land of Mountains
-The Land of Forests
-The Land of Sands
+The Terra dei Mari
+The Terra delle Montagne
+The Terra delle Foreste
+The Terra delle Sabbie
 Rulers
 The Church
 Younger Sister
@@ -99,7 +99,7 @@ Verse 5{#Name=" "}
 Verse 6{#Name=" "}
 Verse 7{#Name=" "}
 Verse 8{#Name=" "}
-Final Verse{#Name=" "}
+Finale Verse{#Name=" "}
 1010_1{#Name="1010"}
 1010_2{#Name="1010"}
 1020_1{#Name="1020"}
@@ -154,7 +154,7 @@ The Land of Seas{#Name=" "}
 The Land of Mountains{#Name=" "}
 The Land of Forests{#Name=" "}
 The Land of Sands{#Name=" "}
-The Cathedral City{#Name=" "}
+The Città Cattedrale{#Name=" "}
 {04}{#Name=" "}
 外伝 {04}{#Name=" "}
 Mission {04}{#Name=" "}
@@ -163,7 +163,7 @@ The Land of Seas{#Name="「海の国」"}
 The Land of Mountains{#Name="「山の国」"}
 The Land of Forests{#Name="「森の国」"}
 The Land of Sands{#Name="「砂の国」"}
-The Cathedral City{#Name="「教会都市」"}
+The Città Cattedrale{#Name="「教会都市」"}
 The Price{#Name="「代償」"}
 The Price{#Name="「代償」"}
 Emesis{#Name="「嘔吐」"}
@@ -194,7 +194,7 @@ Seaside Payday{#Name=" "}
 The First Survival{#Name=" "}
 The Second Survival{#Name=" "}
 The Third Survival{#Name=" "}
-The Final Survival{#Name=" "}
+The Finale Survival{#Name=" "}
 2010_1{#Name=" "}
 2010_2{#Name=" "}
 2020_1{#Name=" "}
@@ -708,7 +708,7 @@ Part 3: Parallel Lives{#Name=" "}
  {#Name=" "}
 Part 1: Accord's Prayer{#Name=" "}
 Part 2: Gourmets{#Name=" "}
-Part 3: The Final Recording{#Name=" "}
+Part 3: The Finale Recording{#Name=" "}
  {#Name=" "}
  {#Name=" "}
  {#Name=" "}
@@ -774,7 +774,7 @@ Part 3: Skyward{#Name=" "}
  {#Name=" "}
 Part 1: Mikhail's Song{#Name=" "}
 Part 2: Ancient Dragon{#Name=" "}
-Part 3: The Final Reward{#Name=" "}
+Part 3: The Finale Reward{#Name=" "}
 Part 4: One to Go{#Name=" "}
  {#Name=" "}
  {#Name=" "}
@@ -805,7 +805,7 @@ Part 4: Accord{#Name=" "}
  {#Name=" "}
  {#Name=" "}
  {#Name=" "}
-Part 1: The Final Song{#Name=" "}
+Part 1: The Finale Song{#Name=" "}
 Part 2: Fino We Meet Again{#Name=" "}
 第三項　５３２０{#Name=" "}
 第四項　５３２０{#Name=" "}

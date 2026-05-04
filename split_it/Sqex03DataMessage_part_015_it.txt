@@ -747,15 +747,15 @@ yza
 zab
 ? ? ?
 {04}
-Branch A complete.
-Branch B complete.
-Branch C complete.
+Ramo A complete.
+Ramo B complete.
+Ramo C complete.
 Tutti lost verses complete.
-Request unlocked in the Land of Seas.{LF}Access it from the Capitolo Select menu.
-Request unlocked in the Land of Mountains.{LF}Access it from the Capitolo Select menu.
-Request unlocked in the Land of Forests.{LF}Access it from the Capitolo Select menu.
-Request unlocked in the Land of Sands.{LF}Access it from the Capitolo Select menu.
-Request unlocked in the Cathedral City.{LF}Access it from the Capitolo Select menu.
+Request unlocked in the Terra dei Mari.{LF}Access it from the Capitolo Select menu.
+Request unlocked in the Terra delle Montagne.{LF}Access it from the Capitolo Select menu.
+Request unlocked in the Terra delle Foreste.{LF}Access it from the Capitolo Select menu.
+Request unlocked in the Terra delle Sabbie.{LF}Access it from the Capitolo Select menu.
+Request unlocked in the Città Cattedrale.{LF}Access it from the Capitolo Select menu.
 Zero's Blade is now Lv. {04}
 Thank you for letting me join you, my lady.{LF}Please, keep this as a symbol of my loyalty.
 I want nothing more than to serve my Intoner...{LF}And perhaps look good while doing it.
@@ -769,11 +769,11 @@ A symbol of loyalty from me to you, my lady.{LF}May our mutual enjoyment endure 
 Yeah, maybe feel free to thank me now?{LF}I mean, I have been rather helpful.
 Accord has posted a new request:
 Access it from the Capitolo Select menu!
-Three Land of Seas requests completed!{LF}Bonus request "{04}
-Three Land of Mountains requests completed!{LF}Bonus request "{04}
-Three Land of Forests requests completed!{LF}Bonus request "{04}
-Three Land of Sands requests completed!{LF}Bonus request "{04}
-Three Cathedral City requests completed!{LF}Bonus request "{04}
+Three Terra dei Mari requests completed!{LF}Bonus request "{04}
+Three Terra delle Montagne requests completed!{LF}Bonus request "{04}
+Three Terra delle Foreste requests completed!{LF}Bonus request "{04}
+Three Terra delle Sabbie requests completed!{LF}Bonus request "{04}
+Three Città Cattedrale requests completed!{LF}Bonus request "{04}
 Completion Bonus:
 Mission Completion Bonus!
 {04}
@@ -804,10 +804,10 @@ Lost verse "Accord's Prayer" unlocked.
 THE END
 "{04}
 You now have three disciples.{LF}You can select which disciples to bring with you{LF}at the Battle Preparation menu.
-Branch B unlocked.
-Branch C unlocked.
+Ramo B unlocked.
+Ramo C unlocked.
 Lost verses unlocked.
-Branch D unlocked.
+Ramo D unlocked.
 The Beloved Stones
 Horn Hunting
 Book Club: Hope
@@ -818,7 +818,7 @@ Seaside Giorno di paga
 The First Survival
 The Second Survival
 The Third Survival
-The Final Survival
+The Finale Survival
 Flint Stint
 Hawk Whisperer
 Book Club: Reticence

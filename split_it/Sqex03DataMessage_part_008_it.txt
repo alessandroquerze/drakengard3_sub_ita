@@ -679,7 +679,7 @@ What? No! I...just want to see you spread your{LF}wings and soar across the skie
 Oh, really? Wow! Okay, you got it!{LF}Watch this, tutti right? Watch this!{#Name="Mikhail"}
 Hmm... Still, this is strange...{#Name="Octa"}
 What? You grow a third nut or something?{#Name="Zero"}
-If only! But no, I'm referring to Lady One.{LF}She was said to be in the Cathedral City.{LF}Why would she come to this place?{#Name="Octa"}
+If only! But no, I'm referring to Lady One.{LF}She was said to be in the Città Cattedrale.{LF}Why would she come to this place?{#Name="Octa"}
 Don't know, don't care.{LF}Leave the thinkin' to the eggheads.{#Name="Zero"}
 Ugh, again? These jerks are freakin' obnoxious!{#Name="Zero"}
 Takes one to know one...{#Name="Dito"}

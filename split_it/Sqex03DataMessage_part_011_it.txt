@@ -187,7 +187,7 @@ Dammit! If this keeps up, Lady One's in trouble!{#Name="Soldier F"}
 Protect the Cathedral! Don't let Zero inside!{#Name="Soldier A"}
 Whatcha readin'?{#Name="Zero"}
 Ah, Zero.{#Name="One"}
-It's a record of life in the Cathedral City.{#Name="One"}
+It's a record of life in the Città Cattedrale.{#Name="One"}
 A record of life?{#Name="Zero"}
 Zero, don't you think it's strange?{#Name="One"}
 This city is said to be the origin of tutti magic.{#Name="One"}
@@ -343,7 +343,7 @@ One
 ? ? ?{0A}(One's Brother)
 One{0A}(One's Brother)
 ? ? ?{0A}(Accord)
-Break through the Cathedral City's defenses.{#Name="説明文"}
+Break through the Città Cattedrale's defenses.{#Name="説明文"}
 Defeat the Gray Cerberus!{#Name="説明文"}
 Defeat Two!{#Name="説明文"}
 The disciple Cent has joined the fight.{#Name="説明文"}
@@ -917,7 +917,7 @@ Magic-infused sunlight can sap your health.{LF}Find an area with some shade to c
 ＴＩＰＳ_３７　　　　　　　　　　一行目{LF}ＴＩＰＳ_３７　　　　　　　　　　二行目{LF}ＴＩＰＳ_３７　　　　　　　　　　三行目{LF}ＴＩＰＳ_３７　　　　　　　　　　四行目{LF}ＴＩＰＳ_３７　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３７"}
 ＴＩＰＳ_３８　　　　　　　　　　一行目{LF}ＴＩＰＳ_３８　　　　　　　　　　二行目{LF}ＴＩＰＳ_３８　　　　　　　　　　三行目{LF}ＴＩＰＳ_３８　　　　　　　　　　四行目{LF}ＴＩＰＳ_３８　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３８"}
 ＴＩＰＳ_３９　　　　　　　　　　一行目{LF}ＴＩＰＳ_３９　　　　　　　　　　二行目{LF}ＴＩＰＳ_３９　　　　　　　　　　三行目{LF}ＴＩＰＳ_３９　　　　　　　　　　四行目{LF}ＴＩＰＳ_３９　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３９"}
-An enormous city created by the Cataclysm.{LF}It enjoyed prosperity under the Church and its Magic{LF}Academy, but an accidental magic surge in 995 turned{LF}it into a ghost town. Also referred to as the "Old World"{LF}due to its ruins and status as the origin of tutti magic.{#Name="The Cathedral City"}
+An enormous city created by the Cataclysm.{LF}It enjoyed prosperity under the Church and its Magic{LF}Academy, but an accidental magic surge in 995 turned{LF}it into a ghost town. Also referred to as the "Old World"{LF}due to its ruins and status as the origin of tutti magic.{#Name="The Città Cattedrale"}
 A nation under the rule of the Intoner, Five. It has{LF}little arable land, but bountiful marine resources.{LF}Renowned for its trawler ships, which exchange{LF}messages via a series of horns. Its port connects{LF}a multitude of sea routes, making it a trade hub.{#Name="The Land of Seas"}
 A mountainous nation with fortresses at seemingly{LF}every turn. Its most famous product, Amberstone,{LF}is a rare material that can only be shipped by taking{LF}wagons along narrow and treacherous trails.{LF}Ruled by the Intoner, Four.{#Name="The Land of Mountains"}
 A nation mostly covered in forests. Much of it{LF}remains unexplored by mankind, and is instead{LF}the domain of faeries and elves. Ruled by the{LF}Intoner Three in theory, although she seems{LF}largely oblivious to what occurs there.{#Name="The Land of Forests"}
@@ -926,7 +926,7 @@ The Lands of Seas, Mountains, Forests, and Sands{LF}are each governed by an indi
 A religious organization that has existed since{LF}antiquity. The group has grown rapidly since the{LF}Cataclysm, creating organizations like the Magic{LF}Academy to manage magic. Its multiple sects are{LF}known collectively as simply the "Church."{#Name="The Church"}
 Generally, the younger woman of two siblings born{LF}from the same set of parents. A "sister-in-law" is the{LF}sister of a spouse or wife of a sibling, and does not{LF}necessarily possess a blood relation.{#Name="Younger Sister"}
 Generally, the older woman of two siblings born{LF}from the same set of parents. A "sister-in-law" is the{LF}sister of a spouse or wife of a sibling, and does not{LF}necessarily possess a blood relation.{#Name="Elder Sister"}
-An organization built by the Church in 910 for the{LF}research of magic. Its early history is murky, but{LF}in 995, an accident triggered at the Cathedral City's{LF}Central Magic Academy wiped it off the map.{#Name="The Magic Academy"}
+An organization built by the Church in 910 for the{LF}research of magic. Its early history is murky, but{LF}in 995, an accident triggered at the Città Cattedrale's{LF}Central Magic Academy wiped it off the map.{#Name="The Magic Academy"}
 A method of gathering and utilizing magical energy{LF}for a variety of uses, both combat-related and otherwise.{LF}In this era, there is no active study devoted to magic,{LF}and only a few limited applications have been{LF}passed down from earlier generations.{#Name="Magic"}
 People who can use the power of song to wield vast{LF}attacking force. Six of them, tutti female, have been{LF}recorded throughout history. The Intoners freed each{LF}land from the despotic rulers that once terrorized{LF}their people, and are now worshipped as saviors.{#Name="Intoners"}
 Shops dealing in weapons and other items are{LF}located in each country. They chiefly run on an{LF}order-based system, and are largely unmanned{LF}as a result. Collectively, the stores are operated{LF}by a single person known as Accord.{#Name="Weapon Shops"}
@@ -997,4 +997,4 @@ Sun Damage
 ＴＩＰＳ_３７
 ＴＩＰＳ_３８
 ＴＩＰＳ_３９
-The Cathedral City
+The Città Cattedrale

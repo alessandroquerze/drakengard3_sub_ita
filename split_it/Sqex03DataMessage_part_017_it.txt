@@ -24,10 +24,10 @@ Imperial Tears Lv. 1
 Imperial Tears Lv. 2
 Imperial Tears Lv. 3
 Imperial Tears Lv. 4
-Final Knell Lv. 1
-Final Knell Lv. 2
-Final Knell Lv. 3
-Final Knell Lv. 4
+Finale Knell Lv. 1
+Finale Knell Lv. 2
+Finale Knell Lv. 3
+Finale Knell Lv. 4
 槍120
 槍121
 槍122
@@ -521,10 +521,10 @@ The fertile land was fought over time and again, spawning{LF}mountains of corpse
 No nobleman or peasant opposed him. The fires were set.{LF}The green trees burned. The animals scattered. And the land{LF}the previous king had sworn to save was reduced to ash.{#Name="Imperial Tears Lv. 2"}
 When the flames finally died, the land was sealed and{LF}declared an eternal neutral zone. Over decades, it regained{LF}its beauty, but a single spear still resided deep within.{#Name="Imperial Tears Lv. 3"}
 It was once a sword, obtained by the king who had sworn{LF}to protect the land. But it was reforged into a spear by his{LF}ruinous successor, and was now rusted beyond recognition.{LF}What became of this once promising land? None can say.{#Name="Imperial Tears Lv. 4"}
-This is the story of a spear that fell into the hands of{LF}a certain man. The man did not realize that his time in{LF}this world was growing short. ...But the spear knew.{#Name="Final Knell Lv. 1"}
-The man loved the sound the spear emitted, but did not know it{LF}was the weapon warning him of his impending doom. Alas, the{LF}man died in combat, his spear echoing out across the wastes.{#Name="Final Knell Lv. 2"}
-This is the story of one man's end. A cold, stiff body,{LF}and prossimo to it, a spear, quietly mourning the death of{LF}its five hundred and sixty-eighth master.{#Name="Final Knell Lv. 3"}
-The spear waits for the day its cry can once again ring out.{LF}It has seen the end of countless masters across an ocean{LF}of time, and even today still waits for the prossimo.{#Name="Final Knell Lv. 4"}
+This is the story of a spear that fell into the hands of{LF}a certain man. The man did not realize that his time in{LF}this world was growing short. ...But the spear knew.{#Name="Finale Knell Lv. 1"}
+The man loved the sound the spear emitted, but did not know it{LF}was the weapon warning him of his impending doom. Alas, the{LF}man died in combat, his spear echoing out across the wastes.{#Name="Finale Knell Lv. 2"}
+This is the story of one man's end. A cold, stiff body,{LF}and prossimo to it, a spear, quietly mourning the death of{LF}its five hundred and sixty-eighth master.{#Name="Finale Knell Lv. 3"}
+The spear waits for the day its cry can once again ring out.{LF}It has seen the end of countless masters across an ocean{LF}of time, and even today still waits for the prossimo.{#Name="Finale Knell Lv. 4"}
 -{#Name="槍120"}
 -{#Name="槍121"}
 -{#Name="槍122"}
@@ -769,10 +769,10 @@ Imperial Tears Lv. 1
 Imperial Tears Lv. 2
 Imperial Tears Lv. 3
 Imperial Tears Lv. 4
-Final Knell Lv. 1
-Final Knell Lv. 2
-Final Knell Lv. 3
-Final Knell Lv. 4
+Finale Knell Lv. 1
+Finale Knell Lv. 2
+Finale Knell Lv. 3
+Finale Knell Lv. 4
 槍120
 槍121
 槍122

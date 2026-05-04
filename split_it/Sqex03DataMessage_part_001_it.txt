@@ -41,24 +41,24 @@ Tutti libri raccolti!
 Tutti stoffe raccolti!
 Tutti cuori raccolti!
 Torna al menu principale
-Abandon the current mission and return to the main menu?
+Abbandonare la missione corrente e tornare al menu principale?
 Nemici sconfitti!
 Nemico soldati sconfitti!
 宝石を入手！
 Campagna
 クエスト
-Download Missions
+Missioni scaricabili
 Database
 Flusso della storia
 Cambia scheda
 Seleziona/Cambia scheda
-Return to the main menu?
-You haven't satisfied the conditions required to choose this mission.
+Tornare al menu principale?
+Non hai soddisfatto le condizioni necessarie per scegliere questa missione.
 未読です
-You need to collect every weapon before you can choose this branch.{LF}Your current weapon completion percentage is {04}
+Devi raccogliere tutte le armi prima di poter scegliere questo ramo.{LF}La tua percentuale attuale di completamento delle armi è {04}
 現在の武器収集率は{04}
-You won't earn any experience during this mission.{LF}Do you still wish to proceed?
-You need to fulfill {04}
+Non guadagnerai esperienza durante questa missione.{LF}Vuoi comunque procedere?
+Devi soddisfare {04}
 Descrizione
 Condizioni
 Giorni fino prossimo giorno di paga: {04}
@@ -71,7 +71,7 @@ Capitolo 5
 Capitolo 3
 Capitolo 4
 Capitolo 5
-Lost Verses
+Versi Perduti
 Capitolo 2
 Capitolo 3
 Capitolo 4
@@ -123,17 +123,17 @@ V5
 V6
 V7
 V8
-Final
-Branch A
-Branch B
-Branch C
-Branch D
-You need to complete Branch A before you can choose this mission.
-Land of Seas
-Land of Mountains
-Land of Forests
-Land of Sands
-Cathedral City
+Finale
+Ramo A
+Ramo B
+Ramo C
+Ramo D
+Devi completare il Ramo A prima di poter scegliere questa missione.
+Terra dei Mari
+Terra delle Montagne
+Terra delle Foreste
+Terra delle Sabbie
+Città Cattedrale
 Lock on to get the opponent in your sights.{LF}Any of the dragon's attacks can be{LF}devastating, so try getting a handle on{LF}your foe's moves before taking action.{#Name="Recording 0020_10: Gabriel"}
 Dragons pack a formidable punch. Use your{LF}defensive and evasive skills to wage the{LF}battle, and above tutti, don't be reckless.{#Name="Recording 0020_20: Gabriel"}
 Dragons pack a formidable punch. Use your{LF}defensive and evasive skills to wage the{LF}battle, and above tutti, don't be reckless.{#Name="Recording 0020_20: Gabriel"}
@@ -324,7 +324,7 @@ The Land of Seas...{#Name="Accord"}
 The Land of Mountains...{#Name="Accord"}
 The Land of Forests...{#Name="Accord"}
 The Land of Sands...{#Name="Accord"}
-And the Cathedral City.{#Name="Accord"}
+And the Città Cattedrale.{#Name="Accord"}
 But one of these sisters seeks to bring about the world's ruin,{#Name="Accord"}
 and she won't rest fino tutti the others are dead.{#Name="Accord"}
 The traitorous Intoner is called Zero...{#Name="Accord"}
@@ -692,7 +692,7 @@ Get some much-needed sleep?{#Name=" "}
 Tutti right, prossimo up...we've got this recording from Branch B.{#Name="Accord"}
 No, not that one—that's Branch C!{#Name="Accord"}
 And THAT'S Branch A! Come on!{#Name="Accord"}
-There we go. That's Branch B! Finally...{#Name="Accord"}
+There we go. That's Branch B! Finalely...{#Name="Accord"}
 Okay then! Let's have a look at recording M2410_E0005_FL...{#Name="Accord"}
 ディト
 Dito
