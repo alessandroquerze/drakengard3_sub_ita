@@ -1,0 +1,106 @@
+ 
+Procedere alla prossima missione?{#Name=" "}
+みんなで一つの場所に集まるデモ{#Name=" "}
+Che stai facendo con le dita?{#Name="Zero"}
+Sto contando tutte le schifezze in questa foresta.{#Name="Dito"}
+Abbiamo veleno... Abbiamo non-morti...{LF}Abbiamo troll... Abbiamo titani...{#Name="Dito"}
+Non è esattamente la mia idea di divertimento.{#Name="Dito"}
+Pensavo ti piacesse uccidere cose orrende.{#Name="Zero"}
+Credevo che ora saresti stato felice come un maiale nel fango.{#Name="Zero"}
+...Pfft.{#Name="Dito"}
+C’è qualcosa... non lo so, amico.{LF}C’è qualcosa che non va in questo posto.{#Name="Dito"}
+Sembra che questa foresta stia cadendo a pezzi.{LF}Come se tutto, in qualche modo... stesse perdendo coesione.{#Name="Decadus"}
+Vero? Mi sta facendo venire una nausea tremenda.{#Name="Dito"}
+Infatti. Anch’io sono preda di un profondo disagio.{#Name="Decadus"}
+Un disagio così terribile... così magnifico... Nnnngh...{#Name="Decadus"}
+Oh-oh. Ci risiamo.{#Name="Zero"}
+Infatti!{#Name="Octa"}
+La fine del mondo potrebbe essere vicina, eppure noi{LF}restiamo qui, tormentati dall’inazione...{#Name="Decadus"}
+Oh, quanto amo essere frustrato in questo modo!{#Name="Decadus"}
+Lo senti anche tu, Octa?{#Name="Zero"}
+Oh, qualcosa lo sento eccome! Qualcosa nei pantaloni!{#Name="Octa"}
+A parte quello.{#Name="Zero"}
+Dito ha detto di sentire qualcosa di... strano da queste parti.{#Name="Zero"}
+Oh. Quello. Be’, sì, il mondo sembra un tantino fuori equilibrio. {#Name="Octa"}
+Anche se potrebbe essere solo tutto il sangue che in questo momento{LF}sta defluendo dalla mia testa!{#Name="Octa"}
+Forse una breve cavalcata sul mio destriero potrebbe aiutarmi{LF}a rimettermi in sesto. Che ne dici?{#Name="Octa"}
+Andrà tutto bene, Zero? Voglio dire, con tutte queste...{LF}cose che sembrano importanti di cui state parlando.{#Name="Mikhail"}
+Non immischiarti in cose che non capisci.{#Name="Zero"}
+Ehi, dai! Anch’io voglio parlare di cose che sembrano importanti!{#Name="Mikhail"}
+えっ{#Name="ミハイル"}
+私の知能に追いつけるとは思わないけどぉお、そこはほらぁ{#Name="セント"}
+私がレベルをさげて教えられるしぃい、{LF}てか、それができるのが真の知性だしぃい{#Name="セント"}
+助けて、ゼロ！　セントが止まらない！{#Name="ミハイル"}
+Voglio solo sapere cosa sta succedendo.{#Name="Mikhail"}
+Voglio sapere un sacco di cose...{#Name="Mikhail"}
+Hmm... Chi è questa donna che continua a svolazzare{LF}negli angoli della mia mente?{#Name="Cent"}
+Ha i capelli corti e blu e occhi maliziosi.{LF}Credo che mi stia... guardando.{#Name="Cent"}
+Sembra Two.{#Name="Zero"}
+Two? Hmm. Quindi quella è Two, eh?{#Name="Cent"}
+Two? Hmm. Quindi quella è Two, eh?{#Name="Cent"}
+Che strano. Perché non riesco a togliermi il suo volto dalla testa?{#Name="Cent"}
+E adesso cosa facciamo?{#Name="Mikhail"}
+Addentriamoci nella foresta. Non c’è altra scelta.{#Name="Decadus"}
+Dobbiamo trovare Lady One o Lady Three{LF}il prima possibile.{#Name="Octa"}
+Magari possiamo trovarle entrambe insieme.{LF}Di sicuro renderebbe le cose più facili.{#Name="Zero"}
+Aggiornamento{#Name="Accord"}
+La divergenza innescata dalla singolarità nota come Zero{#Name="Accord"}
+ha portato all’osservazione di un’ampia gamma di anomalie.{#Name="Accord"}
+La foresta è cambiata e i suoi nemici sono più violenti. Inoltre,{#Name="Accord"}
+la singolarità nota come Two e il suo discepolo, Cent,{#Name="Accord"}
+ora agiscono indipendentemente l’una dall’altro.{#Name="Accord"}
+M3240_E0010_QV: Inizio registrazione{#Name="Accord"}
+ 
+Zero
+Dito
+Decadus
+Octa
+Mikhail
+ミハイル
+セント
+Cent
+Accord
+初回会話{#Name="ディト"}
+ループ会話{#Name="ディト"}
+初回会話{#Name="デカート"}
+ループ会話{#Name="デカート"}
+初回会話{#Name="オクタ"}
+ループ会話{#Name="オクタ"}
+次のステージが最後である説明。{#Name="セント"}
+ループ会話{#Name="セント"}
+初回会話{#Name="ミハイル"}
+ループ会話{#Name="ミハイル"}
+次のシーケンスに移行しますか？{#Name=" "}
+みんなで一つの場所に集まるデモ{#Name=" "}
+ディト
+デカート
+オクタ
+セント
+ミハイル
+ 
+Procedere alla prossima missione?{#Name=" "}
+みんなで一つの場所に集まるデモ{#Name=" "}
+...Quindi, ecco, i draghi hanno una fame.{LF}Vogliono divorare gli Intoner.{#Name="Accord"}
+E più forte è la forza magica di un Intoner,{LF}più forte diventa quel desiderio.{#Name="Accord"}
+Detto questo, alcuni di loro riescono a controllare questi impulsi.{#Name="Accord"}
+È per questo che Mikhail, per esempio,{LF}riesce a restare calmo vicino a Zero.{#Name="Accord"}
+Sì! Riesco a controllarlo! Sono fortissimo!{#Name="Mikhail"}
+Hmmm... Ho ancora alcune domande senza risposta.{#Name="Octa"}
+È vero, questo spiega perché i draghi sembrano intenzionati{LF}a divorare gli Intoner.{#Name="Octa"}
+Ma perché dovrebbero avere un desiderio simile, tanto per cominciare?{#Name="Octa"}
+Temo di non potervelo dire.{#Name="Accord"}
+Quindi, cioè, tu chi saresti, esattamente?{#Name="Dito"}
+Mi chiamo Accord. Sono un’amica di Zero.{#Name="Accord"}
+Bugiarda. Ti conosco appena. {#Name="Zero"}
+Non c’è modo in cui Intoner e draghi{LF}possano vivere in pace tra loro?{#Name="Octa"}
+No. Sarebbe una perdita di tempo provarci.{#Name="Zero"}
+Mikhail sembra abbastanza tranquillo al momento.{#Name="Octa"}
+Se è riuscito a trattenersi fino a ora, perché mai dovrebbe{LF}cambiare in futuro?{#Name="Octa"}
+Lascia perdere.{#Name="Zero"}
+Ha un ruolo da svolgere in tutto questo. {#Name="Zero"}
+Che peccato...{#Name="Octa"}
+Quella donna, Accord, ha un profumo semplicemente delizioso!{LF}Oh sì, davvero. Molto meglio di te, Lady Zero. {#Name="Cent"}
+Che gentile da parte tua.{#Name="Zero"}
+Ehi, bellezza. Mi fai battere forte il cuore.{#Name="Cent"}
+...Ehm, coff. HO DETTO che mi fai battere forte il cuore.{#Name="Cent"}
+Il tuo stato emotivo e la mia risposta a esso{LF}sono irrilevanti per questo branch.{#Name="Accord"}

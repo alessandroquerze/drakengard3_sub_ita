@@ -38,23 +38,40 @@ def build_debug_file(it_path: Path, en_path: Path, out_path: Path) -> None:
         debug_lines.append('')
 
     out_path.write_text('\n'.join(debug_lines) + '\n', encoding='utf-8')
-
-
 def main() -> None:
+    #print("CIAO")
     DEBUG_DIR.mkdir(exist_ok=True)
 
-    for it_file in sorted(SPLIT_IT_DIR.glob('Sqex03DataMessage_part_*_it.txt')):
+    it_files = sorted(SPLIT_IT_DIR.glob('Sqex03DataMessage_part_*_it.txt'))
+
+    created = 0
+    skipped_existing = 0
+    skipped_missing_en = 0
+
+    for it_file in it_files:
         en_name = it_file.name.replace('_it.txt', '.txt')
         en_file = SPLIT_EN_DIR / en_name
 
-        # Ora genera .md invece di .txt
         out_file = DEBUG_DIR / it_file.name.replace('_it.txt', '_debug.md')
 
-        if en_file.exists():
-            build_debug_file(it_file, en_file, out_file)
+        if out_file.exists():
+            print(f'Skipped: debug file already exists: {out_file.name}')
+            skipped_existing += 1
+            continue
 
-    print('Done: debug merge Markdown files created in split_debug/.')
+        if not en_file.exists():
+            print(f'Skipped: missing EN file for {it_file.name}')
+            skipped_missing_en += 1
+            continue
 
+        build_debug_file(it_file, en_file, out_file)
+        created += 1
 
+    print(
+        f'Done: {len(it_files)} IT files found. '
+        f'Created: {created}. '
+        f'Skipped existing: {skipped_existing}. '
+        f'Skipped missing EN: {skipped_missing_en}.'
+    )
 if __name__ == '__main__':
     main()

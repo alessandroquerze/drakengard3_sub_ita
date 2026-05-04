@@ -1,0 +1,106 @@
+Un uomo maturo e perspicace con una{LF}vena di crudeltà estrema. Prova{LF}grande gioia nelle urla di dolore{LF}delle sue prede.{#Name="Dito (Spears)"}
+In apparenza un gentiluomo, ma{LF}dentro di sé è un masochista estremo{LF}che trae grande piacere dal dolore{LF}e dalle avversità che incontra.{#Name="Decadus (Combat Bracers)"}
+Un uomo dall'aspetto maturo e dai modi{LF}rilassati, con un appetito sessuale insaziabile.{LF}Per lui va bene qualsiasi orifizio, e il suo membro{LF}è il più grande tra tutti i discepoli.{#Name="Octa (Chakrams)"}
+Un uomo fastidiosamente bello che{LF}ha una fiducia smisurata in sé stesso,{LF}ma tradisce la sua ignoranza{LF}ogni volta che apre bocca.{#Name="Cent (Swords)"}
+Il fratellino di One, creato{LF}dall'Intoner stessa come carta{LF}vincente contro Zero. Adora e{LF}idolatra sua sorella.{#Name="One's Brother (Chakrams)"}
+Dito (Spears)
+Decadus (Combat Bracers)
+Octa (Chakrams)
+Cent (Swords)
+One's Brother (Chakrams)
+クエストスフィア残り {04}
+金袋を全て集めた！
+{04}
+{04}
+目標達成 ： 敵を殲滅した！
+目標達成 ： {04}
+{04}
+{04}
+目標達成：全ての{04}
+目標達成：{04}
+{04}
+{04}
+{04}
+{04}
+Tempo scaduto!
+Continua
+Torna alla selezione capitolo
+Inizia dal checkpoint
+Inizia dall'inizio
+Abbandonare la missione attuale?
+Oggetto obiettivo ottenuto!
+Chiedi aiuto
+Checkpoint raggiunto!
+Arma ottenuta!
+Oro ottenuto!
+Materiale base ottenuto!
+Tutte le medaglie raccolte!
+Tutti i gioielli raccolti!
+Tutti gli artigli raccolti!
+Tutti i libri raccolti!
+Tutti i panni raccolti!
+Tutti i cuori raccolti!
+Torna al menu principale
+Abbandonare la missione attuale e tornare al menu principale?
+Nemici sconfitti!
+Soldati nemici sconfitti!
+宝石を入手！
+Campagna
+クエスト
+Missioni scaricabili
+Database
+Flusso della storia
+Cambia scheda
+Seleziona/Cambia scheda
+Tornare al menu principale?
+Non hai soddisfatto le condizioni necessarie per scegliere questa missione.
+未読です
+Devi raccogliere tutte le armi prima di poter scegliere questo ramo.{LF}La tua percentuale attuale di completamento armi è {04}
+現在の武器収集率は{04}
+Non guadagnerai esperienza durante questa missione.{LF}Vuoi comunque procedere?
+Devi soddisfare {04}
+Descrizione
+Condizioni
+Giorni al prossimo pagamento: {04}
+Capitolo 0
+Capitolo 1
+Capitolo 2
+Capitolo 3
+Capitolo 4
+Capitolo 5
+Capitolo 3
+Capitolo 4
+Capitolo 5
+Versi Perduti
+Capitolo 2
+Capitolo 3
+Capitolo 4
+Capitolo 5
+V1
+V2
+V1
+V2
+V3
+V4
+V1
+V2
+V3
+V4
+V5
+V6
+V1
+V2
+V3
+V4
+V5
+V6
+V1
+V2
+V3
+V4
+V1
+V2
+V3
+V4
+V1
+V2

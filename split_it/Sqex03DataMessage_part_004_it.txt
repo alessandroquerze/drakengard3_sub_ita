@@ -1,0 +1,106 @@
+...Eh? Cos'è tutto questo baccano?{#Name="Zero"}
+一年後{#Name=" "}
+Questa è la storia di sei sorelle{#Name="Accord"}
+in un mondo protetto dal potere del canto:{#Name="Accord"}
+The Land of Seas...{#Name="Accord"}
+The Land of Mountains...{#Name="Accord"}
+The Land of Forests...{#Name="Accord"}
+The Land of Sands...{#Name="Accord"}
+E Cathedral City.{#Name="Accord"}
+Ma una di queste sorelle cerca di causare la rovina del mondo,{#Name="Accord"}
+e non si fermerà finché tutte le altre non saranno morte.{#Name="Accord"}
+La Intoner traditrice si chiama Zero...{#Name="Accord"}
+Ed è fuggita a The Land of Seas, dove guarisce... e attende.{#Name="Accord"}
+Zero
+ゼロ
+ 
+Accord
+Procedere alla missione successiva?{#Name=" "}
+みんなで一つの場所に集まり話すデモ{#Name=" "}
+Quindi non c'era nessuno nel negozio, eh?{#Name="Mikhail"}
+No. Davvero stupido da parte loro lasciarlo incustodito.{#Name="Zero"}
+Perché non lo gestisci tu finché non torna il negoziante?{#Name="Mikhail"}
+È un'idea terribile.{#Name="Zero"}
+Perché? Scommetto che saresti una brava negoziante!{#Name="Mikhail"}
+Eheh. Non sono sicura che riuscirei a trattenermi dal{LF}rubare tutto.{#Name="Zero"}
+Fai abbastanza paura, Zero...{#Name="Mikhail"}
+Andiamo.{#Name="Zero"}
+Eh? Di già? Non possiamo riposare ancora un po'?{#Name="Mikhail"}
+Chiudi il becco. Io me ne vado, e tu vieni con me.{#Name="Zero"}
+Va bene...{#Name="Mikhail"}
+ 
+Mikhail
+Zero
+Procedere alla missione successiva?{#Name=" "}
+みんなで一つの場所に集まるデモ{#Name=" "}
+Certo che ora è silenzioso, da quando se ne sono andati tutti.{#Name="Mikhail"}
+Ti senti solo, vero?{#Name="Octa"}
+Sì. Mi manca chiacchierare con tutti prima di dormire.{#Name="Mikhail"}
+Non ha senso pensarci adesso. Dormi.{#Name="Zero"}
+Mi piaceva davvero averli tutti con noi, sai?{#Name="Mikhail"}
+Perché quella faccia lunga, Octa?{LF}In ritardo per la tua cerimonia notturna di misurazione?{#Name="Zero"}
+Ah, sì...{#Name="Octa"}
+Te lo dico, è davvero piuttosto strano...{#Name="Octa"}
+Il piccolo birbante stasera non vuole alzarsi per me.{LF}Neanche un fremito!{#Name="Octa"}
+È insolito.{#Name="Zero"}
+Alla faccia dell'illustre carriera del grande Octa, eh?{LF}Oh ho ho ho!{#Name="Octa"}
+E proprio ora che avevo le tue attenzioni tutte per me.{LF}Che peccato...{#Name="Octa"}
+Mettiamoci in marcia.{#Name="Zero"}
+Mia signora, se posso...{#Name="Octa"}
+Credo sia giunto il momento che tu mi parli{LF}del tuo fiore.{#Name="Octa"}
+......{#Name="Zero"}
+Perdonami, mia signora. Ho oltrepassato i miei limiti?{#Name="Octa"}
+No. Suppongo sia arrivato il momento.{#Name="Zero"}
+Tutto è iniziato due anni fa...{#Name="Zero"}
+ 
+Mikhail
+Octa
+Zero
+Procedere alla missione successiva?{#Name=" "}
+みんなで一つの場所に集まるデモ{#Name=" "}
+Ugh, di nuovo l'oceano? Odio questo posto.{#Name="Dito"}
+Mi ricorda tutte quelle notti orribili con la vecchia Cicciona Flaccida.{#Name="Dito"}
+Non dev'essere stato facile ritrovarsi faccia a faccia{LF}con una donna come Five ogni singolo giorno.{#Name="Zero"}
+Quasi quasi mi dispiace per te.{#Name="Zero"}
+Immagina quanto pensi sia stato brutto, poi moltiplicalo{LF}per circa un fantastiliardo.{#Name="Dito"}
+Solo sentire l'odore dell'oceano mi fa venire voglia di vomitare.{#Name="Dito"}
+Mi ricorda il suo sudore, le sue cosce carnose e...{LF}Uuugh.{#Name="Dito"}
+Vorrei potermi infilare un bastone nel cervello e raschiare via{LF}i ricordi...{#Name="Dito"}
+L'oceano è davvero vasto, non è vero?{#Name="Decadus"}
+Prima volta?{#Name="Zero"}
+No. Ma l'altra volta ero impegnato a combattere.{#Name="Decadus"}
+Non ho avuto occasione di contemplarne la bellezza con i miei occhi.{#Name="Decadus"}
+È quasi bello vederti entusiasta per qualcosa{LF}che non abbia a che fare con il dolore.{#Name="Zero"}
+Oooh... Le tue parole mi feriscono profondamente...{#Name="Decadus"}
+Ehm, Lady Zero? È vero che nei mari ci sono calamari giganti?{#Name="Decadus"}
+Perché sei così felice, Octa?{#Name="Zero"}
+Sei un grande fan del mare o qualcosa del genere?{#Name="Zero"}
+Assolutamente, mia signora! Mi fa semplicemente volare il cuore!{#Name="Octa"}
+Piace anche a me. Tutti questi splendidi colori che mi esplodono davanti...{LF}Sento il cuore che prende il volo!{#Name="Decadus"}
+Sì, davvero bellissimo. ...E poi, ho sempre sognato di{LF}abbandonarmi a una selvaggia fornicazione fra queste onde!{#Name="Octa"}
+Eheh... Se non altro sei coerente, immagino.{#Name="Zero"}
+Mia signora! Forse saresti così gentile da{LF}aiutarmi a realizzare la mia fantasia oceanica?{#Name="Octa"}
+Che tu ci creda o no, questa è davvero la mia prima volta all'oceano.{#Name="Cent"}
+Ah sì?{#Name="Zero"}
+...Ah! Stavo scherzando! Non lo è.{#Name="Cent"}
+Ti ho scioccata? Mmm?{#Name="Cent"}
+Ho lavorato a questa chicca tutto il giorno,{LF}quindi spero che ti sia piaciuta!{#Name="Cent"}
+Sì, è stata proprio una... cosa, Cent.{#Name="Zero"}
+L'unico shock qui è vedere quanto sia idiota quel tizio.{#Name="Dito"}
+Ah, è così difficile essere popolari...{#Name="Cent"}
+Wow, Zero! Mi mancava questo posto! Mi mancava davvero!{#Name="Mikhail"}
+Ah sì? A me non mancava affatto. E smettila di ripeterti.{#Name="Zero"}
+Ah, perché no? Abbiamo vissuto qui per un anno intero, ricordi?{#Name="Mikhail"}
+Sì. Un anno passato a guardarti pisciarti addosso come un idiota.{#Name="Zero"}
+Ho cercato di dimenticarlo.{LF}...E di dimenticare te.{#Name="Zero"}
+Ah, dai!{#Name="Mikhail"}
+Ehi, Zero! Promettimi che un giorno andremo di nuovo{LF}a nuotare insieme nel mare, okay? Me lo prometti?{#Name="Mikhail"}
+Allora, cosa ci riporta a The Land of Seas, mia signora?{#Name="Octa"}
+Io, ehm... Ho dimenticato qualcosa a casa.{#Name="Zero"}
+Cosa? Siamo venuti fin qui per QUELLO!?{#Name="Dito"}
+Sì, esatto. Ora chiudi il becco una buona volta.{#Name="Zero"}
+Che cosa hai dimenticato?{#Name="Decadus"}
+Senti, devo solo... Devo controllare una cosa, va bene?{#Name="Zero"}
+わかりますぅう。{LF}私も家を出たとたん、{LF}鍵かけたかどうか気になるクチですからぁあ{#Name="セント"}
+Quindi, se Accord dice la verità su questa storia dei "branch"...{#Name="Zero"}
+Forse esiste un mondo in cui il fiore non compare.{#Name="Zero"}

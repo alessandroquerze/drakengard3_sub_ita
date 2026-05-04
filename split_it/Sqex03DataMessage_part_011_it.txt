@@ -1,0 +1,106 @@
+Sì. Ecco, ora inizi a tirare fuori le parole difficili...{#Name="Cent"}
+Persino uno sveglio come me fatica a seguirti.{#Name="Cent"}
+Ma cielo, sei davvero bellissima...{#Name="Cent"}
+Certo, potreeesti essere ancora più bella, se volessi.{#Name="Cent"}
+Magari una spuntatina ai capelli... Via gli occhiali...{LF}Una tinta veloce lì sopra...{#Name="Cent"}
+Stai cercando di farla assomigliare a Two?{#Name="Dito"}
+Iooo? Cosa? No. È assurdo.{#Name="Cent"}
+Voglio solo che sia bellissima.{LF}Non è colpa mia se ho un tipo!{#Name="Cent"}
+E comunque chi diavolo è questa tizia?{#Name="Dito"}
+Hai intenzione di farla unire a noi, Zero?{#Name="Dito"}
+Stai scherzando?{#Name="Zero"}
+Bene. Non sopporto quel tipo.{#Name="Dito"}
+Che tipo?{#Name="Mikhail"}
+Lo sai! Quelle che sembrano tutte perfettine{LF}e roba simile.{#Name="Dito"}
+Quelle che vanno in giro come se la loro merda non puzzasse.{#Name="Dito"}
+...Quelle come Five, okay!? Non le sopporto.{LF}Mi fanno venire da vomitare.{#Name="Dito"}
+Sei messo male quanto Cent.{#Name="Zero"}
+Tenetela solo lontana dalla mia vista.{#Name="Dito"}
+Lady Zero, forse sarebbe saggio{LF}mantenere le distanze da Mikhail.{#Name="Decadus"}
+Eh?{#Name="Mikhail"}
+No, va bene così.{#Name="Zero"}
+Ma...{#Name="Decadus"}
+Ho bisogno di lui.{#Name="Zero"}
+Eh!?{#Name="Mikhail"}
+Beh, okay. Non è che abbia proprio bisogno di lui.{#Name="Zero"}
+Ma ho bisogno di un drago, e lui è l'unico che ho.{#Name="Zero"}
+Seguirò la vostra guida, mia signora, qualunque{LF}direzione essa prenda.{#Name="Decadus"}
+Ehi, Zero! Non ascoltare quello che ha detto quella strana ragazza, okay?{#Name="Mikhail"}
+Intendi la parte in cui diceva che mi mangerai?{#Name="Zero"}
+Sì! È cattivo! Io non ti mangerei mai, Zero!{LF}Mai!{#Name="Mikhail"}
+Sei sicuro? Voglio dire, mangi già carne marcia.{LF}Non è che tu sia schizzinoso.{#Name="Zero"}
+Assolutamente no! Scommetto che tu hai un sapore MOOOLTO peggiore della carne marcia!{#Name="Mikhail"}
+Sai davvero come tirare su di morale una ragazza.{#Name="Zero"}
+Senti, non ti mangerò, okay?{#Name="Mikhail"}
+Ehi. Tu. Piantala con queste stronzate, okay?{#Name="Zero"}
+Le... stronzate?{#Name="Accord"}
+Ah. Devi riferirti alla mia affermazione{LF}secondo cui Mikhail ti avrebbe mangiata.{#Name="Accord"}
+Non c'è bisogno che tu la ripeta.{#Name="Zero"}
+...Ti spaventa?{#Name="Accord"}
+Spaventarmi? Ma col cazzo.{#Name="Zero"}
+Una morte vale l'altra.{#Name="Zero"}
+Non quello. Parlo dell'idea di perdere i tuoi amici.{#Name="Accord"}
+...Io non ho amici. Non ne ho mai avuti.{#Name="Zero"}
+Non ho davvero alcuna opinione in merito.{LF}Sono qui solo per osservare e registrare.{#Name="Accord"}
+Cosa farai adesso?{#Name="Accord"}
+Rintraccerò Three e la ucciderò.{#Name="Zero"}
+Ah, e se mi segui, ucciderò anche te.{#Name="Zero"}
+Non preoccuparti. Non ho il permesso di interferire in battaglia.{#Name="Accord"}
+Bene, allora.{#Name="Zero"}
+Abbi cura di te.{#Name="Accord"}
+Questo branch in cui ti trovi è gravemente danneggiato, e il mondo{LF}diventerà solo più caotico man mano che andrai avanti.{#Name="Accord"}
+Grazie per il... consiglio.{#Name="Zero"}
+Naturalmente, questo significa anche che c'è una possibilità maggiore{LF}di salvare il mondo...{#Name="Accord"}
+Le sorelle stanno crollando.{#Name="Accord"}
+Mikhail si è evoluto all'improvviso di due livelli in una volta.{#Name="Accord"}
+In mezzo a tutte queste anomalie,{#Name="Accord"}
+Zero si sta dirigendo verso il Land of Forests.{#Name="Accord"}
+ 
+Accord
+Mikhail
+Octa
+Dito
+Zero
+Cent
+Decadus
+Procedere alla prossima missione?{#Name=" "}
+みんなで一つの場所に集まるデモ{#Name=" "}
+Sono... preoccupato.{#Name="Decadus"}
+Per cosa?{#Name="Zero"}
+Per Mikhail.{#Name="Decadus"}
+Non esserlo. Sta bene.{#Name="Zero"}
+Ma...{#Name="Decadus"}
+Ti sto dicendo che sta bene.{#Name="Zero"}
+Molto bene.{#Name="Decadus"}
+Sono certo che Mikhail sia al sicuro. Ma dovremmo comunque salvarlo.{#Name="Decadus"}
+Che scenetta, quella di prima, vero!{#Name="Octa"}
+Prima il tuo drago si fa un pasto con Lady Three,{LF}poi viene rapito da un altro discepolo? Follia!{#Name="Octa"}
+......{#Name="Zero"}
+Presumo che gli abbiate ordinato di mangiarla?{#Name="Octa"}
+No, proprio per niente.{#Name="Zero"}
+Oh, cielo... Che crudele scherzo del destino!{#Name="Octa"}
+Lady Three ha avuto una fine crudele. Forse tu e io{LF}dovremmo "commemorare" la sua dipartita, mmmmm?{#Name="Octa"}
+Allora, sai quel tizio che ha rubato il tuo stupido drago?{LF}Era Cent.{#Name="Dito"}
+È il discepolo qui nel Land of Sands.{#Name="Dito"}
+Il discepolo di Two, eh?{#Name="Zero"}
+Già. Sembrano giovani, belli e follemente innamorati.{LF}Mi fanno venire da vomitare!{#Name="Dito"}
+竜を２人の子ども代わりに育てていたりしてな{#Name="ゼロ"}
+なんですか、その昔話みたいなほっこり感！{#Name="ディト"}
+Questo Cent sembra proprio un gran rubacuori, vero?{LF}Probabilmente è meglio ucciderlo e basta quando fai fuori Two.{#Name="Dito"}
+Secondo te cosa stanno progettando quei due, comunque?{#Name="Dito"}
+Progettando? Come se uno dei due fosse abbastanza sveglio{LF}da avere un piano vero.{#Name="Zero"}
+Davvero? Pensavo che Cent avesse preso il tuo drago perché gliel'aveva ordinato Two.{#Name="Dito"}
+Deve avere qualche motivo per farlo, giusto? {#Name="Dito"}
+......{#Name="Zero"}
+325{#Name="325"}
+Zero ha sconfitto Three, ma nel frattempo ha perso Mikhail per mano del discepolo Cent.{#Name="Accord"}
+Il gruppo si è diretto verso la casa di Cent nel Land of Sands{LF}per cercare di salvare il drago...{#Name="Accord"}
+ 
+Decadus
+Zero
+Octa
+Dito
+ゼロ
+ディト
+325
+Accord

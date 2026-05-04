@@ -1,0 +1,106 @@
+Ci deve essere un indizio o qualcosa che possa condurmi lì...{#Name="Zero"}
+Il braccio che ho perso contro One...{#Name="Zero"}
+Se è stato allora che si è verificata la diramazione, sono già troppo tardi.{#Name="Zero"}
+ワンへの借りは、返す{#Name="ゼロ"}
+Potrebbe esistere davvero un mondo senza questo fiore?{#Name="Zero"}
+Mi chiedo come sono io laggiù. O come sono le mie sorelle.{LF}...Ho almeno delle sorelle?{#Name="Zero"}
+Bah, inutile rimuginarci sopra.{#Name="Zero"}
+花が……疼くな{#Name="ゼロ"}
+Medicina...{#Name="Zero"}
+Sono riuscita a sopravvivere, ma a che prezzo?{#Name="Zero"}
+Ora il mio corpo è maledetto, e questa stupida cosa{LF}non mi lascia nemmeno morire.{#Name="Zero"}
+Tutti quei tizi che mi chiamano Intoner maledetta{LF}hanno più ragione di quanto sappiano.{#Name="Zero"}
+私にはもう、薬は必要無い{#Name="ゼロ"}
+Se sono la singolarità di cui parlava Accord,{#Name="Zero"}
+allora forse sono io quella che porterà questo mondo alla rovina.{#Name="Zero"}
+Bah, inutile rimuginarci sopra.{#Name="Zero"}
+Credo sia ora di parlare con Accord faccia a faccia.{#Name="Zero"}
+20 aprile, anno 1000 d.C.{#Name="Accord"}
+La Land of Seas.{#Name="Accord"}
+Allooora... se questa è la fine di questa diramazione, allora... Aspetta, cosa?{#Name="Accord"}
+Oh, cielo, non avrò mica perso per sbaglio una registrazione, vero?{#Name="Accord"}
+E che fine hanno fatto le diramazioni tra A e C?{#Name="Accord"}
+Ugh. Se combino un disastro, finirò in un guaio enorme...{#Name="Accord"}
+Okay, respira e basta.{LF}Tanto per cominciare, controlliamo la registrazione M1410_E0002_FL...{#Name="Accord"}
+ 
+Dito
+Zero
+Decadus
+Octa
+Cent
+Mikhail
+セント
+ゼロ
+Accord
+Non temere, perché non combatti da sola.{#Name="Michael"}
+La protezione del tuo drago dev'essere davvero una cosa gradita.{LF}Dovresti ringraziarlo.{#Name="Michael"}
+Sto... sognando di nuovo...{#Name="Zero"}
+Non tutti i draghi sono come te, Michael.{LF}...Purtroppo.{#Name="Zero"}
+消去{#Name=" "}
+La brezza di montagna è piacevole, vero?{#Name="Dito"}
+Meglio di tutta quell'aria salmastra e appiccicosa che ti si attacca alla pelle.{#Name="Dito"}
+...O del tocco appiccicoso e sudaticcio di Lady Five.{LF}Dio, credo che vomiterò.{#Name="Dito"}
+Ehi, non dovresti parlare così.{LF}Sei il suo discepolo!{#Name="Mikhail"}
+Un discepolo dovrebbe essere gentile con la sua Intoner!{#Name="Mikhail"}
+Heh. Come se me ne fregasse qualcosa.{#Name="Dito"}
+La vecchia Palla di Lardo ha tirato le cuoia, ricordi?{LF}Ormai non significa più un bel niente per me.{#Name="Dito"}
+L'hai visto anche tu, no?{#Name="Dito"}
+Il modo in cui la mia lama ha tagliato in due{LF}quelle ridicole tettone? Era come arte pura!{#Name="Dito"}
+消去{#Name=" "}
+消去{#Name=" "}
+消去{#Name=" "}
+Che modo di andarsene, eh? Avrei dovuto fare il macellaio.{LF}Ah ah ah ah ah!{#Name="Dito"}
+Ehi, Zero? Dobbiamo davvero andare a uccidere Four?{#Name="Mikhail"}
+Non di nuovo.{#Name="Zero"}
+È solo che... mi è dispiaciuto molto per Five, capisci?{#Name="Mikhail"}
+Stava piangendo. Piangeva tantissimo,{LF}e tu l'hai uccisa lo stesso.{#Name="Mikhail"}
+Sai che era solo una recita, vero?{#Name="Zero"}
+Sì, fidati: se c'era una cosa in cui Five era brava,{LF}era fingere.{#Name="Dito"}
+Beh, a me non piace. Penso ancora che dovresti smettere di uccidere le tue sorelle!{#Name="Mikhail"}
+Uh-huh.{#Name="Zero"}
+La famiglia è famiglia. Dovreste andare d'accordo.{#Name="Mikhail"}
+Non c'è niente di peggio di sorelle che combattono tra loro.{#Name="Mikhail"}
+Va bene, facciamo finta per un secondo.{LF}Immagina che qui ci sia un grosso mucchio di carne cruda, okay?{#Name="Zero"}
+Oooh! Gnam!{#Name="Mikhail"}
+Ora, se dividessi quella carne tra tutti i draghi{LF}del mondo, ne avresti solo un pezzettino.{#Name="Zero"}
+Esatto! Solo un morsoo piccolissimo.{#Name="Mikhail"}
+Ma preferiresti averla tutta per te, giusto?{#Name="Zero"}
+Beh, sì! Vorrei tutto il mucchio enorme!{#Name="Mikhail"}
+Ecco, io voglio uccidere le mie sorelle per avere il mondo tutto per me.{LF}...Ha senso?{#Name="Zero"}
+Ehm... No, non capisco.{#Name="Mikhail"}
+Lascia perdere.{#Name="Zero"}
+Andiamo. Ho una sorella da assassinare.{#Name="Zero"}
+Okaaay...{#Name="Mikhail"}
+Dopo aver sconfitto Five nella Land of Seas,{#Name="Accord"}
+Zero prese con sé Dito, il discepolo di sua sorella, e si diresse verso la sua prossima destinazione.{#Name="Accord"}
+La Land of Mountains...{#Name="Accord"}
+Sede di un'impenetrabile cittadella alpina{#Name="Accord"}
+governata dalla casta Intoner nota come Four.{#Name="Accord"}
+Michael
+Zero
+ 
+Dito
+Mikhail
+Accord
+235{#Name="235"}
+60{#Name="60"}
+343{#Name="343"}
+325{#Name="325"}
+397{#Name="397"}
+Quindi... quel tuo braccio sinistro è finto, giusto, Zero?{#Name="Dito"}
+Già.{#Name="Zero"}
+E allora come fai a muoverlo?{#Name="Dito"}
+C'è un parassita che lo collega al mio corpo.{#Name="Zero"}
+Cosa? Non una macchina o roba simile? Inquietante.{LF}...Posso vederlo?{#Name="Dito"}
+Un'altra volta.{#Name="Zero"}
+Anch'io! Voglio vederlo, voglio vederlo!{#Name="Mikhail"}
+Piantala!{#Name="Zero"}
+Tsk...{#Name="Dito"}
+削除{#Name="ゼロ"}
+433{#Name="433"}
+削除{#Name="ゼロ"}
+289{#Name="289"}
+451{#Name="451"}
+253{#Name="253"}
+Sai, questa tua sorella dà più problemi di quanto valga.{#Name="Dito"}
+Zero, quel trucco che hai fatto prima era davvero forte!{#Name="Mikhail"}

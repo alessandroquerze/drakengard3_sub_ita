@@ -1,0 +1,106 @@
+V3
+V4
+V5
+V1
+V2
+V3
+V4
+V5
+LV
+LV
+LV
+V1
+V2
+V3
+V4
+V5
+V6
+V7
+V8
+Finale
+Ramo A
+Ramo B
+Ramo C
+Ramo D
+Devi completare il Ramo A prima di poter scegliere questa missione.
+Terra dei Mari
+Terra delle Montagne
+Terra delle Foreste
+Terra delle Sabbie
+Città della Cattedrale
+Aggancia il bersaglio per tenere l'avversario nel mirino.{LF}Qualsiasi attacco del drago può essere{LF}devastante, quindi cerca di capire bene{LF}le mosse del nemico prima di agire.{#Name="Recording 0020_10: Gabriel"}
+I draghi colpiscono con forza formidabile. Usa le tue{LF}abilità difensive ed evasive per combattere{LF}la battaglia e, soprattutto, non essere imprudente.{#Name="Recording 0020_20: Gabriel"}
+I draghi colpiscono con forza formidabile. Usa le tue{LF}abilità difensive ed evasive per combattere{LF}la battaglia e, soprattutto, non essere imprudente.{#Name="Recording 0020_20: Gabriel"}
+Perché non provi ad agganciare Phanuel appena esce{LF}dall'acqua? Tenere d'occhio i suoi movimenti{LF}ti aiuterà a mantenere il vantaggio in battaglia.{#Name="Recording 1040_10: Phanuel"}
+Quando vedi il marcatore arancione, è la tua{LF}occasione per attaccare Phanuel. Non sprecarla!{#Name="Recording 1040_20: Phanuel"}
+Gli attacchi basati sul fuoco sono in genere inefficaci{LF}sott'acqua, quindi prova a trascinare il nemico sulla terraferma{LF}prima di colpire. Travolgilo frontalmente prima che{LF}si immerga, così lo farai uscire.{#Name="Recording 1040_30: Phanuel"}
+Le scariche di energia che escono dai cerchi magici{LF}possono essere distrutte. Se ti ritrovi{LF}sopraffatto, prova a usare l'aggancio multiplo per{LF}abbatterle con più efficienza.{#Name="Recording 2060_10: Armaros"}
+Se ti trovi in difficoltà, prova ad attivare{LF}la Modalità Intoner. Non solo potrai infliggere{LF}molti più danni, ma diventerai anche{LF}invincibile per un breve periodo.{#Name="Recording 2060_20: Armaros"}
+È meglio distruggere rapidamente quei fastidiosi cannoni.{LF}Prova ad attaccarli mentre passi da una torre all'altra;{LF}una volta tolti di mezzo, potrai attaccare{LF}Armaros senza distrazioni inutili.{#Name="Recording 2060_30: Armaros"}
+Il nucleo pulsante appeso sotto la fortezza è{LF}il suo punto debole. Non farti ingannare dai suoi movimenti;{LF}prova a prevedere dove andrà mentre attacchi.{#Name="Recording 2060_40: Armaros"}
+I colpi esplosivi possono essere distrutti prima{LF}che esplodano. Usa l'aggancio multiplo per provare{LF}ad abbatterli tutti in un solo colpo.{#Name="Recording 2060_50: Armaros"}
+Puoi usare {01}{0B} per provare a evitare gli attacchi{LF}che non riesci ad abbattere. Fai attenzione a non schivare{LF}troppo, però, o Four potrebbe riuscire a fuggire.{#Name="Recording 2060_60: Armaros"}
+Se una delle bambole di Armisael ti si aggrappa,{LF}alla fine esploderà e infliggerà danni.{LF}Usa salti, schivate e altre manovre rapide{LF}per provare a scrollartela di dosso.{#Name="Recording 3060_10: Armisael"}
+L'attacco a raggio di Armisael consuma molta{LF}della sua energia canora, indebolendolo per un certo{LF}periodo subito dopo. È la tua occasione per colpire!{#Name="Recording 3060_20: Armisael"}
+Quando vedi il marcatore arancione, è la tua{LF}occasione per attaccare Armisael. Non sprecarla!{#Name="Recording 3060_30: Armisael"}
+Finché gli Egregori hanno la loro armatura,{LF}non puoi danneggiarli. Schiantati contro di loro{LF}per staccare l'armatura, poi colpisci.{#Name="Recording 4040_10: Egregori"}
+Rimuovere l'armatura degli Egregori li indebolisce,{LF}ma elimina anche ogni possibilità di colpirli{LF}con attacchi corpo a corpo. Passa invece al fuoco.{#Name="Recording 4040_20: Egregori"}
+Quando vedi il marcatore arancione, è la tua{LF}occasione per attaccare gli Egregori. Non sprecarla!{#Name="Recording 4040_30: Egregori"}
+Il punto debole di Gabriel è dentro la sua bocca.{LF}Cerca il marcatore arancione e colpisci{LF}rapidamente appena lo vedi.{#Name="Recording 5010_10: Gabriel"}
+L'attacco laser di Gabriel è pericoloso, ma offre{LF}anche un'ottima occasione per colpire.{LF}Osserva quando inizia a caricare energia,{LF}poi cogli l'occasione per tempestarlo di colpi.{#Name="Recording 5010_20: Gabriel"}
+Se necessario, puoi abbattere le{LF}spade di luce che Gabriel ti lancia contro.{LF}Usa l'aggancio multiplo per mirare e{LF}distruggere più spade alla volta.{#Name="Recording 5010_30: Gabriel"}
+Gli attacchi con palle di fuoco di Gabriel possono essere fatti detonare{LF}prima del lancio. L'intervallo dopo l'esplosione di una{LF}palla di fuoco è la tua migliore occasione d'attacco.{LF}Usala per colpirlo più forte che puoi!{#Name="Recording 5040_10: Gabriel"}
+Il punto debole di Gabriel è dentro la sua bocca.{LF}Cerca il marcatore arancione e colpisci{LF}rapidamente appena lo vedi.{#Name="Recording 5040_20: Gabriel"}
+Gli attacchi con palle di fuoco di Gabriel possono essere fatti detonare{LF}prima del lancio. L'intervallo dopo l'esplosione di una{LF}palla di fuoco è la tua migliore occasione d'attacco.{LF}Usala per colpirlo più forte che puoi!{#Name="Recording 5040_10: Gabriel"}
+Non rallentare l'attacco. Usa l'occasione{LF}che Mikhail ti ha dato per afferrare la vittoria! Anche la barriera{LF}canora che protegge Gabriel è stata{LF}indebolita, quindi prova a danneggiare le sue zampe ferite.{#Name="Recording 5040_30: Gabriel"}
+Potrà anche essere ferito e indebolito,{LF}ma il drago colpisce ancora con grande potenza.{LF}Non dimenticare le tue abilità di parata e schivata.{#Name="Recording 5040_40: Gabriel"}
+Il punto debole di Gabriel è nella sua bocca, quindi{LF}non puoi ferirlo se resta semplicemente fermo lì.{LF}Devi creare una situazione in cui tu {LF}possa attaccare l'interno della sua bocca.{#Name="Recording 5040_50: Gabriel"}
+La protezione canora del ragno si indebolisce{LF}per un momento dopo che emette il suo veleno.{LF}Cogli questa opportunità per schiantarti frontalmente contro di lui.{#Name="Recording 3250_10: Raphael"}
+Non rilassarti solo perché il nemico è a terra.{LF}Potrebbe contrattaccare con una ragnatela capace{LF}di infliggere danni devastanti.{#Name="Recording 3250_20: Raphael"}
+Quando vedi il marcatore arancione, è{LF}la tua occasione per attaccare. Non sprecarla!{#Name="Recording 3250_30: Raphael"}
+Il nucleo di Abdiel è il suo punto debole; attaccare{LF}qualsiasi altra parte è inutile. Cerca il{LF}golem con il nucleo e colpisci!{#Name="Recording 5120_10: Abdiel"}
+Attaccare qualsiasi cosa tranne il nucleo è inutile.{LF}Distruggi il corpo di Abdiel ed esponi il nucleo{LF}nascosto al suo interno per infliggere danni. Ma muoviti in fretta;{LF}se gli dai abbastanza tempo, si rigenererà.{#Name="Recording 5120_20: Abdiel"}
+Il nucleo di Abdiel è il suo punto debole; attaccare{LF}qualsiasi altra parte è inutile. Cerca il{LF}golem con il nucleo e colpisci!{#Name="Recording 5120_10: Abdiel"}
+I golem possono opporre una solida difesa, ma{LF}restano scoperti per un breve momento quando{LF}attaccano. Non perdere questa occasione!{#Name="Recording 5120_30: Abdiel"}
+I golem possono opporre una solida difesa, ma{LF}restano scoperti per un breve momento quando{LF}attaccano. Non perdere questa occasione!{#Name="Recording 5120_30: Abdiel"}
+I golem possono opporre una solida difesa, ma{LF}restano scoperti per un breve momento quando{LF}attaccano. Non perdere questa occasione!{#Name="Recording 5120_30: Abdiel"}
+Gli attacchi con palle di fuoco di Zophiel possono essere fatti detonare{LF}prima del lancio. L'intervallo dopo l'esplosione di una{LF}palla di fuoco è la tua migliore occasione d'attacco.{LF}Usala per colpirlo più forte che puoi!{#Name="Recording 2320_10: Zophiel"}
+Il punto debole di Zophiel è dentro la sua bocca.{LF}Cerca il marcatore arancione e colpisci{LF}rapidamente appena lo vedi.{#Name="Recording 2320_20: Zophiel"}
+Gli attacchi con palle di fuoco di Zophiel possono essere fatti detonare{LF}prima del lancio. L'intervallo dopo l'esplosione di una{LF}palla di fuoco è la tua migliore occasione d'attacco.{LF}Usala per colpirlo più forte che puoi!{#Name="Recording 2320_10: Zophiel"}
+Five può consumare i soldati Galgaliel per guarire{LF}completamente le sue ferite. Finché ci sono Galgaliel in giro,{LF}sconfiggere Five sarà difficile.{#Name="Recording 3320_10: Galgaliel"}
+Five può consumare i soldati Galgaliel per guarire{LF}completamente le sue ferite. Finché ci sono Galgaliel in giro,{LF}sconfiggere Five sarà difficile.{#Name="Recording 3320_10: Galgaliel"}
+Five può consumare i soldati Galgaliel per guarire{LF}completamente le sue ferite. Finché ci sono Galgaliel in giro,{LF}sconfiggere Five sarà difficile.{#Name="Recording 3320_10: Galgaliel"}
+Quando viene attaccato, Ezrael si mette sulla difensiva e{LF}si teletrasporta al sicuro. Sfrutta questo comportamento per ridurre{LF}le occasioni in cui Ezrael può attaccare.{#Name="Recording 4320_10: Ezrael"}
+Se un attacco è troppo difficile da schivare, prova ad attirare{LF}il nemico verso di te, poi schiva. Però non schivare troppo presto,{LF}o potresti esporti a un attacco.{#Name="Recording 4320_20: Ezrael"}
+Ezrael è vulnerabile per un istante subito dopo{LF}essersi teletrasportato. Impara le abitudini di teletrasporto del nemico per{LF}prevedere dove andrà, poi attacca!{#Name="Recording 4320_30: Ezrael"}
+Ezrael è vulnerabile dopo aver finito di sparare{LF}il suo laser. Se lo danneggi in quel momento,{LF}potresti incapacitarlo brevemente, permettendoti{LF}di infliggere ancora più danni.{#Name="Recording 4320_40: Ezrael"}
+Resta vicino al laser mentre schivi e aspetta{LF}la tua occasione per colpire. Se ti allontani troppo{LF}da esso, perderai l'opportunità{LF}di attaccare. Non avere paura di correre rischi!{#Name="Recording 4320_50: Ezrael"}
+Puoi schivare per evitare più facilmente gli attacchi di Ezrael,{LF}ma ti resterà meno tempo da dedicare ai tuoi.{LF}Per ottenere i risultati migliori, usa queste manovre con parsimonia.{#Name="Recording 4320_60: Ezrael"}
+Testo suggerimento 1　DLC5_040　　　prima riga{LF}Testo suggerimento 1　DLC5_040　　　seconda riga{LF}Testo suggerimento 1　DLC5_040　　　terza riga{LF}Testo suggerimento 1　DLC5_040　　　quarta riga{LF}Testo suggerimento 1　DLC5_040　　　quinta riga{#Name="Yummy-looking Crab (temp)"}
+Testo suggerimento 2　DLC5_040　　　prima riga{LF}Testo suggerimento 2　DLC5_040　　　seconda riga{LF}Testo suggerimento 2　DLC5_040　　　terza riga{LF}Testo suggerimento 2　DLC5_040　　　quarta riga{LF}Testo suggerimento 2　DLC5_040　　　quinta riga{#Name="Yummy-looking Crab (temp)"}
+Testo suggerimento 3　DLC5_040　　　prima riga{LF}Testo suggerimento 3　DLC5_040　　　seconda riga{LF}Testo suggerimento 3　DLC5_040　　　terza riga{LF}Testo suggerimento 3　DLC5_040　　　quarta riga{LF}Testo suggerimento 3　DLC5_040　　　quinta riga{#Name="Yummy-looking Crab (temp)"}
+Testo suggerimento 1　DLC4_040　　　prima riga{LF}Testo suggerimento 1　DLC4_040　　　seconda riga{LF}Testo suggerimento 1　DLC4_040　　　terza riga{LF}Testo suggerimento 1　DLC4_040　　　quarta riga{LF}Testo suggerimento 1　DLC4_040　　　quinta riga{#Name="Pirate fleet (temp)"}
+Testo suggerimento 2　DLC4_040　　　prima riga{LF}Testo suggerimento 2　DLC4_040　　　seconda riga{LF}Testo suggerimento 2　DLC4_040　　　terza riga{LF}Testo suggerimento 2　DLC4_040　　　quarta riga{LF}Testo suggerimento 2　DLC4_040　　　quinta riga{#Name="Pirate fleet (temp)"}
+Testo suggerimento 3　DLC4_040　　　prima riga{LF}Testo suggerimento 3　DLC4_040　　　seconda riga{LF}Testo suggerimento 3　DLC4_040　　　terza riga{LF}Testo suggerimento 3　DLC4_040　　　quarta riga{LF}Testo suggerimento 3　DLC4_040　　　quinta riga{#Name="Pirate fleet (temp)"}
+Testo suggerimento 1　DLC3_040　　　prima riga{LF}Testo suggerimento 1　DLC3_040　　　seconda riga{LF}Testo suggerimento 1　DLC3_040　　　terza riga{LF}Testo suggerimento 1　DLC3_040　　　quarta riga{LF}Testo suggerimento 1　DLC3_040　　　quinta riga{#Name="Special Gigas (temp)"}
+Testo suggerimento 2　DLC3_040　　　prima riga{LF}Testo suggerimento 2　DLC3_040　　　seconda riga{LF}Testo suggerimento 2　DLC3_040　　　terza riga{LF}Testo suggerimento 2　DLC3_040　　　quarta riga{LF}Testo suggerimento 2　DLC3_040　　　quinta riga{#Name="Special Gigas (temp)"}
+Testo suggerimento 3　DLC3_040　　　prima riga{LF}Testo suggerimento 3　DLC3_040　　　seconda riga{LF}Testo suggerimento 3　DLC3_040　　　terza riga{LF}Testo suggerimento 3　DLC3_040　　　quarta riga{LF}Testo suggerimento 3　DLC3_040　　　quinta riga{#Name="Special Gigas (temp)"}
+Testo suggerimento 1　DLC2_040　　　prima riga{LF}Testo suggerimento 1　DLC2_040　　　seconda riga{LF}Testo suggerimento 1　DLC2_040　　　terza riga{LF}Testo suggerimento 1　DLC2_040　　　quarta riga{LF}Testo suggerimento 1　DLC2_040　　　quinta riga{#Name="Homunculus (temp)"}
+Testo suggerimento 2　DLC2_040　　　prima riga{LF}Testo suggerimento 2　DLC2_040　　　seconda riga{LF}Testo suggerimento 2　DLC2_040　　　terza riga{LF}Testo suggerimento 2　DLC2_040　　　quarta riga{LF}Testo suggerimento 2　DLC2_040　　　quinta riga{#Name="Homunculus (temp)"}
+Testo suggerimento 3　DLC2_040　　　prima riga{LF}Testo suggerimento 3　DLC2_040　　　seconda riga{LF}Testo suggerimento 3　DLC2_040　　　terza riga{LF}Testo suggerimento 3　DLC2_040　　　quarta riga{LF}Testo suggerimento 3　DLC2_040　　　quinta riga{#Name="Homunculus (temp)"}
+Testo suggerimento 1　DLC1_040　　　prima riga{LF}Testo suggerimento 1　DLC1_040　　　seconda riga{LF}Testo suggerimento 1　DLC1_040　　　terza riga{LF}Testo suggerimento 1　DLC1_040　　　quarta riga{LF}Testo suggerimento 1　DLC1_040　　　quinta riga{#Name="Fake Zero (temp)"}
+Testo suggerimento 2　DLC1_040　　　prima riga{LF}Testo suggerimento 2　DLC1_040　　　seconda riga{LF}Testo suggerimento 2　DLC1_040　　　terza riga{LF}Testo suggerimento 2　DLC1_040　　　quarta riga{LF}Testo suggerimento 2　DLC1_040　　　quinta riga{#Name="Fake Zero (temp)"}
+Testo suggerimento 3　DLC1_040　　　prima riga{LF}Testo suggerimento 3　DLC1_040　　　seconda riga{LF}Testo suggerimento 3　DLC1_040　　　terza riga{LF}Testo suggerimento 3　DLC1_040　　　quarta riga{LF}Testo suggerimento 3　DLC1_040　　　quinta riga{#Name="Fake Zero (temp)"}
+Testo suggerimento 1　DLC0_040　　　prima riga{LF}Testo suggerimento 1　DLC0_040　　　seconda riga{LF}Testo suggerimento 1　DLC0_040　　　terza riga{LF}Testo suggerimento 1　DLC0_040　　　quarta riga{LF}Testo suggerimento 1　DLC0_040　　　quinta riga{#Name="Michael (temp)"}
+Testo suggerimento 2　DLC0_040　　　prima riga{LF}Testo suggerimento 2　DLC0_040　　　seconda riga{LF}Testo suggerimento 2　DLC0_040　　　terza riga{LF}Testo suggerimento 2　DLC0_040　　　quarta riga{LF}Testo suggerimento 2　DLC0_040　　　quinta riga{#Name="Michael (temp)"}
+Testo suggerimento 3　DLC0_040　　　prima riga{LF}Testo suggerimento 3　DLC0_040　　　seconda riga{LF}Testo suggerimento 3　DLC0_040　　　terza riga{LF}Testo suggerimento 3　DLC0_040　　　quarta riga{LF}Testo suggerimento 3　DLC0_040　　　quinta riga{#Name="Michael (temp)"}
+Testo suggerimento 1　DLC5_040　　　prima riga{LF}Testo suggerimento 1　DLC5_040　　　seconda riga{LF}Testo suggerimento 1　DLC5_040　　　terza riga{LF}Testo suggerimento 1　DLC5_040　　　quarta riga{LF}Testo suggerimento 1　DLC5_040　　　quinta riga{#Name="美味しそうなカニ４"}
+Testo suggerimento 2　DLC5_040　　　prima riga{LF}Testo suggerimento 2　DLC5_040　　　seconda riga{LF}Testo suggerimento 2　DLC5_040　　　terza riga{LF}Testo suggerimento 2　DLC5_040　　　quarta riga{LF}Testo suggerimento 2　DLC5_040　　　quinta riga{#Name="美味しそうなカニ５"}
+Testo suggerimento 3　DLC5_040　　　prima riga{LF}Testo suggerimento 3　DLC5_040　　　seconda riga{LF}Testo suggerimento 3　DLC5_040　　　terza riga{LF}Testo suggerimento 3　DLC5_040　　　quarta riga{LF}Testo suggerimento 3　DLC5_040　　　quinta riga{#Name="美味しそうなカニ６"}
+Testo suggerimento 1　DLC4_040　　　prima riga{LF}Testo suggerimento 1　DLC4_040　　　seconda riga{LF}Testo suggerimento 1　DLC4_040　　　terza riga{LF}Testo suggerimento 1　DLC4_040　　　quarta riga{LF}Testo suggerimento 1　DLC4_040　　　quinta riga{#Name="海賊船団４"}
+Testo suggerimento 2　DLC4_040　　　prima riga{LF}Testo suggerimento 2　DLC4_040　　　seconda riga{LF}Testo suggerimento 2　DLC4_040　　　terza riga{LF}Testo suggerimento 2　DLC4_040　　　quarta riga{LF}Testo suggerimento 2　DLC4_040　　　quinta riga{#Name="海賊船団５"}
+Testo suggerimento 3　DLC4_040　　　prima riga{LF}Testo suggerimento 3　DLC4_040　　　seconda riga{LF}Testo suggerimento 3　DLC4_040　　　terza riga{LF}Testo suggerimento 3　DLC4_040　　　quarta riga{LF}Testo suggerimento 3　DLC4_040　　　quinta riga{#Name="海賊船団６"}
+Testo suggerimento 1　DLC3_040　　　prima riga{LF}Testo suggerimento 1　DLC3_040　　　seconda riga{LF}Testo suggerimento 1　DLC3_040　　　terza riga{LF}Testo suggerimento 1　DLC3_040　　　quarta riga{LF}Testo suggerimento 1　DLC3_040　　　quinta riga{#Name="特殊ギガース４"}
+Testo suggerimento 2　DLC3_040　　　prima riga{LF}Testo suggerimento 2　DLC3_040　　　seconda riga{LF}Testo suggerimento 2　DLC3_040　　　terza riga{LF}Testo suggerimento 2　DLC3_040　　　quarta riga{LF}Testo suggerimento 2　DLC3_040　　　quinta riga{#Name="特殊ギガース５"}
+Testo suggerimento 3　DLC3_040　　　prima riga{LF}Testo suggerimento 3　DLC3_040　　　seconda riga{LF}Testo suggerimento 3　DLC3_040　　　terza riga{LF}Testo suggerimento 3　DLC3_040　　　quarta riga{LF}Testo suggerimento 3　DLC3_040　　　quinta riga{#Name="特殊ギガース６"}
+Testo suggerimento 1　DLC2_040　　　prima riga{LF}Testo suggerimento 1　DLC2_040　　　seconda riga{LF}Testo suggerimento 1　DLC2_040　　　terza riga{LF}Testo suggerimento 1　DLC2_040　　　quarta riga{LF}Testo suggerimento 1　DLC2_040　　　quinta riga{#Name="ホムンクルス４"}

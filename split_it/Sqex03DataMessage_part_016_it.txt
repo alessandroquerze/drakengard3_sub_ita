@@ -1,0 +1,106 @@
+8 colpi
+Fendente rotante
+Grande fendente rotante
+Fendente rotante massimo
+Onda del sigillo
+Colpo terrestre
+Fendente rotante ascendente
+Colpo terrestre
+Esplosione del sigillo
+Fendente rotante in avanti
+Colpo del sigillo
+Colpo aereo
+2 colpi aerei
+3 colpi aerei
+Spaccelmo
+Assalto aereo
+-
+2 colpi
+3 colpi
+4 colpi
+5 colpi
+Carica in avanti
+-
+Assalto in avanti
+Raffica in avanti
+Colpo e schianto
+Finitura in volteggio
+Vortice aereo
+Affondo planante
+Affondo verso il basso
+-
+2 colpi
+3 colpi
+4 colpi
+5 colpi
+6 colpi
+7 colpi
+Tempesta aggraziata
+Calcio proiettile caricato
+Colpo terrestre
+Colpo terrestre infinito
+Calcio rotante aereo
+Doppio calcio rotante aereo
+Triplo calcio rotante aereo
+Sfera furiosa
+Taglio rotante
+Colpo aereo
+2 colpi aerei
+3 colpi aerei
+4 colpi aerei
+Schianto
+Calcio verso il basso
+Tempesta aerea
+-
+2 colpi
+3 colpi
+4 colpi
+5 colpi
+6 colpi
+Lancio dell'anello
+Attira
+Lancio rotante dell'anello
+Schianto meteoritico
+Colpo vorticoso
+Colpo di lazo
+Colpo aereo
+Vortice aereo
+Ciclone aereo
+Attrazione aerea
+8 colpi
+9 colpi
+Colpi infiniti
+Pestaggio
+Pestaggio (+Impeto)
+Colpo ciclonico
+Pesta e taglia
+Pestaggio aereo
+Grande schianto
+Sì{#Name=" "}
+No{#Name=" "}
+Usa {04}{#Name=" "}
+Esamina{#Name=" "}
+Parla{#Name=" "}
+Non puoi usarlo adesso. CONFIRMED NOT USED 1126.{#Name=" "}
+Avanti{#Name=" "}
+Nuova arma ottenuta!{#Name=" "}
+{04}{#Name=" "}
+アクセサリーを入手しました！{#Name=" "}
+Borsa oggetti ottenuta!{#Name=" "}
+Non puoi più usarlo.{#Name=" "}
+Seleziona{#Name=" "}
+Conferma{#Name=" "}
+Indietro{#Name=" "}
+Zero{#Name=" "}
+Mikhail{#Name=" "}
+Cent{#Name=" "}
+Decadus{#Name=" "}
+Dito{#Name=" "}
+Octa{#Name=" "}
+Five{#Name=" "}
+Four{#Name=" "}
+Three{#Name=" "}
+Two{#Name=" "}
+One{#Name=" "}
+Accord{#Name=" "}
+Scorri{#Name=" "}

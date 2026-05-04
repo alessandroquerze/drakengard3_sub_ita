@@ -1,0 +1,106 @@
+Cosa?{#Name="Zero"}
+La situazione del povero Mikhail...{#Name="Decadus"}
+361{#Name="361"}
+271{#Name="271"}
+163{#Name="163"}
+163{#Name="163"}
+Mi dispiace per voi, mia signora. Farò tutto ciò che è in mio potere per salvare Mikhail.{#Name="Decadus"}
+Zero, mi dispiace. Mi dispiace davvero.{#Name="Mikhail"}
+Smettila di scusarti. Se ti senti in colpa, pensa solo a guarire.{#Name="Zero"}
+Va bene. Voglio stare meglio, Zero.{LF}Meglio e più forte. Lo voglio davvero.{#Name="Mikhail"}
+Odio essere così debole...{#Name="Mikhail"}
+Voglio solo proteggerti, Zero. Lo odio davvero, davvero tanto!{#Name="Mikhail"}
+...Vai a dormire.{#Name="Zero"}
+Mi dispiace. ...Mi dispiace davvero.{#Name="Mikhail"}
+È ora di andare.{#Name="Zero"}
+Molto bene. Dobbiamo trovare Lady Two il prima possibile.{#Name="Decadus"}
+Tu resta qui e riposati.{#Name="Zero"}
+Mi dispiace, tutti quanti.{#Name="Mikhail"}
+Oh ho! Di che cosa dovresti scusarti?{#Name="Octa"}
+Sai, ora che lo dici...{#Name="Cent"}
+Momento curiosità! Sapevate che un tempo le scuse erano{LF}conosciute come "il falso oro dei peccatori"?{#Name="Cent"}
+Sì, sì. Sta' zitto, vuoi?{LF}Forza, Zero, andiamocene da qui.{#Name="Dito"}
+こんなクソみたいな砂漠で迷うとは……{#Name="ゼロ"}
+È ora di andare.{#Name="Zero"}
+Molto bene. Dobbiamo trovare Lady Two il prima possibile.{#Name="Decadus"}
+Zero...{#Name="Mikhail"}
+Tu resta qui e riposati.{#Name="Zero"}
+Mi dispiace, tutti quanti.{#Name="Mikhail"}
+Oh ho! Di che cosa dovresti scusarti?{#Name="Octa"}
+Sai, ora che lo dici...{#Name="Cent"}
+Momento curiosità! Sapevate che un tempo le scuse erano{LF}conosciute come "il falso oro dei peccatori"?{#Name="Cent"}
+Sì, sì. Sta' zitto, vuoi?{LF}Forza, Zero, andiamocene da qui.{#Name="Dito"}
+ 
+Octa
+Zero
+Decadus
+Dito
+Cent
+Mikhail
+181
+343
+361
+271
+163
+ゼロ
+Procedere alla prossima missione?{#Name="ミハイル"}
+みんなで話すデモ{#Name="ミハイル"}
+Ora, voi due. Posso parlarvi un momento?{#Name="Zero"}
+Sì.{#Name="Decadus/Octa"}
+Bene. Perché dovete sentirlo entrambi.{#Name="Zero"}
+...Sì?{#Name="Decadus/Octa"}
+Non userò mezzi termini.{#Name="Zero"}
+Riguarda le nostre... attività notturne.{#Name="Zero"}
+Le vostre prestazioni sono state pessime.{#Name="Zero"}
+Assurdo!{#Name="Octa"}
+Il mio gigantesco joystick è sulla bocca di tutti nelle taverne di mezzo mondo—{#Name="Octa"}
+Le dimensioni non equivalgono alla "gioia", in questo caso.{#Name="Zero"}
+Eh?{#Name="Octa"}
+Senti. Non si tratta di quante volte continui...{#Name="Zero"}
+Si tratta di sfruttare al meglio la tua sessione di gioco.{#Name="Zero"}
+Essere solo "gigantesco" non serve a niente.{#Name="Zero"}
+Quindi o migliori le tue abilità, o abbiamo chiuso. Capito?{#Name="Zero"}
+S-Sì, mia signora! Mi dispiace terribilmente, mia signora!{#Name="Octa"}
+Quanto a te, Decadus. Francamente, con me sei sempre stato{LF}un perfetto gentiluomo.{#Name="Zero"}
+Desidero solo servirvi in ogni cosa, mia signora.{#Name="Decadus"}
+Ma le tue... preferenze sono un po'... estreme.{#Name="Zero"}
+Non passano cinque minuti senza che tu mi supplichi{LF}di punirti in qualche modo.{#Name="Zero"}
+Uuunnngh...{#Name="Decadus"}
+Quel genere di cose va bene ogni tanto, ma se lo{LF}facciamo ogni singola volta, perde effetto.{#Name="Zero"}
+Mille scuse, mia signora.{#Name="Decadus"}
+Ottimo, allora. Sono contenta che ne abbiamo parlato.{LF}Lezione finita.{#Name="Zero"}
+Sì, mia signora!{#Name="Decadus/Octa"}
+A proposito, Octa. Hai mai pensato semplicemente di...{LF}sai. Soddisfarti da solo?{#Name="Zero"}
+Oh ho! E perché dovrei farlo, quando ho{LF}il mondo intero come amante?{#Name="Octa"}
+Il mondo intero... Aspetta, cosa?{#Name="Zero"}
+Beh, un'Intoner è la scelta migliore, ovviamente.{LF}Ma se non ce n'è una disponibile, un umano può bastare.{#Name="Octa"}
+Se non sono disponibili né l'una né l'altro, ****** andrà bene. Anche ***** vanno bene,{LF}anzi, ultimamente mi sto proprio godendo i ******* !{#Name="Octa"}
+Splendido.{#Name="Zero"}
+Sai, cosa mi piacerebbe davvero provare prima o poi? Un ******!{#Name="Octa"}
+Voi non dormite mai? Vi sento sempre tutti e tre{LF}urlare e fare versi strani di notte...{#Name="Mikhail"}
+Giochiamo solo un po' prima di andare a letto.{#Name="Zero"}
+Giocate? Ehi, non è giusto! Voglio giocare anch'io!{#Name="Mikhail"}
+Ehm... sì, no. Non funzionerà.{#Name="Zero"}
+Posso giocare quando sarò grande? Eh? Ti pregooo!?{#Name="Mikhail"}
+Ne parleremo più tardi.{#Name="Zero"}
+Cavolo, spero proprio di crescere presto.{LF}Non vedo l'ora di giocare con voi tutta la notte!{#Name="Mikhail"}
+Fate fatica a dormire, mia signora?{#Name="Decadus"}
+Non sono stanca, immagino.{#Name="Zero"}
+Lo immagino. Solo un pazzo potrebbe dormire{LF}in un mondo come questo.{#Name="Decadus"}
+Comunque, vi prego, cercate di dormire. Avete bisogno di riposo.{#Name="Decadus"}
+Che sei, mia madre?{#Name="Zero"}
+No. Sono il vostro discepolo.{#Name="Decadus"}
+Ho giurato di servirvi per l'eternità.{LF}Ho giurato di dare la mia vita in vostro nome, se necessario.{#Name="Decadus"}
+Va bene, va bene. Se mi serve qualcosa, te lo farò sapere.{#Name="Zero"}
+Attendo con ansia i vostri ordini.{#Name="Decadus"}
+Suppongo che Lady Three non sia mai stata nella foresta, dopotutto.{#Name="Decadus"}
+Ho ho! Allora la Land of Sands?{LF}O forse la Cathedral City?{#Name="Octa"}
+Meglio occuparsi di entrambe.{LF}One e Three devono nascondersi da qualche parte.{#Name="Zero"}
+Tu vola in alto e cerca dall'alto.{LF}Noi tre controlleremo le rovine sotterranee.{#Name="Zero"}
+Va bene!{#Name="Mikhail"}
+Molto bene, mia signora.{#Name="Octa"}
+Capito.{#Name="Decadus"}
+......{#Name="Zero"}
+............{#Name="Zero"}
+Mia signora?{#Name="Octa"}
+Qui c'è qualcosa che... non torna.{#Name="Zero"}

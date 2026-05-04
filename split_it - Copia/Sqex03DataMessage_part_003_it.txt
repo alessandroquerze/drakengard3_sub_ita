@@ -1,0 +1,106 @@
+ヒントテキスト２　DLC2_040　　　一行目{LF}ヒントテキスト２　DLC2_040　　　二行目{LF}ヒントテキスト２　DLC2_040　　　三行目{LF}ヒントテキスト２　DLC2_040　　　四行目{LF}ヒントテキスト２　DLC2_040　　　五行目{#Name="ホムンクルス５"}
+ヒントテキスト３　DLC2_040　　　一行目{LF}ヒントテキスト３　DLC2_040　　　二行目{LF}ヒントテキスト３　DLC2_040　　　三行目{LF}ヒントテキスト３　DLC2_040　　　四行目{LF}ヒントテキスト３　DLC2_040　　　五行目{#Name="ホムンクルス６"}
+ヒントテキスト１　DLC1_040　　　一行目{LF}ヒントテキスト１　DLC1_040　　　二行目{LF}ヒントテキスト１　DLC1_040　　　三行目{LF}ヒントテキスト１　DLC1_040　　　四行目{LF}ヒントテキスト１　DLC1_040　　　五行目{#Name="Fake Zero (temp)"}
+ヒントテキスト２　DLC1_040　　　一行目{LF}ヒントテキスト２　DLC1_040　　　二行目{LF}ヒントテキスト２　DLC1_040　　　三行目{LF}ヒントテキスト２　DLC1_040　　　四行目{LF}ヒントテキスト２　DLC1_040　　　五行目{#Name="Fake Zero (temp)"}
+ヒントテキスト３　DLC1_040　　　一行目{LF}ヒントテキスト３　DLC1_040　　　二行目{LF}ヒントテキスト３　DLC1_040　　　三行目{LF}ヒントテキスト３　DLC1_040　　　四行目{LF}ヒントテキスト３　DLC1_040　　　五行目{#Name="Fake Zero (temp)"}
+ヒントテキスト１　DLC0_040　　　一行目{LF}ヒントテキスト１　DLC0_040　　　二行目{LF}ヒントテキスト１　DLC0_040　　　三行目{LF}ヒントテキスト１　DLC0_040　　　四行目{LF}ヒントテキスト１　DLC0_040　　　五行目{#Name="Michael (temp)"}
+ヒントテキスト２　DLC0_040　　　一行目{LF}ヒントテキスト２　DLC0_040　　　二行目{LF}ヒントテキスト２　DLC0_040　　　三行目{LF}ヒントテキスト２　DLC0_040　　　四行目{LF}ヒントテキスト２　DLC0_040　　　五行目{#Name="Michael (temp)"}
+ヒントテキスト３　DLC0_040　　　一行目{LF}ヒントテキスト３　DLC0_040　　　二行目{LF}ヒントテキスト３　DLC0_040　　　三行目{LF}ヒントテキスト３　DLC0_040　　　四行目{LF}ヒントテキスト３　DLC0_040　　　五行目{#Name="Michael (temp)"}
+Registrazione 0020_10: Gabriel
+Registrazione 0020_20: Gabriel
+Registrazione 1040_10: Phanuel
+Registrazione 1040_20: Phanuel
+Registrazione 1040_30: Phanuel
+Registrazione 2060_10: Armaros
+Registrazione 2060_20: Armaros
+Registrazione 2060_30: Armaros
+Registrazione 2060_40: Armaros
+Registrazione 2060_50: Armaros
+Registrazione 2060_60: Armaros
+Registrazione 3060_10: Armisael
+Registrazione 3060_20: Armisael
+Registrazione 3060_30: Armisael
+Registrazione 4040_10: Egregori
+Registrazione 4040_20: Egregori
+Registrazione 4040_30: Egregori
+Registrazione 5010_10: Gabriel
+Registrazione 5010_20: Gabriel
+Registrazione 5010_30: Gabriel
+Registrazione 5040_10: Gabriel
+Registrazione 5040_20: Gabriel
+Registrazione 5040_30: Gabriel
+Registrazione 5040_40: Gabriel
+Registrazione 5040_50: Gabriel
+Registrazione 3250_10: Raphael
+Registrazione 3250_20: Raphael
+Registrazione 3250_30: Raphael
+Registrazione 5120_10: Abdiel
+Registrazione 5120_20: Abdiel
+Registrazione 5120_30: Abdiel
+Registrazione 2320_10: Zophiel
+Registrazione 2320_20: Zophiel
+Registrazione 3320_10: Galgaliel
+Registrazione 4320_10: Ezrael
+Registrazione 4320_20: Ezrael
+Registrazione 4320_30: Ezrael
+Registrazione 4320_40: Ezrael
+Registrazione 4320_50: Ezrael
+Registrazione 4320_60: Ezrael
+Granchio dall'aspetto appetitoso (temp)
+Flotta pirata (temp)
+Gigas speciale (temp)
+Homunculus (temp)
+Falsa Zero (temp)
+Michael (temp)
+美味しそうなカニ４
+美味しそうなカニ５
+美味しそうなカニ６
+海賊船団４
+海賊船団５
+海賊船団６
+特殊ギガース４
+特殊ギガース５
+特殊ギガース６
+ホムンクルス４
+ホムンクルス５
+ホムンクルス６
+初回会話{#Name="ディト"}
+ループ会話{#Name="ディト"}
+初回会話{#Name="デカート"}
+ループ会話{#Name="デカート"}
+初回会話{#Name="オクタ"}
+ループ会話{#Name="オクタ"}
+次のステージが最後である説明。{#Name="セント"}
+ループ会話{#Name="セント"}
+初回会話{#Name="ミハイル"}
+ループ会話{#Name="ミハイル"}
+次のシーケンスに移行しますか？{#Name=" "}
+みんなで一つの場所に集まるデモ{#Name=" "}
+ディト
+デカート
+オクタ
+セント
+ミハイル
+ 
+No...{#Name="Zero"}
+No, n-non...{#Name="Zero"}
+Ti prego... Non lasciarmi!{#Name="Zero"}
+Michael!{#Name="Zero"}
+...Maledetti incubi.{#Name="Zero"}
+È passato un anno intero, e sto ancora sognando lui.{#Name="Zero"}
+Michael...{#Name="Zero"}
+ {#Name="ゼロ"}
+ {#Name="ゼロ"}
+Mi fa un male cane l'occhio.{#Name="Zero"}
+ダミー{#Name="ゼロ"}
+ダミー{#Name="ゼロ"}
+ダミー{#Name="ゼロ"}
+Non riesco a credere a quanto ci abbiano messo le mie ferite a guarire.{#Name="Zero"}
+Ma ora, finalmente è il momento.{#Name="Zero"}
+ダミー{#Name="ゼロ"}
+ダミー{#Name="ゼロ"}
+Il mio nuovo braccio sembra a posto.{#Name="Zero"}
+Non è la soluzione più elegante, ma ehi,{LF}non sono mai stata schizzinosa.{#Name="Zero"}
+ダミー{#Name="ゼロ"}
+ダミー{#Name="ゼロ"}
+Aprire la porta e uscire?{#Name=" "}
