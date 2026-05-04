@@ -1,5 +1,5 @@
 # Dubbi di traduzione
 
-- Alcune descrizioni narrative lunghe richiedono una traduzione contestuale/letteraria accurata; al momento è stata applicata una traduzione conservativa solo dove sicura.
-- Le stringhe con nomi propri (es. Dito, Decadus, Octa, Cent, Zero, Intoner) sono state lasciate invariate per rispettare il vincolo.
-- Tutte le righe contenenti caratteri CJK (cinese/giapponese) sono state lasciate inalterate per evitare modifiche non richieste.
+- Le righe con placeholder JSON tra parentesi graffe (`{...}`) sono state mantenute senza modificare il contenuto interno, come richiesto.
+- In diversi casi le stringhe esterne ai placeholder restano in inglese perché richiedono traduzione contestuale/manuale (dialoghi o frasi non coperte dal glossario automatico).
+- Per evitare errori semantici, i nomi propri e i codici interni nei placeholder non sono stati alterati.

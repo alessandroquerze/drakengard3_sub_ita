@@ -1,0 +1,2000 @@
+199{#Name="199"}
+199{#Name="199"}
+289{#Name="289"}
+289{#Name="289"}
+145{#Name="145"}
+145{#Name="145"}
+307{#Name="307"}
+307{#Name="307"}
+163{#Name="163"}
+163{#Name="163"}
+397{#Name="397"}
+397{#Name="397"}
+361{#Name="361"}
+361{#Name="361"}
+163{#Name="163"}
+163{#Name="163"}
+145{#Name="145"}
+145{#Name="145"}
+271{#Name="271"}
+271{#Name="271"}
+289{#Name="289"}
+289{#Name="289"}
+235{#Name="235"}
+235{#Name="235"}
+109{#Name="109"}
+109{#Name="109"}
+541{#Name="541"}
+541{#Name="541"}
+163{#Name="163"}
+163{#Name="163"}
+307{#Name="307"}
+307{#Name="307"}
+361{#Name="361"}
+361{#Name="361"}
+181{#Name="181"}
+181{#Name="181"}
+379{#Name="379"}
+379{#Name="379"}
+451{#Name="451"}
+451{#Name="451"}
+361{#Name="361"}
+361{#Name="361"}
+523{#Name="523"}
+523{#Name="523"}
+217{#Name="217"}
+217{#Name="217"}
+505{#Name="505"}
+505{#Name="505"}
+253{#Name="253"}
+253{#Name="253"}
+433{#Name="433"}
+433{#Name="433"}
+235{#Name="235"}
+235{#Name="235"}
+379{#Name="379"}
+379{#Name="379"}
+451{#Name="451"}
+451{#Name="451"}
+199{#Name="199"}
+199{#Name="199"}
+289{#Name="289"}
+289{#Name="289"}
+289{#Name="289"}
+289{#Name="289"}
+379{#Name="379"}
+379{#Name="379"}
+307{#Name="307"}
+307{#Name="307"}
+73{#Name="73"}
+73{#Name="73"}
+91{#Name="91"}
+91{#Name="91"}
+181{#Name="181"}
+181{#Name="181"}
+181{#Name="181"}
+181{#Name="181"}
+217{#Name="217"}
+217{#Name="217"}
+739{#Name="739"}
+739{#Name="739"}
+199{#Name="199"}
+199{#Name="199"}
+199{#Name="199"}
+199{#Name="199"}
+60{#Name="60"}
+60{#Name="60"}
+145{#Name="145"}
+145{#Name="145"}
+235{#Name="235"}
+235{#Name="235"}
+235{#Name="235"}
+235{#Name="235"}
+60{#Name="60"}
+60{#Name="60"}
+235{#Name="235"}
+235{#Name="235"}
+307{#Name="307"}
+307{#Name="307"}
+60{#Name="60"}
+60{#Name="60"}
+559{#Name="559"}
+559{#Name="559"}
+325{#Name="325"}
+325{#Name="325"}
+379{#Name="379"}
+379{#Name="379"}
+91{#Name="91"}
+91{#Name="91"}
+253{#Name="253"}
+253{#Name="253"}
+91{#Name="91"}
+91{#Name="91"}
+60{#Name="60"}
+60{#Name="60"}
+325{#Name="325"}
+325{#Name="325"}
+271{#Name="271"}
+271{#Name="271"}
+559{#Name="559"}
+559{#Name="559"}
+60{#Name="60"}
+60{#Name="60"}
+91{#Name="91"}
+91{#Name="91"}
+469{#Name="469"}
+469{#Name="469"}
+469{#Name="469"}
+469{#Name="469"}
+181{#Name="181"}
+181{#Name="181"}
+433{#Name="433"}
+433{#Name="433"}
+271{#Name="271"}
+271{#Name="271"}
+433{#Name="433"}
+433{#Name="433"}
+60{#Name="60"}
+60{#Name="60"}
+163{#Name="163"}
+163{#Name="163"}
+325{#Name="325"}
+325{#Name="325"}
+127{#Name="127"}
+127{#Name="127"}
+343{#Name="343"}
+343{#Name="343"}
+271{#Name="271"}
+271{#Name="271"}
+451{#Name="451"}
+451{#Name="451"}
+145{#Name="145"}
+145{#Name="145"}
+397{#Name="397"}
+397{#Name="397"}
+181{#Name="181"}
+181{#Name="181"}
+397{#Name="397"}
+397{#Name="397"}
+163{#Name="163"}
+163{#Name="163"}
+60{#Name="60"}
+60{#Name="60"}
+271{#Name="271"}
+271{#Name="271"}
+307{#Name="307"}
+307{#Name="307"}
+109{#Name="109"}
+109{#Name="109"}
+271{#Name="271"}
+271{#Name="271"}
+289{#Name="289"}
+289{#Name="289"}
+415{#Name="415"}
+415{#Name="415"}
+199{#Name="199"}
+199{#Name="199"}
+271{#Name="271"}
+271{#Name="271"}
+541{#Name="541"}
+541{#Name="541"}
+271{#Name="271"}
+271{#Name="271"}
+91{#Name="91"}
+91{#Name="91"}
+307{#Name="307"}
+307{#Name="307"}
+181{#Name="181"}
+181{#Name="181"}
+289{#Name="289"}
+289{#Name="289"}
+325{#Name="325"}
+325{#Name="325"}
+379{#Name="379"}
+379{#Name="379"}
+199{#Name="199"}
+199{#Name="199"}
+487{#Name="487"}
+487{#Name="487"}
+ {#Name="ディト"}
+ {#Name="ディト"}
+ {#Name="オクタ"}
+ {#Name="オクタ"}
+ {#Name="ディト"}
+ {#Name="ディト"}
+ {#Name="セント"}
+ {#Name="セント"}
+ {#Name="デカート"}
+ {#Name="デカート"}
+ {#Name="オクタ"}
+ {#Name="オクタ"}
+ {#Name="デカート"}
+ {#Name="デカート"}
+ {#Name="セント"}
+ {#Name="セント"}
+271{#Name="271"}
+271{#Name="271"}
+361{#Name="361"}
+361{#Name="361"}
+397{#Name="397"}
+397{#Name="397"}
+595{#Name="595"}
+595{#Name="595"}
+217{#Name="217"}
+217{#Name="217"}
+469{#Name="469"}
+469{#Name="469"}
+289{#Name="289"}
+289{#Name="289"}
+235{#Name="235"}
+235{#Name="235"}
+217{#Name="217"}
+217{#Name="217"}
+397{#Name="397"}
+397{#Name="397"}
+271{#Name="271"}
+271{#Name="271"}
+145{#Name="145"}
+145{#Name="145"}
+271{#Name="271"}
+271{#Name="271"}
+469{#Name="469"}
+469{#Name="469"}
+253{#Name="253"}
+253{#Name="253"}
+163{#Name="163"}
+163{#Name="163"}
+145{#Name="145"}
+145{#Name="145"}
+667{#Name="667"}
+667{#Name="667"}
+73{#Name="73"}
+73{#Name="73"}
+289{#Name="289"}
+289{#Name="289"}
+ {#Name="ディト"}
+ {#Name="ディト"}
+ {#Name="オクタ"}
+ {#Name="オクタ"}
+ {#Name="ディト"}
+ {#Name="ディト"}
+ {#Name="セント"}
+ {#Name="セント"}
+ {#Name="デカート"}
+ {#Name="デカート"}
+ {#Name="オクタ"}
+ {#Name="オクタ"}
+ {#Name="デカート"}
+ {#Name="デカート"}
+ {#Name="セント"}
+ {#Name="セント"}
+325{#Name="325"}
+325{#Name="325"}
+415{#Name="415"}
+415{#Name="415"}
+469{#Name="469"}
+469{#Name="469"}
+253{#Name="253"}
+253{#Name="253"}
+199{#Name="199"}
+199{#Name="199"}
+60{#Name="60"}
+60{#Name="60"}
+199{#Name="199"}
+199{#Name="199"}
+451{#Name="451"}
+451{#Name="451"}
+253{#Name="253"}
+253{#Name="253"}
+235{#Name="235"}
+235{#Name="235"}
+307{#Name="307"}
+307{#Name="307"}
+361{#Name="361"}
+361{#Name="361"}
+379{#Name="379"}
+379{#Name="379"}
+361{#Name="361"}
+361{#Name="361"}
+343{#Name="343"}
+343{#Name="343"}
+469{#Name="469"}
+469{#Name="469"}
+73{#Name="73"}
+73{#Name="73"}
+433{#Name="433"}
+433{#Name="433"}
+ {#Name="ディト"}
+ {#Name="ディト"}
+ {#Name="オクタ"}
+ {#Name="オクタ"}
+ {#Name="ディト"}
+ {#Name="ディト"}
+ {#Name="セント"}
+ {#Name="セント"}
+ {#Name="デカート"}
+ {#Name="デカート"}
+ {#Name="オクタ"}
+ {#Name="オクタ"}
+ {#Name="デカート"}
+ {#Name="デカート"}
+ {#Name="セント"}
+ {#Name="セント"}
+631{#Name="631"}
+631{#Name="631"}
+361{#Name="361"}
+361{#Name="361"}
+109{#Name="109"}
+109{#Name="109"}
+145{#Name="145"}
+145{#Name="145"}
+109{#Name="109"}
+109{#Name="109"}
+325{#Name="325"}
+325{#Name="325"}
+433{#Name="433"}
+433{#Name="433"}
+343{#Name="343"}
+343{#Name="343"}
+217{#Name="217"}
+217{#Name="217"}
+109{#Name="109"}
+109{#Name="109"}
+325{#Name="325"}
+325{#Name="325"}
+271{#Name="271"}
+271{#Name="271"}
+253{#Name="253"}
+253{#Name="253"}
+163{#Name="163"}
+163{#Name="163"}
+361{#Name="361"}
+361{#Name="361"}
+235{#Name="235"}
+235{#Name="235"}
+289{#Name="289"}
+289{#Name="289"}
+379{#Name="379"}
+379{#Name="379"}
+343{#Name="343"}
+343{#Name="343"}
+145{#Name="145"}
+145{#Name="145"}
+505{#Name="505"}
+505{#Name="505"}
+163{#Name="163"}
+163{#Name="163"}
+433{#Name="433"}
+433{#Name="433"}
+145{#Name="145"}
+145{#Name="145"}
+ {#Name="ディト"}
+ {#Name="ディト"}
+ {#Name="オクタ"}
+ {#Name="オクタ"}
+ {#Name="ディト"}
+ {#Name="ディト"}
+ {#Name="セント"}
+ {#Name="セント"}
+ {#Name="デカート"}
+ {#Name="デカート"}
+ {#Name="オクタ"}
+ {#Name="オクタ"}
+ {#Name="デカート"}
+ {#Name="デカート"}
+ {#Name="セント"}
+ {#Name="セント"}
+289{#Name="289"}
+289{#Name="289"}
+307{#Name="307"}
+307{#Name="307"}
+307{#Name="307"}
+307{#Name="307"}
+361{#Name="361"}
+361{#Name="361"}
+433{#Name="433"}
+433{#Name="433"}
+271{#Name="271"}
+271{#Name="271"}
+577{#Name="577"}
+577{#Name="577"}
+253{#Name="253"}
+253{#Name="253"}
+307{#Name="307"}
+307{#Name="307"}
+127{#Name="127"}
+127{#Name="127"}
+235{#Name="235"}
+235{#Name="235"}
+181{#Name="181"}
+181{#Name="181"}
+415{#Name="415"}
+415{#Name="415"}
+163{#Name="163"}
+163{#Name="163"}
+523{#Name="523"}
+523{#Name="523"}
+253{#Name="253"}
+253{#Name="253"}
+217{#Name="217"}
+217{#Name="217"}
+60{#Name="60"}
+60{#Name="60"}
+ {#Name="ディト"}
+ {#Name="ディト"}
+ {#Name="オクタ"}
+ {#Name="オクタ"}
+ {#Name="ディト"}
+ {#Name="ディト"}
+ {#Name="セント"}
+ {#Name="セント"}
+ {#Name="デカート"}
+ {#Name="デカート"}
+ {#Name="オクタ"}
+ {#Name="オクタ"}
+ {#Name="デカート"}
+ {#Name="デカート"}
+ {#Name="セント"}
+ {#Name="セント"}
+289{#Name="289"}
+289{#Name="289"}
+289{#Name="289"}
+289{#Name="289"}
+415{#Name="415"}
+415{#Name="415"}
+271{#Name="271"}
+271{#Name="271"}
+361{#Name="361"}
+361{#Name="361"}
+649{#Name="649"}
+649{#Name="649"}
+109{#Name="109"}
+109{#Name="109"}
+127{#Name="127"}
+127{#Name="127"}
+163{#Name="163"}
+163{#Name="163"}
+91{#Name="91"}
+91{#Name="91"}
+プレイするミッションを選択します。{#Name="説明文"}
+プレイするミッションを選択します。{#Name="説明文"}
+■ミッション１{LF}　妹フォウの命を狙い{LF}　山の国に入ったゼロとミハイル。{LF}{LF}　フォウの要塞に向かう途中{LF}　敵の砲撃にさらされ、{LF}　地上での戦いを余儀なくされる。{#Name="説明文"}
+■ミッション１{LF}　妹フォウの命を狙い{LF}　山の国に入ったゼロとミハイル。{LF}{LF}　フォウの要塞に向かう途中{LF}　敵の砲撃にさらされ、{LF}　地上での戦いを余儀なくされる。{#Name="説明文"}
+■ミッション２{LF}　守備隊を撃破し{LF}　フォウの要塞に突入したゼロ。{LF}{LF}　そこには多数の砲台と{LF}　兵士達が配備されていた。{LF}　ゼロは、無事に{LF}　フォウを仕留める事ができるのだろうか？{#Name="説明文"}
+■ミッション２{LF}　守備隊を撃破し{LF}　フォウの要塞に突入したゼロ。{LF}{LF}　そこには多数の砲台と{LF}　兵士達が配備されていた。{LF}　ゼロは、無事に{LF}　フォウを仕留める事ができるのだろうか？{#Name="説明文"}
+■ゲーム中のカメラタイプを選択します。{#Name="説明文"}
+■ゲーム中のカメラタイプを選択します。{#Name="説明文"}
+　Ａタイプ　（注視点追従カメラ）{LF}　　プレイヤーを注視点とするフリーカメラです。{#Name="説明文"}
+　Ａタイプ　（注視点追従カメラ）{LF}　　プレイヤーを注視点とするフリーカメラです。{#Name="説明文"}
+　Ｂタイプ　（通常フリーカメラ）{LF}　　オーソドックスなフリーカメラです。{#Name="説明文"}
+　Ｂタイプ　（通常フリーカメラ）{LF}　　オーソドックスなフリーカメラです。{#Name="説明文"}
+　Ｃタイプ　（注視点追従カメラ）{LF}　　プレイヤーを注視点とするフリーカメラです。{#Name="説明文"}
+　Ｃタイプ　（注視点追従カメラ）{LF}　　プレイヤーを注視点とするフリーカメラです。{#Name="説明文"}
+■戦闘中に展開される会話内容を選択します。{#Name="説明文"}
+■戦闘中に展開される会話内容を選択します。{#Name="説明文"}
+　Ａタイプ{LF}　　仲間キャラクター、ディトとデカートの{LF}　　会話が展開されます。{LF}{LF}　Ｂタイプ{LF}　　仲間キャラクター、オクタとセントの{LF}　　会話が展開されます。{#Name="説明文"}
+　Ａタイプ{LF}　　仲間キャラクター、ディトとデカートの{LF}　　会話が展開されます。{LF}{LF}　Ｂタイプ{LF}　　仲間キャラクター、オクタとセントの{LF}　　会話が展開されます。{#Name="説明文"}
+セレクトボタンでゲームに戻ります。{#Name="説明文"}
+セレクトボタンでゲームに戻ります。{#Name="説明文"}
+獲得金額{#Name="説明文"}
+獲得金額{#Name="説明文"}
+Ｇ{#Name="説明文"}
+Ｇ{#Name="説明文"}
+総撃破数{#Name="説明文"}
+総撃破数{#Name="説明文"}
+人{#Name="説明文"}
+人{#Name="説明文"}
+ＣＯＮＴＩＮＵＥ？{#Name="説明文"}
+ＣＯＮＴＩＮＵＥ？{#Name="説明文"}
+十字キーの左右で設定を変更します。{#Name="説明文"}
+十字キーの左右で設定を変更します。{#Name="説明文"}
+■ミッション１＆２{LF}　ミッション１とミッション２を続けてプレイします。{LF}{LF}　山の国の守備隊の砲撃にさらされたゼロ。{LF}　地上を進み、フォウが滞在しているという{LF}　要塞を目指す。{LF}　ゼロは、無事に{LF}　フォウを仕留める事ができるのだろうか？{#Name="説明文"}
+■ミッション１＆２{LF}　ミッション１とミッション２を続けてプレイします。{LF}{LF}　山の国の守備隊の砲撃にさらされたゼロ。{LF}　地上を進み、フォウが滞在しているという{LF}　要塞を目指す。{LF}　ゼロは、無事に{LF}　フォウを仕留める事ができるのだろうか？{#Name="説明文"}
+■画面への返り血表現。{#Name="説明文"}
+■画面への返り血表現。{#Name="説明文"}
+■ボタンアサインの一部を変更します。{#Name="説明文"}
+■ボタンアサインの一部を変更します。{#Name="説明文"}
+　攻撃時に画面に飛び散る血の{LF}　表示／非表示を切り替えます。{#Name="説明文"}
+　攻撃時に画面に飛び散る血の{LF}　表示／非表示を切り替えます。{#Name="説明文"}
+　Ａタイプ{LF}　　○ボタン…　　回避ステップ{LF}　　Ｌ２ボタン…　ドラゴン注視／召喚{LF}{LF}　Ｂタイプ{LF}　　○ボタン…　　ドラゴン注視／召喚{LF}　　Ｌ２ボタン…　回避ステップ{#Name="説明文"}
+　Ａタイプ{LF}　　○ボタン…　　回避ステップ{LF}　　Ｌ２ボタン…　ドラゴン注視／召喚{LF}{LF}　Ｂタイプ{LF}　　○ボタン…　　ドラゴン注視／召喚{LF}　　Ｌ２ボタン…　回避ステップ{#Name="説明文"}
+163{#Name="163"}
+163{#Name="163"}
+163{#Name="163"}
+163{#Name="163"}
+109{#Name="109"}
+109{#Name="109"}
+325{#Name="325"}
+325{#Name="325"}
+163{#Name="163"}
+163{#Name="163"}
+343{#Name="343"}
+343{#Name="343"}
+271{#Name="271"}
+271{#Name="271"}
+フォウのいる要塞を目指せ！{#Name="説明文"}
+フォウのいる要塞を目指せ！{#Name="説明文"}
+砦にある全ての砲台を破壊せよ！{#Name="説明文"}
+砦にある全ての砲台を破壊せよ！{#Name="説明文"}
+巨大砲台が現れた！{#Name="説明文"}
+巨大砲台が現れた！{#Name="説明文"}
+ギガース兵と増援兵団が現れた！{#Name="説明文"}
+ギガース兵と増援兵団が現れた！{#Name="説明文"}
+全てのオーガ兵を倒せ！{#Name="説明文"}
+全てのオーガ兵を倒せ！{#Name="説明文"}
+ギガース兵を倒せ！{#Name="説明文"}
+ギガース兵を倒せ！{#Name="説明文"}
+兵士たちを殲滅せよ！{#Name="説明文"}
+兵士たちを殲滅せよ！{#Name="説明文"}
+目標達成 ： 全ての砲台を破壊した！{#Name="説明文"}
+目標達成 ： 全ての砲台を破壊した！{#Name="説明文"}
+目標達成 ： 巨大砲台を破壊した！{#Name="説明文"}
+目標達成 ： 巨大砲台を破壊した！{#Name="説明文"}
+60
+60
+73
+73
+253
+253
+325
+325
+379
+379
+307
+307
+181
+181
+541
+541
+271
+271
+127
+127
+361
+361
+ディト
+ディト
+オクタ
+オクタ
+セント
+セント
+デカート
+デカート
+289
+289
+109
+109
+433
+433
+235
+235
+91
+91
+415
+415
+343
+343
+397
+397
+163
+163
+217
+217
+145
+145
+451
+451
+523
+523
+199
+199
+469
+469
+505
+505
+739
+739
+559
+559
+487
+487
+595
+595
+667
+667
+631
+631
+577
+577
+649
+649
+説明文
+説明文
+Mission Complete!{#Name="Explanation"}
+Mission Complete!{#Name="Explanation"}
+Mission Failed...{#Name="Explanation"}
+Mission Failed...{#Name="Explanation"}
+Triple gold bonus earned!{#Name="Explanation"}
+Triple gold bonus earned!{#Name="Explanation"}
+Double gold bonus earned!{#Name="Explanation"}
+Double gold bonus earned!{#Name="Explanation"}
+You raccolti a little gold.{#Name="Explanation"}
+You collected a little gold.{#Name="Explanation"}
+You raccolti a fair amount of gold.{#Name="Explanation"}
+You collected a fair amount of gold.{#Name="Explanation"}
+You raccolti a lot of gold!{#Name="Explanation"}
+You collected a lot of gold!{#Name="Explanation"}
+You raccolti tutti the gold!{#Name="Explanation"}
+You collected all the gold!{#Name="Explanation"}
+You took a little gold.{#Name="Explanation"}
+You took a little gold.{#Name="Explanation"}
+You took a fair amount of gold.{#Name="Explanation"}
+You took a fair amount of gold.{#Name="Explanation"}
+You took a lot of gold!{#Name="Explanation"}
+You took a lot of gold!{#Name="Explanation"}
+Time's up!{#Name="Explanation"}
+Time's up!{#Name="Explanation"}
+Gold soldier incoming.{LF}Defeat him for a gold multiplier bonus!{#Name="Explanation"}
+Gold soldier incoming.{LF}Defeat him for a gold multiplier bonus!{#Name="Explanation"}
+More gold soldier reinforcements.{LF}Earn a gold multiplier bonus for each one sconfitti!{#Name="Explanation"}
+More gold soldier reinforcements.{LF}Earn a gold multiplier bonus for each one defeated!{#Name="Explanation"}
+Gold multiplier bonus earned!{#Name="Explanation"}
+Gold multiplier bonus earned!{#Name="Explanation"}
+Tutti earned gold lost...{#Name="Explanation"}
+All earned gold lost...{#Name="Explanation"}
+Tutti gold soldati sconfitti!{#Name="Explanation"}
+All gold soldiers defeated!{#Name="Explanation"}
+I'll take these fools for tutti they got!{#Name="Zero"}
+I'll take these fools for all they got!{#Name="Zero"}
+Those treasures are mine!{#Name="Zero"}
+Those treasures are mine!{#Name="Zero"}
+I get to let loose AND earn cash?{LF}What more can a girl ask for?{#Name="Zero"}
+I get to let loose AND earn cash?{LF}What more can a girl ask for?{#Name="Zero"}
+Hey, long as it's fun AND profitable...{#Name="Zero"}
+Hey, long as it's fun AND profitable...{#Name="Zero"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Collect money and head for the goal.{#Name="Explanation"}
+Collect money and head for the goal.{#Name="Explanation"}
+If you reach the goal after collecting tutti of the money, you'll earn a triple bonus!{#Name="Explanation"}
+If you reach the goal after collecting all of the money, you'll earn a triple bonus!{#Name="Explanation"}
+If you don't reach the goal, the money you raccolti will be magically transformed into ash.{#Name="Explanation"}
+If you don't reach the goal, the money you collected will be magically transformed into ash.{#Name="Explanation"}
+You've raccolti tutti the money!{#Name="Explanation"}
+You've collected all the money!{#Name="Explanation"}
+Head for the goal and get the money!{#Name="Explanation"}
+Head for the goal and get the money!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the gold from the soldati!{#Name="Explanation"}
+Take the gold from the soldiers!{#Name="Explanation"}
+Defeat the soldati to earn double the gold!{#Name="Explanation"}
+Defeat the soldiers to earn double the gold!{#Name="Explanation"}
+Soldati sconfitti!{#Name="Explanation"}
+Soldiers defeated!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the gold from the gigas!{#Name="Explanation"}
+Take the gold from the gigas!{#Name="Explanation"}
+Defeat the gigas to earn double the gold!{#Name="Explanation"}
+Defeat the gigas to earn double the gold!{#Name="Explanation"}
+Gigas sconfitti!{#Name="Explanation"}
+Gigas defeated!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the gold from the soldati and ogres!{#Name="Explanation"}
+Take the gold from the soldiers and ogres!{#Name="Explanation"}
+Defeat the soldati and ogres to earn double the gold!{#Name="Explanation"}
+Defeat the soldiers and ogres to earn double the gold!{#Name="Explanation"}
+Soldati and ogres sconfitti!{#Name="Explanation"}
+Soldiers and ogres defeated!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the gold from the titan!{#Name="Explanation"}
+Take the gold from the titan!{#Name="Explanation"}
+Defeat the titan to earn double the gold!{#Name="Explanation"}
+Defeat the titan to earn double the gold!{#Name="Explanation"}
+Titan sconfitti!{#Name="Explanation"}
+Titan defeated!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the gold from the centaur!{#Name="Explanation"}
+Take the gold from the centaur!{#Name="Explanation"}
+Defeat the centaur to earn double the gold!{#Name="Explanation"}
+Defeat the centaur to earn double the gold!{#Name="Explanation"}
+Centaur sconfitti!{#Name="Explanation"}
+Centaur defeated!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the gold from the soldati and undead!{#Name="Explanation"}
+Take the gold from the soldiers and undead!{#Name="Explanation"}
+Defeat the soldati and undead to earn double the gold!{#Name="Explanation"}
+Defeat the soldiers and undead to earn double the gold!{#Name="Explanation"}
+Soldati and undead sconfitti!{#Name="Explanation"}
+Soldiers and undead defeated!{#Name="Explanation"}
+When near a statue, the light will illuminate your view.{#Name="Explanation"}
+When near a statue, the light will illuminate your view.{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the gold from the soldati and wizards!{#Name="Explanation"}
+Take the gold from the soldiers and wizards!{#Name="Explanation"}
+Defeat the soldier and wizard to earn double the gold!{#Name="Explanation"}
+Defeat the soldier and wizard to earn double the gold!{#Name="Explanation"}
+Soldati and wizards sconfitti!{#Name="Explanation"}
+Soldiers and wizards defeated!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the gold from the golem!{#Name="Explanation"}
+Take the gold from the golem!{#Name="Explanation"}
+Defeat the golems to earn double the gold!{#Name="Explanation"}
+Defeat the golems to earn double the gold!{#Name="Explanation"}
+Golems sconfitti!{#Name="Explanation"}
+Golems defeated!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the gold from tutti your nemici!{#Name="Explanation"}
+Take the gold from all your enemies!{#Name="Explanation"}
+Defeat tutti the nemici to earn double the gold!{#Name="Explanation"}
+Defeat all the enemies to earn double the gold!{#Name="Explanation"}
+Tutti nemici sconfitti!{#Name="Explanation"}
+All enemies defeated!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Survive for seven rounds!{#Name="Explanation"}
+Survive for seven rounds!{#Name="Explanation"}
+Survive for eight rounds!{#Name="Explanation"}
+Survive for eight rounds!{#Name="Explanation"}
+Survive for nine rounds!{#Name="Explanation"}
+Survive for nine rounds!{#Name="Explanation"}
+Survive for ten rounds!{#Name="Explanation"}
+Survive for ten rounds!{#Name="Explanation"}
+Survive every round and you'll earn a bonus!{#Name="Explanation"}
+Survive every round and you'll earn a bonus!{#Name="Explanation"}
+Fall in battle and you won't earn anything!{#Name="Explanation"}
+Fall in battle and you won't earn anything!{#Name="Explanation"}
+If you feel outclassed, retire and you'll keep any gold you earned!{#Name="Explanation"}
+If you feel outclassed, retire and you'll keep any gold you earned!{#Name="Explanation"}
+You survived every round!{#Name="Explanation"}
+You survived every round!{#Name="Explanation"}
+Bonus obtained!{#Name="Explanation"}
+Bonus obtained!{#Name="Explanation"}
+Continue on to the prossimo round?{#Name="Explanation"}
+Continue on to the next round?{#Name="Explanation"}
+Retire here?{#Name="Explanation"}
+Retire here?{#Name="Explanation"}
+Round 1{#Name="Explanation"}
+Round 1{#Name="Explanation"}
+Round 2{#Name="Explanation"}
+Round 2{#Name="Explanation"}
+Round 3{#Name="Explanation"}
+Round 3{#Name="Explanation"}
+Round 4{#Name="Explanation"}
+Round 4{#Name="Explanation"}
+Round 5{#Name="Explanation"}
+Round 5{#Name="Explanation"}
+Round 6{#Name="Explanation"}
+Round 6{#Name="Explanation"}
+Round 7{#Name="Explanation"}
+Round 7{#Name="Explanation"}
+Round 8{#Name="Explanation"}
+Round 8{#Name="Explanation"}
+Round 9{#Name="Explanation"}
+Round 9{#Name="Explanation"}
+Round 10{#Name="Explanation"}
+Round 10{#Name="Explanation"}
+Exit the arena?{#Name="Explanation"}
+Exit the arena?{#Name="Explanation"}
+Continue on to the prossimo round?{LF}(9 rounds left){#Name="Explanation"}
+Continue on to the next round?{LF}(9 rounds left){#Name="Explanation"}
+Continue on to the prossimo round?{LF}(8 rounds left){#Name="Explanation"}
+Continue on to the next round?{LF}(8 rounds left){#Name="Explanation"}
+Continue on to the prossimo round?{LF}(7 rounds left){#Name="Explanation"}
+Continue on to the next round?{LF}(7 rounds left){#Name="Explanation"}
+Continue on to the prossimo round?{LF}(6 rounds left){#Name="Explanation"}
+Continue on to the next round?{LF}(6 rounds left){#Name="Explanation"}
+Continue on to the prossimo round?{LF}(5 rounds left){#Name="Explanation"}
+Continue on to the next round?{LF}(5 rounds left){#Name="Explanation"}
+Continue on to the prossimo round?{LF}(4 rounds left){#Name="Explanation"}
+Continue on to the next round?{LF}(4 rounds left){#Name="Explanation"}
+Continue on to the prossimo round?{LF}(3 rounds left){#Name="Explanation"}
+Continue on to the next round?{LF}(3 rounds left){#Name="Explanation"}
+Continue on to the prossimo round?{LF}(2 rounds left){#Name="Explanation"}
+Continue on to the next round?{LF}(2 rounds left){#Name="Explanation"}
+Continue on to the prossimo round?{LF}(1 round left){#Name="Explanation"}
+Continue on to the next round?{LF}(1 round left){#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Tealstones from the targets!{#Name="Explanation"}
+Take the Tealstones from the targets!{#Name="Explanation"}
+Tutti Tealstones acquired!{#Name="Explanation"}
+All Tealstones acquired!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Flintstones from the targets!{#Name="Explanation"}
+Take the Flintstones from the targets!{#Name="Explanation"}
+Tutti Flintstones acquired!{#Name="Explanation"}
+All Flintstones acquired!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Foodstones from the targets!{#Name="Explanation"}
+Take the Foodstones from the targets!{#Name="Explanation"}
+Tutti Foodstones acquired!{#Name="Explanation"}
+All Foodstones acquired!{#Name="Explanation"}
+When near a statue, the light will illuminate your view.{#Name="Explanation"}
+When near a statue, the light will illuminate your view.{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Floatstones from the targets!{#Name="Explanation"}
+Take the Floatstones from the targets!{#Name="Explanation"}
+Tutti Floatstones acquired!{#Name="Explanation"}
+All Floatstones acquired!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Cometstones from the targets!{#Name="Explanation"}
+Take the Cometstones from the targets!{#Name="Explanation"}
+Tutti Cometstones acquired!{#Name="Explanation"}
+All Cometstones acquired!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Ox Horns from the targets!{#Name="Explanation"}
+Take the Ox Horns from the targets!{#Name="Explanation"}
+Tutti Ox Horns acquired!{#Name="Explanation"}
+All Ox Horns acquired!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Hawk Talons from the targets!{#Name="Explanation"}
+Take the Hawk Talons from the targets!{#Name="Explanation"}
+Tutti Hawk Talons acquired!{#Name="Explanation"}
+All Hawk Talons acquired!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Toad Stingers from the targets!{#Name="Explanation"}
+Take the Toad Stingers from the targets!{#Name="Explanation"}
+Tutti Toad Stingers acquired!{#Name="Explanation"}
+All Toad Stingers acquired!{#Name="Explanation"}
+When near a statue, the light will illuminate your view!{#Name="Explanation"}
+When near a statue, the light will illuminate your view!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Bone Fossils from the targets!{#Name="Explanation"}
+Take the Bone Fossils from the targets!{#Name="Explanation"}
+Tutti Bone Fossils acquired!{#Name="Explanation"}
+All Bone Fossils acquired!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Old-World Artifacts from the targets!{#Name="Explanation"}
+Take the Old-World Artifacts from the targets!{#Name="Explanation"}
+Tutti Old-World Artifacts acquired!{#Name="Explanation"}
+All Old-World Artifacts acquired!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Libri of Hope from the targets!{#Name="Explanation"}
+Take the Books of Hope from the targets!{#Name="Explanation"}
+Tutti Libri of Hope acquired!{#Name="Explanation"}
+All Books of Hope acquired!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Libri of Reticence from the targets!{#Name="Explanation"}
+Take the Books of Reticence from the targets!{#Name="Explanation"}
+Tutti Libri of Reticence acquired!{#Name="Explanation"}
+All Books of Reticence acquired!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Libri of Sanctity from the targets!{#Name="Explanation"}
+Take the Books of Sanctity from the targets!{#Name="Explanation"}
+Tutti Libri of Sanctity acquired!{#Name="Explanation"}
+All Books of Sanctity acquired!{#Name="Explanation"}
+When near a statue, the light will illuminate your view!{#Name="Explanation"}
+When near a statue, the light will illuminate your view!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Libri of Purity from the targets!{#Name="Explanation"}
+Take the Books of Purity from the targets!{#Name="Explanation"}
+Tutti Libri of Purity acquired!{#Name="Explanation"}
+All Books of Purity acquired!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Libri of Doctrine from the targets!{#Name="Explanation"}
+Take the Books of Doctrine from the targets!{#Name="Explanation"}
+Tutti Libri of Doctrine acquired!{#Name="Explanation"}
+All Books of Doctrine acquired!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Pinkstones hidden in the steel chests!{#Name="Explanation"}
+Take the Pinkstones hidden in the steel chests!{#Name="Explanation"}
+Tutti Pinkstones raccolti!{#Name="Explanation"}
+All Pinkstones collected!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Amberstones hidden in the steel chests!{#Name="Explanation"}
+Take the Amberstones hidden in the steel chests!{#Name="Explanation"}
+Tutti Amberstones raccolti!{#Name="Explanation"}
+All Amberstones collected!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Movestones hidden in the steel chests!{#Name="Explanation"}
+Take the Movestones hidden in the steel chests!{#Name="Explanation"}
+Tutti Movestones raccolti!{#Name="Explanation"}
+All Movestones collected!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Magnetite stones hidden in the steel chests!{#Name="Explanation"}
+Take the Magnetite stones hidden in the steel chests!{#Name="Explanation"}
+Tutti Magnetite stones raccolti!{#Name="Explanation"}
+All Magnetite stones collected!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Meteorite stones hidden in the steel chests!{#Name="Explanation"}
+Take the Meteorite stones hidden in the steel chests!{#Name="Explanation"}
+Tutti Meteorite stones raccolti!{#Name="Explanation"}
+All Meteorite stones collected!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Unicorn Horns hidden in the steel chests!{#Name="Explanation"}
+Take the Unicorn Horns hidden in the steel chests!{#Name="Explanation"}
+Tutti Unicorn Horns raccolti!{#Name="Explanation"}
+All Unicorn Horns collected!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Eagle Talons hidden in the steel chests!{#Name="Explanation"}
+Take the Eagle Talons hidden in the steel chests!{#Name="Explanation"}
+Tutti Eagle Talons raccolti!{#Name="Explanation"}
+All Eagle Talons collected!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Viper Fangs hidden in the steel chests!{#Name="Explanation"}
+Take the Viper Fangs hidden in the steel chests!{#Name="Explanation"}
+Tutti Viper Fangs raccolti!{#Name="Explanation"}
+All Viper Fangs collected!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Plant Fossils hidden in the steel chests!{#Name="Explanation"}
+Take the Plant Fossils hidden in the steel chests!{#Name="Explanation"}
+Tutti Plant Fossils raccolti!{#Name="Explanation"}
+All Plant Fossils collected!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Old-World Shards hidden in the steel chests!{#Name="Explanation"}
+Take the Old-World Shards hidden in the steel chests!{#Name="Explanation"}
+Tutti Old-World Shards raccolti!{#Name="Explanation"}
+All Old-World Shards collected!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Libri of Ambition hidden in the steel chests!{#Name="Explanation"}
+Take the Books of Ambition hidden in the steel chests!{#Name="Explanation"}
+Tutti Libri of Ambition raccolti!{#Name="Explanation"}
+All Books of Ambition collected!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Libri of Stoicism hidden in the steel chests!{#Name="Explanation"}
+Take the Books of Stoicism hidden in the steel chests!{#Name="Explanation"}
+Tutti Libri of Stoicism raccolti!{#Name="Explanation"}
+All Books of Stoicism collected!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Libri of Mystery hidden in the steel chests!{#Name="Explanation"}
+Take the Books of Mystery hidden in the steel chests!{#Name="Explanation"}
+Tutti Libri of Mystery raccolti!{#Name="Explanation"}
+All Books of Mystery collected!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Libri of Innocence hidden in the steel chests!{#Name="Explanation"}
+Take the Books of Innocence hidden in the steel chests!{#Name="Explanation"}
+Tutti Libri of Innocence raccolti!{#Name="Explanation"}
+All Books of Innocence collected!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Take the Libri of Discipline hidden in the steel chests!{#Name="Explanation"}
+Take the Books of Discipline hidden in the steel chests!{#Name="Explanation"}
+Tutti Libri of Discipline raccolti!{#Name="Explanation"}
+All Books of Discipline collected!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Explanation
+Explanation
+Zero
+Zero
+Quest Clear Conditions
+Quest Clear Conditions
+クエストクリア条件を表示　　１０１０＿１
+クエストクリア条件を表示　　１０１０＿１
+Acquire 7 Tealstones.{LF}You may only fight with swords.
+Acquire 7 Tealstones.{LF}You may only fight with swords.
+Acquire 8 Ox Horns.{LF}You may only fight with swords.
+Acquire 8 Ox Horns.{LF}You may only fight with swords.
+Acquire 9 Libri of Hope.
+Acquire 9 Books of Hope.
+クエストクリア条件を表示　　１０２０＿１
+クエストクリア条件を表示　　１０２０＿１
+Acquire 3 Pinkstones.{LF}You may only fight with swords.
+Acquire 3 Pinkstones.{LF}You may only fight with swords.
+Acquire 3 Unicorn Horns.{LF}You may only fight with swords.
+Acquire 3 Unicorn Horns.{LF}You may only fight with swords.
+Acquire 3 Libri of Ambition.
+Acquire 3 Books of Ambition.
+Gather as much gold as you can before{LF}time expires.
+Gather as much gold as you can before{LF}time expires.
+クエストクリア条件を表示　　１０３０＿２
+クエストクリア条件を表示　　１０３０＿２
+クエストクリア条件を表示　　１０４０＿１
+クエストクリア条件を表示　　１０４０＿１
+クエストクリア条件を表示　　１０４０＿２
+クエストクリア条件を表示　　１０４０＿２
+Return from the survival match alive.
+Return from the survival match alive.
+Return from the survival match alive.
+Return from the survival match alive.
+Return from the survival match alive.
+Return from the survival match alive.
+Return from the survival match alive.
+Return from the survival match alive.
+クエストクリア条件を表示　　２０１０＿１
+クエストクリア条件を表示　　２０１０＿１
+クエストクリア条件を表示　　２０１０＿２
+クエストクリア条件を表示　　２０１０＿２
+クエストクリア条件を表示　　２０２０＿１
+クエストクリア条件を表示　　２０２０＿１
+Acquire 7 Flintstones.{LF}You may only fight with spears.
+Acquire 7 Flintstones.{LF}You may only fight with spears.
+Acquire 8 Hawk Talons.{LF}You may only fight with spears.
+Acquire 8 Hawk Talons.{LF}You may only fight with spears.
+Acquire 9 Libri of Reticence.
+Acquire 9 Books of Reticence.
+クエストクリア条件を表示　　２０３０＿１
+クエストクリア条件を表示　　２０３０＿１
+クエストクリア条件を表示　　２０３０＿２
+クエストクリア条件を表示　　２０３０＿２
+Gather as much gold as you can before{LF}time expires.
+Gather as much gold as you can before{LF}time expires.
+クエストクリア条件を表示　　２０４０＿２
+クエストクリア条件を表示　　２０４０＿２
+クエストクリア条件を表示　　２０５０＿１
+クエストクリア条件を表示　　２０５０＿１
+Acquire 3 Amberstones.{LF}You may only fight with spears.
+Acquire 3 Amberstones.{LF}You may only fight with spears.
+Acquire 3 Eagle Talons.{LF}You may only fight with spears.
+Acquire 3 Eagle Talons.{LF}You may only fight with spears.
+Acquire 3 Libri of Stoicism.
+Acquire 3 Books of Stoicism.
+クエストクリア条件を表示　　２０６０＿１
+クエストクリア条件を表示　　２０６０＿１
+クエストクリア条件を表示　　２０６０＿２
+クエストクリア条件を表示　　２０６０＿２
+クエストクリア条件を表示　　３０１０＿１
+クエストクリア条件を表示　　３０１０＿１
+Acquire 3 Movestones.{LF}You may only fight with combat bracers.
+Acquire 3 Movestones.{LF}You may only fight with combat bracers.
+Acquire 3 Viper Fangs.{LF}You may only fight with combat bracers.
+Acquire 3 Viper Fangs.{LF}You may only fight with combat bracers.
+Acquire 3 Libri of Mystery.
+Acquire 3 Books of Mystery.
+クエストクリア条件を表示　　３０２０＿１
+クエストクリア条件を表示　　３０２０＿１
+クエストクリア条件を表示　　３０２０＿２
+クエストクリア条件を表示　　３０２０＿２
+Gather as much gold as you can before{LF}time expires.
+Gather as much gold as you can before{LF}time expires.
+クエストクリア条件を表示　　３０３０＿２
+クエストクリア条件を表示　　３０３０＿２
+クエストクリア条件を表示　　３０４０＿１
+クエストクリア条件を表示　　３０４０＿１
+クエストクリア条件を表示　　３０４０＿２
+クエストクリア条件を表示　　３０４０＿２
+クエストクリア条件を表示　　３０５０＿１
+クエストクリア条件を表示　　３０５０＿１
+Acquire 7 Foodstones.{LF}You may only fight with combat bracers.
+Acquire 7 Foodstones.{LF}You may only fight with combat bracers.
+Acquire 8 Toad Stingers.{LF}You may only fight with combat bracers.
+Acquire 8 Toad Stingers.{LF}You may only fight with combat bracers.
+Acquire 9 Libri of Sanctity.
+Acquire 9 Books of Sanctity.
+クエストクリア条件を表示　　３０６０＿１
+クエストクリア条件を表示　　３０６０＿１
+クエストクリア条件を表示　　３０６０＿２
+クエストクリア条件を表示　　３０６０＿２
+クエストクリア条件を表示　　４０１０＿１
+クエストクリア条件を表示　　４０１０＿１
+Acquire 7 Floatstones.{LF}You may only fight with chakrams.
+Acquire 7 Floatstones.{LF}You may only fight with chakrams.
+Acquire 8 Bone Fossils.{LF}You may only fight with chakrams.
+Acquire 8 Bone Fossils.{LF}You may only fight with chakrams.
+Acquire 9 Libri of Purity.
+Acquire 9 Books of Purity.
+クエストクリア条件を表示　　４０２０＿１
+クエストクリア条件を表示　　４０２０＿１
+Acquire 3 Magnetite stones.{LF}You may only fight with chakrams.
+Acquire 3 Magnetite stones.{LF}You may only fight with chakrams.
+Acquire 3 Plant Fossils.{LF}You may only fight with chakrams.
+Acquire 3 Plant Fossils.{LF}You may only fight with chakrams.
+Acquire 3 Libri of Innocence.
+Acquire 3 Books of Innocence.
+Gather as much gold as you can before{LF}time expires.
+Gather as much gold as you can before{LF}time expires.
+クエストクリア条件を表示　　４０３０＿２
+クエストクリア条件を表示　　４０３０＿２
+クエストクリア条件を表示　　４０４０＿１
+クエストクリア条件を表示　　４０４０＿１
+クエストクリア条件を表示　　４０４０＿２
+クエストクリア条件を表示　　４０４０＿２
+クエストクリア条件を表示　　５０１０＿１
+クエストクリア条件を表示　　５０１０＿１
+クエストクリア条件を表示　　５０１０＿２
+クエストクリア条件を表示　　５０１０＿２
+クエストクリア条件を表示　　５０２０＿１
+クエストクリア条件を表示　　５０２０＿１
+Acquire 3 Meteorite stones.
+Acquire 3 Meteorite stones.
+Acquire 3 Old-World Shards.
+Acquire 3 Old-World Shards.
+Acquire 3 Libri of Discipline.
+Acquire 3 Books of Discipline.
+クエストクリア条件を表示　　５０３０＿１
+クエストクリア条件を表示　　５０３０＿１
+Acquire 7 Cometstones.
+Acquire 7 Cometstones.
+Acquire 8 Old-World Artifacts.
+Acquire 8 Old-World Artifacts.
+Acquire 9 Libri of Doctrine.
+Acquire 9 Books of Doctrine.
+Gather as much gold as you can before{LF}time expires.
+Gather as much gold as you can before{LF}time expires.
+クエストクリア条件を表示　　５０４０＿２
+クエストクリア条件を表示　　５０４０＿２
+Prossimo
+Next
+Select
+Select
+Experience Earned:
+Experience Earned:
+Longest Chain:
+Longest Chain:
+Damage Taken:
+Damage Taken:
+No-continue Bonus:
+No-continue Bonus:
+Total Experience Earned:
+Total Experience Earned:
+hits
+hits
+exp
+exp
+Lv.
+Lv.
+Prossimo Level:
+Next Level:
+Health
+Health
+Stamina
+Stamina
+Attack
+Attack
+Loyalty
+Loyalty
+Rank
+Rank
+Prossimo Rank
+Next Rank
+The mere thought of her using my weapon...{LF}Such...wondrous humiliation...
+The mere thought of her using my weapon...{LF}Such...wondrous humiliation...
+{04}
+{04}
+Your trust with {04}
+Your trust with {04}
+Total Gold:
+Total Gold:
+Gold Earned:
+Gold Earned:
+Gold
+Gold
+Treasure Chest
+Treasure Chest
+New weapon obtained!
+New weapon obtained!
+{04}
+{04}
+{04}
+{04}
+Here you go, "Lady Zero." Maybe this'll help.
+Here you go, "Lady Zero." Maybe this'll help.
+Mikhail evolved into his second form!
+Mikhail evolved into his second form!
+Mikhail evolved into his final form!
+Mikhail evolved into his final form!
+Mikhail devolved!
+Mikhail devolved!
+Request #{04}
+Request #{04}
+Completion Time:
+Completion Time:
+Nemici Sconfitti:
+Enemies Defeated:
+Objects Destroyed:
+Objects Destroyed:
+Spheres Obtained:
+Spheres Obtained:
+Experience Earned:
+Experience Earned:
+Gold Earned:
+Gold Earned:
+{04}
+{04}
+×
+×
+＝
+＝
+Base Materials
+Base Materials
+Exit the results screen?
+Exit the results screen?
+Iron Ore
+Iron Ore
+Low-Quality Iron Ore
+Low-Quality Iron Ore
+High-Quality Iron Ore
+High-Quality Iron Ore
+{04}
+{04}
+Nemici Sconfitti:
+Enemies Defeated:
+Objects Destroyed:
+Objects Destroyed:
+Spheres Obtained:
+Spheres Obtained:
+Completion Time:
+Completion Time:
+{04}
+{04}
+Damage: 
+Damage: 
+xyz
+xyz
+yza
+yza
+zab
+zab
+? ? ?
+? ? ?
+{04}
+{04}
+Branch A complete.
+Branch A complete.
+Branch B complete.
+Branch B complete.
+Branch C complete.
+Branch C complete.
+Tutti lost verses complete.
+All lost verses complete.
+Request unlocked in the Land of Seas.{LF}Access it from the Capitolo Select menu.
+Request unlocked in the Land of Seas.{LF}Access it from the Chapter Select menu.
+Request unlocked in the Land of Mountains.{LF}Access it from the Capitolo Select menu.
+Request unlocked in the Land of Mountains.{LF}Access it from the Chapter Select menu.
+Request unlocked in the Land of Forests.{LF}Access it from the Capitolo Select menu.
+Request unlocked in the Land of Forests.{LF}Access it from the Chapter Select menu.
+Request unlocked in the Land of Sands.{LF}Access it from the Capitolo Select menu.
+Request unlocked in the Land of Sands.{LF}Access it from the Chapter Select menu.
+Request unlocked in the Cathedral City.{LF}Access it from the Capitolo Select menu.
+Request unlocked in the Cathedral City.{LF}Access it from the Chapter Select menu.
+Zero's Blade is now Lv. {04}
+Zero's Blade is now Lv. {04}
+Thank you for letting me join you, my lady.{LF}Please, keep this as a symbol of my loyalty.
+Thank you for letting me join you, my lady.{LF}Please, keep this as a symbol of my loyalty.
+I want nothing more than to serve my Intoner...{LF}And perhaps look good while doing it.
+I want nothing more than to serve my Intoner...{LF}And perhaps look good while doing it.
+Airship acquired!
+Airship acquired!
+Zero's Blade is now Lv. 2!
+Zero's Blade is now Lv. 2!
+Zero's Blade is now Lv. 3!
+Zero's Blade is now Lv. 3!
+Zero's Blade is now Lv. 4!
+Zero's Blade is now Lv. 4!
+You've been cleanin' up lately.{LF}Maybe you can handle this now.
+You've been cleanin' up lately.{LF}Maybe you can handle this now.
+Permit me to repay you for your kindness, my lady.{LF}I hope to suffer more...much more...of it soon.
+Permit me to repay you for your kindness, my lady.{LF}I hope to suffer more...much more...of it soon.
+A symbol of loyalty from me to you, my lady.{LF}May our mutual enjoyment endure for tutti time...and then some.
+A symbol of loyalty from me to you, my lady.{LF}May our mutual enjoyment endure for all time...and then some.
+Yeah, maybe feel free to thank me now?{LF}I mean, I have been rather helpful.
+Yeah, maybe feel free to thank me now?{LF}I mean, I have been rather helpful.
+Accord has posted a new request:
+Accord has posted a new request:
+Access it from the Capitolo Select menu!
+Access it from the Chapter Select menu!
+Three Land of Seas requests completed!{LF}Bonus request "{04}
+Three Land of Seas requests completed!{LF}Bonus request "{04}
+Three Land of Mountains requests completed!{LF}Bonus request "{04}
+Three Land of Mountains requests completed!{LF}Bonus request "{04}
+Three Land of Forests requests completed!{LF}Bonus request "{04}
+Three Land of Forests requests completed!{LF}Bonus request "{04}
+Three Land of Sands requests completed!{LF}Bonus request "{04}
+Three Land of Sands requests completed!{LF}Bonus request "{04}
+Three Cathedral City requests completed!{LF}Bonus request "{04}
+Three Cathedral City requests completed!{LF}Bonus request "{04}
+Completion Bonus:
+Completion Bonus:
+Mission Completion Bonus!
+Mission Completion Bonus!
+{04}
+{04}
+Mission Completion Bonus!
+Mission Completion Bonus!
+Slayer Bonus:
+Slayer Bonus:
+Request Bonus 2:
+Request Bonus 2:
+Request Bonus 3:
+Request Bonus 3:
+Request Completion Bonus:
+Request Completion Bonus:
+Gold Soldier Bonus:
+Gold Soldier Bonus:
+Perfect Bonus
+Perfect Bonus
+Request Bonus 7:
+Request Bonus 7:
+Request Bonus 8:
+Request Bonus 8:
+Request Bonus 9:
+Request Bonus 9:
+Request Bonus 10:
+Request Bonus 10:
+I've got a new job I need help with,
+I've got a new job I need help with,
+and I think you're just the woman to handle it.
+and I think you're just the woman to handle it.
+I posted it to my list of requests,
+I posted it to my list of requests,
+so check it out when you have a sec!
+so check it out when you have a sec!
+Sincerely, Accord (from the Weapon Shop)
+Sincerely, Accord (from the Weapon Shop)
+Dropped by the boss!
+Dropped by the boss!
+Found in a chest!
+Found in a chest!
+Gift obtained!
+Gift obtained!
+First-time Completion Bonus!
+First-time Completion Bonus!
+Completion Bonus!
+Completion Bonus!
+Treasure obtained!
+Treasure obtained!
+Lost verse "Accord's Song" unlocked.
+Lost verse "Accord's Song" unlocked.
+Lost verse "Accord's Prayer" unlocked.
+Lost verse "Accord's Prayer" unlocked.
+THE END
+THE END
+"{04}
+"{04}
+You now have three disciples.{LF}You can select which disciples to bring with you{LF}at the Battle Preparation menu.
+You now have three disciples.{LF}You can select which disciples to bring with you{LF}at the Battle Preparation menu.
+Branch B unlocked.
+Branch B unlocked.
+Branch C unlocked.
+Branch C unlocked.
+Lost verses unlocked.
+Lost verses unlocked.
+Branch D unlocked.
+Branch D unlocked.
+The Beloved Stones
+The Beloved Stones
+Horn Hunting
+Horn Hunting
+Book Club: Hope
+Book Club: Hope
+Pinkstone Pilgrimage
+Pinkstone Pilgrimage
+Communicorns
+Communicorns
+Book Club: Ambition
+Book Club: Ambition
+Seaside Giorno di paga
+Seaside Payday
+The First Survival
+The First Survival
+The Second Survival
+The Second Survival
+The Third Survival
+The Third Survival
+The Final Survival
+The Final Survival
+Flint Stint
+Flint Stint
+Hawk Whisperer
+Hawk Whisperer
+Book Club: Reticence
+Book Club: Reticence
+Mountain Giorno di paga
+Mountain Payday
+The Amberstone Zone
+The Amberstone Zone
+Eagle Scout
+Eagle Scout
+Book Club: Stoicism
+Book Club: Stoicism
+On the Move
+On the Move
+Lucky Fangs
+Lucky Fangs
+Book Club: Mystery
+Book Club: Mystery
+Forest Giorno di paga
+Forest Payday
+Food Festival
+Food Festival
+Stinger Meds
+Stinger Meds
+Book Club: Sanctity
+Book Club: Sanctity
+Like a Floating Stone
+Like a Floating Stone
+Famous Fossils
+Famous Fossils
+Book Club: Purity
+Book Club: Purity
+Compass Cash-in
+Compass Cash-in
+Plant Your Claim
+Plant Your Claim
+Book Club: Innocence
+Book Club: Innocence
+Desert Giorno di paga
+Desert Payday
+Shooting Stars
+Shooting Stars
+Ancient Treasures
+Ancient Treasures
+Book Club: Discipline
+Book Club: Discipline
+The Comet's Trail
+The Comet's Trail
+History Unearthed
+History Unearthed
+Book Club: Doctrine
+Book Club: Doctrine
+Cathedral Giorno di paga
+Cathedral Payday
+Survival
+Survival
+Memories of the Intoners{LF}has been unlocked.
+Memories of the Intoners{LF}has been unlocked.
+Raising this character's level has unlocked a new memory.{LF}You can view it from the Memories of the Intoners menu.
+Raising this character's level has unlocked a new memory.{LF}You can view it from the Memories of the Intoners menu.
+Tutti missions complete. You've obtained {04}
+All missions complete. You've obtained {04}
+Tutti missions complete. You've obtained {04}
+All missions complete. You've obtained {04}
+Gold Soldati will now appear somewhere in the mission.
+Gold Soldiers will now appear somewhere in the mission.
+Settings
+Settings
+Abandon Mission
+Abandon Mission
+Adjust various game settings.
+Adjust various game settings.
+Abandon the current mission and return to the Capitolo Select menu.
+Abandon the current mission and return to the Chapter Select menu.
+Abandon the current mission and return to the Capitolo Select menu?
+Abandon the current mission and return to the Chapter Select menu?
+Music
+Music
+Change the background music that plays during the mission.
+Change the background music that plays during the mission.
+Abandon the current mission and return to the Main Menu.
+Abandon the current mission and return to the Main Menu.
+Abandon the current mission and return to the Main Menu?
+Abandon the current mission and return to the Main Menu?
+Select Menu
+Select Menu
+Aaron J. Adams (QA Manager, SQUARE ENIX, INC.)
+Aaron J. Adams (QA Manager, SQUARE ENIX, INC.)
+Adam Erde (Information Center Representative, SQUARE ENIX, INC.)
+Adam Erde (Information Center Representative, SQUARE ENIX, INC.)
+Adam Pelc (QA Translator, SQUARE ENIX, INC.)
+Adam Pelc (QA Translator, SQUARE ENIX, INC.)
+Adam Sullivan (Sr. Counsel, Business & Legal Affairs, SQUARE ENIX, INC.)
+Adam Sullivan (Sr. Counsel, Business & Legal Affairs, SQUARE ENIX, INC.)
+Aimi Tokutake (Project Com and Events Coordinator, SQUARE ENIX, INC.)
+Aimi Tokutake (Project Com and Events Coordinator, SQUARE ENIX, INC.)
+Akari Yamamoto (Sets & Props Modeler, ACCESS GAMES INC.)
+Akari Yamamoto (Sets & Props Modeler, ACCESS GAMES INC.)
+Akihiko Kamiya (CG Designer, ATTIC CO., LTD.)
+Akihiko Kamiya (CG Designer, ATTIC CO., LTD.)
+Akihiro Minami (Audio Programmer, SQUARE ENIX CO., LTD.)
+Akihiro Minami (Audio Programmer, SQUARE ENIX CO., LTD.)
+Akihiro Miura (Animator, DigitalMediaLab., Inc.)
+Akihiro Miura (Animator, DigitalMediaLab., Inc.)
+Akinori Ozawa (Manager, iNiS Corporation)
+Akinori Ozawa (Manager, iNiS Corporation)
+Akira Chodo (CG Designer, MOZOO, Inc.)
+Akira Chodo (CG Designer, MOZOO, Inc.)
+Akira Hisamoto (Sales & Marketing Staff, SQUARE ENIX CO., LTD.)
+Akira Hisamoto (Sales & Marketing Staff, SQUARE ENIX CO., LTD.)
+Akira Iwasawa (Cutscene Facial Animation Supervisor, SQUARE ENIX CO., LTD.)
+Akira Iwasawa (Cutscene Facial Animation Supervisor, SQUARE ENIX CO., LTD.)
+Alan Averill (English Localization Editor, 8-4, Ltd.)
+Alan Averill (English Localization Editor, 8-4, Ltd.)
+Alec Anderson (QA Tester, SQUARE ENIX, INC.)
+Alec Anderson (QA Tester, SQUARE ENIX, INC.)
+Alex Huhtala (PR Manager, SQUARE ENIX LTD.)
+Alex Huhtala (PR Manager, SQUARE ENIX LTD.)
+Alex Moresby (Senior Localisation Producer, SQUARE ENIX LTD.)
+Alex Moresby (Senior Localisation Producer, SQUARE ENIX LTD.)
+Alfred Holz (Events Assistant Manager, SQUARE ENIX, INC.)
+Alfred Holz (Events Assistant Manager, SQUARE ENIX, INC.)
+Alfred Persch (Information Center Representative, SQUARE ENIX, INC.)
+Alfred Persch (Information Center Representative, SQUARE ENIX, INC.)
+Alois Vadon (Localization Tester, Pole To Win International (Glasgow Studio))
+Alois Vadon (Localization Tester, Pole To Win International (Glasgow Studio))
+Ami Koshimizu (Accord)
+Ami Koshimizu (Accord)
+Amritz Lay (Associate Director, Product Marketing, SQUARE ENIX, INC.)
+Amritz Lay (Associate Director, Product Marketing, SQUARE ENIX, INC.)
+André Woitczyk (QA Manager, SQUARE ENIX LTD.)
+André Woitczyk (QA Manager, SQUARE ENIX LTD.)
+Andrew Froilan (Traffic Manager, SQUARE ENIX, INC.)
+Andrew Froilan (Traffic Manager, SQUARE ENIX, INC.)
+Ashley Bonilla (QA Tester, SQUARE ENIX, INC.)
+Ashley Bonilla (QA Tester, SQUARE ENIX, INC.)
+Asuka Kanemura (Sample Voice Actor)
+Asuka Kanemura (Sample Voice Actor)
+Atsuo Takahashi (Sales & Marketing Staff, SQUARE ENIX CO., LTD.)
+Atsuo Takahashi (Sales & Marketing Staff, SQUARE ENIX CO., LTD.)
+Atsushi Fukushima (Sets & Props Modeler, ACCESS GAMES INC.)
+Atsushi Fukushima (Sets & Props Modeler, ACCESS GAMES INC.)
+Atsushi Inuzuka (Cutscene Artist, SQUARE ENIX CO., LTD.)
+Atsushi Inuzuka (Cutscene Artist, SQUARE ENIX CO., LTD.)
+Austin Poppe (Information Center Representative, SQUARE ENIX, INC.)
+Austin Poppe (Information Center Representative, SQUARE ENIX, INC.)
+Avery Paalborg (Contracts Administrator, SQUARE ENIX, INC.)
+Avery Paalborg (Contracts Administrator, SQUARE ENIX, INC.)
+Ayako Kawamoto (Chief International Marketing Coordinator, SQUARE ENIX CO., LTD.)
+Ayako Kawamoto (Chief International Marketing Coordinator, SQUARE ENIX CO., LTD.)
+Ayana Taketatsu (Four)
+Ayana Taketatsu (Four)
+Ayumi Azuma (Planner, ACCESS GAMES INC.)
+Ayumi Azuma (Planner, ACCESS GAMES INC.)
+Ayumi Kano (3D Modeler, ILCA, Inc.)
+Ayumi Kano (3D Modeler, ILCA, Inc.)
+Uses Bink Video. Copyright (C) 1997-2013 by RAD Game Tools, Inc.
+Uses Bink Video. Copyright (C) 1997-2013 by RAD Game Tools, Inc.
+Brett Wooldridge (Creative Services Manager, SQUARE ENIX, INC.)
+Brett Wooldridge (Creative Services Manager, SQUARE ENIX, INC.)
+Brian Gray (Opening Poem, 8-4, Ltd.)
+Brian Gray (Opening Poem, 8-4, Ltd.)
+Carl Hidalgo (Information Center and Fraud Prevention Manager, SQUARE ENIX, INC.)
+Carl Hidalgo (Information Center and Fraud Prevention Manager, SQUARE ENIX, INC.)
+Chafurin (Octa)
+Chafurin (Octa)
+Chiaki Yamauchi (Web Coordinator, SQUARE ENIX CO., LTD.)
+Chiaki Yamauchi (Web Coordinator, SQUARE ENIX CO., LTD.)
+Chihiro Onitsuka (Theme Song Artist "This Silence Is Mine")
+Chihiro Onitsuka (Theme Song Artist "This Silence Is Mine")
+Chihiro Sai (Boss Design Assistant Artist, ILCA, Inc.)
+Chihiro Sai (Boss Design Assistant Artist, ILCA, Inc.)
+Chimorin Shogun (Lead Animator, ACCESS GAMES INC.)
+Chimorin Shogun (Lead Animator, ACCESS GAMES INC.)
+Chiwa Saito (Two)
+Chiwa Saito (Two)
+Chris Farmer (Information Center Representative, SQUARE ENIX, INC.)
+Chris Farmer (Information Center Representative, SQUARE ENIX, INC.)
+Christa Morse (Planner & Level Designer, ACCESS GAMES INC.)
+Christa Morse (Planner & Level Designer, ACCESS GAMES INC.)
+Christopher Ichikawa (Operations Support Agent, SQUARE ENIX, INC.)
+Christopher Ichikawa (Operations Support Agent, SQUARE ENIX, INC.)
+Cup of Tea Productions, Inc. (Casting, Recording Studio)
+Cup of Tea Productions, Inc. (Casting, Recording Studio)
+D. Scott Miller (English Localization Support, 8-4, Ltd.)
+D. Scott Miller (English Localization Support, 8-4, Ltd.)
+Dai Matsumoto (Voice Actor)
+Dai Matsumoto (Voice Actor)
+Daijiro Yamaguchi (Project Assistant, ILCA, Inc.)
+Daijiro Yamaguchi (Project Assistant, ILCA, Inc.)
+Daisuke Nagayasu (Production Engineer, SQUARE ENIX CO., LTD.)
+Daisuke Nagayasu (Production Engineer, SQUARE ENIX CO., LTD.)
+Daisuke Okazaki (Production Manager, Game Chain)
+Daisuke Okazaki (Production Manager, Game Chain)
+Daisuke Shirasuna (Character Technical Director, SQUARE ENIX CO., LTD.)
+Daisuke Shirasuna (Character Technical Director, SQUARE ENIX CO., LTD.)
+Daisuke Yanagisawa (Movie Director, ILCA, Inc.)
+Daisuke Yanagisawa (Movie Director, ILCA, Inc.)
+Daniel "Jack" Anderson (Information Center Representative, SQUARE ENIX, INC.)
+Daniel "Jack" Anderson (Information Center Representative, SQUARE ENIX, INC.)
+Daniel Covey (Information Center Representative, SQUARE ENIX, INC.)
+Daniel Covey (Information Center Representative, SQUARE ENIX, INC.)
+Daniel Washington (Information Center Representative, SQUARE ENIX, INC.)
+Daniel Washington (Information Center Representative, SQUARE ENIX, INC.)
+Danielle Hunt (Sound Engineer, Cup of Tea Productions, Inc.)
+Danielle Hunt (Sound Engineer, Cup of Tea Productions, Inc.)
+Dario de Cesare (Localisation QA Project Manager, SQUARE ENIX LTD.)
+Dario de Cesare (Localisation QA Project Manager, SQUARE ENIX LTD.)
+David "Ribs" Carrillo (Assistant Director of Quality Assurance, SQUARE ENIX, INC.)
+David "Ribs" Carrillo (Assistant Director of Quality Assurance, SQUARE ENIX, INC.)
+David Yang (Senior PR Manager, SQUARE ENIX, INC.)
+David Yang (Senior PR Manager, SQUARE ENIX, INC.)
+Desiree Rosales (Sr. Paralegal, SQUARE ENIX, INC.)
+Desiree Rosales (Sr. Paralegal, SQUARE ENIX, INC.)
+DTS and the DTS Symbol are registered trademarks of DTS, Inc.
+DTS and the DTS Symbol are registered trademarks of DTS, Inc.
+and DTS Digital Surround is a trademark of DTS, Inc.
+and DTS Digital Surround is a trademark of DTS, Inc.
+Eiji Ookoshi (Technical Support, ILCA, Inc.)
+Eiji Ookoshi (Technical Support, ILCA, Inc.)
+Eiko Hiwa (Story Board Artist)
+Eiko Hiwa (Story Board Artist)
+Eir Aoi (Theme Song Artist "Black Song")
+Eir Aoi (Theme Song Artist "Black Song")
+Eldred Tjie (CG Designer, ATTIC CO., LTD.)
+Eldred Tjie (CG Designer, ATTIC CO., LTD.)
+Elijah Smolko (Localization Specialist, SQUARE ENIX, INC.)
+Elijah Smolko (Localization Specialist, SQUARE ENIX, INC.)
+Elisa Giribaldi (Localisation Producer, SQUARE ENIX LTD.)
+Elisa Giribaldi (Localisation Producer, SQUARE ENIX LTD.)
+Emma Williams (QA Tester, SQUARE ENIX, INC.)
+Emma Williams (QA Tester, SQUARE ENIX, INC.)
+Eric Rosenberger (Senior Manager, Sales, SQUARE ENIX, INC.)
+Eric Rosenberger (Senior Manager, Sales, SQUARE ENIX, INC.)
+Eric So (Interactive Marketing Senior Manager, CRM/Social, SQUARE ENIX, INC.)
+Eric So (Interactive Marketing Senior Manager, CRM/Social, SQUARE ENIX, INC.)
+Eriko Ishiguro (Animator, ACCESS GAMES INC.)
+Eriko Ishiguro (Animator, ACCESS GAMES INC.)
+Fumiaki Suzuki (Technical Production Associate, SQUARE ENIX CO., LTD.)
+Fumiaki Suzuki (Technical Production Associate, SQUARE ENIX CO., LTD.)
+Gen Ishiyama (Lead Programmer & Creative Director, ACCESS GAMES INC.)
+Gen Ishiyama (Lead Programmer & Creative Director, ACCESS GAMES INC.)
+Go Sakuyama (Cutscene Artist, SQUARE ENIX CO., LTD.)
+Go Sakuyama (Cutscene Artist, SQUARE ENIX CO., LTD.)
+Gregory Toyosaka (Operations Support Agent, SQUARE ENIX, INC.)
+Gregory Toyosaka (Operations Support Agent, SQUARE ENIX, INC.)
+GTN!-hos (Weapon Design Artist)
+GTN!-hos (Weapon Design Artist)
+Gyotaro Sato (Publicity Staff, SQUARE ENIX CO., LTD.)
+Gyotaro Sato (Publicity Staff, SQUARE ENIX CO., LTD.)
+Hakumoto Nao (Planner, ILCA, Inc.)
+Hakumoto Nao (Planner, ILCA, Inc.)
+Hana Kikuchi (Scenario Writer)
+Hana Kikuchi (Scenario Writer)
+Hannah McKie (Senior Localization Lead, Pole To Win International (Glasgow Studio))
+Hannah McKie (Senior Localization Lead, Pole To Win International (Glasgow Studio))
+Hansok Kim (Cutscene Artist, SQUARE ENIX CO., LTD.)
+Hansok Kim (Cutscene Artist, SQUARE ENIX CO., LTD.)
+Haruka Shibai (Motion Actor)
+Haruka Shibai (Motion Actor)
+Haruki Komaki (CG Designer, CORNFLAKES Co, Ltd.)
+Haruki Komaki (CG Designer, CORNFLAKES Co, Ltd.)
+Hideo Katsuta (Character Technical Director, SQUARE ENIX CO., LTD.)
+Hideo Katsuta (Character Technical Director, SQUARE ENIX CO., LTD.)
+Hideo Kinoshita (Planner & Level Designer, ACCESS GAMES INC.)
+Hideo Kinoshita (Planner & Level Designer, ACCESS GAMES INC.)
+Hidetaka Suehiro (Producer, ACCESS GAMES INC.)
+Hidetaka Suehiro (Producer, ACCESS GAMES INC.)
+Hideyuki Fujii (Designer Special Thanks, ACCESS GAMES INC.)
+Hideyuki Fujii (Designer Special Thanks, ACCESS GAMES INC.)
+Hideyuki Kato (QA Manager, SQUARE ENIX CO., LTD.)
+Hideyuki Kato (QA Manager, SQUARE ENIX CO., LTD.)
+Hikaru Murakami (Animator, SQUARE ENIX CO., LTD.)
+Hikaru Murakami (Animator, SQUARE ENIX CO., LTD.)
+Hikaru Taniyama (Audio Programmer, SQUARE ENIX CO., LTD.)
+Hikaru Taniyama (Audio Programmer, SQUARE ENIX CO., LTD.)
+Hirofumi Kawai (Cutscene Technical Artist, SQUARE ENIX CO., LTD.)
+Hirofumi Kawai (Cutscene Technical Artist, SQUARE ENIX CO., LTD.)
+Hiroki Bochi (Planner & Level Designer, ACCESS GAMES INC.)
+Hiroki Bochi (Planner & Level Designer, ACCESS GAMES INC.)
+Hiroki Minami (Motion Capture Artist, SQUARE ENIX CO., LTD.)
+Hiroki Minami (Motion Capture Artist, SQUARE ENIX CO., LTD.)
+Hiroki Takemoto (Technical Artist, DigitalMediaLab., Inc.)
+Hiroki Takemoto (Technical Artist, DigitalMediaLab., Inc.)
+Hiroko Minamoto (English Localization Support, 8-4, Ltd.)
+Hiroko Minamoto (English Localization Support, 8-4, Ltd.)
+Hiroko Nakamura (Production Manager, MISTWALKER CORPORATION.)
+Hiroko Nakamura (Production Manager, MISTWALKER CORPORATION.)
+Hiromi Toda (Project Assistant, ILCA, Inc.)
+Hiromi Toda (Project Assistant, ILCA, Inc.)
+Hiroshi Fukasawa (Cutscene Artist, SQUARE ENIX CO., LTD.)
+Hiroshi Fukasawa (Cutscene Artist, SQUARE ENIX CO., LTD.)
+Hiroshi Hagiwara (Tester)
+Hiroshi Hagiwara (Tester)
+Hiroshi Kuwabara (Assistant Movie Director, SQUARE ENIX CO., LTD.)
+Hiroshi Kuwabara (Assistant Movie Director, SQUARE ENIX CO., LTD.)
+Hiroshi Matsumoto (CG Designer, D3D CO., LTD.)
+Hiroshi Matsumoto (CG Designer, D3D CO., LTD.)
+Hiroshi Nishinaka (Sets & Props Modeler, SQUARE ENIX CO., LTD.)
+Hiroshi Nishinaka (Sets & Props Modeler, SQUARE ENIX CO., LTD.)
+Hiroshi Oogane (Sales & Marketing Staff, SQUARE ENIX CO., LTD.)
+Hiroshi Oogane (Sales & Marketing Staff, SQUARE ENIX CO., LTD.)
+Hiroshi Yamamoto (Animator, ILCA, Inc.)
+Hiroshi Yamamoto (Animator, ILCA, Inc.)
+Hirotaka Sawada (Animation Supervisor, SQUARE ENIX CO., LTD.)
+Hirotaka Sawada (Animation Supervisor, SQUARE ENIX CO., LTD.)
+Hiroyuki Omura (QA Coordinator, SQUARE ENIX CO., LTD.)
+Hiroyuki Omura (QA Coordinator, SQUARE ENIX CO., LTD.)
+Hisao Masuda (Coordinator, xeen Inc.)
+Hisao Masuda (Coordinator, xeen Inc.)
+Hisato Iwatsuki (Technical QA Engineer, SQUARE ENIX CO., LTD.)
+Hisato Iwatsuki (Technical QA Engineer, SQUARE ENIX CO., LTD.)
+Hitoshi Araki (Motion Capture Artist, SQUARE ENIX CO., LTD.)
+Hitoshi Araki (Motion Capture Artist, SQUARE ENIX CO., LTD.)
+Hitoshi Okamoto (Technical Adviser, ACCESS GAMES INC.)
+Hitoshi Okamoto (Technical Adviser, ACCESS GAMES INC.)
+Honami Sakurai (2D Designer, ACCESS GAMES INC.)
+Honami Sakurai (2D Designer, ACCESS GAMES INC.)
+Iemasa Kayumi (Partition)
+Iemasa Kayumi (Partition)
+Ippei Yamamoto (3D Modeler, xeen Inc.)
+Ippei Yamamoto (3D Modeler, xeen Inc.)
+Isao Hiroyoshi (Special Thanks, ACCESS GAMES INC.)
+Isao Hiroyoshi (Special Thanks, ACCESS GAMES INC.)
+Jacques Martine (French Translator, Prélude Animation SARL)
+Jacques Martine (French Translator, Prélude Animation SARL)
+James Cunningham (Graphic Designer, SQUARE ENIX, INC.)
+James Cunningham (Graphic Designer, SQUARE ENIX, INC.)
+James Hahn (Sales Analyst, SQUARE ENIX, INC.)
+James Hahn (Sales Analyst, SQUARE ENIX, INC.)
+Jason Walker (Mastering Manager, SQUARE ENIX LTD.)
+Jason Walker (Mastering Manager, SQUARE ENIX LTD.)
+Jean-Luc Dub (Sound Editor, Cup of Tea Productions, Inc.)
+Jean-Luc Dub (Sound Editor, Cup of Tea Productions, Inc.)
+Jennifer Park (Sales Operations Manager, SQUARE ENIX, INC.)
+Jennifer Park (Sales Operations Manager, SQUARE ENIX, INC.)
+Joel Velez (Information Center Representative, SQUARE ENIX, INC.)
+Joel Velez (Information Center Representative, SQUARE ENIX, INC.)
+John Clark (Assistant QA Coordinator, SQUARE ENIX, INC.)
+John Clark (Assistant QA Coordinator, SQUARE ENIX, INC.)
+John Ricciardi (English Localization Producer, 8-4, Ltd.)
+John Ricciardi (English Localization Producer, 8-4, Ltd.)
+John Siy (Associate Manager, Sales Administration & Customer Service, SQUARE ENIX, INC.)
+John Siy (Associate Manager, Sales Administration & Customer Service, SQUARE ENIX, INC.)
+Johnny Lam (Associate Manager, Digital Operations, SQUARE ENIX, INC.)
+Johnny Lam (Associate Manager, Digital Operations, SQUARE ENIX, INC.)
+Jonas Ronnegard (3D Modeler, iNiS Corporation)
+Jonas Ronnegard (3D Modeler, iNiS Corporation)
+Jose Osio (Operations Support Agent, SQUARE ENIX, INC.)
+Jose Osio (Operations Support Agent, SQUARE ENIX, INC.)
+Joseph Gentle (Information Center Representative, SQUARE ENIX, INC.)
+Joseph Gentle (Information Center Representative, SQUARE ENIX, INC.)
+Joseph Munoz (Information Center Representative, SQUARE ENIX, INC.)
+Joseph Munoz (Information Center Representative, SQUARE ENIX, INC.)
+Joshua Hochner (Operations Support Agent, SQUARE ENIX, INC.)
+Joshua Hochner (Operations Support Agent, SQUARE ENIX, INC.)
