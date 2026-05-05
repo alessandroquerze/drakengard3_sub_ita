@@ -1,0 +1,105 @@
+A spear left behind by a grim-faced{LF}watchman.
+A spear left behind by a grim-faced{LF}watchman.
+A spear of betrayal once owned by{LF}a man who usurped the throne.
+A spear of betrayal once owned by{LF}a man who usurped the throne.
+A spear of betrayal once owned by{LF}a man who usurped the throne.
+A spear of betrayal once owned by{LF}a man who usurped the throne.
+A staff that's been passed down from{LF}one powerful conjurer to the next.
+A staff that's been passed down from{LF}one powerful conjurer to the next.
+A staff that's been passed down from{LF}one powerful conjurer to the next.
+A staff that's been passed down from{LF}one powerful conjurer to the next.
+The spear of a renowned dragon.
+The spear of a renowned dragon.
+The spear of a renowned dragon.
+The spear of a renowned dragon.
+This spear was part of what became{LF}known as a cursed research project.
+This spear was part of what became{LF}known as a cursed research project.
+This spear was part of what became{LF}known as a cursed research project.
+This spear was part of what became{LF}known as a cursed research project.
+A spear that once threatened the royal{LF}throne. Strikes fear in weaker foes.
+A spear that once threatened the royal{LF}throne. Strikes fear in weaker foes.
+A spear that once threatened the royal{LF}throne. Strikes fear in weaker foes.
+A spear that once threatened the royal{LF}throne. Strikes fear in weaker foes.
+The last spear left behind by the{LF}Holy Emperor. Effective vs. undead.
+The last spear left behind by the{LF}Holy Emperor. Effective vs. undead.
+The last spear left behind by the{LF}Holy Emperor. Effective vs. undead.
+The last spear left behind by the{LF}Holy Emperor. Effective vs. undead.
+A spear that informs its wielder of{LF}their impending doom.
+A spear that informs its wielder of{LF}their impending doom.
+A spear that informs its wielder of{LF}their impending doom.
+A spear that informs its wielder of{LF}their impending doom.
+-
+-
+-
+-
+-
+-
+-
+-
+Combat bracers used by the disciple{LF}Decadus.
+Combat bracers used by the disciple{LF}Decadus.
+Combat bracers used by the disciple{LF}Decadus.
+Combat bracers used by the disciple{LF}Decadus.
+Well-honed combat bracers{LF}seemingly infused with ice.
+Well-honed combat bracers{LF}seemingly infused with ice.
+Well-honed combat bracers{LF}seemingly infused with ice.
+Well-honed combat bracers{LF}seemingly infused with ice.
+Heavy, clawlike bracers seemingly{LF}modeled after flowers.
+Heavy, clawlike bracers seemingly{LF}modeled after flowers.
+Heavy, clawlike bracers seemingly{LF}modeled after flowers.
+Heavy, clawlike bracers seemingly{LF}modeled after flowers.
+Combat bracers left behind by the{LF}Holy Emperor. Effective vs. undead.
+Combat bracers left behind by the{LF}Holy Emperor. Effective vs. undead.
+Combat bracers left behind by the{LF}Holy Emperor. Effective vs. undead.
+Combat bracers left behind by the{LF}Holy Emperor. Effective vs. undead.
+Combat bracers made from spines{LF}that once grew on a monster's body.
+Combat bracers made from spines{LF}that once grew on a monster's body.
+Combat bracers made from spines{LF}that once grew on a monster's body.
+Combat bracers made from spines{LF}that once grew on a monster's body.
+Combat bracers that once sunk{LF}beneath the deep-blue sea.
+Combat bracers that once sunk{LF}beneath the deep-blue sea.
+Combat bracers that once sunk{LF}beneath the deep-blue sea.
+Combat bracers that once sunk{LF}beneath the deep-blue sea.
+Combat bracers once used by a{LF}notorious lord of darkness.
+Combat bracers once used by a{LF}notorious lord of darkness.
+Combat bracers once used by a{LF}notorious lord of darkness.
+Combat bracers once used by a{LF}notorious lord of darkness.
+Iron bracers left behind by a{LF}knight captain.
+Iron bracers left behind by a{LF}knight captain.
+Iron bracers left behind by a{LF}knight captain.
+Iron bracers left behind by a{LF}knight captain.
+Sharp bracers that were the favorite{LF}of a princess who slaughtered many.
+Sharp bracers that were the favorite{LF}of a princess who slaughtered many.
+Sharp bracers that were the favorite{LF}of a princess who slaughtered many.
+Sharp bracers that were the favorite{LF}of a princess who slaughtered many.
+Cursed combat bracers left behind{LF}by a witch.
+Cursed combat bracers left behind{LF}by a witch.
+Cursed combat bracers left behind{LF}by a witch.
+Cursed combat bracers left behind{LF}by a witch.
+The heavy, spiked bracers of a{LF}banished underworld lord.
+The heavy, spiked bracers of a{LF}banished underworld lord.
+The heavy, spiked bracers of a{LF}banished underworld lord.
+The heavy, spiked bracers of a{LF}banished underworld lord.
+-
+-
+-
+-
+The chakram used by the disciple{LF}Octa.
+The chakram used by the disciple{LF}Octa.
+The chakram used by the disciple{LF}Octa.
+The chakram used by the disciple{LF}Octa.
+A chakram as sharp and piercing as{LF}a blazing thunderbolt.
+A chakram as sharp and piercing as{LF}a blazing thunderbolt.
+A chakram as sharp and piercing as{LF}a blazing thunderbolt.
+A chakram as sharp and piercing as{LF}a blazing thunderbolt.
+A compact chakram infused with a{LF}sorcerer's curse.
+A compact chakram infused with a{LF}sorcerer's curse.
+A compact chakram infused with a{LF}sorcerer's curse.
+A compact chakram infused with a{LF}sorcerer's curse.
+A chakram said to have been stained{LF}blue from reflecting ocean waves.
+A chakram said to have been stained{LF}blue from reflecting ocean waves.
+A chakram said to have been stained{LF}blue from reflecting ocean waves.
+A chakram said to have been stained{LF}blue from reflecting ocean waves.
+A large, ornately decorated chakram.
+A large, ornately decorated chakram.
+A large, ornately decorated chakram.

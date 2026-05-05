@@ -1,0 +1,106 @@
+I swear to everything that's holy,{LF}I will kill that man.{#Name="Dito"}
+*Huff, huff...*{#Name="Zero"}
+Are you all right, my lady? You appear fatigued.{#Name="Decadus"}
+Forget about it. I'm fine.{#Name="Zero"}
+Hmm... I wager the magic within{LF}your flower is growing stronger.{#Name="Octa"}
+If I had to guess, I'd say the{LF}blossom is absorbing your—{#Name="Octa"}
+Let's go!{#Name="Zero"}
+Lady Zero does a good job of hiding it...{#Name="Octa"}
+But something is rotten with that flower of hers.{#Name="Octa"}
+It's not rotten! It's as beautiful as the dawn!{#Name="Cent"}
+Ho ho! You misunderstand.{LF}I mean only that it is...suspicious.{#Name="Octa"}
+Perhaps there's more to it{LF}than meets the eye, mmm?{#Name="Octa"}
+Oooh! Riiight. Now I get it.{#Name="Cent"}
+You do?{#Name="Octa"}
+Ha ha ha! Of course!{#Name="Cent"}
+She's worried her little accessory{LF}will go out of style!{#Name="Cent"}
+Er...right. {#Name="Octa"}
+This journey is turning out to be{LF}more difficult than I'd expected.{#Name="Decadus"}
+Seriously? What exactly were you expecting?{#Name="Dito"}
+You're traveling with ZERO!{LF}She's like a murder machine.{#Name="Dito"}
+I suppose it has been one massacre{LF}after another... Ungh...{#Name="Decadus"}
+Tucker down there, tiger.{#Name="Dito"}
+That was not a moan of pleasure!{#Name="Decadus"}
+What will Lady Zero do once{LF}the Intoners are no more?{#Name="Decadus"}
+How would I know? And why would I care?{#Name="Dito"}
+Right now, there's lots of killin' goin'{LF}on, and that's all I really need.{#Name="Dito"}
+You shall not be forgiven, Zero!{#Name="Soldier A"}
+All that befell our poor Lady Four{LF}is your fault, demon!{#Name="Soldier B"}
+I shall serve Lady Four, no matter{LF}what has become of her!{#Name="Soldier C"}
+Dammit! Our pure, unblemished Intoner is no more!{#Name="Soldier G"}
+Stay strong! It's up to us to save{LF}Lady Four from her lost ways!{#Name="Soldier E"}
+Four's up ahead. Let's go.{#Name="Zero"}
+Divergence: Branch D{#Name="127"}
+A single decision can change everything.{#Name="235"}
+So what do Zero's decisions mean for this world?{#Name="253"}
+Will they bring about salvation? Or destruction?{#Name="127"}
+There is one last branch to follow,{#Name="145"}
+and it begins in the Land of Mountains.{#Name="145"}
+説明文
+（リザーブ）
+Soldier A
+Soldier B
+Soldier C
+Soldier D
+Soldier E
+Soldier F
+Soldier G
+兵士Ｆ
+兵士Ｂ
+Zero
+Decadus
+Dito
+Octa
+Cent
+127
+235
+253
+145
+Zero!{#Name="Four"}
+...Four.{#Name="Zero"}
+Oh, sweet Zero...{#Name="Four"}
+I've realized something.{#Name="Four"}
+We don't have to be scared of this world.{#Name="Four"}
+Because once I destroy it...there won't be a world to be scared of anymore!{#Name="Four"}
+{06}>{#Name="Four"}
+The flower's taken her over.{#Name="Zero"}
+This entire world will sing for me!{#Name="Four"}
+Zophiel, come to me!{#Name="Four"}
+A dragon!?{#Name="Zero"}
+That's... That's Lady One's...{#Name="Octa"}
+No, it's different.{#Name="Zero"}
+How did Four manage to summon a daemon dragon!?{#Name="Zero"}
+Intoners can't normally do that?{#Name="Mikhail"}
+No. Not without losing their minds, they can't.{#Name="Zero"}
+One was the only sister with{LF}the power to pull it off.{#Name="Zero"}
+But you can call me, Zero! And you're okay!{#Name="Mikhail"}
+Or maybe you were already bonkers from the start?{#Name="Mikhail"}
+Right...{#Name="Zero"}
+No, dummy!{#Name="Zero"}
+You're not a daemon.{#Name="Zero"}
+Plus, I'm...special, okay? I'm different.{#Name="Zero"}
+Fie, my sister! Fie on you!{#Name="Four"}
+Look at you, murdering your{LF}kin to claim their powers!{#Name="Four"}
+I don't want your power, Sis.{#Name="Zero"}
+But I will kill you. All of you.{LF}...Sorry about that.{#Name="Zero"}
+You aren't sorry. Oh, you aren't sorry at all.{#Name="Four"}
+Ah ha ha ha ha ha ha! You want to kill ME?{#Name="Four"}
+Ah ha! Hee hee hee hee ha ha ha!{#Name="Four"}
+Do you remember, Zero? Do you remember{LF}how I used to imitate you all the time?{#Name="Four"}
+Your clothes, your hair, your makeup...{LF}Everything! Hee hee!{#Name="Four"}
+Not at all. In fact, I'm pretty sure{LF}that never actually happened.{#Name="Zero"}
+So now I'm going to imitate you again!{#Name="Four"}
+If you're going to be an Intoner killer...{LF}then I'm going to be an Intoner killer too!{#Name="Four"}
+Then the world will finally be quiet.{#Name="Four"}
+Shhh... Not a peep from you, world. Eee hee hee!{#Name="Four"}
+Imagine, Zero... You and I in a silent world.{LF}A world where we can play hide-and-seek!{#Name="Four"}
+Are you hiding yet, Zero? Are you?{#Name="Four"}
+Because ready or not...here I coooooome!{#Name="Four"}
+Zerooo! Zerooo?{#Name="Four"}
+Zeeerooooooooo!{#Name="Four"}
+Where aaaaaare yoooooou, my siiiiiister!?{#Name="Four"}
+Zeeerooooooooo!{#Name="Four"}
+Eee hee hee hee ha ha ha ha haaaaaa!{#Name="Four"}
+Ready for the next game? Okay!{LF}Simon saaays...fight!{#Name="Four"}
+Simon saaays...rip your guts out! Come on, do it!{#Name="Four"}
+Now, try and take me on!{LF}...Ha! I didn't say Simon says!{#Name="Four"}

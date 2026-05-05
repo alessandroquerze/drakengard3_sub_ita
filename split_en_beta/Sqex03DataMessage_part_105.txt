@@ -1,0 +1,105 @@
+The Cathedral City
+The Land of Seas
+The Land of Mountains
+The Land of Forests
+The Land of Sands
+Rulers
+The Church
+Younger Sister
+Elder Sister
+The Magic Academy
+Magic
+Intoners
+Weapon Shops
+Dragons
+Miracles
+The Cataclysm
+Multiple Worlds
+Singularities
+The Power of Song
+The Flower
+ＴＩＰＳ_６０
+ＴＩＰＳ_６１
+ＴＩＰＳ_６２
+ＴＩＰＳ_６３
+ＴＩＰＳ_６４
+ＴＩＰＳ_６５
+ＴＩＰＳ_６６
+ＴＩＰＳ_６７
+ＴＩＰＳ_６８
+ＴＩＰＳ_６９
+ＴＩＰＳ_７０
+ＴＩＰＳ_７１
+ＴＩＰＳ_７２
+ＴＩＰＳ_７３
+ＴＩＰＳ_７４
+ＴＩＰＳ_７５
+ＴＩＰＳ_７６
+ＴＩＰＳ_７７
+ＴＩＰＳ_７８
+ＴＩＰＳ_７９
+{04}{#Name=" "}
+Chapter 0:{#Name=" "}
+Chapter 1:{#Name=" "}
+Chapter 2:{#Name=" "}
+Chapter 3:{#Name=" "}
+Chapter 4:{#Name=" "}
+Chapter 5:{#Name=" "}
+Branch B:{#Name=" "}
+Branch C:{#Name=" "}
+Branch D:{#Name=" "}
+DLC{#Name=" "}
+予備{#Name=" "}
+予備{#Name=" "}
+予備{#Name=" "}
+予備{#Name=" "}
+Verse 1{#Name=" "}
+Verse 2{#Name=" "}
+Verse 1{#Name=" "}
+Verse 2{#Name=" "}
+Verse 3{#Name=" "}
+Verse 4{#Name=" "}
+Verse 1{#Name=" "}
+Verse 2{#Name=" "}
+Verse 3{#Name=" "}
+Verse 4{#Name=" "}
+Verse 5{#Name=" "}
+Verse 6{#Name=" "}
+Verse 1{#Name=" "}
+Verse 2{#Name=" "}
+Verse 3{#Name=" "}
+Verse 4{#Name=" "}
+Verse 5{#Name=" "}
+Verse 6{#Name=" "}
+Verse 1{#Name=" "}
+Verse 2{#Name=" "}
+Verse 3{#Name=" "}
+Verse 4{#Name=" "}
+Verse 1{#Name=" "}
+Verse 2{#Name=" "}
+Verse 3{#Name=" "}
+Verse 4{#Name=" "}
+Verse 1{#Name=" "}
+Verse 2{#Name=" "}
+Verse 3{#Name=" "}
+Verse 4{#Name=" "}
+Verse 5{#Name=" "}
+Verse 1{#Name=" "}
+Verse 2{#Name=" "}
+Verse 3{#Name=" "}
+Verse 4{#Name=" "}
+Verse 5{#Name=" "}
+Lost Verse 1{#Name=" "}
+Lost Verse 2{#Name=" "}
+Lost Verse 3{#Name=" "}
+Verse 1{#Name=" "}
+Verse 2{#Name=" "}
+Verse 3{#Name=" "}
+Verse 4{#Name=" "}
+Verse 5{#Name=" "}
+Verse 6{#Name=" "}
+Verse 7{#Name=" "}
+Verse 8{#Name=" "}
+Final Verse{#Name=" "}
+1010_1{#Name="1010"}
+1010_2{#Name="1010"}

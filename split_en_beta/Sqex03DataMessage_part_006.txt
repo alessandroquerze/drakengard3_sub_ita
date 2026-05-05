@@ -1,0 +1,106 @@
+Ma... perché non ti fai un braccio nuovo invece di usare{LF}quello finto?{#Name="Mikhail"}
+Ho le mie ragioni. ...Ragioni da adulti.{#Name="Zero"}
+Cavolo, gli adulti se la passano proprio male...{#Name="Mikhail"}
+Già. Ora sta' zitto.{#Name="Zero"}
+109{#Name="109"}
+271{#Name="271"}
+Hai un braccio finto, puoi rigenerare il corpo...{LF}Sei incredibile, Zero!{#Name="Mikhail"}
+Tutto quello che abbiamo trovato in quella zona è stato uno stupido cagnaccio.*{#Name="Zero"}
+Ehi, Zero!{#Name="Mikhail"}
+Prima stavo volando in giro, cercando di rendermi utile e cose così...{#Name="Mikhail"}
+E credo di aver visto un santuario da quella parte!{#Name="Mikhail"}
+Sembrava grande! Davvero grande!{#Name="Mikhail"}
+Ehi, sì. Ho sentito qualcosa al riguardo.{#Name="Dito"}
+Dicono che il santuario nella Terra dei Monti{LF}sia esteso come una piazza.{#Name="Dito"}
+Quindiii, cosa? A nord, allora?{LF}...D'accordo, andiamo.{#Name="Zero"}
+削除{#Name="ミハイル"}
+削除{#Name="ミハイル"}
+Il contrattacco del nemico si fece sempre più disperato.{#Name="アコール"}
+E il santuario dove si diceva che Four si nascondesse{#Name="アコール"}
+era a sua volta celato dentro un'enorme struttura difensiva...{#Name="アコール"}
+235
+60
+343
+325
+397
+Dito
+Zero
+Mikhail
+ゼロ
+433
+289
+451
+253
+109
+271
+ミハイル
+アコール
+Di nuovo in campeggio?{#Name="Dito"}
+Beh, qualunque cosa mi dia l'occasione{LF}di tenerti al caldo...{#Name="Dito"}
+Ti va di darci un taglio? L'unico che si scalda{LF}con discorsi del genere sei tu.{#Name="Zero"}
+E poi scommetto che tutto questo freddo ti sta causando un bel restringimento.{#Name="Zero"}
+Tsk!{#Name="Dito"}
+Torniamo giù, dai.{LF}Quelli come me non sono fatti per il freddo.{#Name="Dito"}
+Sei sicuro che Four sia quassù, vero?{#Name="Zero"}
+Ehm, probabilmente?{#Name="Mikhail"}
+Probabilmente non basta.{#Name="Zero"}
+Sei l'unico che può percepire le Intoner, ricordi?{#Name="Zero"}
+Certo che posso! Sto anche iniziando ad abituarmi parecchio a questa sensazione!{#Name="Mikhail"}
+Già, e scommetto che è anche una sensazione davvero piacevole, eh?{#Name="Dito"}
+Oh sì! Mi fa tremare di piacere!{#Name="Mikhail"}
+...Smettila di insegnargli certe cose, Dito.{#Name="Zero"}
+Zero, dormo e dormo, eppure sono ancora così stanco...{#Name="Mikhail"}
+D'accordo. Si parte.{#Name="Zero"}
+Tu entri dall'alto, d'accordo?{#Name="Zero"}
+Noooioso. Vorrei poter volare in giro come quel bambinone là...{#Name="Dito"}
+No che non vuoi! Più sali in alto, più fa freddo!{#Name="Mikhail"}
+Eh, giusto. Immagino che dovremo aprirci{LF}la nostra strada da terra, eh, Z?{#Name="Dito"}
+Deviata da false informazioni sul luogo in cui si trovava Four,{#Name="Accord"}
+Zero si ritrovò di nuovo a darle la caccia.{#Name="Accord"}
+Guidato dalla debole presenza di un'Intoner che avevano percepito,{#Name="Accord"}
+il gruppo restrinse la ricerca a una catena innevata tra le montagne...{#Name="Accord"}
+Dito
+Zero
+Mikhail
+Accord
+Procedere alla prossima missione?{#Name=" "}
+みんなで一つの場所に集まるデモ{#Name=" "}
+Allora, Lady Zero? Pensavo che magari stanotte potremmo{LF}darci da fare. La caccia è aperta, mmm?{#Name="Octa"}
+Darci da fare? Ehi, non dovreste litigare!{LF}Dobbiamo andare tutti d'accordo!{#Name="Mikhail"}
+Oh ho ho! Non temere, caro drago.{LF}Zero e io non potremmo andare più d'accordo su questo!{#Name="Octa"}
+Stanotte? Meeeeeeh, no. Devo... lavarmi i capelli. {#Name="Zero"}
+Ehi, Zero! Fammi giocare anch'io al gioco del darsi da fare!{#Name="Mikhail"}
+Questa... non è una buona idea.{#Name="Octa"}
+Perché no?{#Name="Mikhail"}
+Beh, vedi, tu sei un... Voglio dire...{#Name="Octa"}
+Lascia perdere, Octa.{#Name="Zero"}
+Dai, su! Voglio sapere!{#Name="Mikhail"}
+Se siamo tutti amici e cose così, perché non posso giocare{LF}al gioco del darsi da fare? Eh?{#Name="Mikhail"}
+Dai, fammi provare! Scommetto che sarei bravissimo!{#Name="Mikhail"}
+No! E stanotte non gioca nemmeno Octa.{#Name="Zero"}
+Ma... la passione ardente nei miei lombi!{#Name="Octa"}
+Ricorda soltanto che il tuo caro Octa è pronto al{LF}dispiegamento completo con un attimo di preavviso!{#Name="Octa"}
+Decadus e Octa se la passano proprio male.{#Name="Cent"}
+Cosa?{#Name="Zero"}
+Beh, ora servono te, Lady Zero, veeero?{#Name="Cent"}
+Il che significa che prima o poi dovranno uccidere le proprie{LF}Intoner...{#Name="Cent"}
+Uuunnngh...{#Name="Decadus"}
+Oooh. Sembra che abbia toccato un nervo scoperto.{#Name="Cent"}
+E la tua Intoner, Cent?{#Name="Octa"}
+Lady Two? Mmmm...{#Name="Cent"}
+Temo che questo sia il mio piccolo segreto!{#Name="Cent"}
+Dio, odio questo tizio. Non possiamo semplicemente ucciderlo?{LF}Tipo, adesso? Per favore?{#Name="Dito"}
+Non posso farci nulla se ho una lingua diabolicamente tagliente...{#Name="Cent"}
+Colpisce dove vuole, persino in compagnia di buoni amici!{#Name="Cent"}
+Mi dispiace tanto! Ah ha ha ha!{#Name="Cent"}
+Devo dire che non mi aspettavo che restassi con me così a lungo.{#Name="Zero"}
+Beh, essere liberi non è davvero libertà, no?{#Name="Dito"}
+Wow. Profondo. Così profondo. Mi hai fatto esplodere la mente!{#Name="Cent"}
+Sta' zitto prima che ti ammazzi!{#Name="Dito"}
+O meglio ancora, muori da solo.{#Name="Dito"}
+...Allora, dov'eravamo? Ah, giusto.{LF}Io che sto con te e tutto il resto.{#Name="Dito"}
+Sinceramente, non mi importa davvero perché tu vada in giro{LF}a fare tutte queste morti e roba simile.{#Name="Dito"}
+Personalmente, me la sto spassando alla grande qui!{#Name="Dito"}
+Voglio dire, guardarti affettare, mutilare e uccidere tutti questi{LF}brutti bastardi? È come una vacanza a cinque stelle all'Inferno!{#Name="Dito"}
+Sul serio, mi piace da morire. Sei la migliore!{#Name="Dito"}
+Non so se riuscirai davvero a continuare tutto questo massacro,{LF}ma spero proprio di sì!{#Name="Dito"}

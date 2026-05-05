@@ -1,0 +1,106 @@
+Abbiamo ucciso il demone!{#Name="Soldier B"}
+KA-BOOM! Ce l'abbiamo fatta! Intoner abbattuta! Intoner abbattuta!{LF}Avete visto? L'ho colpita dritta nel—{#Name="Soldier B"}
+Lady Three sarà felicissima!{#Name="Soldier A"}
+Woo-hoo! Sì, baby, SÌ! Ha ha ha ha!{#Name="Soldier A"}
+Dopo tutta la fatica che ho fatto per procurarmi quella stramaledetta aeronave...{#Name="Zero"}
+Vi farò a pezzi fino all'ultimo bastardo!{#Name="Zero"}
+Dopo aver assassinato Four,{#Name="Accord"}
+Zero volò verso la sua prossima destinazione: la Terra delle Foreste.{#Name="Accord"}
+Era un luogo intriso di follia, e la dimora di sua sorella, Three...{#Name="Accord"}
+Zero
+Dito
+Mikhail
+Decadus
+ミハイル
+ 
+Soldier A
+Soldier B
+Accord
+Ehi, uh, sei sicura che siamo al sicuro con quel vecchio Occhi da Insetto laggiù?{#Name="Dito"}
+Siamo ancora nel territorio di Three, sai?{LF}Potrebbe pugnalarci alle spalle praticamente in qualsiasi momento.{#Name="Dito"}
+Accolgo gli uomini al mio fianco, e poi me li porto a letto.{LF}Funziona così e basta.{#Name="Zero"}
+Al resto penserò più tardi.{#Name="Zero"}
+Molto accomodante da parte tua.{LF}...In parecchi sensi.{#Name="Dito"}
+Sul serio, però...{LF}Ti faresti davvero quel vecchio sacco d'ossa?{#Name="Dito"}
+Lady Three sarà nel panico, ora che il suo stesso{LF}discepolo l'ha tradita.{#Name="Decadus"}
+Speriamo che riesca a mantenere la testa sulle spalle.{LF}Quelle sue forbici giganti sono pericolose.{#Name="Zero"}
+Forbici? Ha... delle forbici!?{LF}Con le forbici si può provocare un dolore così squisito! Nnngh...{#Name="Decadus"}
+Ti piacciono parecchio le forbici, eh?{#Name="Zero"}
+Sì, se gli tagliano via l'arnese...{#Name="Dito"}
+Non vedo l'ora di vedere i giocattoli di Lady Three.{LF}Ehm, le sue forbici! Ahhh...{#Name="Decadus"}
+È proprio vivace ora che abbiamo tutti questi amici, eh?{#Name="Mikhail"}
+Amici? Io non ho amici qui.{#Name="Zero"}
+Eh? E io? E Dito?{LF}E Decadus? E Octa?{#Name="Mikhail"}
+Uno scemo, uno psicopatico, un buono a nulla e un pervertito.{LF}Sì, siamo proprio una bella combriccola, certo.{#Name="Zero"}
+Sei cattiva, Zero!{LF}...Ehm, non sono io il pervertito, vero?{#Name="Mikhail"}
+A me piacerebbe pensare di essere almeno tuo amico...{#Name="Mikhail"}
+Allora, perché stai mollando Three?{#Name="Zero"}
+Perché il mio appetito d'AMORE è insaziato!{LF}Ho bisogno di bottino al mattino, del mio piacere pomeridiano,{LF}ho bisogno di dolce amore sotto le stelle di—{#Name="Octa"}
+Va bene, va bene! Ho capito.{#Name="Zero"}
+Non fare altro che saccheggiare la mangiatoia, giorno dopo giorno,{LF}mi renderebbe l'uomo più felice del mondo!{#Name="Octa"}
+Eppure Lady Three si tira indietro a ogni occasione.{LF}Come potrei restare con una persona simile?{#Name="Octa"}
+乗ってくださらなくなったスリイ様と、{LF}これ以上一緒にいる意味がどこに？{#Name="オクタ"}
+Oh ho ho! Il santuario si trova oltre la Foresta della Nebbia.{#Name="Octa"}
+Probabilmente sarà pieno di trappole, nemici e altre rotture{LF}del genere, eh?{#Name="Zero"}
+Beh, sì, prevede una prova o due.{#Name="Octa"}
+Ma se desideri un incontro carnale all'aria aperta,{LF}non c'è posto migliore!{#Name="Octa"}
+Procedere alla prossima missione?{#Name=" "}
+みんなで一つの場所に集まって話すデモ{#Name=" "}
+Spero che tu, Lady Zero, sia abbastanza intelligente{LF}da riconoscere il mio valore.{#Name="Octa"}
+Dito
+Zero
+Decadus
+Mikhail
+Octa
+オクタ
+ 
+初回会話{#Name="ディト"}
+ループ会話{#Name="ディト"}
+初回会話{#Name="デカート"}
+ループ会話{#Name="デカート"}
+初回会話{#Name="オクタ"}
+ループ会話{#Name="オクタ"}
+次のステージが最後である説明。{#Name="セント"}
+ループ会話{#Name="セント"}
+初回会話{#Name="ミハイル"}
+ループ会話{#Name="ミハイル"}
+次のミッションに移動しますか？{#Name=" "}
+みんなで一つの場所に集まるデモ{#Name=" "}
+ディト
+デカート
+オクタ
+セント
+ミハイル
+ 
+Procedere alla prossima missione?{#Name=" "}
+みんなで一つの場所に集まるデモ{#Name=" "}
+Potrebbe essere ancora PIÙ umido, qui intorno?{LF}Persino il mio sudore sta sudando.{#Name="Dito"}
+Urrrgh...{#Name="Decadus"}
+Vero? Questo posto fa vomitare.{#Name="Dito"}
+Sì, ma questo disagio è in qualche modo... esaltante...{#Name="Decadus"}
+Sì, come ti pare, svitato.{#Name="Dito"}
+Io voto per filarcela da qui il prima possibile.{#Name="Dito"}
+Decadus. Dammi un po' di stoffa, vuoi?{#Name="Zero"}
+Sei ferita, mia signora?{#Name="Decadus"}
+No, questo stupido bosco mi ha fatto venire il ciclo in anticipo.{#Name="Zero"}
+Nnngh...{#Name="Decadus"}
+...Dito ha ragione. Sei uno svitato.{#Name="Zero"}
+E-Ecco, mia signora. Prendi tutta la stoffa che vuoi.{#Name="Decadus"}
+Oh ho! Beh, non è strano?{#Name="Octa"}
+Il bosco più avanti un tempo era molto più rigoglioso{LF}e verdeggiante di così.{#Name="Octa"}
+Dev'essere successo qualcosa dall'ultima volta che l'ho visitato.{LF}Lo sento!{#Name="Octa"}
+Lo "senti"? Santo cielo, che mucchio di{LF}sciocchezze superstiziose.{#Name="Cent"}
+Io, naturalmente, respingo simili follie mistiche{LF}in favore della scienza.{#Name="Cent"}
+Prove! Teorie! Sperimentazione!{LF}È così che funziona il mondo!{#Name="Cent"}
+Maaa forse non dovrei aspettarmi che voi Neanderthal{LF}possiate capire qualcosa del genere.{#Name="Cent"}
+Chiudi il becco, professore.{#Name="Dito"}
+いいから、黙れ{#Name="ディト"}
+Lady Zero, posso?{LF}Dovremmo evitare di restare troppo a lungo in questa nebbia.{#Name="Octa"}
+Three è dentro questo bosco, giusto?{LF}Lei è qui, vero?{#Name="Mikhail"}
+Sembri parecchio contento della cosa.{#Name="Zero"}
+Sono solo emozionato all'idea di incontrare una delle tue sorelle!{#Name="Mikhail"}
+Beh, io sono emozionata all'idea di ucciderla.{#Name="Zero"}
+Aw, eddai!{#Name="Mikhail"}
+Spero solo che riusciremo a mangiare prima di combattere.{LF}A pancia vuota non servo a niente!{#Name="Mikhail"}
+Ehi, Cent. Che cosa sai di Two?{#Name="Zero"}
+Two? Two, Two, Two...{LF}Sì, scusa. Non la conosco.{#Name="Cent"}

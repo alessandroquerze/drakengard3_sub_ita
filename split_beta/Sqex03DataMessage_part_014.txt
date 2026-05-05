@@ -1,0 +1,106 @@
+Forse perché Dito non è qui a lamentarsi del piano...{#Name="Octa"}
+E Cent non sta inventando fatti che non potrebbero mai essere veri.{#Name="Octa"}
+Sì, suppongo tu abbia ragione.{#Name="Zero"}
+Hmm...{#Name="Zero"}
+Oh ho! Quindi sembra che i discepoli fossero sempre destinati{LF}a essere associati a determinate Intoner...?{#Name="Octa"}
+Già.{#Name="Zero"}
+Beh, questo spiega molte cose.{#Name="Octa"}
+Quindi Dito e Cent sono tornati alle loro forme originali{#Name="Octa"}
+come prezzo per aver evocato gli angeli senza il potere delle loro Intoner...{#Name="Octa"}
+Serve molta energia per evocare un angelo.{LF}Senza il potere di un canto,{#Name="Zero"}
+non avevano modo di mantenere la loro forma umana.{#Name="Zero"}
+Ho ho ho... Beh, questo complica parecchio le cose, non è vero?{#Name="Octa"}
+E per di più, sembra che Mikhail{LF}abbia problemi a tenere a freno il suo appetito.{#Name="Octa"}
+Si può dire così.{#Name="Zero"}
+Cosa aveva detto di nuovo quella ragazza, Accord?{#Name="Octa"}
+È istinto di un drago consumare il fiore?{#Name="Octa"}
+Non credo che possa tenere a freno una cosa simile così facilmente...{#Name="Octa"}
+Hmmm...{#Name="Octa"}
+Quando arriverà il momento, gli darò da mangiare.{#Name="Zero"}
+Potrà avere me.{#Name="Zero"}
+A proposito, Octa...{#Name="Zero"}
+Sì?{#Name="Octa"}
+Non sarebbe ora che ti facessi un bagno?{#Name="Zero"}
+Ma pensavo che apprezzassi il mio odore muschiato!{#Name="Octa"}
+Inoltre, quel dolce aroma di maschio mi mette davvero dell’umore giusto...{#Name="Octa"}
+Lavati o sparisci.{#Name="Zero"}
+Cielo, questo sì che è davvero un bel dilemma...{#Name="Octa"}
+...Davvero?{#Name="Zero"}
+Se nessuno dei due è disponibile, andranno bene le piante. Anche gli alberi vanno bene,{LF}anzi, ultimamente mi sto davvero godendo i mango!{#Name="Octa"}
+Sai cosa mi piacerebbe davvero provare, prima o poi? Un durian!{#Name="Octa"}
+こんなクソみたいな砂漠で迷うとは……{#Name="ゼロ"}
+Noi siamo Recorders.{#Name="Accord"}
+Il nostro dovere è osservare.{#Name="Accord"}
+Ma mentre continuavo a registrare la singolarità conosciuta come Zero,{#Name="Accord"}
+ho iniziato a sentirmi invadere da emozioni molto strane...{#Name="Accord"}
+ミハイル
+Zero
+Decadus/Octa
+Octa
+Decadus
+Mikhail
+ゼロ
+Accord
+379{#Name="379"}
+109{#Name="109"}
+379{#Name="379"}
+271{#Name="271"}
+307{#Name="307"}
+469{#Name="469"}
+60{#Name="60"}
+289{#Name="289"}
+271{#Name="271"}
+127{#Name="127"}
+469{#Name="469"}
+505{#Name="505"}
+91{#Name="91"}
+577{#Name="577"}
+199{#Name="199"}
+60{#Name="60"}
+199{#Name="199"}
+235{#Name="235"}
+199{#Name="199"}
+次のミッションに移動しますか？{#Name=" "}
+こんなクソみたいな砂漠で迷うとは……{#Name="ゼロ"}
+379
+109
+271
+307
+469
+60
+289
+127
+505
+91
+577
+199
+235
+ 
+ゼロ
+Procedere alla prossima missione?{#Name=" "}
+みんなで一つの場所に集まるデモ{#Name=" "}
+Ti stai distruggendo qui.{#Name="Accord"}
+Pensi che otterrai il futuro che desideri in questo modo?{#Name="Accord"}
+Sta’ zitta, vuoi?{#Name="Zero"}
+Almeno io non me ne sto col culo seduto cercando di fare{LF}la misteriosa del cazzo.{#Name="Zero"}
+Forse dovresti semplicemente lasciare che ci occupiamo noi{LF}di tutta questa faccenda delle Intoner, d’ora in poi.{#Name="Accord"}
+Ho iniziato io questo casino. Sarò io a finirlo.{#Name="Zero"}
+E se ti metti sulla mia strada, ucciderò anche te.{#Name="Zero"}
+Uccidermi, eh?{#Name="Accord"}
+Non sono sicura che ci sia molto che possa dire in risposta a questo.{#Name="Accord"}
+Zero, se gli effetti di singolarità che stai causando{LF}diventeranno troppo pesanti da sopportare per noi...{#Name="Accord"}
+Saremo costrette a neutralizzarti.{#Name="Accord"}
+Volevo solo che fosse chiaro.{#Name="Accord"}
+Come ti pare.{#Name="Zero"}
+{06}>{#Name="Zero"}
+Michael, da me!{#Name="Zero"}
+Un "per favore" ogni tanto non guasterebbe.{#Name="Michael"}
+Suppongo che te la sia cavata abbastanza bene.{#Name="Zero"}
+La prossima volta potrebbe non andare così liscia.{#Name="Michael"}
+Sì, va bene, va bene.{#Name="Zero"}
+Zero.{#Name="Michael"}
+Hmm?{#Name="Zero"}
+Sei sicura di volerlo fare?{#Name="Michael"}
+Sì. Quando arriverà il momento...{#Name="Zero"}
+Brutto sogno?{#Name="Accord"}
+こんなクソみたいな砂漠で迷うとは……{#Name="ゼロ"}

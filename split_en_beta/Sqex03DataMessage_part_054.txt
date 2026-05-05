@@ -1,0 +1,106 @@
+アホで鈍感で幼稚で不潔なヤツだが、腐ってもドラゴンだ。{#Name="ゼロ"}
+大丈夫だよ{#Name="ゼロ"}
+ひどい言いようだな……{#Name="ディト"}
+使えないドラゴンも！{#Name="ゼロ"}
+付き合って３ヶ月で別れるカップルみたいな会話はやめろ{#Name="ゼロ"}
+お大事に！{#Name="ゼロ"}
+そうか。じゃ、全員頭が足りないんだなッ{#Name="ゼロ"}
+はいッ！ボク、がんばる！{#Name="ミハイル"}
+この辺りに潜んでるってことだよね？{#Name="ゼロ"}
+嫌だよ。面倒臭い！ぶっ潰せばいいんだ{#Name="ゼロ"}
+このヴェルンシュタイン・オブ・ザ・ヴァイス・ノルデン山{#Name="ディト"}
+ってのは聞いたことあるな{#Name="ゼロ"}
+とりあえず行ってみるか。そのナントカ山に！{#Name="ゼロ"}
+付き合って３ヶ月で別れるカップルみたいな会話はやめろ{#Name="ゼロ"}
+テスト１９０{#Name="テスト"}
+テスト１９１{#Name="テスト"}
+テスト１９２{#Name="テスト"}
+テスト１９３{#Name="テスト"}
+テスト１９４{#Name="テスト"}
+テスト１９５{#Name="テスト"}
+テスト１９６{#Name="テスト"}
+テスト１９７{#Name="テスト"}
+テスト１９８{#Name="テスト"}
+テスト１９９{#Name="テスト"}
+テスト２００{#Name="テスト"}
+ゼロ
+Zero
+Dito
+ 
+ミハイル
+トウモ
+説明文
+Soldier B
+Soldier C
+Soldier F
+Soldier G
+Soldier A
+Soldier D
+Soldier E
+兵士B
+325
+289
+415
+兵士G
+451
+127
+343
+109
+ディト
+307
+649
+Mikhail
+433
+163
+379
+兵士A
+テスト
+Defeat the Cerberus!{#Name="説明文"}
+Defeat the Titan!{#Name="説明文"}
+Make your way to the top of Mt. Whatever.{#Name="説明文"}
+Uuungh. More climbing? How much{LF}farther do we have to go?{#Name="Zero"}
+Why don't you hop on?{LF}I can fly us up there in a flash!{#Name="Mikhail"}
+Because it's cold and you smell{LF}like a dead bear's ass?{#Name="Zero"}
+...Oh. Then how 'bout I breathe{LF}fire to warm you up?{#Name="Mikhail"}
+Let's think about that plan{LF}for a second, shall we?{#Name="Zero"}
+Ugh, this is such a pain in the ass!{#Name="Zero"}
+Then we must be getting close to something!{#Name="Mikhail"}
+The more bad guys they throw at you,{LF}the more they wanna guard stuff, right?{#Name="Mikhail"}
+Look at that. Big baby actually{LF}went and learned something.{#Name="Dito"}
+So what'll you do once you track down Four?{#Name="Dito"}
+Kill her.{#Name="Zero"}
+That's it? Booo-ring!{LF}You should have a little fun with her first!{#Name="Dito"}
+ {#Name="ディト"}
+Like, find her greatest shame and then tell{LF}everyone she knows until she begs you to{LF}kill her so the humiliation can finally end!{#Name="Dito"}
+You're a sick puppy, aren't you?{#Name="Zero"}
+Aw, thanks!{#Name="Dito"}
+コイツ、やだ。馬鹿力すぎ！{#Name="ディト"}
+キミは力が無いからな{#Name="ゼロ"}
+男みたいな力強さって、僕には必要ないね{#Name="ディト"}
+抱くより抱かれる方が好みだし…ふふっ{#Name="ディト"}
+戦闘中に思い出し笑いはよせ{#Name="ゼロ"}
+雑魚に用はないんだよ！とっととフォウを出しやがれ！{#Name="ゼロ"}
+うらああああああッ！{#Name="ゼロ"}
+うわー。すごい気合いだね！{#Name="ディト"}
+これならフォウを殺すときも期待出来るなあ{#Name="ディト"}
+楽しみにしておけ{#Name="ゼロ"}
+はぁはぁはぁ…{#Name="ディト"}
+息があがってるね。体力残しておかなきゃ、この先死ぬよ{#Name="ゼロ"}
+お、大きなお世話。僕なりの、戦い方が、あるっての{#Name="ディト"}
+ふむ…その負けん気はよろしい{#Name="ゼロ"}
+307{#Name="307"}
+649{#Name="649"}
+You're slowing me down. Move it.{#Name="Zero"}
+Um, hey, Zero? Can I ask you a favor? {#Name="Dito"}
+Lemme guess: It's something stupid, right?{#Name="Zero"}
+No! ...I just wanted a piggy-back ride.{#Name="Dito"}
+Like I said. Stupid.{#Name="Zero"}
+ここから落ちたら、一発で死ぬな{#Name="ゼロ"}
+すごくスリリングでいい見世物だとは思うけど、自分が見られる側に立つのは勘弁だな{#Name="ディト"}
+Not this stupid mutt again...{#Name="Zero"}
+Oh, look. Locked in and surrounded by enemies.{LF}...AGAIN.{#Name="Dito"}
+Couldn't you come up with something{LF}a little less cliché?{#Name="Dito"}
+What are you bitching about?{LF}And who are you bitching TO?{#Name="Zero"}
+Don't worry about it. It's complicated.{#Name="Dito"}
+Hmm. That gate looks familiar...{#Name="Zero"}
+Great...a giant soldier.{#Name="Zero"}

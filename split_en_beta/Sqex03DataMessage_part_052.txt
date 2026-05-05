@@ -1,0 +1,106 @@
+z{#Name="a"}
+z{#Name="a"}
+z{#Name="a"}
+z{#Name="a"}
+z{#Name="a"}
+z{#Name="a"}
+Soldier E
+Soldier D
+Soldier G
+Soldier B
+Soldier A
+Soldier F
+Soldier C
+a
+Zero
+Mikhail
+Dito
+ 
+test
+おーい！ミハーイル！{#Name="ゼロ"}
+テスト２{#Name="ゼロ"}
+テスト３{#Name="ゼロ"}
+★ディトとの会話。{#Name="ゼロ"}
+★ミハイルに乗って行かない説明（臭いし寒いし）{#Name="ゼロ"}
+★ミハイルとはいずれ逢えるだろう、という話になる。{#Name="ゼロ"}
+★ミハイルに呼びかけるが声がとどかない。{#Name="ゼロ"}
+テスト８{#Name="ゼロ"}
+テスト９{#Name="ゼロ"}
+★マップ形状に関するヒントを言う（迷うという事）{#Name="ゼロ"}
+★どうやったら抜けられるかのヒント。{#Name="ゼロ"}
+テスト１２{#Name="ゼロ"}
+テスト１３{#Name="ゼロ"}
+テスト１４{#Name="ゼロ"}
+テスト１５{#Name="ゼロ"}
+テスト１６{#Name="ゼロ"}
+テスト１７{#Name="ゼロ"}
+テスト１８{#Name="ゼロ"}
+Helloooooo?{LF}Hey, stupid dragon! Where are you?{#Name="Zero"}
+Yeah, uh...{#Name="Dito"}
+What?{#Name="Zero"}
+I don't think it's such a good idea to yell around here.{#Name="Dito"}
+What? You scared?{#Name="Zero"}
+Figures. You disciples are more chickenshit than I thought.{#Name="Zero"}
+No, that's not what I—{#Name="Dito"}
+Drakengard 3{#Name=" "}
+{06}>{#Name=" "}
+I'll say when this ends!{#Name="Zero"}
+{06}>{#Name="Dito"}
+★雪崩についての感想。{#Name="ゼロ"}
+★ゼロとディトの感想。{#Name="ゼロ"}
+★ウタウタイモードになればミハイルを呼べるんじゃね？という話に。{#Name="ゼロ"}
+うわーん！ゼロ！会いたかったよぉ！会いたかったよぉ！{#Name="ミハイル"}
+★ミハイルとゼロの掛け合い。{#Name="ゼロ"}
+テスト２７{#Name="ゼロ"}
+テスト２８{#Name="ゼロ"}
+テスト２９{#Name="ゼロ"}
+テスト３０{#Name="ゼロ"}
+★ミハイルは上から回る、今度ははぐれないぞ、というやりとり。{#Name="ミハイル"}
+テスト３２{#Name="ゼロ"}
+テスト３３{#Name="ゼロ"}
+テスト３４{#Name="ゼロ"}
+テスト３５{#Name="ゼロ"}
+テスト３６{#Name="ゼロ"}
+テスト３７{#Name="ゼロ"}
+テスト３８{#Name="ゼロ"}
+テスト３９{#Name="ゼロ"}
+テスト４０{#Name="ゼロ"}
+テスト４１{#Name="ゼロ"}
+テスト４２{#Name="ゼロ"}
+★ディト、石板を解読する。{#Name="トウモ"}
+★「要塞は天空に」という情報が。{#Name="トウモ"}
+★「なんとか山に行けばいいんじゃない？」ｂｙディト{#Name="トウモ"}
+★「ナントカ山って」{#Name="ゼロ"}
+★なんかＲＰＧっぽくなってきてイライラするゼロ。{#Name="ゼロ"}
+★とりあえずナントカ山に行く。{#Name="ゼロ"}
+Track down Four.{#Name="説明文"}
+Defeat the enemy soldiers!{#Name="説明文"}
+Defeat the Titan!{#Name="説明文"}
+How many are there?{#Name="Soldier B"}
+Visibility's too low to see!{#Name="Soldier C"}
+Don't be stupid! Use your ears, fool!{#Name="Soldier B"}
+Shit! My right leg's gone numb!{#Name="Soldier F"}
+Dammit, look at that frostbite!{#Name="Soldier G"}
+Are you deaf, ladies? I said, march! Now MARCH!{#Name="Soldier A"}
+We're all gonna turn into little soldier ice statues...{#Name="Soldier D"}
+Sound off like you got a pair, men!{#Name="Soldier C"}
+Yaaaaaah!{#Name="Soldier D"}
+How are they getting up the mountain so quickly!?{#Name="Soldier E"}
+That's no Intoner... It's a goddamn monster!{#Name="Soldier B"}
+ {#Name="兵士B"}
+Dammit! I keep getting snow in my eyes!{#Name="Soldier G"}
+Keep going! You'll die if you stop moving!{#Name="Soldier F"}
+Tread carefully. That's Zero we're dealing with!{#Name="Soldier A"}
+If it's freeze to death or die in battle...I'm going down fighting!{#Name="Soldier B"}
+Keep moving, men! {#Name="Soldier E"}
+I c-can't...stop...sh-shivering...{#Name="Soldier G"}
+Move! Move, move, move!{#Name="Soldier E"}
+325{#Name="325"}
+289{#Name="289"}
+415{#Name="415"}
+Look out! She's here!{#Name="Soldier A"}
+Where is she!? I can't see her! Ahhhh, get away! Get away from me!{#Name="Soldier G"}
+ {#Name="兵士G"}
+Stop, you idiot! You're attacking us!{#Name="Soldier A"}
+I...I won't last much longer... P-Protect Lady Four for me...{#Name="Soldier F"}
+Praise be to our noble songstress!{#Name="Soldier E"}

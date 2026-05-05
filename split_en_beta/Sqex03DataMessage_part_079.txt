@@ -1,0 +1,106 @@
+How did a beauty like Five ever{LF}end up in such a sad state?{#Name="Octa"}
+I'm guessing the flower's force{LF}willed her body back to life.{#Name="Zero"}
+But neither one could handle the other,{LF}so now we have this.{#Name="Zero"}
+Stupid bastard should have just stayed dead.{#Name="Zero"}
+A sad sight indeed...{#Name="Octa"}
+She seems to be in pain... I'd be glad{LF}to ease it with my staff of miracles!{#Name="Octa"}
+やめておけ。アイツは昔から快感のわからない女なんだ{#Name="ゼロ"}
+Of all the sisters, the flower's grip{LF}on Zero is by far the strongest.{#Name="Octa"}
+I fear she, too, will be consumed...{#Name="Octa"}
+Hm? What's that?{#Name="Zero"}
+...Nothing, my lady.{#Name="Octa"}
+Z-Zero... Beauti...ful Zero...{#Name="Five"}
+{06}>{#Name="Five"}
+See ya in hell,{#Name="Zero"}
+Sister.{#Name="163"}
+Huh? Wait, what the hell is this!?{#Name="Dito"}
+You summoned an angel without the aid of an Intoner.{#Name="Zero"}
+Gonna have to pay for it somehow.{#Name="Zero"}
+Oh, come on! That's not even fair!{#Name="Dito"}
+I finally found it!{#Name="Dito"}
+I finally found a world I can live in and truly love!{#Name="Dito"}
+Zero, wait. No! No no no no no no no—{#Name="Dito"}
+Cent...{#Name="Zero"}
+So that's how it is, huh?{#Name="Cent"}
+I honestly had no idea.{#Name="Cent"}
+I am just an idiot, after all, right?{#Name="Cent"}
+Oh well.{#Name="Cent"}
+There's no point in living in a world without Lady Two anyway. Now I can rest.{#Name="Cent"}
+60{#Name="60"}
+Make your way through this cursed forest.{#Name="説明文"}
+I need backup here! Give me sound and time!{#Name="Soldier D"}
+S-Sound? And time? I don't understand!{#Name="Soldier F"}
+It seems they still have partial{LF}control of themselves...{#Name="Octa"}
+Wait. They don't even realize they're dead!?{#Name="Dito"}
+Ha ha ha! That's so awesome,{LF}I can't stand it!{#Name="Dito"}
+{06}>{#Name="Five"}
+S...st... Stop...ppp...{#Name="Five"}
+I ate the meat of the apples that day! My explosion tired me out!{#Name="Soldier G"}
+Defeat the army of Galgaliel!{#Name="説明文"}
+Defeat Five!{#Name="説明文"}
+Oh, come on. She healed herself!?{#Name="Zero"}
+We better take care of those guys first.{#Name="Zero"}
+Goddammit! Are these guys invincible!?{#Name="Zero"}
+So they're immortal as long as Five's awake, huh?{#Name="Zero"}
+Soldier A
+Soldier B
+Soldier C
+Soldier D
+Soldier E
+Soldier F
+Soldier G
+307
+271
+91
+361
+Decadus
+Cent
+Dito
+Zero
+Five
+Octa
+ファイブ
+ゼロ
+163
+60
+説明文
+あちゃー{#Name="セント"}
+せっかく竜種を捕獲したのにぃぃいぃ{#Name="セント"}
+やっぱり私みたいに大局的にモノゴトを見られる人達ばっかりじゃないかぁあぁ{#Name="セント"}
+どうしても自分が出来る程度の事は人に期待しちゃうんだよなぁあぁあ{#Name="セント"}
+むしろ私レベルの人は逆に少ないと思った方がいいんだろうなあぁあぁ{#Name="セント"}
+期待しすぎちゃうのは良くない癖だなぁあぁあぁ{#Name="セント"}
+なんかムカツクんですけどぉ？{#Name="ディト"}
+トウの、使徒だな{#Name="ゼロ"}
+……{#Name="セント"}
+死んでもらおうか？{#Name="ゼロ"}
+これで……{#Name="セント"}
+状況が悪化した{#Name="セント"}
+そんな事も判らない、バカ共が{#Name="セント"}
+縁なき衆生とは……この事か{#Name="セント"}
+何を言って……{#Name="デカート"}
+ゼロ{#Name="セント"}
+いつか、その竜が貴様に災いをもたらすぞ{#Name="セント"}
+そうなってから後悔するなよ……裏切りのウタウタイ……{#Name="セント"}
+ゼロッ！{#Name="ミハイル"}
+昼寝には丁度いい時間だな！{#Name="ゼロ"}
+違うよ！つかまってるんだよ！つかまってるんだよ！{#Name="ミハイル"}
+わかってるさ{#Name="ゼロ"}
+ゼロ～！助けて～！{#Name="ミハイル"}
+ああ{#Name="ゼロ"}
+ちっ……ゴーレムか{#Name="ゼロ"}
+Here comes trouble!{#Name="Soldier A"}
+The personification of evil is here!{#Name="Soldier B"}
+Grant us strength!{#Name="Soldier A"}
+Zero? Already!?{#Name="Soldier C"}
+Stay sharp or you're dead!{#Name="Soldier D"}
+Inform the first squadron she's arrived!{#Name="Soldier F"}
+She, sir?{#Name="Soldier E"}
+Zero! The dark blossom of death!{#Name="Soldier F"}
+GYAAAH!{#Name="Soldier G"}
+Calm down! It's just a flesh wound!{#Name="Soldier F"}
+Charge! Chaaaarge!{#Name="Soldier A"}
+Stand strong! We can win if we keep at it!{#Name="Soldier B"}
+If we go down, we go down together!{#Name="Soldier C"}
+Arrrgh... Grant...me....power...!{#Name="Soldier D"}
+I'm gonna tear your demonic ass in half!{#Name="Soldier E"}

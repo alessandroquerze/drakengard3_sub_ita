@@ -1,0 +1,105 @@
+Well, I suppose that's just the curse of being{LF}a big-picture kind of guy. Know what I mean?{#Name="Cent"}
+I know my own abilities, and I just expect others to recognize them as well.{#Name="Cent"}
+Buuut, I guess that's asking too much of folks like you, now, isn't it?{#Name="Cent"}
+I mean, why hold people to an ideal they can't possibly meet? Am I right?{#Name="Cent"}
+This guy's really startin' to piss me off.{#Name="Dito"}
+You're Two's disciple, yeah?{#Name="Zero"}
+{06}>{#Name="Cent"}
+Should I kill you, too?{#Name="Zero"}
+You see?{#Name="Cent"}
+Now we've gone from bad to worse.{#Name="Cent"}
+What?{#Name="Zero"}
+You people really are dense, you know that?{#Name="Cent"}
+I guess the universe simply can't help those who won't help themselves.{#Name="Cent"}
+What are you trying to—{#Name="Decadus"}
+Zero.{#Name="Cent"}
+One of these days, that dragon is gonna be your downfall.{#Name="Cent"}
+And when that moment comes, it will be too late for regrets...traitor.{#Name="Cent"}
+{06}>{#Name="Mikhail"}
+{06}>{#Name="Mikhail"}
+Zero defeated Three, but lost Mikhail to the disciple Cent in the process.{#Name="Accord"}
+The group headed for Cent's home in the Land of Sands to try and rescue the dragon…{#Name="Accord"}
+左様。私めも性への情熱以外はカラカラでございます{#Name="オクタ"}
+ほら、狼が増えてきた！{#Name="デカート"}
+それ以上エロ口叩いたら殺すぞ{#Name="ゼロ"}
+性根の腐ったヤツらめ！{#Name="兵士B"}
+た……助けて……{#Name="兵士"}
+くそっ……足が……{#Name="兵士"}
+また狼か……ウンザリだな{#Name="ゼロ"}
+まったくだよ。吐き気がする{#Name="ディト"}
+セント
+ディト
+ゼロ
+デカート
+ミハイル
+Soldier A
+Soldier B
+Soldier C
+Soldier D
+Soldier F
+Soldier E
+Soldier G
+217
+271
+説明文
+Dito
+Octa
+Zero
+Decadus
+兵士
+Soldiers C/D/G
+兵士C
+181
+397
+Mikhail
+Cent
+Accord
+オクタ
+兵士B
+{06}>{#Name="Decadus"}
+{06}>{#Name="Dito"}
+{06}>{#Name="Decadus"}
+Hope you can stick that back on!{#Name="Dito"}
+{06}>{#Name="Zero"}
+Let's see...{#Name="Zero"}
+{06}>{#Name="Zero"}
+Y-Your arm!{#Name="Decadus"}
+There. Shall we finish this?{#Name="Zero"}
+Lady Zero, is your arm all right?{#Name="Decadus"}
+...It doesn't seem to feel pain anymore.{#Name="Zero"}
+Seems I'm getting less human by the day.{#Name="Zero"}
+Three down, two to go.{#Name="Zero"}
+Oh, and don't tell Mikhail about this.{#Name="Zero"}
+Defeat the Wizards!{#Name="説明文"}
+Defeat the Golems!{#Name="説明文"}
+Defeat the Sand Ogres!{#Name="説明文"}
+Defeat the Undead!{#Name="説明文"}
+予備{#Name="説明文"}
+Make your way through the underground ruins.{#Name="説明文"}
+How could she have made it all the way here!?{#Name="Soldier A"}
+The cursed Intoner!{#Name="Soldier F"}
+Stand tall! She's injured, too!{#Name="Soldier B"}
+Dammit! I'm hit!{#Name="Soldier C"}
+I...I can't stop the bleeding!{#Name="Soldier D"}
+Where's our medical team!?{#Name="Soldier E"}
+The messengers aren't responding!{#Name="Soldier F"}
+That's her? I could take her on barehanded!{#Name="Soldier B"}
+Wh-What're you doing!? You'll be killed!{#Name="Soldier G"}
+Death is but a door! Do not fear it!{#Name="Soldier E"}
+Ah... Aaaaaah! I can't! I just can't do this!{#Name="Soldier G"}
+The eternal sun herself, Lady Two, watches over us! Now fight!{#Name="Soldier F"}
+Is that Zero?{#Name="Soldier D"}
+I heard she was scrawny, but daaaamn!{#Name="Soldier C"}
+And I heard she was pretty, but daaaaaaaamn!{#Name="Soldier D"}
+Well, I heard she'll kill you in your sleep! So shut up and stay alert!{#Name="Soldier E"}
+The darkness is enveloping us all!{#Name="Soldier B"}
+Wh-What are you talking about? Are you all right?{#Name="Soldier G"}
+Shit! Is this woman invincible!?{#Name="Soldier F"}
+Maybe. But we've got to kill her anyway!{#Name="Soldier A"}
+Don't chase her too far in!{#Name="Soldier E"}
+Even if I wanted to, she's too fast to keep up with!{#Name="Soldier C"}
+We can't... We can't let ourselves be annihilated!{#Name="Soldier A"}
+Sir! No survivors found in the first squadron!{#Name="Soldier G"}
+Shit. Now what do we do!?{#Name="Soldier A"}
+This darkness makes it hard to see.{#Name="Decadus"}
+Oh ho ho! Who needs darkness?{LF}Pretty much anything makes me hard!{#Name="Octa"}

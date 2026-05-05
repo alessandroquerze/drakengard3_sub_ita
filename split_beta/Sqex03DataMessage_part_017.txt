@@ -1,0 +1,106 @@
+Cambia pagina{#Name=" "}
+Cambia modalità{#Name=" "}
+Cambia categoria{#Name=" "}
+Cambia pulsanti{#Name=" "}
+Gioca{#Name=" "}
+Flusso della storia{#Name=" "}
+Lista combo CONFIRMED NOT USED 1126.{#Name=" "}
+キャンプイベントをスキップしますか？{#Name=" "}
+Tornare al menu principale?{#Name=" "}
+このストーリーをプレイするための解放条件をクリアしていません{#Name=" "}
+このストーリーを解放するには、武器の収集率を１００％にする必要があります。{LF}現在{04}{#Name=" "}
+未読です{#Name=" "}
+{04}{#Name=" "}
+La porta è chiusa.{#Name="Zero"}
+Hanno chiuso il cancello? Grazie mille, stronzi.{#Name="Zero"}
+*Merda. È chiuso.{#Name="Zero"}
+*Dev'essere stato il nemico a chiuderlo.{#Name="Zero"}
+*Chi continua a chiuderli? Che senso ha?{#Name="Zero"}
+*Devono averlo chiuso.{#Name="Zero"}
+Heh. Pensano che QUESTO possa fermarmi?{#Name="Zero"}
+Non ho bisogno di tornare indietro.{#Name="Zero"}
+Ho chiuso con questo posto.{#Name="Zero"}
+Devo continuare ad andare avanti...{#Name="Zero"}
+C'è una sola strada da prendere, e non è questa.{#Name="Zero"}
+Non serve andare da questa parte.{#Name="Zero"}
+x {04}{#Name=" "}
+Tutte le armi sono state potenziate al massimo.{LF}Hai sbloccato un nuovo costume bonus per Zero!{LF}Accedici dal menu "Cambia costumi/musica".{#Name=" "}
+Dati di salvataggio{#Name=" "}
+Vuoi rimuovere i vecchi dati di salvataggio{LF}per liberare più spazio?{#Name=" "}
+Continuare la partita senza salvare?{#Name=" "}
+ {04}{#Name=" "}
+Chiudi{#Name=" "}
+Sei riuscito a raccogliere tutte le armi.{LF}La Diramazione D è ora sbloccata!{#Name=" "}
+La porta è chiusa.{#Name="Zero"}
+Hanno chiuso il cancello? Grazie mille, stronzi.{#Name="Zero"}
+*Merda. È chiuso.{#Name="Zero"}
+*Dev'essere stato il nemico a chiuderlo.{#Name="Zero"}
+*Chi continua a chiuderli? Che senso ha?{#Name="Zero"}
+*Devono averlo chiuso.{#Name="Zero"}
+Heh. Pensano che QUESTO possa fermarmi?{#Name="Zero"}
+Non ho bisogno di tornare indietro.{#Name="Zero"}
+Ho chiuso con questo posto.{#Name="Zero"}
+Devo continuare ad andare avanti...{#Name="Zero"}
+C'è una sola strada da prendere, e non è questa.{#Name="Zero"}
+Non serve andare da questa parte.{#Name="Zero"}
+ 
+Zero
+ {#Name="ディト"}
+ディト
+Personaggi
+Armi
+Visualizza informazioni dettagliate sul personaggio.
+Visualizza storie delle armi e altre informazioni sulle armi.
+Database
+{04}
+? ? ?
+Spade
+Lance
+Bracciali da combattimento
+Chakram
+Armi DLC
+{04}
+Seleziona/ruota modello CONFIRMED NOT USED 1126
+Visualizza animazione personaggio. CONFIRMED NOT USED 1126
+Seleziona un'arma per visualizzarne la storia e altri dettagli.
+Seleziona un personaggio da visualizzare.
+Seleziona un'animazione da visualizzare. CONFIRMED NOT USED 1126
+デモ
+Una Intoner dotata di abilità di combattimento sovrumane. È aperta{LF}e disinibita con gli uomini, ma di natura violenta e pigra.{LF}Dal suo occhio destro cresce uno strano fiore.{#Name="Zero"}
+Un drago fieramente orgoglioso, considerato il più potente{LF}del mondo. Estremamente intelligente e forte oltre ogni misura,{LF}è l'unico vero confidente che Zero abbia mai avuto.{#Name="Michael"}
+La forma post-reincarnazione di Michael che viaggia{LF}con Zero. Idealista e pacifista, pensa che tutti{LF}i conflitti possano essere risolti solo con le parole.{#Name="Mikhail (Stage 1)"}
+La forma post-reincarnazione di Michael che viaggia{LF}con Zero. Idealista e pacifista, pensa che tutti{LF}i conflitti possano essere risolti solo con le parole.{#Name="Mikhail (Stage 2)"}
+La forma post-reincarnazione di Michael che viaggia{LF}con Zero. Idealista e pacifista, pensa che tutti{LF}i conflitti possano essere risolti solo con le parole.{#Name="Mikhail (Stage 3)"}
+Un discepolo armato di lancia con un'indole estremamente sadica{LF}e la capacità di percepire rapidamente le debolezze altrui.{LF}Prova grande piacere dalle urla dei suoi nemici.{#Name="Dito"}
+Un discepolo ben piazzato che combatte a pugni. Il più{LF}assennato dei suoi compagni, si comporta sempre da gentiluomo, {LF}ma in realtà è un masochista che gode del dolore senza limiti.{#Name="Decadus"}
+Un discepolo dall'aspetto anziano che combatte con i chakram.{LF}Vanta un appetito sessuale apparentemente insaziabile,{LF}e si dice porti con sé un'anatomia... notevole.{#Name="Octa"}
+Un discepolo narcisista che combatte con lame gemelle. Nonostante{LF}la sua estrema sicurezza di sé, la "conoscenza" che sceglie{LF}di impartire è spesso falsa e finisce solo per irritare tutti.{#Name="Cent"}
+La più giovane delle Intoner, e sovrana della Terra dei Mari. Avida{LF}e superficiale, desidera tutto ciò che vede (inclusa Zero), ma{LF}perde interesse appena lo ottiene. Ama i doppi sensi sessuali.{#Name="Five"}
+L'unica Intoner vergine, e sovrana della Terra dei Monti.{LF}Finge un'aria di superiorità per nascondere il suo profondo{LF}complesso d'inferiorità e le sue inibizioni.{#Name="Four"}
+La svogliata Intoner che governa la Terra delle Foreste. Ha{LF}gusti sessuali contorti e una personalità distaccata e bizzarra.{LF}Le piace sperimentare sugli umani per trasformarli in bambole.{#Name="Three"}
+Una Intoner brillante e allegra che governa la Terra delle Sabbie.{LF}È innamorata di Cent, anche se un incidente sfortunato{LF}le ha spezzato la mente, lasciandola in uno stato infantile.{#Name="Two"}
+La Intoner che governa Cathedral City. È la più{LF}matura e intelligente delle sorelle, e anche l'unica{LF}che comprende pienamente le vere intenzioni di Zero.{#Name="One"}
+Il fratello gemello di One, creato da One stessa. Fu nascosto{LF}come misura di sicurezza per distruggere Zero e le altre Intoner.{LF}Idolatra One sia come sorella sia come madre.{#Name="One's Brother"}
+Una negoziante della Terra dei Mari che porta con sé una grande{LF}valigia. In quanto osservatrice e Recorder,{LF}considera Zero una "singolarità" di massimo livello nel suo lavoro.{#Name="Accord"}
+Un angelo evocato da Dito usando il potere della canzone di Five.{#Name="Phanuel"}
+Un angelo evocato da Decadus usando il potere della canzone di Four.{#Name="Armaros"}
+Un angelo evocato da Octa usando il potere della canzone di Three.{#Name="Armisael"}
+Un angelo evocato da Cent usando il potere della canzone di Two.{#Name="Egregori"}
+Un drago trasformato in angelo da One.{#Name="Gabriel"}
+Un angelo evocato da Two e Cent.{#Name="Raphael"}
+Un angelo evocato da One.{#Name="Abdiel"}
+Un angelo draconico evocato da Four dopo che la sua mente si era spezzata.{#Name="Zophiel"}
+Un angelo evocato da Five dopo che la sua mente si era spezzata.{#Name="Galgaliel"}
+Un angelo — e un antico drago — richiamato da Three{LF}dopo che la sua mente si era spezzata.{#Name="Ezrael"}
+Zero
+Michael
+Mikhail (Stage 1)
+Mikhail (Stage 2)
+Mikhail (Stage 3)
+Dito
+Decadus
+Octa
+Cent
+Five
+Four
+Three

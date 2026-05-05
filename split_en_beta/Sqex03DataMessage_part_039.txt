@@ -1,0 +1,106 @@
+La sua lama è velocissima...{#Name="Soldier E"}
+È abilità? O qualcos'altro?{#Name="Soldier F"}
+Via! Stammi lontana!{#Name="Soldier G"}
+Non riusciamo a contattare nessuno dei nostri alleati...{#Name="Soldier A"}
+Se continua così, finiremo tutti sottoterra!{#Name="Soldier B"}
+Wow, guarda quanti sono! Sono dappertutto!{#Name="Mikhail"}
+Per te sono come formiche. Schiacciali e basta.{#Name="Zero"}
+È davvero crudele, Zero...{#Name="Mikhail"}
+Wow, guarda l'acqua qui! È così bella!{#Name="Mikhail"}
+Affonda quella dannata nave da guerra, ti dispiace?{#Name="Zero"}
+E va beeeene...{#Name="Mikhail"}
+Non credo di riuscire a sfondare questa barricata.{#Name="Zero"}
+Mi toccherà arrampicarmi e trovare{LF}un modo per aggirarla.{#Name="Zero"}
+Heh. Bel modo raffazzonato per{LF}provare a rallentarmi...{#Name="Zero"}
+Quindi... che tipo di sorella è Five?{#Name="Mikhail"}
+E' una sgualdrina.{#Name="Zero"}
+Che significa "sgualdrina"?{#Name="Mikhail"}
+Significa che pensa solo a cose sporche.{#Name="Zero"}
+Oh. Allora è proprio come te!{#Name="Mikhail"}
+Vuoi stare zitto una buona volta?{#Name="Zero"}
+Sembra che un tempo qui ci vivesse della gente.{#Name="Zero"}
+Dev'essere bello vivere vicino al mare.{LF}Pensa a tutto quel pesce squisito!{#Name="Mikhail"}
+Ma che diavolo? Dov'è il santuario?{#Name="Zero"}
+163{#Name="163"}
+361{#Name="361"}
+Dannazione. Credo che ci abbiano fregati.{#Name="Zero"}
+……嬉しそうだな{#Name="ゼロ"}
+だって、戦わなくてもよくなったもん{#Name="ミハイル"}
+289{#Name="289"}
+217{#Name="217"}
+Heh. Che hai da guardare, testa di cazzo?{#Name="Zero"}
+È ora di chiuderla qui!{#Name="Zero"}
+Zero, attenta!{#Name="Mikhail"}
+Wow, sei davvero forte!{#Name="Mikhail"}
+Heh. Ma guarda. Perché i grossi sono{LF}sempre così lenti e stupidi?{#Name="Zero"}
+Ehi! Io sono grosso!{#Name="Mikhail"}
+Leeeeento e stupido.{#Name="Zero"}
+Non devi dirlo due volte!{#Name="Mikhail"}
+Qualunque cosa sia, se mi intralcia,{LF}finisce a terra.{#Name="Zero"}
+Stai attenta, Zero! Questo è forte!{LF}Fortissimo!{#Name="Mikhail"}
+217{#Name="217"}
+253{#Name="253"}
+199{#Name="199"}
+289{#Name="289"}
+Pfft. Pensa che basterà questo a fermarmi?{#Name="Zero"}
+Zero! Guarda!{#Name="Mikhail"}
+Sta venendo su qualcosa! Sta salendo!{#Name="Mikhail"}
+Heh. Stanno proprio stendendo il tappeto rosso.{#Name="Zero"}
+D'accordo, Five. Vediamo che sai fare.{#Name="Zero"}
+Quindi... cosa succede quando avrai ucciso tutte le tue sorelle?{#Name="Mikhail"}
+Me le mangio.{#Name="Zero"}
+Aaaaaah!{#Name="Mikhail"}
+Scherzavo.{#Name="Zero"}
+Oh... ehm... Ha ha! Ci avevo creduto davvero!{#Name="Mikhail"}
+Una volta uccise, potrò sfruttare i loro poteri.{#Name="Zero"}
+Quindi ruberai la loro magia da Intoner{LF}e cose del genere?{#Name="Mikhail"}
+Qualcosa del genere.{#Name="Zero"}
+ダミー
+Zero
+説明文
+Soldier G
+Soldier A
+Soldier B
+Soldier E
+Soldier C
+Soldier D
+Soldier F
+Soldiers C/D
+兵士C
+Mikhail
+163
+361
+ゼロ
+ミハイル
+289
+217
+253
+199
+Sconfiggi i soldati nemici!{#Name="説明文"}
+Distruggi tutti i cannoni!{#Name="説明文"}
+Dirigiti al Shrine of Seas.{#Name="説明文"}
+Distruggi la Battleship!{#Name="説明文"}
+Stai bene, Zero?{#Name="Mikhail"}
+Sì, sto bene.{#Name="Zero"}
+Sono solo questi vermi di soldati a farmi incazzare.{#Name="Zero"}
+Vermi? Ehi, ti piacciono i vermi, Zero?{#Name="Mikhail"}
+Che razza di domanda è? Certo che no.{#Name="Zero"}
+Oh. Pensavo magari ne avessi qualcuno.{LF}Ho un po' fame...{#Name="Mikhail"}
+Non mangiare vermi, idiota!{#Name="Zero"}
+Mi sto un po' stancando...{#Name="Mikhail"}
+Smettila di piagnucolare.{#Name="Zero"}
+Ehi, volare è piuttosto difficile, sai?{#Name="Mikhail"}
+Smettila di lamentarti.{#Name="Zero"}
+Voglio dire... ehm... è divertente! Divertentissimo! Wheee!{#Name="Mikhail"}
+Ora puoi smetterla di mentire.{#Name="Zero"}
+271{#Name="271"}
+Muoriii!{#Name="Soldier B"}
+Quella è la mia entrata, faccia di merda!{#Name="Zero"}
+Sei mia, demone! Mia!{#Name="Soldier G"}
+Non dovresti essere ancora attaccato alla tetta della mamma?{#Name="Zero"}
+Non ti avvicinerai mai a Lady Five!{#Name="Soldier A"}
+"Lady Five, Lady Five!"{LF}...Patetico.{#Name="Zero"}
+Muori e basta, vuoi?{#Name="Zero"}
+Ti darò io qualcosa per cui piangere!{#Name="Soldier F"}
+Spostati, nonnetto.{#Name="Zero"}
+ゼロ！ゼロ！また会えたね！{#Name="ミハイル"}

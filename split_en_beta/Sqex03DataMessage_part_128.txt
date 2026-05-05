@@ -1,0 +1,105 @@
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Cannoneers
+Cannoneers
+Cannoneers
+Cannoneers
+Cannoneers
+-
+Wolves
+Sandwolves
+-
+Wolves
+Sandwolves
+-
+Lancers
+Lancer Captains
+-
+Spirits
+Greater Spirits
+-
+Imps
+-
+-
+Ogres
+Sand Ogres
+-
+Trolls
+Brute Trolls
+-
+Wizards
+-
+Necromancers
+Sorcerers
+-
+Undead
+Undead Soldiers
+Undead Paladins
+-
+-
+Wyverns
+-
+-
+Specters
+-
+-
+Wyverns
+Wyverns
+-
+Gigantes
+Gigantes
+Undead Gigantes
+-
+Titans
+Titan Lords
+Arch Titans
+-
+Cerberuses
+-
+Flame Cerberuses
+Gray Cerberuses
+Golems
+-
+花（ワン）
+花（トウ）
+花（スリイ）
+花（フォウ）
+花（ファイブ）
+-
+Centaurs
+Flame Centaurs
+-
+-
+Gargoyle Cubes
+-
+-
+-
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Soldiers
+Bombers
+Phanuel
+Armaros
+Armaros
+Armaros
+Armaros
+Armaros
+Armaros
+-
+Armisaels
+Armisaels
+Armisaels
+Egregori
+Gabriel
+Gabriel
+ガブリエル（傷）
+Zophiel
+花（ゼロ）
+Greater Gigantes
+False Zeros
+Homunculi
+Galgaliels

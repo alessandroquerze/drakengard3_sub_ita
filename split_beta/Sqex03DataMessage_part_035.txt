@@ -1,0 +1,106 @@
+No... Dannazione, no!{#Name="Soldier B"}
+Ugh. È troppo forte!{#Name="Soldier A"}
+Di questo passo, raggiungerà presto le Intoner!{#Name="Soldier G"}
+Mai. Dobbiamo proteggerle a costo della vita!{#Name="Soldier A"}
+Come possiamo opporci a una Intoner e a un drago?{#Name="Soldier E"}
+Che altra scelta abbiamo!? Tutti in posizione! All'attaaacco!{#Name="Soldier A"}
+La tua tomba ti attende, apostata!{#Name="Soldier B"}
+Muori, dannata Intoner traditrice!{#Name="Soldier G"}
+Forse ti prenderei più sul serio se la tua voce{LF}non tremasse...{#Name="Zero"}
+Perché una Intoner uccide le sue simili?{#Name="Soldier A"}
+Glielo diciamo? Sembrano sinceramente curiosi.{#Name="Michael"}
+Perché perdere tempo? Tanto stanno per morire comunque.{#Name="Zero"}
+La fine del mondo è vicina...{#Name="Soldier F"}
+343{#Name="343"}
+Mi... mi avevano detto che le Intoner{LF}dovevano essere pacifiche!{#Name="Soldier E"}
+Che razza di stronzate vi insegnano{LF}di questi tempi?{#Name="Zero"}
+Chiamate un medico! Questa Intoner pazza ci ucciderà tutti!{#Name="Soldier C"}
+Certo, perché no? Non ho ancora ucciso nessun medico.{#Name="Zero"}
+Toglitevi di mezzo, dannazione!{#Name="Zero"}
+Calmati, Zero. La rabbia rallenterà soltanto la tua spada.{#Name="Michael"}
+Lo so, è solo che... Ah, lascia perdere!{#Name="Zero"}
+Michael! Falli fuori!{#Name="Zero"}
+Come desideri.{#Name="Michael"}
+Dove diavolo sono le mie sorelle?{#Name="Zero"}
+Sei sicura di questo, Zero?{LF}Di voler uccidere tutte le Intoner?{#Name="Michael"}
+Certo. Altrimenti perché starei infilzando tutti?{#Name="Zero"}
+Dannata... Intoner... traditrice!{#Name="Soldier A"}
+Lo senti? Ti chiamano tutti traditrice.{#Name="Michael"}
+Mi hanno chiamata di peggio.{#Name="Zero"}
+Uccidete quella bestia immonda! Abbattetela!{#Name="Soldier B"}
+Mi vedono come una sorta di mostro.{#Name="Michael"}
+Già, io non me ne preoccuperei.{#Name="Zero"}
+Non me ne sto affatto preoccupando.{#Name="Michael"}
+Heh. Sei sempre stato un tipo sensibile.{#Name="Zero"}
+Non sono affatto così!{#Name="Michael"}
+Oh, dio. Cos'è questo?{#Name="Zero"}
+Non è un umano... Eppure non è nemmeno del tutto una bestia.{#Name="Michael"}
+Probabilmente una sorta di automa creato{LF}dalle Intoner.{#Name="Michael"}
+Piccoli bastardi ingegnosi...{#Name="Zero"}
+Uomini, prendete posizione! Resistete!{#Name="Soldier A"}
+Toglietevi. Dalla. Mia. STRADA!{#Name="Zero"}
+Non lasciatela passare!{#Name="Soldier B"}
+Spostatevi!{#Name="Zero"}
+{06}>{#Name="Soldier B"}
+Non può essere una Intoner... È impossibile!{#Name="Soldier G"}
+È un dannato demone...{#Name="Soldier F"}
+Non c'è modo di vincere...{LF}Moriremo tutti!{#Name="Soldier G"}
+Non è il momento della codardia!{LF}In piedi e combattete!{#Name="Soldier B"}
+Oh, Dio... No, no, no, no, noooo!{#Name="Soldier G"}
+Dannate reclute civili piagnucolose...{LF}Caricate! Caricate ora!{#Name="Soldier B"}
+I nostri messaggeri sono morti! Chiamatene altri!{#Name="Soldier C"}
+Non arriveranno mai in tempo!{#Name="Soldier D"}
+Guardatela... Guardate quanto è veloce!{#Name="Soldier C"}
+Merda! Sta venendo da questa parte! Correteee!{#Name="Soldier D"}
+Questo mondo non può sopravvivere senza le Intoner.{#Name="Soldier F"}
+Se vogliamo che le Intoner buone vivano...{#Name="Soldier F"}
+allora quella traditrice deve morire!{#Name="Soldier F"}
+La smettete con queste stronzate, sì?{#Name="Zero"}
+Ripiegate! Tutti, ripiegate!{#Name="Soldier A"}
+Cosa!? Se abbandoniamo le postazioni,{LF}le Intoner saranno in pericolo!{#Name="Soldier B"}
+Credi davvero che me ne freghi qualcosa, adesso!?{#Name="Soldier A"}
+Riprenditi, patetico codardo!{LF}Sei un soldato!{#Name="Soldier B"}
+via, via, via, VIA!{#Name="Zero"}
+È Zero! Zero la traditrice!{#Name="Soldier E"}
+Toglietevi dalle palle!{#Name="Zero"}
+Oh merda, è qui! Ritirata! Ritiraataa!{#Name="Soldier D"}
+Via di mezzo!{#Name="Soldier C"}
+Com'è... com'è potuto succedere...?{#Name="Soldier D"}
+Aspettate, mie amate sorelle.{LF}Sto venendo a uccidervi tutte.{#Name="Zero"}
+Sconfiggi il Titan!{#Name=" "}
+Trova e sconfiggi le tue sorelle alla Cattedrale.{#Name=" "}
+Old Man
+Zero
+Soldier A
+Soldier C
+ゼロ
+Michael
+343
+Soldier F
+Soldier B
+Soldier E
+Soldier D
+Soldier G
+ 
+È passato molto tempo, Zero.{#Name="One"}
+Davvero? Non me n'ero accorta.{#Name="Zero"}
+Non sei cambiata di una virgola. Sei ancora folle.{#Name="One"}
+Smettila. Mi metti in imbarazzo.{#Name="Zero"}
+Non era un complimento.{#Name="One"}
+Ehi, è Zero! Ehi, Zeeerooo!{#Name="Two"}
+{06}>{#Name="Three"}
+Zero, questa lotta è inutile!{LF}Devi fermarti! Siamo sorelle!{#Name="Four"}
+Oh, non fare tanto la pudica, Four.{LF}Una bella zuffa tra donne mi eccita da morire...{#Name="Five"}
+ {#Name="ファイブ"}
+Wow, certo che sono popolare da queste parti...{#Name="Zero"}
+Basta parlare, Zero.{#Name="One"}
+Questa è la fine.{#Name="One"}
+Ehi, Zero, indovina un po'?{LF}Il mese prossimo parto per un viaggio!{#Name="Two"}
+Quindi, sai cosa? Adesso non ho proprio{LF}tempo per questa cosa!{#Name="Two"}
+Io non mi disturberei a preparare i bagagli,{LF} Two.{#Name="Zero"}
+Eh? Perché no?{LF}Li preparerai tu per me!?{#Name="Two"}
+No, ti ucciderò!{#Name="Zero"}
+Un uccello in gabbia non può essere libero,{LF}anche se fugge dalla gabbia.{#Name="Three"}
+Un uccello senza libertà non ha{LF}posto nei cieli.{#Name="Three"}
+Non hai mai detto una cosa che avesse{LF}senso, Three.{#Name="Zero"}
+Forse la costrizione è una fonte{LF}di felicità in sé.{#Name="Three"}

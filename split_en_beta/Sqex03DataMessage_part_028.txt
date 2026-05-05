@@ -1,0 +1,106 @@
+生命の小瓶
+Pozione curativa (Max)
+神秘の欠片
+神秘の結晶
+霊長薬
+再生の刃
+Pozione di forza
+高揚のコロン
+Pozione di difesa
+精力のコロン
+加虐の丸薬
+被虐の丸薬
+絶倫の丸薬
+衆愚の丸薬
+予備
+Sfera curativa (S)
+Sfera curativa (M)
+Sfera curativa (L)
+Sfera sanguigna (S)
+Sfera sanguigna (L)
+Sfera ESP
+Materiale base di rame
+Materiale base d’argento
+Materiale base d’oro
+Materiale base bianco
+Materiale base nero
+海のメダル
+Moneta di rame arrugginita
+森のメダル
+Moneta di rame incrinata
+Moneta d’argento antica
+Moneta di rame lucidata
+Moneta d’oro antica
+剣兵のメダルC
+Moneta d’argento gessosa
+剣兵のメダルE
+Moneta Goblin di rame
+槍兵のメダルB
+Moneta Merrow d’argento
+Moneta Valkyrie d’oro
+Moneta Phoenix d’oro
+Moneta Angelos di rame
+Moneta Arche d’argento
+Moneta Thrones d’argento
+Moneta Cherub d’argento
+Moneta Seraph d’argento
+弓兵のメダルA
+Moneta della devozione
+弓兵のメダルC
+弓兵のメダルD
+Moneta della benevolenza
+Moneta della gentilezza
+Moneta dell’affetto
+砲兵のメダルC
+砲兵のメダルD
+砲兵のメダルE
+魔導師のメダル
+魔導師２のメダル
+魔導師３のメダル
+アンデッドのメダル
+アンデッド２のメダル
+アンデッド３のメダル
+オーガのメダル
+オーガ２のメダル
+トロルのメダル
+トロル２のメダル
+オオカミのメダル
+オオカミ２のメダル
+騎馬兵のメダル
+騎馬兵２のメダル
+スピリットのメダル
+スピリット２のメダル
+インプのメダル
+ギガースのメダル
+ギガース２のメダル
+ギガース３のメダル
+巨人剣士のメダル
+巨人剣士２のメダル
+巨人剣士３のメダル
+ケルベロスのメダル
+ケルベロス２のメダル
+ケルベロス３のメダル
+ゴーレムのメダル
+ケンタウロスのメダル
+イーフリートのメダル
+ファヌエルのメダル
+アルサミエルのメダル
+エグリゴリのメダル
+ラファエルのメダル
+ガルガリエルのメダル
+アプディエルのメダル
+ゾフィエルのメダル
+ガブリエルのメダル
+予備のメダル１
+予備のメダル２
+予備のメダル３
+予備のメダル４
+予備のメダル５
+予備のメダル６
+予備のメダル７
+予備のメダル８
+予備のメダル９
+予備のメダル１０
+予備のメダル１１
+予備のメダル１２
+予備のメダル１３

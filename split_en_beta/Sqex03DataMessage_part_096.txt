@@ -1,0 +1,105 @@
+Then I shall ascend to heaven{LF}without regrets! Oh ho ho!{#Name="Octa"}
+You may laugh at this, but I dream{LF}of one day living in peace.{#Name="Decadus"}
+Yet...the bitter truth does not escape me.{LF}I know in my heart that I was born for combat.{#Name="Decadus"}
+I am a disciple, created only to serve an Intoner.{#Name="Decadus"}
+I agree. Completely.{#Name="Octa"}
+Then how about you both shut up{LF}and make with the killin'!{#Name="Dito"}
+You stole the words right from my beautiful mouth!{#Name="Cent"}
+Well, this is it.{#Name="Zero"}
+It's what, my lady?{#Name="Octa"}
+I won't be needing you anymore.{#Name="Zero"}
+I can handle the rest by myself.{#Name="Zero"}
+M-My Lady, please, if you're worried about us, we—{#Name="Decadus"}
+No.{#Name="Zero"}
+It's unavoidable. Disciples can't remain{LF}in human form without an Intoner's power.{#Name="Zero"}
+Sooner or later, you'll disappear.{#Name="Zero"}
+So before that happens...{#Name="Zero"}
+I'm giving you your old forms back.{#Name="Zero"}
+...Goodbye.{#Name="Zero"}
+Zero's actually here!? But how!?{#Name="Soldier F"}
+All soldiers, take position!{#Name="Soldier A"}
+Oh ho! It seems the enemy's anxious to go out {LF}in a blaze of glory!{#Name="Octa"}
+Head for the Cathedral.{#Name="ディト"}
+Contact lost with second unit!{#Name="Soldier G"}
+Stand strong and protect the gates! Fight!{#Name="Soldier B"}
+Aaargh! I'm hit! Someone...avenge me...{#Name="Soldier C"}
+No! Wait! Stay alive!{LF}Hey, we need a medic over here!{#Name="Soldier D"}
+Once we clear these soldiers out,{LF}the Cathedral should be close.{#Name="Decadus"}
+Hmm? Are you asking for help from little old me?{#Name="Cent"}
+Well, it does make sense to use{LF}the best arrow in your quiver.{#Name="Cent"}
+I knew you'd come crawling to{LF}dear old Cent eventually!{#Name="Cent"}
+Octa? Can I ask you a favor?{#Name="Decadus"}
+Ignoring me, eh? Such bashfulness{LF}really is unbecoming...{#Name="Cent"}
+Is he dead? Hey, hey, is he dead?{LF}Whoa, look at all the blood!{#Name="Dito"}
+Ha ha! Do me a favor and skip the medics,{LF}would you?{#Name="Dito"}
+Great. Another freak of nature.{#Name="Zero"}
+Flying beasts. Imps, I would imagine.{#Name="Octa"}
+They say they feast on the livers of humans.{#Name="Octa"}
+That's quite the habit they've got there.{#Name="Zero"}
+Oh ho! It seems the enemy's anxious{LF}to go out in a blaze of glory!{#Name="Octa"}
+Well then, let's not disappoint the bastards!{#Name="Dito"}
+ゼロ
+オクタ
+デカート
+説明文
+Soldier G
+Soldier B
+Soldier A
+Soldier E
+Soldier C
+Soldier D
+Soldier F
+兵士Ａ
+兵士Ｂ
+兵士Ｃ
+兵士Ｇ
+兵士Ｅ
+Dito
+Cent
+Octa
+セント
+Decadus
+ディト
+Zero
+Mikhail
+Back then, I didn't know.{#Name="Mikhail"}
+I didn't know that defeating One wasn't the end.{#Name="Mikhail"}
+I also didn't know...{#Name="Mikhail"}
+the truth about Zero and me...{#Name="Mikhail"}
+スタッフロール{#Name=" "}
+Ａルートクリア{#Name=" "}
+Ｂルート解除{#Name=" "}
+Infiltrate the Cathedral.{#Name=" "}
+Defeat the enemy soldiers!{#Name=" "}
+Defeat the enemy soldiers!{#Name=" "}
+Defeat the enemy soldiers!{#Name=" "}
+Defeat Gabriel!{#Name=" "}
+All units, retreat! Retreeeat!{#Name="Soldier A"}
+Are you mad? What good'll running do?{#Name="Soldier B"}
+We can't defeat her...{#Name="Soldier A"}
+Enemy sighted! What the...?{#Name="Soldier G"}
+What is it?{#Name="Soldier E"}
+She's alone. Zero's by herself!{#Name="Soldier G"}
+She's wounded!{#Name="Soldier F"}
+Come on! We can still do this!{#Name="Soldier C"}
+Anyone who can fight, get to the front! Defend us!{#Name="Soldier B"}
+I'm still in this!{#Name="Soldier D"}
+Me, too!{#Name="Soldier C"}
+So that's the accursed Intoner...{#Name="Soldier E"}
+Kill her! Kill her! Kiiiiiill!{#Name="Soldier A"}
+She doesn't seem to be weakened!{#Name="Soldier G"}
+Damned Intoner...{#Name="Soldier F"}
+Help! She's breaking through!{#Name="Soldier E"}
+Stop her, no matter what! For Lady One!{#Name="Soldier B"}
+Aaaaahh!{#Name="Soldier F"}
+Enough already! We're wasting good soldiers' lives!{#Name="Soldier A"}
+戦なんて、最初から全部無駄だ{#Name="兵士Ｆ"}
+……前進！{#Name="兵士Ａ"}
+If I die here, I regret nothing!{#Name="Soldier C"}
+Lady One must remain safe! If not, the whole world is in danger!{#Name="Soldier E"}
+ああ…ワン様を守りぬこう。それが、世界を守ることになる！{#Name="兵士Ｅ"}
+All our soldiers are wounded!{#Name="Soldier F"}
+No retreat! Keep going!{#Name="Soldier B"}
+Holy shit, it's Zero! She's here!{#Name="Soldier G"}
+Anyone else?{#Name="Soldier A"}
+No, sir! She appears to be alone!{#Name="Soldier G"}

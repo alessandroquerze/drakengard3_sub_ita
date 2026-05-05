@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 from pathlib import Path
 
-SPLIT_IT_DIR = Path('split_it')
+SPLIT_IT_DIR = Path('split_en_beta')
 MERGED_IT = Path('Sqex03DataMessage_it.txt')
 
 
 def merge_translated_italian() -> None:
     merged = []
-    for file in sorted(SPLIT_IT_DIR.glob('Sqex03DataMessage_part_*_it.txt')):
+    for file in sorted(SPLIT_IT_DIR.glob('Sqex03DataMessage_part_*.txt')):
         merged.append(file.read_text(encoding='utf-8'))
     MERGED_IT.write_text(''.join(merged), encoding='utf-8')
 

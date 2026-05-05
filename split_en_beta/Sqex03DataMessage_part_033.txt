@@ -1,0 +1,106 @@
+巨人剣士３の心臓
+ケルベロスの心臓
+ケルベロス２の心臓
+Cuore indebolito
+ゴーレムの心臓
+ケンタウロスの心臓
+イーフリートの心臓
+Cuore avvizzito
+アルサミエルの心臓
+Cuore stolto
+Cuore incoraggiato
+ガルガリエルの心臓
+Cuore santo
+Cuore purificato
+ガブリエルの心臓
+Cuore nobile
+Nucleo ardente
+Nucleo gelido
+ウタウタイの心臓
+Nucleo dorato
+Nucleo di cristallo
+Nucleo sacro
+Nucleo ebano
+Cuore di drago
+Cuore di Pegasus
+Nucleo splendente
+Nucleo robusto
+Nucleo vincolante
+Nucleo della giustizia
+Nucleo eroico
+Nucleo impacciato
+Nucleo festoso
+Nucleo incoraggiante
+Nucleo fiorito
+Nucleo redentivo
+予備の心臓１７
+予備の心臓１８
+予備の心臓１９
+予備の心臓２０
+予備の心臓２１
+予備の心臓２２
+予備の心臓２３
+予備の心臓２４
+予備の心臓２５
+予備の心臓２６
+未鑑定メダル
+未鑑定メダル（レア）
+未鑑定宝石
+未鑑定宝石（レア）
+未鑑定武器
+未鑑定武器（レア）
+未鑑定本
+未鑑定本（レア）
+未鑑定服
+未鑑定服（レア）
+未鑑定心臓
+未鑑定心臓（レア）
+クエスト用メダル１
+クエスト用メダル２
+クエスト用メダル３
+クエスト用メダル４
+クエスト用メダル５
+クエスト用メダル６
+クエスト用メダル７
+クエスト用メダル８
+クエスト用メダル９
+クエスト用メダル１０
+クエスト用メダル１１
+クエスト用メダル１２
+クエスト用メダル１３
+クエスト用メダル１４
+クエスト用メダル１５
+クエスト用メダル１６
+クエスト用メダル１７
+クエスト用メダル１８
+クエスト用メダル１９
+クエスト用メダル２０
+クエスト用メダル２１
+Pietra verde acqua
+Pietra rosa
+Pietra focaia
+Pietra d’ambra
+Pietra del cibo
+Pietra del movimento
+Pietra fluttuante
+Magnetite
+Pietra cometa
+Meteorite
+クエスト用宝石１１
+クエスト用宝石１２
+クエスト用宝石１３
+クエスト用宝石１４
+クエスト用宝石１５
+クエスト用宝石１６
+クエスト用宝石１７
+クエスト用宝石１８
+クエスト用宝石１９
+クエスト用宝石２０
+クエスト用宝石２１
+Libro della speranza
+Libro dell’ambizione
+Libro della reticenza
+Libro dello stoicismo
+Libro della santità
+Libro del mistero
+Libro della purezza

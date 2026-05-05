@@ -1,0 +1,106 @@
+Vuoi dire che... l'hai dimenticata?{#Name="Zero"}
+Come posso dimenticare una persona che non ho mai incontrato?{#Name="Cent"}
+Sono abbastanza sicuro che ricorderei un nome ridicolo come "Two".{#Name="Cent"}
+Va bene, ragazzi. È ora di andare.{#Name="Zero"}
+Vuoi che vada a fare una pattuculo davanti, Zero?{#Name="Mikhail"}
+Si dice "pattuglia", idiota! Non "pattuculo"!{#Name="Zero"}
+È quello che ho detto! Ho detto proprio quello!{#Name="Mikhail"}
+Sai, continuo ad aspettare che diventi più intelligente,{LF}ma proprio non succede.{#Name="Dito"}
+Che ne dici, Cent? Vuoi aggiungere un po' di sarcasmo pungente{LF}alla situazione?{#Name="Dito"}
+...E dai. Dammi qualcosa. Qualsiasi cosa! {#Name="Dito"}
+Hmm? ...Cosa?{#Name="Cent"}
+Oh, quindi ADESSO decidi di comportarti normalmente?{LF}Pffft. Lascia perdere. Sei inutile.{#Name="Dito"}
+Io proprio... non riesco a smettere di pensare a questa Two...{#Name="Cent"}
+Il tempo non scorre sempre in un'unica direzione.{#Name="Accord"}
+Divergenza: Diramazione B{#Name="Accord"}
+Nel flusso della storia post-Cataclisma,{#Name="Accord"}
+se si riunisce una serie unica di condizioni note come "singolarità",{#Name="Accord"}
+nel tempo si verificano scissioni, dando origine al fenomeno della divergenza tra realtà.{#Name="Accord"}
+Ora è il 1º aprile dell'anno 1000 d.C.,{#Name="Accord"}
+28 giorni da quando la singolarità nota come Zero ha ripreso l'attività.{#Name="Accord"}
+La prima anomalia si è verificata quando Zero ha incontrato il vecchio noto come Octa...{#Name="Accord"}
+E la foresta in cui avrebbero dovuto entrare si è manifestata in una forma diversa...{#Name="Accord"}
+M3210_E0020_QV: Inizio registrazione{#Name="Accord"}
+ 
+Dito
+Decadus
+Zero
+Octa
+Cent
+ディト
+Mikhail
+Accord
+Procedere alla prossima missione?{#Name=" "}
+みんなで一つの場所に集まるデモ{#Name=" "}
+Quindi questa tipa, Three, è un'altra tua sorella?{#Name="Dito"}
+Purtroppo.{#Name="Zero"}
+Era così strana anche da giovane?{LF}O è una cosa nuova?{#Name="Dito"}
+Nessuna idea. Non è un mio problema.{#Name="Zero"}
+Wow. Ora mi fa quasi pena.{#Name="Dito"}
+Sai, ultimamente non ci siamo visti molto.{LF}Non ti... manco?{#Name="Dito"}
+......{#Name="Decadus"}
+Ehi?{#Name="Zero"}
+Oh! Mi scusi, mia Lady! Non volevo ignorarla.{#Name="Decadus"}
+Su cosa stavi fantasticando stavolta?{#Name="Zero"}
+N-Nulla, mia Lady. Stavo solo... pensando a Lady Four. {#Name="Decadus"}
+Oh? Ci tieni abbastanza da ricordarla, eh?{#Name="Zero"}
+Non si preoccupi, mia Lady. Il mio cuore appartiene solo a lei.{#Name="Decadus"}
+Si comportava in modo parecchio strano, eh?{#Name="Zero"}
+Immagino che vi riferiate a Lady Three?{#Name="Octa"}
+A essere sincero, non ne sono sicuro.{LF}È sempre stata un po' eccentrica.{#Name="Octa"}
+Anche se una cosa ha suscitato la mia curiosità...{#Name="Octa"}
+Cioè?{#Name="Zero"}
+Normalmente, il mio manganello dell'amore si alzerebbe{LF}sull'attenti alla vista di Lady Three.{#Name="Octa"}
+Ma quando l'ho contemplata questa volta, non si è mosso di un centimetro!{#Name="Octa"}
+Tanto di cappello a voi, Lady Zero,{LF}per aver domato una lussuria vorace come la mia!{#Name="Octa"}
+Sarebbe un complimento?{#Name="Zero"}
+In ogni caso, Lady Three ci ha lasciato{LF}parole piuttosto importanti, mmm?{#Name="Octa"}
+Sei terribilmente silenzioso. Che c'è?{#Name="Zero"}
+Two... C'è qualcosa in quel nome che mi turba.{#Name="Cent"}
+Spesso presto pochissima attenzione agli altri.{LF}Ma qualcosa in questa persona chiamata Two...{#Name="Cent"}
+È davvero un mistero così grande?{#Name="Zero"}
+Tu e Two dovreste lavorare insieme,{LF}dopotutto.{#Name="Zero"}
+Io? Two? Lavorare? Insieme?{#Name="Cent"}
+Lascia perdere. Ormai è una questione irrilevante, comunque.{#Name="Zero"}
+Two. Twoooooo...{#Name="Cent"}
+Vorrei proprio poter diventare più forte, Zero!{#Name="Mikhail"}
+Siamo in due.{#Name="Zero"}
+Pensi che un giorno mi crescerà un fiore nell'occhio?{LF}Eh? Lo pensi?{#Name="Mikhail"}
+Se ne avessi uno, potrei farlo spuntare e sbocciare,{LF}e poi boooooom!{#Name="Mikhail"}
+Questo fiore non è tutto rose e caramelle, sai.{#Name="Zero"}
+E non puoi semplicemente farlo "spuntare", oltretutto.{#Name="Zero"}
+Prima serve un'altra persona che paghi il prezzo—{#Name="Zero"}
+Ah, lascia perdere.{#Name="Zero"}
+E dai! Non puoi interromperti così!{#Name="Mikhail"}
+È crudele. Sei crudele, Zero!{#Name="Mikhail"}
+Voglio solo diventare un drago grande e forte!{LF}È tutto quello che voglio!{#Name="Mikhail"}
+E adesso che si fa?{#Name="Zero"}
+Penso che Three abbia ragione. One potrebbe nascondersi{LF}da qualche parte più in profondità nella foresta.{#Name="Mikhail"}
+Ugh. Sono stanco morto di camminare in questi stupidi boschi!{#Name="Dito"}
+Beh, tornare indietro richiede altrettanta strada,{LF}quindi tanto vale continuare.{#Name="Octa"}
+Octa dice il vero. Che One sia qui oppure no,{LF}dovremmo proseguire.{#Name="Decadus"}
+Va bene allora. Muovetevi. {#Name="Zero"}
+ 
+Dito
+Zero
+Decadus
+Octa
+Cent
+Mikhail
+初回会話{#Name="ディト"}
+ループ会話{#Name="ディト"}
+初回会話{#Name="デカート"}
+ループ会話{#Name="デカート"}
+初回会話{#Name="オクタ"}
+ループ会話{#Name="オクタ"}
+次のステージが最後である説明。{#Name="セント"}
+ループ会話{#Name="セント"}
+初回会話{#Name="ミハイル"}
+ループ会話{#Name="ミハイル"}
+次のミッションに移動しますか？{#Name=" "}
+みんなで一つの場所に集まるデモ{#Name=" "}
+ディト
+デカート
+オクタ
+セント
+ミハイル

@@ -1,0 +1,105 @@
+Good. Let's kill it and move on already!{#Name="Zero"}
+Finally... The Shrine of Sands.{#Name="Zero"}
+After decimating the enemy's base,{#Name="Accord"}
+Zero discovered documents pointing to the location of the Shrine of Sands.{#Name="Accord"}
+But the path that would take her there was{LF}a blistering hell that punished all trespassers...{#Name="Accord"}
+Stay in the shade to recover your strength!{#Name="Decadus"}
+暑すぎる！　クソ！　死ね！{#Name="ゼロ"}
+このクソみたいな魔法を出したクソには、{LF}クソみたいに死んでもらうからな……{#Name="ゼロ"}
+イチイチイチイチ面倒な事しやがって……{#Name="ゼロ"}
+またか……{#Name="ゼロ"}
+説明文
+（リザーブ）
+Zero
+Octa
+Dito
+Decadus
+デカート
+Accord
+ゼロ
+Friends! Welcome!{#Name="Cent"}
+......{#Name="Zero"}
+Two.{#Name="Zero"}
+......{#Name="Two"}
+Lady Two is a tad exhausted at the moment.{#Name="Cent"}
+I, uh... Heh heh heh. Well, what can I say?{#Name="Cent"}
+I guess my physical gifts speak for themselves.{#Name="Cent"}
+You know, I actually try to make sure she enjoys our little liaisons just as—{#Name="Cent"}
+TWO!{#Name="Zero"}
+Lady Two is lost in her dreams right now.{#Name="Cent"}
+Perhaps you could try not to interrupt.{#Name="Cent"}
+...Her mind's gone, isn't it.{#Name="Zero"}
+She wasn't fully developed.{#Name="Zero"}
+Her body couldn't handle the power of her song.{#Name="Zero"}
+Hand her over. I'll end her suffering.{#Name="Zero"}
+Yeeeah, I'm afraid I can't do that.{#Name="Cent"}
+Do you have any idea what you're doing?{#Name="Zero"}
+Well, of course I don't! Duh!{#Name="Cent"}
+I mean, look—I'm just some idiot old disciple, after all.{#Name="Cent"}
+It's pretty simple, really. All I do is put{LF}my nose to the grindstone and follow orders.{#Name="Cent"}
+Speaking of which, she kind of ordered me to kill you, sooo...{#Name="Cent"}
+You really are an idiot.{#Name="Zero"}
+{06}>{#Name="Zero"}
+All right, my lady. Open up and say "aaaaaah..."{#Name="Cent"}
+Aaaaaahh...{#Name="Two"}
+Yes! Perfect! Just like that—keep it up!{#Name="Cent"}
+Behold the second song:{#Name="Cent"}
+Great Fist of Antiquity!{#Name="Cent"}
+The blood-wind storms that slash through fate...{#Name="Cent"}
+The steely hand that has sworn allegiance...{#Name="Cent"}
+Cross the countless swarms of writhing dead!{#Name="Cent"}
+I, Cent, summon thee in my name...{#Name="Cent"}
+Egregori, dance!{#Name="Cent"}
+91{#Name="91"}
+{06}>{#Name="Mikhail"}
+{06}>{#Name="Mikhail"}
+Mich...ael...{#Name="Two"}
+{06}>{#Name="Zero"}
+{06}>{#Name="Mikhail"}
+{06}>{#Name="Mikhail"}
+{06}>{#Name="Mikhail"}
+You...You evolved...again.{#Name="Zero"}
+......{#Name="Zero"}
+Huh. I guess that's that.{#Name="Cent"}
+Welp! A clever and handsome man like me knows when he's beaten.{#Name="Cent"}
+I suppose from this point on...I'll be serving you, Lady Zero.{#Name="Cent"}
+You're not gonna follow Two to the grave?{#Name="Zero"}
+Heavens, no!{#Name="Cent"}
+I just want to serve an Intoner. I really don't care which one.{#Name="Cent"}
+After all...I'm just a big idiot, right?{#Name="Cent"}
+Enemy sighted! All men, take position!{#Name="Soldier A"}
+We must keep our beloved Lady Two safe!{#Name="Soldier B"}
+Don't retreat! Never retreat!{#Name="Soldier F"}
+It's Zero, the black swan of falsehoods!{#Name="Soldier C"}
+She'll rue the day she challenged Lady Two!{#Name="Soldier D"}
+Nooo! I'm scared! Get me off the front line!{#Name="Soldier G"}
+Hang in there! If we die, we die together!{#Name="Soldier E"}
+Hold your ground! We're Lady Two's last vanguard!{#Name="Soldier B"}
+Yeah! It's time to show her our invincible iron fist!{#Name="Soldier A"}
+Goddammit. He had to go and summon{LF}these gourd-head things.{#Name="Zero"}
+Oh? But Lady Two thinks they're much{LF}more useful than plain old gourds.{#Name="Cent"}
+Oh—trivia time! Do you know why some{LF}gourds are narrow in the middle?{#Name="Cent"}
+So they can rearrange their nutrients{LF}halfway down the fruit!{#Name="Cent"}
+It's SCIENCE! Wah-chaaa!{#Name="Cent"}
+Stop pretending you know what{LF}you're talking about, idiot!{#Name="Zero"}
+Idiot? Mmm, yeah. Rude.{#Name="Cent"}
+Now, I'm a kind-hearted man, so I'm{LF}usually willing to forgive such insults...{#Name="Cent"}
+But that was really uncalled for.{LF}Wasn't it, Lady Two?{#Name="Cent"}
+An idiot's an idiot.{#Name="Zero"}
+And Two lost her soul because she{LF}believed all the idiot crap you spouted.{#Name="Zero"}
+That makes her the biggest idiot of all. {#Name="Zero"}
+ENOUGH! You will STOP belittling{LF}my lady at ONCE!{#Name="Cent"}
+Fighting two of these at once is rough.{#Name="Zero"}
+Maybe we can all be friends instead!{#Name="Mikhail"}
+Doubt it.{#Name="Zero"}
+トウ様、おいたわしや……。あの様子では、まぐわいを楽しむどころではありませんな{#Name="オクタ"}
+かもね！{#Name="ゼロ"}
+ここは一つ、私めが新たな境地を切り拓いて見せましょうぞ{#Name="オクタ"}
+トウとヤるのは勝手だが、ヤる前にこいつらを倒していけよ{#Name="ゼロ"}
+あとちょっとですね、ゼロ！{#Name="ディト"}
+ああ。一気にいくぞ！！{#Name="ゼロ"}
+Good! CRUSH IT!{#Name="Zero"}
+ゼロ様、お見事！{#Name="オクタ"}
+お世辞を言ってるヒマがあったら、{LF}一体でも多く倒せ！{#Name="ゼロ"}
+It sure is dark in here, huh?{#Name="Mikhail"}
+Yep.{#Name="Zero"}

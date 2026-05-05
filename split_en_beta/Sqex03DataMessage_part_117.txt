@@ -1,0 +1,105 @@
+クエスト説明　２０１０＿１　　　　一行目{LF}クエスト説明　２０１０＿１　　　　二行目{LF}クエスト説明　２０１０＿１　　　　三行目
+クエスト説明　２０１０＿２　　　　一行目{LF}クエスト説明　２０１０＿２　　　　二行目{LF}クエスト説明　２０１０＿２　　　　三行目
+クエスト説明　２０２０＿１　　　　一行目{LF}クエスト説明　２０２０＿１　　　　二行目{LF}クエスト説明　２０２０＿１　　　　三行目
+People in the Land of Mountains use Flintstones{LF}to start fires. ...Beats matches, I suppose.{LF}Anyway, can you track down seven for me?
+Some locals from the Land of Mountains need{LF}eight Hawk Talons, which means I need you to{LF}find them for me. You'll have to use spears.
+There's a holy tome in the Land of Mountains{LF}called the Book of Reticence, and it's been split{LF}into nine volumes. Retrieve them for a reward.
+クエスト説明　２０３０＿１　　　　一行目{LF}クエスト説明　２０３０＿１　　　　二行目{LF}クエスト説明　２０３０＿１　　　　三行目
+クエスト説明　２０３０＿２　　　　一行目{LF}クエスト説明　２０３０＿２　　　　二行目{LF}クエスト説明　２０３０＿２　　　　三行目
+As thanks for all your help, here's a free tip:{LF}A little bird told me of a titan who's guarding{LF}a large amount of gold. Why not investigate?
+クエスト説明　２０４０＿２　　　　一行目{LF}クエスト説明　２０４０＿２　　　　二行目{LF}クエスト説明　２０４０＿２　　　　三行目
+クエスト説明　２０５０＿１　　　　一行目{LF}クエスト説明　２０５０＿１　　　　二行目{LF}クエスト説明　２０５０＿１　　　　三行目
+People in the Land of Mountains have been asking{LF}for Amberstones an awful lot lately. Could you{LF}venture into the cold and track down three for me?
+Looking for a nice reward? Well then, how about{LF}heading to the Land of Mountains and getting me{LF}three Eagle Talons? They're in demand right now.
+Ever heard of the Book of Stoicism? It's a sacred{LF}text from the Land of Mountains. There are three{LF}volumes in total, and, well, I need all three...
+クエスト説明　２０６０＿１　　　　一行目{LF}クエスト説明　２０６０＿１　　　　二行目{LF}クエスト説明　２０６０＿１　　　　三行目
+クエスト説明　２０６０＿２　　　　一行目{LF}クエスト説明　２０６０＿２　　　　二行目{LF}クエスト説明　２０６０＿２　　　　三行目
+クエスト説明　３０１０＿１　　　　一行目{LF}クエスト説明　３０１０＿１　　　　二行目{LF}クエスト説明　３０１０＿１　　　　三行目
+Movestones are traditional artifacts from the{LF}Land of Forests. Use your combat bracers to grab{LF}three of them and I'll give you something nice.
+I need three Viper Fangs. Folks in the Land of{LF}Forests view them as good-luck charms, and right{LF}now, they could really use some luck. Care to help?
+People in the Land of Forests have a sacred text {LF}called the Book of Mystery, but its three volumes{LF}have been lost. Can you find them for me?
+クエスト説明　３０２０＿１　　　　一行目{LF}クエスト説明　３０２０＿１　　　　二行目{LF}クエスト説明　３０２０＿１　　　　三行目
+クエスト説明　３０２０＿２　　　　一行目{LF}クエスト説明　３０２０＿２　　　　二行目{LF}クエスト説明　３０２０＿２　　　　三行目
+As thanks for all your help, here's a free tip:{LF}I hear there's a centaur watching over a big stash{LF}of gold. You know that gold could be yours, right?
+クエスト説明　３０３０＿２　　　　一行目{LF}クエスト説明　３０３０＿２　　　　二行目{LF}クエスト説明　３０３０＿２　　　　三行目
+クエスト説明　３０４０＿１　　　　一行目{LF}クエスト説明　３０４０＿１　　　　二行目{LF}クエスト説明　３０４０＿１　　　　三行目
+クエスト説明　３０４０＿２　　　　一行目{LF}クエスト説明　３０４０＿２　　　　二行目{LF}クエスト説明　３０４０＿２　　　　三行目
+クエスト説明　３０５０＿１　　　　一行目{LF}クエスト説明　３０５０＿１　　　　二行目{LF}クエスト説明　３０５０＿１　　　　三行目
+Foodstones are a big thing among foodies in the{LF}Land of Forests, and I need seven of them to sate{LF}a particularly hungry client's appetite. Would you?
+Toad Stingers are a secret cure-all in the Land of{LF}Forests, but you need to grab them with combat{LF}bracers to be safe. Can you bring back eight?
+Folks in the Land of Forests like to read volumes{LF}of a sacred tome called the Book of Sanctity. I'll{LF}reward you if you can bring back all nine texts.
+クエスト説明　３０６０＿１　　　　一行目{LF}クエスト説明　３０６０＿１　　　　二行目{LF}クエスト説明　３０６０＿１　　　　三行目
+クエスト説明　３０６０＿２　　　　一行目{LF}クエスト説明　３０６０＿２　　　　二行目{LF}クエスト説明　３０６０＿２　　　　三行目
+クエスト説明　４０１０＿１　　　　一行目{LF}クエスト説明　４０１０＿１　　　　二行目{LF}クエスト説明　４０１０＿１　　　　三行目
+The Land of Sands is home to a rare stone known{LF}as a Floatstone. I need seven of them, but you can{LF}only use chakrams. ...Why? Sorry, trade secret!
+Bone Fossils are fairly famous in the Land of{LF}Sands. I need you to go there and dig up eight{LF}of them for me. And yes—chakrams only, sorry.
+Citizens of the Land of Sands hold sacred a book{LF}known as the Book of Purity. It has nine volumes{LF}in all; bring me all nine for a nice reward.
+クエスト説明　４０２０＿１　　　　一行目{LF}クエスト説明　４０２０＿１　　　　二行目{LF}クエスト説明　４０２０＿１　　　　三行目
+People in the Land of Sands use Magnetite stones{LF}to build compasses. I sense an opportunity for{LF}profit here; could you bring back three of them?
+The Land of Sands is overrun with Plant Fossils,{LF}and I need you to bring me three of them for a{LF}project I'm working on. Stick to chakrams, okay?
+The Book of Innocence is a well-known tome in{LF}the Land of Sands. It has three parts in total;{LF}find them all and bring them back for a reward.
+As thanks for all your help, here's a free tip:{LF}Apparently, there's a golem in the desert hoarding{LF}a hefty sum of gold. Perhaps it's time to cash in?
+クエスト説明　４０３０＿２　　　　一行目{LF}クエスト説明　４０３０＿２　　　　二行目{LF}クエスト説明　４０３０＿２　　　　三行目
+クエスト説明　４０４０＿１　　　　一行目{LF}クエスト説明　４０４０＿１　　　　二行目{LF}クエスト説明　４０４０＿１　　　　三行目
+クエスト説明　４０４０＿２　　　　一行目{LF}クエスト説明　４０４０＿２　　　　二行目{LF}クエスト説明　４０４０＿２　　　　三行目
+クエスト説明　５０１０＿１　　　　一行目{LF}クエスト説明　５０１０＿１　　　　二行目{LF}クエスト説明　５０１０＿１　　　　三行目
+クエスト説明　５０１０＿２　　　　一行目{LF}クエスト説明　５０１０＿２　　　　二行目{LF}クエスト説明　５０１０＿２　　　　三行目
+クエスト説明　５０２０＿１　　　　一行目{LF}クエスト説明　５０２０＿１　　　　二行目{LF}クエスト説明　５０２０＿１　　　　三行目
+Meteorite stones are little bits of matter from{LF}other worlds. I hear there are some fine examples{LF}nearby; would you be a dear and grab three for me?
+Interesting. Shards of some treasures from the Old{LF}World have been discovered nearby. Think you can{LF}track down and bring back three of them for me?
+The Cathedral City is full of sacred texts, and{LF}the Book of Discipline is one such tome. There are{LF}three volumes in total; could you recover them?
+クエスト説明　５０３０＿１　　　　一行目{LF}クエスト説明　５０３０＿１　　　　二行目{LF}クエスト説明　５０３０＿１　　　　三行目
+No time to explain—I need Cometstones! Around{LF}seven or so should do. I can't say any more,{LF}but I CAN promise a reward for your trouble.
+Several artifacts from the Old World have been{LF}recently unearthed. I need you to locate and{LF}retrieve eight of them for me right away.
+The Book of Doctrine is a sacred text of the{LF}Cathedral City. It's been split into nine volumes;{LF}find them all for me and you'll be rewarded!
+As thanks for all your help, here's a free tip:{LF}Some BIG creatures are standing guard over some{LF}BIG piles of gold... Why not pay them a visit?
+クエスト説明　５０４０＿２　　　　一行目{LF}クエスト説明　５０４０＿２　　　　二行目{LF}クエスト説明　５０４０＿２　　　　三行目
+ストーリーあらすじ　ＤＬ５０１０　一行目{LF}ストーリーあらすじ　ＤＬ５０１０　二行目{LF}ストーリーあらすじ　ＤＬ５０１０　三行目{LF}ストーリーあらすじ　ＤＬ５０１０　四行目{LF}ストーリーあらすじ　ＤＬ５０１０　五行目
+ストーリーあらすじ　ＤＬ５０２０　一行目{LF}ストーリーあらすじ　ＤＬ５０２０　二行目{LF}ストーリーあらすじ　ＤＬ５０２０　三行目{LF}ストーリーあらすじ　ＤＬ５０２０　四行目{LF}ストーリーあらすじ　ＤＬ５０２０　五行目
+ストーリーあらすじ　ＤＬＣ５３０　一行目{LF}ストーリーあらすじ　ＤＬＣ５３０　二行目{LF}ストーリーあらすじ　ＤＬＣ５３０　三行目{LF}ストーリーあらすじ　ＤＬＣ５３０　四行目{LF}ストーリーあらすじ　ＤＬＣ５３０　五行目
+ストーリーあらすじ　ＤＬ５０４０　一行目{LF}ストーリーあらすじ　ＤＬ５０４０　二行目{LF}ストーリーあらすじ　ＤＬ５０４０　三行目{LF}ストーリーあらすじ　ＤＬ５０４０　四行目{LF}ストーリーあらすじ　ＤＬ５０４０　五行目
+ストーリーあらすじ　ＤＬ５０５０　一行目{LF}ストーリーあらすじ　ＤＬ５０５０　二行目{LF}ストーリーあらすじ　ＤＬ５０５０　三行目{LF}ストーリーあらすじ　ＤＬ５０５０　四行目{LF}ストーリーあらすじ　ＤＬ５０５０　五行目
+ストーリーあらすじ　ＤＬ４０１０　一行目{LF}ストーリーあらすじ　ＤＬ４０１０　二行目{LF}ストーリーあらすじ　ＤＬ４０１０　三行目{LF}ストーリーあらすじ　ＤＬ４０１０　四行目{LF}ストーリーあらすじ　ＤＬ４０１０　五行目
+ストーリーあらすじ　ＤＬ４０２０　一行目{LF}ストーリーあらすじ　ＤＬ４０２０　二行目{LF}ストーリーあらすじ　ＤＬ４０２０　三行目{LF}ストーリーあらすじ　ＤＬ４０２０　四行目{LF}ストーリーあらすじ　ＤＬ４０２０　五行目
+ストーリーあらすじ　ＤＬ４０３０　一行目{LF}ストーリーあらすじ　ＤＬ４０３０　二行目{LF}ストーリーあらすじ　ＤＬ４０３０　三行目{LF}ストーリーあらすじ　ＤＬ４０３０　四行目{LF}ストーリーあらすじ　ＤＬ４０３０　五行目
+ストーリーあらすじ　ＤＬ４０４０　一行目{LF}ストーリーあらすじ　ＤＬ４０４０　二行目{LF}ストーリーあらすじ　ＤＬ４０４０　三行目{LF}ストーリーあらすじ　ＤＬ４０４０　四行目{LF}ストーリーあらすじ　ＤＬ４０４０　五行目
+ストーリーあらすじ　ＤＬ４０５０　一行目{LF}ストーリーあらすじ　ＤＬ４０５０　二行目{LF}ストーリーあらすじ　ＤＬ４０５０　三行目{LF}ストーリーあらすじ　ＤＬ４０５０　四行目{LF}ストーリーあらすじ　ＤＬ４０５０　五行目
+ストーリーあらすじ　ＤＬ３０１０　一行目{LF}ストーリーあらすじ　ＤＬ３０１０　二行目{LF}ストーリーあらすじ　ＤＬ３０１０　三行目{LF}ストーリーあらすじ　ＤＬ３０１０　四行目{LF}ストーリーあらすじ　ＤＬ３０１０　五行目
+ストーリーあらすじ　ＤＬ３０２０　一行目{LF}ストーリーあらすじ　ＤＬ３０２０　二行目{LF}ストーリーあらすじ　ＤＬ３０２０　三行目{LF}ストーリーあらすじ　ＤＬ３０２０　四行目{LF}ストーリーあらすじ　ＤＬ３０２０　五行目
+ストーリーあらすじ　ＤＬ３０３０　一行目{LF}ストーリーあらすじ　ＤＬ３０３０　二行目{LF}ストーリーあらすじ　ＤＬ３０３０　三行目{LF}ストーリーあらすじ　ＤＬ３０３０　四行目{LF}ストーリーあらすじ　ＤＬ３０３０　五行目
+ストーリーあらすじ　ＤＬ３０４０　一行目{LF}ストーリーあらすじ　ＤＬ３０４０　二行目{LF}ストーリーあらすじ　ＤＬ３０４０　三行目{LF}ストーリーあらすじ　ＤＬ３０４０　四行目{LF}ストーリーあらすじ　ＤＬ３０４０　五行目
+ストーリーあらすじ　ＤＬ３０５０　一行目{LF}ストーリーあらすじ　ＤＬ３０５０　二行目{LF}ストーリーあらすじ　ＤＬ３０５０　三行目{LF}ストーリーあらすじ　ＤＬ３０５０　四行目{LF}ストーリーあらすじ　ＤＬ３０５０　五行目
+ストーリーあらすじ　ＤＬ２０１０　一行目{LF}ストーリーあらすじ　ＤＬ２０１０　二行目{LF}ストーリーあらすじ　ＤＬ２０１０　三行目{LF}ストーリーあらすじ　ＤＬ２０１０　四行目{LF}ストーリーあらすじ　ＤＬ２０１０　五行目
+ストーリーあらすじ　ＤＬ２０２０　一行目{LF}ストーリーあらすじ　ＤＬ２０２０　二行目{LF}ストーリーあらすじ　ＤＬ２０２０　三行目{LF}ストーリーあらすじ　ＤＬ２０２０　四行目{LF}ストーリーあらすじ　ＤＬ２０２０　五行目
+ストーリーあらすじ　ＤＬ２０３０　一行目{LF}ストーリーあらすじ　ＤＬ２０３０　二行目{LF}ストーリーあらすじ　ＤＬ２０３０　三行目{LF}ストーリーあらすじ　ＤＬ２０３０　四行目{LF}ストーリーあらすじ　ＤＬ２０３０　五行目
+ストーリーあらすじ　ＤＬ２０４０　一行目{LF}ストーリーあらすじ　ＤＬ２０４０　二行目{LF}ストーリーあらすじ　ＤＬ２０４０　三行目{LF}ストーリーあらすじ　ＤＬ２０４０　四行目{LF}ストーリーあらすじ　ＤＬ２０４０　五行目
+ストーリーあらすじ　ＤＬ２０５０　一行目{LF}ストーリーあらすじ　ＤＬ２０５０　二行目{LF}ストーリーあらすじ　ＤＬ２０５０　三行目{LF}ストーリーあらすじ　ＤＬ２０５０　四行目{LF}ストーリーあらすじ　ＤＬ２０５０　五行目
+ストーリーあらすじ　ＤＬ１０１０　一行目{LF}ストーリーあらすじ　ＤＬ１０１０　二行目{LF}ストーリーあらすじ　ＤＬ１０１０　三行目{LF}ストーリーあらすじ　ＤＬ１０１０　四行目{LF}ストーリーあらすじ　ＤＬ１０１０　五行目
+ストーリーあらすじ　ＤＬ１０２０　一行目{LF}ストーリーあらすじ　ＤＬ１０２０　二行目{LF}ストーリーあらすじ　ＤＬ１０２０　三行目{LF}ストーリーあらすじ　ＤＬ１０２０　四行目{LF}ストーリーあらすじ　ＤＬ１０２０　五行目
+ストーリーあらすじ　ＤＬ１０３０　一行目{LF}ストーリーあらすじ　ＤＬ１０３０　二行目{LF}ストーリーあらすじ　ＤＬ１０３０　三行目{LF}ストーリーあらすじ　ＤＬ１０３０　四行目{LF}ストーリーあらすじ　ＤＬ１０３０　五行目
+ストーリーあらすじ　ＤＬ１０４０　一行目{LF}ストーリーあらすじ　ＤＬ１０４０　二行目{LF}ストーリーあらすじ　ＤＬ１０４０　三行目{LF}ストーリーあらすじ　ＤＬ１０４０　四行目{LF}ストーリーあらすじ　ＤＬ１０４０　五行目
+ストーリーあらすじ　ＤＬ１０５０　一行目{LF}ストーリーあらすじ　ＤＬ１０５０　二行目{LF}ストーリーあらすじ　ＤＬ１０５０　三行目{LF}ストーリーあらすじ　ＤＬ１０５０　四行目{LF}ストーリーあらすじ　ＤＬ１０５０　五行目
+ストーリーあらすじ　ＤＬ００１０　一行目{LF}ストーリーあらすじ　ＤＬ００１０　二行目{LF}ストーリーあらすじ　ＤＬ００１０　三行目{LF}ストーリーあらすじ　ＤＬ００１０　四行目{LF}ストーリーあらすじ　ＤＬ００１０　五行目
+ストーリーあらすじ　ＤＬ００２０　一行目{LF}ストーリーあらすじ　ＤＬ００２０　二行目{LF}ストーリーあらすじ　ＤＬ００２０　三行目{LF}ストーリーあらすじ　ＤＬ００２０　四行目{LF}ストーリーあらすじ　ＤＬ００２０　五行目
+ストーリーあらすじ　ＤＬ００３０　一行目{LF}ストーリーあらすじ　ＤＬ００３０　二行目{LF}ストーリーあらすじ　ＤＬ００３０　三行目{LF}ストーリーあらすじ　ＤＬ００３０　四行目{LF}ストーリーあらすじ　ＤＬ００３０　五行目
+ストーリーあらすじ　ＤＬ００４０　一行目{LF}ストーリーあらすじ　ＤＬ００４０　二行目{LF}ストーリーあらすじ　ＤＬ００４０　三行目{LF}ストーリーあらすじ　ＤＬ００４０　四行目{LF}ストーリーあらすじ　ＤＬ００４０　五行目
+ストーリーあらすじ　ＤＬ００５０　一行目{LF}ストーリーあらすじ　ＤＬ００５０　二行目{LF}ストーリーあらすじ　ＤＬ００５０　三行目{LF}ストーリーあらすじ　ＤＬ００５０　四行目{LF}ストーリーあらすじ　ＤＬ００５０　五行目
+Cutscene → Game{LF}With sword in hand and her faithful{LF}dragon Michael at her side, Zero{LF}storms into the Cathedral City. Why{LF}is this pair taking on an army alone?
+Cutscene → Game{LF}Surrounded on all sides by towering foes,{LF}Michael decides to stay behind and fight{LF}in order to allow Zero to proceed.
+あらすじ第三項　００１０　一行目{LF}あらすじ第三項　００１０　二行目{LF}あらすじ第三項　００１０　三行目{LF}あらすじ第三項　００１０　四行目{LF}あらすじ第三項　００１０　五行目
+あらすじ第四項　００１０　一行目{LF}あらすじ第四項　００１０　二行目{LF}あらすじ第四項　００１０　三行目{LF}あらすじ第四項　００１０　四行目{LF}あらすじ第四項　００１０　五行目
+あらすじ第五項　００１０　一行目{LF}あらすじ第五項　００１０　二行目{LF}あらすじ第五項　００１０　三行目{LF}あらすじ第五項　００１０　四行目{LF}あらすじ第五項　００１０　五行目
+あらすじ第六項　００１０　一行目{LF}あらすじ第六項　００１０　二行目{LF}あらすじ第六項　００１０　三行目{LF}あらすじ第六項　００１０　四行目{LF}あらすじ第六項　００１０　五行目
+あらすじ第七項　００１０　一行目{LF}あらすじ第七項　００１０　二行目{LF}あらすじ第七項　００１０　三行目{LF}あらすじ第七項　００１０　四行目{LF}あらすじ第七項　００１０　五行目
+あらすじ第八項　００１０　一行目{LF}あらすじ第八項　００１０　二行目{LF}あらすじ第八項　００１０　三行目{LF}あらすじ第八項　００１０　四行目{LF}あらすじ第八項　００１０　五行目
+あらすじ第九項　００１０　一行目{LF}あらすじ第九項　００１０　二行目{LF}あらすじ第九項　００１０　三行目{LF}あらすじ第九項　００１０　四行目{LF}あらすじ第九項　００１０　五行目
+あらすじ第十項　００１０　一行目{LF}あらすじ第十項　００１０　二行目{LF}あらすじ第十項　００１０　三行目{LF}あらすじ第十項　００１０　四行目{LF}あらすじ第十項　００１０　五行目
+あらすじ第十一項　００１０　一行目{LF}あらすじ第十一項　００１０　二行目{LF}あらすじ第十一項　００１０　三行目{LF}あらすじ第十一項　００１０　四行目{LF}あらすじ第十一項　００１０　五行目
+Cutscene → Game{LF}The other Intoners, Zero's younger{LF}sisters, await her in the cathedral.{LF}All five of them are united in their{LF}drive to defeat Zero at any cost.
+Cutscene → Game{LF}Frustrated by Zero's resistance, One{LF}summons forth a massive daemon{LF}in the form of a hideous dragon.
+Cutscene{LF}One attempts to deal a mortal blow to{LF}Zero, but the wounded Intoner manages{LF}to flee before being annihilated.
+あらすじ第四項　００２０　一行目{LF}あらすじ第四項　００２０　二行目{LF}あらすじ第四項　００２０　三行目{LF}あらすじ第四項　００２０　四行目{LF}あらすじ第四項　００２０　五行目
+あらすじ第五項　００２０　一行目{LF}あらすじ第五項　００２０　二行目{LF}あらすじ第五項　００２０　三行目{LF}あらすじ第五項　００２０　四行目{LF}あらすじ第五項　００２０　五行目
+あらすじ第六項　００２０　一行目{LF}あらすじ第六項　００２０　二行目{LF}あらすじ第六項　００２０　三行目{LF}あらすじ第六項　００２０　四行目{LF}あらすじ第六項　００２０　五行目
+あらすじ第七項　００２０　一行目{LF}あらすじ第七項　００２０　二行目{LF}あらすじ第七項　００２０　三行目{LF}あらすじ第七項　００２０　四行目{LF}あらすじ第七項　００２０　五行目
+あらすじ第八項　００２０　一行目{LF}あらすじ第八項　００２０　二行目{LF}あらすじ第八項　００２０　三行目{LF}あらすじ第八項　００２０　四行目{LF}あらすじ第八項　００２０　五行目

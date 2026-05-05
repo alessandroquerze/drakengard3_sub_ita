@@ -1,0 +1,105 @@
+I'll try to make my palate better for you, okay?{#Name="Mikhail"}
+Huh?{#Name="Zero"}
+I've gotta try extra hard if I wanna{LF}be strong like Michael!{#Name="Mikhail"}
+Oh, right. Well, good luck with that.{#Name="Zero"}
+But, you know it's fine if you're{LF}not a gourmet, right?{#Name="Zero"}
+It is?{#Name="Mikhail"}
+Yeah. Then I can feed you any old slop I find{LF}lying around. That's way easier for me.{#Name="Zero"}
+Aw, come on! That's just humiliating!{#Name="Mikhail"}
+Huh. That's a pretty big word for you.{#Name="Zero"}
+We did it!{#Name="Mikhail"}
+Now we can go back! We can go back and see everyone again!{#Name="Mikhail"}
+Yeah. That's the last thing I need right now.{#Name="Zero"}
+Huh? Don't you want to see everyone? You must!{#Name="Mikhail"}
+No, actually. I don't.{#Name="Zero"}
+I really don't.{#Name="Zero"}
+This concludes the supplemental repairs made to recording M4510_E0900_FL.{#Name="Accord"}
+Please ensure that such mistakes do not occur again.{#Name="Accord"}
+With this, all conditions have now been met.{#Name="Accord"}
+Now all that remains...is Branch D.{#Name="Accord"}
+The final record of the singularity known as Zero.{#Name="Accord"}
+説明文
+（リザーブ）
+Soldier A
+Soldier B
+Soldier C
+兵士D
+Soldier E
+Soldier F
+Soldier G
+Soldier D
+兵士Ｄ
+兵士Ｃ
+Accord
+Zero
+Mikhail
+343
+Wow! This city's really fancy, huh?{#Name="Mikhail"}
+Look at all these buildings!{LF}They're tall! Really tall!{#Name="Mikhail"}
+Maybe so, but the city's still dead.{#Name="Zero"}
+And soon it'll be drenched in blood once more.{#Name="Zero"}
+Lady Zero?{#Name="Octa"}
+Yeah?{#Name="Zero"}
+How are things proceeding up there?{#Name="Octa"}
+You mean besides the million and{LF}one assholes trying to kill us?{#Name="Zero"}
+Ah, yes. We feel much the same{LF}down here on the ground.{#Name="Octa"}
+This is Lady One's personal guard.{#Name="Octa"}
+The fiercer they attack, the closer{LF}we must be to our goal.{#Name="Octa"}
+Good to know.{#Name="Zero"}
+One! Get over here! Let's settle this!{#Name="Zero"}
+Settle down. Such shouting doesn't become you,{LF}Sister. I can hear you fine.{#Name="One"}
+You transformed your dragon into a daemon.{#Name="Zero"}
+......{#Name="One"}
+Where's the disciple you used{LF}to summon that thing?{#Name="Zero"}
+...I have no disciple.{#Name="One"}
+What?{#Name="Zero"}
+Disciples are little more than tragic,{LF}pitiful tools.{#Name="One"}
+I have no need for such things.{#Name="One"}
+Heh. Same old One with her same old bullshit.{#Name="Zero"}
+325{#Name="325"}
+Controlling a dragon without a disciple?{LF}What kind of trick is that?{#Name="Zero"}
+Hey! It takes more than a trick{LF}to control a dragon!{#Name="Mikhail"}
+I bet One and her dragon are really close, too!{#Name="Mikhail"}
+Kinda like you and me, right, Zero?{LF}Best friends forever!{#Name="Mikhail"}
+Heh. What they're bound by isn't friendship.{#Name="Zero"}
+{06}>{#Name="Zero"}
+Nice.{#Name="Zero"}
+......{#Name="Zero"}
+Where the hell is One?{#Name="Zero"}
+That way! She took off into that flock of wyverns!{#Name="Mikhail"}
+Stupid wyverns! Buncha low-class,{LF}job-stealin' bastards!{#Name="Mikhail"}
+Lemme at 'em! I'll kill 'em all!{#Name="Mikhail"}
+This wyvern thing of yours is really weird.{#Name="Zero"}
+Ha ha ha ha! How's it goin' up there, Z?{#Name="Dito"}
+Buncha wyverns trying to kill me. How 'bout you?{#Name="Zero"}
+Fantastic, thanks! There's blood EVERYWHERE!{#Name="Dito"}
+It's even in my EYES! HA HA HA HA HA!{#Name="Dito"}
+Er... You know what? Good for you.{#Name="Zero"}
+Zero! We're almost at the heart of the city!{#Name="Mikhail"}
+Right. We'd better go by foot from here.{#Name="Zero"}
+Kill One.{#Name="目的文"}
+Defeat Gabriel!{#Name="説明文"}
+LD02:ダミー{#Name="説明文"}
+目標達成　LD00:ダミー{#Name="説明文"}
+目標達成　LD01:ダミー{#Name="説明文"}
+目標達成　LD02:ダミー{#Name="説明文"}
+Zero! My fireballs don't seem to be hurting him!{#Name="Mikhail"}
+His skin's too tough. We're gonna{LF}have to hit his weak point.{#Name="Zero"}
+Hey! We're comin' up on a dead-end!{#Name="Zero"}
+It's no good! We can't get away! We can't get away!{#Name="Mikhail"}
+To conquer the enemy stronghold in the Cathedral City,{#Name="Accord"}
+Zero's group decided to stage an attack from the air.{#Name="Accord"}
+But what they found waiting for them there...{#Name="Accord"}
+was none other than One herself. The final Intoner.{#Name="Accord"}
+Mikhail
+Zero
+Octa
+One
+325
+Dito
+目的文
+説明文
+Accord
+Make your way toward the Cathedral.{#Name="説明文"}
+Defeat the Lancers!{#Name="説明文"}
+Defeat the Titan!{#Name="説明文"}

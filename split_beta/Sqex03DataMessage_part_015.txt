@@ -1,0 +1,106 @@
+ 
+Accord
+Zero
+Michael
+ゼロ
+Procedere alla prossima missione?{#Name=" "}
+みんなで一つの場所に集まるデモ{#Name=" "}
+Hm? Oh, vuoi sapere di più su di me?{LF}Beh, sono esattamente ciò che sembro!{#Name="Cent"}
+Un magnifico, splendido esempio di uomo.{#Name="Cent"}
+Trovo che il mio bell'aspetto spesso metta a disagio la gente comune,{LF}ma che ci vuoi fare?{#Name="Cent"}
+Posso prenderlo a pugni? Tipo, in faccia?{#Name="Dito"}
+Oh, sì! A proposito di pugni... è l'ora della curiosità!{#Name="Cent"}
+Avete presente l'espressione "porgere l'altra guancia", sì?{#Name="Cent"}
+Beeene, non è solo un'espressione!{LF}Oh cielo, no.{#Name="Cent"}
+In realtà deriva da un antico testo medico su{LF}come regolare le linee della mandibola e le strutture ossee!{#Name="Cent"}
+Uh, davvero?{#Name="Dito"}
+Certo che no. Sta sparando stronzate.{#Name="Zero"}
+Dai, solo un pugno!{#Name="Dito"}
+Allora? Siamo pronti per la grande partenza?{#Name="Cent"}
+Hmm... Che strano. Non riesco a smettere di tremare.{#Name="Octa"}
+Che c'è? Nervoso?{#Name="Zero"}
+Per quanto sia vergognoso ammetterlo...{#Name="Octa"}
+Ma sa, my lady, i dottori dicono che una notte appassionata di{LF}incastri amorosi è la cura perfetta per simili mali! Mmm?{#Name="Octa"}
+Lascia perdere.{#Name="Zero"}
+Allora mi concederebbe tre giorni?{#Name="Octa"}
+Ho bisogno di 72 ore filate di piacere solitario prima{LF}di essere pronto al combattimento.{#Name="Octa"}
+No. Non se ne parla.{#Name="Zero"}
+Siamo pronti ad andare? Oh ho ho ho!{#Name="Octa"}
+Cavolo, questa banda sta sfuggendo di mano.{LF}Parlano tutti bla-bla-bla per tutto il dannato tempo.{#Name="Dito"}
+Io personalmente apprezzo la compagnia.{LF}La trovo... vivace.{#Name="Decadus"}
+Vivace? Serve solo a farci notare più facilmente{LF}da qualche mostro!{#Name="Dito"}
+Finché Lady Zero è al sicuro, nient'altro ha importanza.{#Name="Decadus"}
+Oh, ora ho capito. Vuoi solo dare a Zero{LF}qualche scudo di carne in più, eh?{#Name="Dito"}
+Più discepoli significa più gente da maltrattare per lei.{LF}È così, mostriciattolo?{#Name="Dito"}
+Le amicizie finte mi fanno schifo.{#Name="Dito"}
+Il nostro viaggio è davvero diventato lungo.{#Name="Decadus"}
+Ho sempre saputo che lo sarebbe stato.{#Name="Zero"}
+Naturalmente, my lady. Solo lei poteva prevedere simili cose.{#Name="Decadus"}
+Prego che stanotte possa godere di un sonno profondo e ristoratore.{#Name="Decadus"}
+Resterò al suo fianco e la proteggerò{LF}da qualunque cosa possa accadere.{#Name="Decadus"}
+Già. Farò del mio meglio.{#Name="Zero"}
+Sono ai suoi ordini, my lady.{LF}Farò qualunque cosa desideri.{#Name="Decadus"}
+È rimasta solo una sorella, eh, Zero?{#Name="Mikhail"}
+Finalmente siamo arrivati a One.{#Name="Zero"}
+Quindi immagino che ora la ucciderai, eh?{#Name="Mikhail"}
+Hai qualche problema?{#Name="Zero"}
+È solo che... ormai abbiamo ucciso un sacco di persone, sai?{#Name="Mikhail"}
+E allora?{#Name="Zero"}
+Beh, quando provo a dormire, a volte io...{LF}Riesco ancora a sentirli urlare.{#Name="Mikhail"}
+Tu, Zero? Tu li senti urlare?{#Name="Mikhail"}
+No.{#Name="Zero"}
+Wow, Zero. Sei davvero forte.{#Name="Mikhail"}
+Uccideremo ancora...{#Name="Mikhail"}
+Andiamo?{#Name="Zero"}
+Lady One è nella Cathedral City, protetta{LF}da una potente rete difensiva.{#Name="Octa"}
+Perciò, credo che un'invasione aerea sarebbe la nostra strategia migliore.{#Name="Octa"}
+Huh. Beh, almeno servi a qualcosa.{#Name="Zero"}
+Ma my lady, lei sa già che sono di grande utilità{LF}durante queste lunghe, buie notti!{#Name="Octa"}
+ははっ……{#Name="ゼロ"}
+Quindi... combattiamo di nuovo?{#Name="Mikhail"}
+Sì.{#Name="Zero"}
+Okay...{#Name="Mikhail"}
+Aggrappati a me, Zero.{#Name="Mikhail"}
+73{#Name="73"}
+451{#Name="451"}
+343{#Name="343"}
+271{#Name="271"}
+361{#Name="361"}
+163{#Name="163"}
+60{#Name="60"}
+109{#Name="109"}
+199{#Name="199"}
+Andiamo?{#Name="Zero"}
+Lady One è nella Cathedral City, protetta{LF}da una potente rete difensiva.{#Name="Octa"}
+Perciò, credo che un'invasione aerea sarebbe la nostra strategia migliore.{#Name="Octa"}
+Huh. Beh, almeno servi a qualcosa.{#Name="Zero"}
+Ma my lady, lei sa già che sono di grande utilità{LF}durante queste lunghe, buie notti!{#Name="Octa"}
+Heh.{#Name="Zero"}
+Quindi... combattiamo di nuovo?{#Name="Mikhail"}
+Sì.{#Name="Zero"}
+Okay...{#Name="Mikhail"}
+Aggrappati a me, Zero.{#Name="Mikhail"}
+ 
+Cent
+Dito
+Zero
+Octa
+Decadus
+Mikhail
+ゼロ
+73
+451
+343
+271
+361
+163
+60
+109
+199
+-
+2-colpi
+3-colpi
+4-colpi
+5-colpi
+6-colpi
+7-colpi

@@ -1,0 +1,105 @@
+This may not be the wisest course of action...{#Name="Octa"}
+Relax. I got this.{#Name="Zero"}
+Please reconsider, my lady.{LF}None would think lesser of you.{#Name="Decadus"}
+Enough already!{#Name="Zero"}
+I said I got this! What kind of an{LF}idiot do you take me for!?{#Name="Zero"}
+Watch and learn, chumps!{#Name="Zero"}
+...Don't say a word.{#Name="Zero"}
+Oh, I wasn't gonna.{#Name="Dito"}
+No "I told you so"...{LF}No "Look how stupid you are"...{#Name="Dito"}
+Nope! My lips are sealed.{#Name="Dito"}
+Your lips'll be torn off if you don't shut it.{#Name="Zero"}
+Finally! This is more my style.{#Name="Zero"}
+All that jumpin' around was driving me crazy.{#Name="Zero"}
+I'm a lot better at slashing people to death. {#Name="Zero"}
+なるほど、性に合ってますな。たしかに{#Name="オクタ"}
+The city is Lady Two's fortress!{LF}It must be protected at all costs!{#Name="Soldier B"}
+Hee hee hee hee hee! Lady Two... I see her!{#Name="Soldier G"}
+Snap out of it! You're hallucinating!{#Name="Soldier F"}
+The unclean must never be allowed{LF}to set foot in the Cathedral City!{#Name="Soldier A"}
+Indeed! How dare Zero put herself{LF}on equal footing with Lady Two!{#Name="Soldier E"}
+As long as Lady Two is there for me,{LF}I desire nothing else!{#Name="Soldier C"}
+Bow before Lady Two, false Intoner!{#Name="Soldier D"}
+Fight for Lady Two!{LF}Our leader is the savior of all mankind!{#Name="Soldier A"}
+You! Where's your equipment?{#Name="Soldier F"}
+Fear not! Lady Two is my sword!{LF}Lady Two is my shield!{#Name="Soldier G"}
+The winds of Lady Two shall blow{LF}like a righteous hurricane!{#Name="Soldier G"}
+These guys are fuckin' weird.{#Name="Zero"}
+You said it.{#Name="Cent"}
+'Course, who am I to talk? Look at you guys.{#Name="Zero"}
+Keep your equipment, men! Stay in formation!{#Name="Soldier B"}
+Man down! Man down over here!{#Name="Soldier C"}
+The moment of judgment is here!{LF}Lady Two sees and knows all!{#Name="Soldier E"}
+Look out! Wounded soldier here!{#Name="Soldier C"}
+Okay. This is a bit creepy.{#Name="Zero"}
+Yeah. They're turning into a bunch of fanatics.{#Name="Dito"}
+A person's belief system can often{LF}push them over the brink.{#Name="Octa"}
+These foes are quite stubborn, hmm?{LF}We must hurry.{#Name="Octa"}
+I wish I could burn these ruins{LF}and everyone in them.{#Name="Zero"}
+Oh ho ho! Always so impulsive...{#Name="Octa"}
+Still, I understand. You must be{LF}worried for your dragon.{#Name="Octa"}
+I am no such thing!{#Name="Zero"}
+ここにもオカシイ奴がいたか{#Name="ゼロ"}
+トウは居なかったな……{#Name=" "}
+Is that the path to the exit?{#Name="Zero"}
+I suppose that means Lady Two{LF}was never here at all.{#Name="Decadus"}
+Yet we've heard the soldiers speak{LF}of the Cathedral City many times.{#Name="Octa"}
+Cathedral City... That must be where One is.{#Name="Zero"}
+469{#Name="469"}
+577{#Name="577"}
+Then let's head to the Cathedral City.{#Name="Zero"}
+説明文
+（リザーブ）
+Soldier A
+Soldier F
+Soldier B
+Soldier C
+Soldier D
+Soldier E
+595
+Soldier G
+Zero
+Dito
+Decadus
+Cent
+Octa
+オクタ
+ゼロ
+ 
+469
+577
+Make your way through the desert ruins.{#Name="説明文"}
+Defeat the enemies blocking your way!{#Name="説明文"}
+Defeat the Ogre!{#Name="説明文"}
+Defeat the Flame Cerberus!{#Name="説明文"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+Lady Two is with us all!{#Name="Soldier A"}
+It's all right! Everything will be all right!{#Name="Soldier A"}
+Lady Two is the one true creator! Even if the world ends, we will survive! {#Name="Soldier B"}
+Indeed! Any world that resists Lady Two must be torn to shreds!{#Name="Soldier C"}
+N-No... NO! I don't want to die!{#Name="Soldier G"}
+You will not die, my child.{#Name="Soldier F"}
+You will be the foundation upon which Lady Two builds a better world!{#Name="Soldier F"}
+No! Spare me! Lemme go! Pleeeease!{#Name="Soldier G"}
+That's it... Keeeeeep smiling... It's almost over now...{#Name="Soldier F"}
+There she is! The putrid demon they call Zero!{#Name="Soldier E"}
+We offer ourselves to Lady Two!{#Name="Soldier D"}
+The offering must be made!{#Name="Soldier C"}
+Soon, very soon, all on this world shall be judged!{#Name="Soldier B"}
+What can I do for Lady Two?{#Name="Soldier C"}
+What should I be doing!? Somebody! Please, tell me!{#Name="Soldier C"}
+All hail Lady Two! All hail Lady Twoooo!{#Name="Soldier D"}
+Hail our Lady! Hail our Lady!{#Name="Soldier B"}
+The day of judgment is nigh! We shall rise and attain a higher dimension!{#Name="Soldier E"}
+Lady Two is the holy trinity! Mother, wife, and daughter of mankind!{#Name="Soldier F"}
+Pluck the rotten flower from the face of the false Intoner!{#Name="Soldier G"}
+That blossom is an affront to Lady Two!{#Name="Soldier G"}
+We have drunk from the cup of holy water! We are invincible!{#Name="Soldier A"}
+Yeahhh!{#Name="Soldier B"}
+Lady Two's holy water is within us!{#Name="Soldier F"}
+Lady Two is a spring of righteousness! Her divinity can conjure miracles!{#Name="Soldier F"}
