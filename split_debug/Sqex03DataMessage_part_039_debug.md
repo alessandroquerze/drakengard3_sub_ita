@@ -178,28 +178,28 @@ Zero
 `説明文`
 説明文
 
-`Soldier G`
+`Soldato G`
 Soldier G
 
-`Soldier A`
+`Soldato A`
 Soldier A
 
-`Soldier B`
+`Soldato B`
 Soldier B
 
-`Soldier E`
+`Soldato E`
 Soldier E
 
-`Soldier C`
+`Soldato C`
 Soldier C
 
-`Soldier D`
+`Soldato D`
 Soldier D
 
-`Soldier F`
+`Soldato F`
 Soldier F
 
-`Soldiers C/D`
+`Soldatos C/D`
 Soldiers C/D
 
 `兵士C`
@@ -238,10 +238,10 @@ Defeat the enemy soldiers!{#Name="説明文"}
 `Distruggi tutti i cannoni!{#Name="説明文"}`
 Destroy all the cannons!{#Name="説明文"}
 
-`Dirigiti al Shrine of Seas.{#Name="説明文"}`
+`Dirigiti al Santuario dei Mari.{#Name="説明文"}`
 Head for the Shrine of Seas.{#Name="説明文"}
 
-`Distruggi la Battleship!{#Name="説明文"}`
+`Distruggi la nave da battaglia!{#Name="説明文"}`
 Destroy the Battleship!{#Name="説明文"}
 
 `Stai bene, Zero?{#Name="Mikhail"}`

@@ -1,0 +1,106 @@
+Secondo te è il padrone di quel botolo di prima?{#Name="Dito"}
+Non lo so e non mi interessa.{#Name="Zero"}
+ま、どっちでもいいさ{#Name="ゼロ"}
+ま、どっちでもいいさ{#Name=" "}
+また出た！{#Name="ディト"}
+ああ。これは兄弟でも家族でもないな。本人だ。使い回しだ！{#Name="ゼロ"}
+ここまであからさまだと、むしろ楽しいかも{#Name="ディト"}
+やれやれ。ギガースに祟られたね{#Name="ディト"}
+ああ、もう一生分のギガースを見た気がする{#Name="ゼロ"}
+何？何？オバケでも出た？{#Name="ミハイル"}
+オバケより怖い体験をしたよ。ある意味{#Name="ディト"}
+Maledizione. Fa freddo.{#Name="Zero"}
+Ehi, avrei freddo anch'io se fossi vestito così...{#Name="Dito"}
+Non ne posso più. Qua, dammi i tuoi vestiti.{#Name="Zero"}
+Cosa? Perché!? Non ti starebbero nemmeno!{#Name="Dito"}
+Non li indosserò. Li farò bruciare a dummy{LF}per scaldarmi.{#Name="Zero"}
+Sei davvero un demone...{#Name="Dito"}
+ドラゴンは火を吐けるんだろ？{#Name="ディト"}
+うん{#Name="ミハイル"}
+だったら、体の中はいつも暖かいのか？{#Name="ディト"}
+え？どうだろう？えっと…体の中…中…暖かいかな？寒いかな？{#Name="ミハイル"}
+それだけ鈍感なら、どっちでもいいんじゃない？{#Name="ディト"}
+Sento la presenza di un'Intoner! Lassù, oltre quelle nuvole!{#Name="Mikhail"}
+Oh, dannazione. Il CIELO? Non ci avevo nemmeno pensato.{#Name="Zero"}
+Qui, sali!{#Name="Mikhail"}
+Ugh. Fa freddo e puzzi, ma immagino non ci sia scelta.{#Name="Zero"}
+Ehi! Fa male!{#Name="Mikhail"}
+È qui! Zero è arrivata!{#Name="Soldier A"}
+Ha un drago con sé!{#Name="Soldier B"}
+Non pensavo che sarebbe mai arrivata fin qui...{#Name="Soldier F"}
+Avvisate la retroguardia! SUBITO!{#Name="Soldier E"}
+Ah! Gyaaaaaa!{#Name="Soldier G"}
+Ehi! Muoviti, tu!{#Name="Soldier E"}
+Dannazione. Questo freddo è una condanna per queste vecchie ossa.{#Name="Soldier F"}
+Non è più facile per le mie, vecchio!{#Name="Soldier G"}
+Niente ritirata! Avanti! Avaaaanti!{#Name="Soldier B"}
+1ª Squadra Cannoni, avanti!{#Name="Soldier A"}
+Dannazione... Datemi una medicina! Vi prego!{#Name="Soldier E"}
+Sguainate le spade! Sguainate le spade!{#Name="Soldier F"}
+È una follia. Non sento più le dita dei piedi!{#Name="Soldier D"}
+Continuate a muovervi o vi verrà il congelamento!{#Name="Soldier C"}
+Signore! La 4ª squadriglia è tagliata fuori dal fronte da una valanga!{#Name="Soldier E"}
+Dannazione! Non abbiamo abbastanza soldati!{#Name="Soldier B"}
+Non lasciate che quel demone miserabile tocchi Lady Four!{#Name="Soldier A"}
+Ricevuto! La caricheremo tutti insieme!{#Name="Soldier C"}
+Sì, signore!{#Name="Soldier D"}
+Dove sono i nostri rinforzi!?{#Name="Soldier F"}
+Non vedo niente!{#Name="Soldier G"}
+È qui!?{#Name="Soldier E"}
+Che Lady Four sia benedetta! Haaarrrgh!{#Name="Soldier C"}
+Combatto per il bene di Lady Four!{#Name="Soldier D"}
+La prego, signore! Dobbiamo ripiegare!{#Name="Soldier E"}
+La maggior parte degli uomini ha le mani troppo congelate per impugnare le armi!{#Name="Soldier E"}
+Continuate a combattere! Ora è tutto o niente!{#Name="Soldier A"}
+Quel tipo è forte quanto Zero!{#Name="Soldier C"}
+Non è un "tipo". È un discepolo!{#Name="Soldier D"}
+Cosa!? Il demone ora ruba anche i discepoli!?{#Name="Soldier F"}
+"Il gioiello che porta il venerato ascende ai cieli dal{LF}Mt. Bernstein of the Vice Norden, lasciando dietro di sé un'ombra argentea."{#Name="Accord"}
+Seguendo il messaggio della pietra, Zero e compagnia si diressero{LF}verso il Mt. Bernstein of the Vice Norden.{#Name="Accord"}
+Pur portando il nome di una montagna, il Mt. Bernstein of the Vice Norden è in realtà{LF}una fortezza artificiale situata nella parte più profonda della catena montuosa.{#Name="Accord"}
+Poco entusiasti della lunghezza del nome{LF}"Mt. Bernstein of the Vice Norden,"{#Name="Accord"}
+il gruppo decise invece di chiamarlo "Mt. Whatever".{#Name="Accord"}
+Ugh...{#Name="Zero"}
+Qualcosa non va, Z?{#Name="Dito"}
+Non...sono una fan.{#Name="Zero"}
+Di cosa, delle altezze?{#Name="Dito"}
+No. Solo...di tutti questi stupidi salti di precisione.{#Name="Zero"}
+{06}>{#Name="Dito"}
+Stai camminando sul ghiaccio sottile, amico.{#Name="Zero"}
+Mi hai chiamato!?{#Name="Mikhail"}
+Ti ho chiamato.{#Name="Zero"}
+Ooh, mi hai chiamato! Mi hai chiamato!{#Name="Mikhail"}
+Fa' quello che devi fare.{#Name="Zero"}
+Okay!{#Name="Mikhail"}
+Non ci posso credere. ALTRI salti?{#Name="Zero"}
+Chi è lo stronzo che ha progettato questo posto, comunque?{#Name="Zero"}
+Resisti, Zero! Resisti!{#Name="Mikhail"}
+Calmati, vuoi?{#Name="Zero"}
+Ricevuto! Ci proverò il doppio, Zero!{#Name="Mikhail"}
+Questo Mt. Whatever è una specie di tana di mostri{LF}o cosa?{#Name="Zero"}
+In realtà non si chiama Mt. Whatever, sai.{LF}Ha un nome vero.{#Name="Dito"}
+Com'era, di nuovo?{#Name="Zero"}
+Uh... Mt. Ber...qualcosa.{#Name="Dito"}
+Bene. Lo chiameremo Mt. Bersomething. Contento?{#Name="Zero"}
+Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}
+テスト99{#Name="テスト"}
+テスト100{#Name="テスト"}
+テスト101{#Name="テスト"}
+テスト102{#Name="テスト"}
+テスト103{#Name="テスト"}
+テスト104{#Name="テスト"}
+テスト105{#Name="テスト"}
+テスト106{#Name="テスト"}
+テスト107{#Name="テスト"}
+説明文
+Zero
+Mikhail
+Dito
+ディト
+ゼロ
+307
+649
+ 
+ミハイル
+Soldier A
+Soldier B

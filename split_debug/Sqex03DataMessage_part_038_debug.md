@@ -97,25 +97,25 @@ Defeat the enemy soldiers!{#Name=" "}
 `Mikhail`
 Mikhail
 
-`Soldier B`
+`Soldato B`
 Soldier B
 
-`Soldier A`
+`Soldato A`
 Soldier A
 
-`Soldier G`
+`Soldato G`
 Soldier G
 
-`Soldier E`
+`Soldato E`
 Soldier E
 
-`Soldier C`
+`Soldato C`
 Soldier C
 
-`Soldier D`
+`Soldato D`
 Soldier D
 
-`Soldier F`
+`Soldato F`
 Soldier F
 
 `Zero`

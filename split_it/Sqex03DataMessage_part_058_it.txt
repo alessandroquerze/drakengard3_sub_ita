@@ -1,0 +1,106 @@
+Sembra una roccia.{#Name="Mikhail"}
+...Ci stanno attaccando con delle ROCCE?{#Name="Zero"}
+Visto? Te l'avevo detto che le wyvern erano stupide!{#Name="Mikhail"}
+Detto da te, ha davvero un certo peso...{#Name="Zero"}
+Zero! Verremo risucchiati!{#Name="Mikhail"}
+Stai calmo e guarda dove miri!{#Name="Zero"}
+Abbatti quella torre! Ti sta attirando!{#Name="Zero"}
+Sbrigati a distruggerla prima che{LF}ti risucchi del tutto!{#Name="Zero"}
+Il bersaglio è troppo piccolo! È difficile da colpire!{#Name="Mikhail"}
+Dannazione, Four. Potresti ESSERE più irritante?{#Name="Zero"}
+Urrrgh... Si muove troppo in fretta, non riesco a colpirlo!{#Name="Mikhail"}
+Sta' zitto e continua a sparare! Sta scappando!{#Name="Zero"}
+Non lasciarla scappare!{#Name="Zero"}
+Non va bene, Zero! Non possiamo batterlo!{LF}Non possiamo batterlo!{#Name="Mikhail"}
+クソッ。魔力が集まってる……{LF}さっさと倒さないとマズイぞっ！{#Name="ゼロ"}
+うああああっ！{#Name="ゼロ"}
+くそっ！フォウに逃げられる……！{#Name="ゼロ"}
+Distruggi la fortezza volante.{#Name="目的文"}
+テスト２００{#Name="テスト"}
+テスト２０１{#Name="テスト"}
+テスト２０２{#Name="テスト"}
+テスト２０３{#Name="テスト"}
+テスト２０４{#Name="テスト"}
+テスト２０５{#Name="テスト"}
+テスト２０６{#Name="テスト"}
+テスト２０７{#Name="テスト"}
+テスト２０８{#Name="テスト"}
+Mikhail
+Zero
+Dito
+ディト
+ゼロ
+Four
+説明文
+ミハイル
+予備
+Decadus
+フォウ
+目的文
+テスト
+Dirigiti verso la fortezza di Four.{#Name="説明文"}
+Sconfiggi i soldati nemici!{#Name="説明文"}
+Sconfiggi il golem!{#Name="説明文"}
+Sconfiggi il Signore dei titani!{#Name="説明文"}
+Sconfiggi i soldati nemici!{#Name="説明文"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+Tutti gli uomini, avanti! Caricaaaaa!{#Name="Soldier A"}
+Eccola che arriva!{#Name="Soldier B"}
+Possiamo fermarla?{#Name="Soldier C"}
+Voi tutti, circondatela!{#Name="Soldier D"}
+È qui! Copritemi!{#Name="Soldier E"}
+È l'Intoner maledetta! Scappate!{#Name="Soldier F"}
+Aaaaaahhh! Aiutoooooo!{#Name="Soldier G"}
+Sì! Laggiù! Uccidetela!{#Name="Soldier A"}
+Eeeeee...{#Name="Soldier G"}
+Codardo! Combatti o ti ammazzo io stesso!{#Name="Soldier C"}
+Andiamo! Seguitemi!{#Name="Soldier B"}
+La copro io, signore!{#Name="Soldier D"}
+Cristo! Guardate quel fiore!{#Name="Soldier C"}
+È un demone! Un demone, vi dico!{#Name="Soldier D"}
+Indietro! Indietroooo!{#Name="Soldier D"}
+No! Restate dove siete!{#Name="Soldier A"}
+Tengo alla mia vita più di così!{#Name="Soldier D"}
+Non sottovalutatela! È un'Intoner!{#Name="Soldier E"}
+Perché combatte contro di noi!? Pensavo che le Intoner dovessero proteggere l'umanità!{#Name="Soldier G"}
+待て！　間合いをはかれ！{#Name="兵士Ｆ"}
+手が足りないんだッ！　行くぞ！！{#Name="兵士Ｂ"}
+Aiuto! Qualcuno mi aiuti!{#Name="Soldier G"}
+Risparmia il fiato, soldato!{#Name="Soldier A"}
+Non rompete la formazione! Restate alle nostre spalle!{#Name="Soldier A"}
+Sissignore!{#Name="Soldier G"}
+Vieni qui!{#Name="Soldier C"}
+Dannato mostro!{#Name="Soldier D"}
+Abbiamo una vittima qui!{#Name="Soldier E"}
+Aaarrrrggghhh...{#Name="Soldier F"}
+Lady Four deve restare al sicuro!{#Name="Soldier A"}
+Non lascerò che quella sgualdrina la tocchi neanche con un dito!{#Name="Soldier B"}
+Proteggete Lady Four con la vostra vita!{#Name="Soldier C"}
+Non lasciate entrare Zero nella cittadella di Lady Four!{#Name="Soldier C"}
+La cittadella è più avanti, eh?{LF}Grazie delle indicazioni, idiota.{#Name="Zero"}
+Dannazione! Uccidete quella donna!{#Name="Soldier C"}
+Lady Four resta con noi!{#Name="Soldier F"}
+È sempre Four, Four, Four tutto il giorno{LF}con voi idioti, vero?{#Name="Zero"}
+Non posso credere che caschiate{LF}per quella sua aria tutta carina.{#Name="Zero"}
+Non osare macchiare Lady Four{LF}con quel tuo fiore marcio!{#Name="Soldier E"}
+Se sei così infatuato di Four,{LF}farò in modo che moriate insieme!{#Name="Zero"}
+Dito! Lady Zero ha bisogno di ulteriore supporto!{#Name="Decadus"}
+Non se ne parla!{#Name="Dito"}
+Oh ho ho! Incapace di dare il massimo, eh?{#Name="Octa"}
+A volte i vecchietti hanno quel{LF}problema con le loro banane virili!{#Name="Octa"}
+Gah! Sta' zitto, una buona volta!{#Name="Dito"}
+Se la tua banana virile è così tosta,{LF}perché non ci combatti, eh?{#Name="Dito"}
+Unnnnngh...{#Name="Decadus"}
+E tu! Fenomeno da baraccone! Smettila di immaginartelo!{#Name="Dito"}
+Sai... La resistenza è la chiave per{LF}sopravvivere a una battaglia come questa.{#Name="Cent"}
+Io, naturalmente, starò benissimo,{LF}con il mio corpo perfetto e tutto il resto...{#Name="Cent"}
+Per non parlare del mio aspetto irresistibile!{#Name="Cent"}
+Che diavolo c'entra l'aspetto con tutto questo?{#Name="Dito"}
+Con tutto questo? L'aspetto c'entra con TUTTO!{#Name="Cent"}
+Non prendertela con me solo perché sei brutto da far schifo.{#Name="Cent"}
+Cos'hai detto!?{#Name="Dito"}
+Lascia perdere, Dito! Concentrati sulla battaglia!{#Name="Decadus"}

@@ -4,7 +4,7 @@ There's gotta be a hint or something that can lead me there...{#Name="Zero"}
 `Il braccio che ho perso contro One...{#Name="Zero"}`
 The arm I lost to One...{#Name="Zero"}
 
-`Se è stato allora che si è verificata la diramazione, è già troppo tardi.{#Name="Zero"}`
+`Se è stato allora che si è verificata la Diramazione, è già troppo tardi.{#Name="Zero"}`
 If that's when the branch occurred, I'm already too late.{#Name="Zero"}
 
 `ワンへの借りは、返す{#Name="ゼロ"}`
@@ -55,7 +55,7 @@ April the 20th, 1000 A.D.{#Name="Accord"}
 `La Terra dei Mari.{#Name="Accord"}`
 The Land of Seas.{#Name="Accord"}
 
-`Allooora... se questa è la fine di questa diramazione, allora... Aspetta, cosa?{#Name="Accord"}`
+`Allooora... se questa è la fine di questa Diramazione, allora... Aspetta, cosa?{#Name="Accord"}`
 Sooo...if this is the end of this branch, then... Wait, what?{#Name="Accord"}
 
 `Oh, cielo, non avrò mica perso per sbaglio una registrazione, vero?{#Name="Accord"}`
@@ -64,7 +64,7 @@ Oh, gosh, I didn't lose a recording by accident, did I?{#Name="Accord"}
 `E che fine hanno fatto le diramazioni tra A e C?{#Name="Accord"}`
 And what happened to the branches between A and C?{#Name="Accord"}
 
-`Ugh. Se combino un disastro, finirò in un guaio enorme...{#Name="Accord"}`
+`Ugh. Se faccio un casino, finirò in un guaio e-nor-me...{#Name="Accord"}`
 Ugh. If I screw this up, I'm gonna be in sooo much trouble...{#Name="Accord"}
 
 `Okay, respira e basta.{LF}Tanto per cominciare, controlliamo la registrazione M1410_E0002_FL...{#Name="Accord"}`

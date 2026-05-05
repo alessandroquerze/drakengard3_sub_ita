@@ -229,7 +229,7 @@ No! You don't have the strength for this!{#Name="Zero"}
 `Questi fantocci non sono all’altezza di un drago!{#Name="Michael"}`
 These puppets are no match for a dragon!{#Name="Michael"}
 
-`Bene. Basta che tu non mi muoia addosso.{#Name="Zero"}`
+`Bene. Basta che tu non muoia ora.{#Name="Zero"}`
 Fine. Just don't die on me.{#Name="Zero"}
 
 `Addio, sciocca...{#Name="Michael"}`

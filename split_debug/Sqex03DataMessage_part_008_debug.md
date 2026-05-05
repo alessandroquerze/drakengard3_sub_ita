@@ -43,10 +43,10 @@ Decadus
 ` `
  
 
-`Soldier A`
+`Soldato A`
 Soldier A
 
-`Soldier B`
+`Soldato B`
 Soldier B
 
 `Accord`

@@ -217,10 +217,10 @@ Old Man
 `Zero`
 Zero
 
-`Soldier A`
+`Soldato A`
 Soldier A
 
-`Soldier C`
+`Soldato C`
 Soldier C
 
 `ゼロ`
@@ -232,19 +232,19 @@ Michael
 `343`
 343
 
-`Soldier F`
+`Soldato F`
 Soldier F
 
-`Soldier B`
+`Soldato B`
 Soldier B
 
-`Soldier E`
+`Soldato E`
 Soldier E
 
-`Soldier D`
+`Soldato D`
 Soldier D
 
-`Soldier G`
+`Soldato G`
 Soldier G
 
 ` `

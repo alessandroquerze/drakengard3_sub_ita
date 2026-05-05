@@ -148,7 +148,7 @@ Well, good then.{#Name="Zero"}
 `Abbi cura di te.{#Name="Accord"}`
 Do take care of yourself.{#Name="Accord"}
 
-`Questa diramazione in cui ti trovi è gravemente danneggiata, e il mondo{LF}diventerà solo più caotico man mano che andrai avanti.{#Name="Accord"}`
+`Questa Diramazione in cui ti trovi è gravemente danneggiata, e il mondo{LF}diventerà solo più caotico man mano che andrai avanti.{#Name="Accord"}`
 This branch you're in is heavily damaged, and the world{LF}will only grow more chaotic as you proceed.{#Name="Accord"}
 
 `Grazie per il... consiglio.{#Name="Zero"}`

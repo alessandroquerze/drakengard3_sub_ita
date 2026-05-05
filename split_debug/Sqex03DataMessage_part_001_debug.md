@@ -169,7 +169,7 @@ You haven't satisfied the conditions required to choose this mission.
 `未読です`
 未読です
 
-`Devi raccogliere tutte le armi prima di poter scegliere questa diramazione.{LF}La tua percentuale attuale di completamento armi è {04}`
+`Devi raccogliere tutte le armi prima di poter scegliere questa Diramazione.{LF}La tua percentuale attuale di completamento armi è {04}`
 You need to collect every weapon before you can choose this branch.{LF}Your current weapon completion percentage is {04}
 
 `現在の武器収集率は{04}`
