@@ -13,19 +13,19 @@ An annoyingly beautiful man who{LF}has supreme confidence in himself,{LF}but bet
 `Il fratellino di One, creato{LF}dall'Intoner stessa come carta{LF}vincente contro Zero. Adora e{LF}idolatra sua sorella.{#Name="One's Brother (Chakrams)"}`
 One's younger brother, created by{LF}the Intoner herself as her trump{LF}card against Zero. He adores and{LF}idolizes his sister.{#Name="One's Brother (Chakrams)"}
 
-`Dito (Spears)`
+`Dito (Lance)`
 Dito (Spears)
 
-`Decadus (Combat Bracers)`
+`Decadus (Bracciali da combattimento)`
 Decadus (Combat Bracers)
 
-`Octa (Chakrams)`
+`Octa (Chakram)`
 Octa (Chakrams)
 
-`Cent (Swords)`
+`Cent (Spade)`
 Cent (Swords)
 
-`One's Brother (Chakrams)`
+`Fratello di One (Chakram)`
 One's Brother (Chakrams)
 
 `クエストスフィア残り {04}`

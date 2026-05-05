@@ -1,0 +1,106 @@
+Five è in qualche modo come te, Zero?{#Name="Mikhail"}
+No.{#Name="Zero"}
+Le parlerò.{LF}Forse così non dovrete combattere.{#Name="Mikhail"}
+Fa' come vuoi.{#Name="Zero"}
+Perché se non è per niente come te, forse{LF}mi ascolterà davvero!{#Name="Mikhail"}
+Questo atteggiamento ottimista finirà per farti ammazzare.{#Name="Zero"}
+Che diavolo? Quello è un negozio?{#Name="Zero"}
+Armi...{#Name="Zero"}
+Eheh. Vendita per corrispondenza, eh? Beh, va bene lo stesso.{#Name="Zero"}
+Il cancello è aperto!{#Name="Mikhail"}
+Andiamo al santuario.{#Name="Zero"}
+Vendicati delle tue sorelle.{#Name="説明文"}
+Sconfiggi i soldati nemici!{#Name="説明文"}
+Questa è la storia di sei sorelle{#Name="アコール"}
+in un mondo protetto dal potere del canto:{#Name="アコール"}
+The Land of Seas...{#Name="アコール"}
+The Land of Mountains...{#Name="アコール"}
+The Land of Forests...{#Name="アコール"}
+The Land of Sands...{#Name="アコール"}
+E... Cathedral City.{#Name="アコール"}
+Ma una di queste sorelle cerca di portare il mondo alla rovina,{#Name="アコール"}
+e non si fermerà finché tutte le altre non saranno morte.{#Name="アコール"}
+L'Intoner traditrice si chiama Zero...{#Name="アコール"}
+Ed è fuggita nella Land of Seas, dove guarisce... e aspetta.{#Name="アコール"}
+{06}>{#Name="Mikhail"}
+{06}>{#Name="Mikhail"}
+PIANTALAAAAAAAAAA!{#Name="Zero"}
+{06}>{#Name="Mikhail"}
+Quante volte te l'ho detto...{LF}NON ROTOLARTI NEL FOTTUTO FANGO!{#Name="Zero"}
+Vendicati delle tue sorelle.{#Name=" "}
+Sconfiggi i soldati nemici!{#Name=" "}
+ダミー
+Mikhail
+Soldier B
+Soldier A
+Soldier G
+Soldier E
+Soldier C
+Soldier D
+Soldier F
+Zero
+ゼロ
+199
+325
+469
+361
+73
+60
+289
+379
+235
+説明文
+アコール
+ 
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+Che diavolo è quello?{#Name="Zero"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+Dirigiti verso lo Shrine of Seas.{#Name="説明文"}
+Sconfiggi i soldati nemici!{#Name="説明文"}
+Sconfiggi i soldati nemici!{#Name="説明文"}
+Sconfiggi il Gigas!{#Name="説明文"}
+敵残り 4 体！{#Name="説明文"}
+Ah! Aaaah! Mi prenderà!{#Name="Soldier G"}
+Tenete la posizione!{#Name="Soldier A"}
+Non le permetteremo di mettere un dito su Lady Five!{#Name="Soldier B"}
+Io vorrei mettere qualcos'altro su Lady Five...{#Name="Soldier E"}
+Che diavolo? L'orbita di un occhio non è posto per farci crescere un fiore!{#Name="Soldier C"}
+Punti per l'originalità, almeno...{#Name="Soldier D"}
+ダミー{#Name="ダミー"}
+Ti farò a pezzi!{#Name="Soldier B"}
+Dunque la guerra è arrivata nella Land of Seas...{#Name="Soldier F"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+(Respiri nel panico, terrorizzati){#Name="Soldier G"}
+Cerca di non pisciarti addosso, ragazzo!{#Name="Soldier B"}
+Se combattiamo con coraggio, potremmo ottenere un'udienza con Lady Five!{#Name="Soldier C"}
+Oh! E allora potremo vedere quelle sue gambe stupende!{#Name="Soldier D"}
+Caricaaaaaaaa!{#Name="Soldiers C/D"}
+Sta cercando la nostra Intoner! Fermatela, a qualunque costo!{#Name="Soldier A"}
+Dove diavolo sono i rinforzi!?{#Name="Soldier E"}
+Il d-drago... Il drago è...{#Name="Soldier G"}
+Pensavo che ai draghi non importasse nulla delle persone! Che succede!?{#Name="Soldier C"}
+ {#Name="兵士C"}
+In qualche modo riesce a controllare quel drago...{#Name="Soldier C"}
+Tieni alta la spada, idiota! Vuoi morire?{#Name="Soldier E"}
+N-Non ci riesco! Ho paura!{#Name="Soldier G"}
+Pensi che a noi altri questa cosa PIACCIA!?{#Name="Soldier E"}
+Dov'è Lady Five!?{#Name="Soldier B"}
+È con Dito! È al sicuro!{#Name="Soldier A"}
+Bah! Perché spreca tempo con quel ragazzino patetico?{#Name="Soldier B"}
+Le nostre vite sono un sacrificio alla nostra potente Intoner!{#Name="Soldier A"}
+Raaaaaagh!{#Name="Soldier B"}
+Solo una volta... prima di morire... avrei voluto stare con Lady Five...{#Name="Soldier B"}
+Maledetta Zero!{#Name="Soldier C"}
+Non riusciamo a trattenerla! Ci serve supporto!{#Name="Soldier D"}

@@ -1,0 +1,106 @@
+Vuoi stare zitta e{LF}morire una buona volta?{#Name="Zero"}
+{06}>{#Name="Three"}
+Ti prego, sorella!{LF}Ripensa alle tue azioni!{#Name="Four"}
+La vera Zero non farebbe mai{LF}una cosa del genere!{#Name="Four"}
+Siamo una famiglia! Qualunque cosa ti tormenti,{LF}ti aiuterò come posso! {#Name="Four"}
+Mi aiuterai, eh?{#Name="Zero"}
+Beh, suppongo che ci sia UNA{LF}cosa che puoi fare per me...{#Name="Zero"}
+Puoi raggomitolarti e MORIRE!{#Name="Zero"}
+Davvero stai per farti massacrare{LF}dalle tue stesse sorelle, Zero?{#Name="Five"}
+Come vuoi. Smettila di fissarmi così.{#Name="Zero"}
+Adoro proprio chi non sa perdere...{#Name="Five"}
+Ugh. Mi vengono dei mal di testa tremendi{LF}ad ascoltarti.{#Name="Zero"}
+Poverina. Mi piacerebbe lasciarti riposare{LF}la testa sul mio magnifico seno...{#Name="Five"}
+Ma sembra che il destino ci abbia riservato{LF}invece uno scontro.{#Name="Five"}
+Il fato può essere una padrona davvero crudele...{#Name="Five"}
+Cosa vuoi da noi, Zero?{#Name="One"}
+Secondo te?{#Name="Zero"}
+In questo mondo c'è spazio solo{LF}per una Intoner.{#Name="Zero"}
+E uccideresti le tue stesse sorelle{LF}per questo diritto?{#Name="One"}
+È più o meno quello che sto facendo, sì.{#Name="Zero"}
+...Traditrice.{#Name="One"}
+Gabriel!{#Name="One"}
+Heh. Guarda un po' chi ha deciso di evocare un demone.{#Name="Zero"}
+Quello che hai lì non è più un drago, One.{#Name="Zero"}
+È solo un mostro!{#Name="Zero"}
+Taci! Non spetta a te giudicarmi, sorella!{#Name="One"}
+Noi Intoner abbiamo giurato di mantenere l'equilibrio del mondo.{#Name="One"}
+E ora vuoi tutto il nostro potere per te?{LF}È vergognoso!{#Name="One"}
+Bla bla bla bla. Taci e MUORI UNA BUONA VOLTA!{#Name="Zero"}
+{06}>{#Name="Zero"}
+{06}>{#Name="Zero"}
+Finiscila.{#Name="One"}
+T-Tu...{#Name="Zero"}
+{06}>{#Name="Zero"}
+MORIRAI!{#Name="Zero"}
+Zero!{#Name="Michael"}
+Fuuuuoco!{#Name="Zero"}
+One!{#Name="Four"}
+Come può avere ancora tanta forza...{#Name="One"}
+{06}>{#Name="Michael"}
+{06}>{#Name="Zero"}
+È fuggita.{#Name="One"}
+Pensavi davvero di poter uccidere le Intoner?{#Name="One"}
+Sciocca ragazza.{#Name="One"}
+{06}>{#Name="One"}
+Ora... Cantiamo la fine del mondo.{#Name="One"}
+Uccidi le tue sorelle.{#Name="説明文"}
+Oh, è proprio la fine, questo è certo...{#Name="Zero"}
+Sconfiggi Gabriel!{#Name="説明文"}
+One
+Zero
+Two
+Three
+Four
+Five
+ファイブ
+Michael
+説明文
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+Mi dispiaceeeeeee!{#Name="Mikhail"}
+Non succederà... Non succederà più...{#Name="Mikhail"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+ダミー{#Name="ダミー"}
+Ma che...!?{#Name="Soldier B"}
+È lei! Quella Intoner impazzita è venuta a ucciderci!{#Name="Soldier A"}
+Gyaaaah!{#Name="Soldier G"}
+Calma. Anche lei è una Intoner!{#Name="Soldier E"}
+M-Ma non è per niente come Lady Five... È terrificante!{#Name="Soldier G"}
+Merda... Quel drago si dirige verso la corazzata!{#Name="Soldier C"}
+Beh, fissarlo non servirà a niente!{#Name="Soldier B"}
+Quel drago vi sembra... piccolo?{#Name="Soldier D"}
+Direi solo un cucciolo.{#Name="Soldier C"}
+Ma non trattenetevi. È comunque letale!{#Name="Soldier C"}
+ダミー{#Name="ダミー"}
+La Intoner insanguinata è una visione maledetta.{#Name="Soldier F"}
+Ben diversa da Lady Five e dalla sua splendida aura dorata...{#Name="Soldier E"}
+Dannazione. Ci serve un nuovo piano, e in fretta!{#Name="Soldier A"}
+Ve l'ho detto, non abbiamo speranze contro una Intoner!{#Name="Soldier E"}
+È una punizione divina? Abbiamo peccato in qualche modo?{#Name="Soldier F"}
+Non dire sciocchezze! La nostra Lady Five è dalla parte della benevolenza!{#Name="Soldier B"}
+Questa ferita... non è niente... Finché riuscirò a tenere... Lady Five al sicuro...{#Name="Soldier B"}
+Non farti ammazzare per questo. Lady Five ha ancora Dito, ricordi?{#Name="Soldier E"}
+Pfft. Quel piccolo sadico idiota?{#Name="Soldier B"}
+È Zero! Tutta la fanteria al fronte!{#Name="Soldier D"}
+Una donna sola contro un esercito... Deve essere pazza!{#Name="Soldier G"}
+Basta con questi discorsi!{#Name="Soldier D"}
+Abbiamo perdite!{#Name="Soldier E"}
+Medico! Ci serve subito un medico!{#Name="Soldier B"}
+Credo... che questa possa essere la fine...{#Name="Soldier A"}
+Morire per Lady Five significa morire nella gloria!{#Name="Soldier F"}

@@ -1,0 +1,106 @@
+Two
+One
+One's Brother
+Accord
+Phanuel
+Armaros
+Armisael
+Egregori
+Gabriel
+Raphael
+Abdiel
+Zophiel
+Galgaliel
+Ezrael
+Cambia abiti/musica
+Zero
+Mikhail
+Musica
+Cambia l'abito di Zero.
+Cambia l'aspetto di Mikhail.
+Cambia la musica riprodotta durante la battaglia.
+Riproduci
+Acquista contenuti
+Connettiti a PlayStation®Store per acquistare contenuti scaricabili.
+Questo terminerà la partita attuale. Sei sicuro?
+Zero
+Mikhail
+Musica
+Devi terminare la partita prima di connetterti a PlayStation®Store.{LF}Vuoi salvare i progressi attuali?
+Connettersi a PlayStation®Store senza salvare?{LF}Tutti i progressi non salvati andranno persi.
+Interrompi
+Devi accedere con il tuo account Sony Entertainment Network per usare questa opzione.
+Le impostazioni del filtro famiglia del tuo account Sony Entertainment Network ti impediscono di usare i servizi online.
+Voce
+Lingua
+Giapponese
+Inglese
+Cambia le voci usate nel gioco principale.
+Cambio voci in corso...
+Predefinito
+-
+-
+-
+-
+-
+-
+-
+-
+-
+曲名１１
+曲名１２
+曲名１３
+曲名１４
+曲名１５
+曲名１６
+曲名１７
+曲名１８
+曲名１９
+曲名２０
+Mikhail nel suo aspetto abituale.{#Name="Plain Old Mikhail"}
+-{#Name="モデル２"}
+-{#Name="モデル３"}
+-{#Name="モデル４"}
+モデルの説明が入ります{#Name="モデル５"}
+モデルの説明が入ります{#Name="モデル６"}
+モデルの説明が入ります{#Name="モデル７"}
+モデルの説明が入ります{#Name="モデル８"}
+モデルの説明が入ります{#Name="モデル９"}
+モデルの説明が入ります{#Name="モデル１０"}
+モデルの説明が入ります{#Name="モデル１１"}
+モデルの説明が入ります{#Name="モデル１２"}
+モデルの説明が入ります{#Name="モデル１３"}
+モデルの説明が入ります{#Name="モデル１４"}
+モデルの説明が入ります{#Name="モデル１５"}
+Il solito Mikhail
+モデル２
+モデル３
+モデル４
+モデル５
+モデル６
+モデル７
+モデル８
+モデル９
+モデル１０
+モデル１１
+モデル１２
+モデル１３
+モデル１４
+モデル１５
+L'abito standard di Zero.{#Name="Standard Garb"}
+衣装の説明が入ります{#Name="欠番"}
+Un abito macchiato del colore del sangue.{LF}Riempie automaticamente la Barra del Sangue.{#Name="Bloodstained Garb"}
+-{#Name="衣装４"}
+-{#Name="衣装５"}
+-{#Name="衣装６"}
+-{#Name="衣装７"}
+-{#Name="衣装８"}
+-{#Name="衣装９"}
+-{#Name="衣装１０"}
+-{#Name="衣装１１"}
+-{#Name="衣装１２"}
+-{#Name="衣装１３"}
+衣装の説明が入ります{#Name="予備"}
+衣装の説明が入ります{#Name="予備"}
+Abito standard
+欠番

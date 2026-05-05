@@ -1,0 +1,106 @@
+籠手１４－２
+籠手１４－３
+籠手１５－１
+籠手１５－２
+籠手１５－３
+籠手１６－１
+籠手１６－２
+籠手１６－３
+籠手１７－１
+籠手１７－２
+籠手１７－３
+籠手１８－１
+籠手１８－２
+籠手１８－３
+籠手１９－１
+籠手１９－２
+籠手１９－３
+籠手２０－１
+籠手２０－２
+籠手２０－３
+籠手２１－１
+籠手２１－２
+籠手２１－３
+籠手２２－１
+籠手２２－２
+籠手２２－３
+Compra oggetti
+Cambia armi
+Scegli discepoli
+Cambia abiti/musica
+Impostazioni
+Salva
+Continua campagna
+Inizia missione
+Oro
+G
+Compra armi
+Potenzia armi
+Oggetti
+Spade
+Lance
+Bracciali da combattimento
+Chakram
+Acquistare?
+Costo: {04}
+Non hai abbastanza oro.
+{04}
+Quanti ne vuoi?
+Non puoi portarne altri.
+Potenzia {04}
+{04}
+Non hai il materiale base richiesto.
+Lv. {04}
+Potenza:
+Dimensione:
+Spada leggera CONFIRMED NOT USED 1126
+Spada media CONFIRMED NOT USED 1126
+Spada pesante CONFIRMED NOT USED 1126
+Spada lunga CONFIRMED NOT USED 1126
+Lancia leggera CONFIRMED NOT USED 1126
+Lancia media CONFIRMED NOT USED 1126
+Lancia pesante CONFIRMED NOT USED 1126
+Lancia lunga CONFIRMED NOT USED 1126
+Chakram leggero CONFIRMED NOT USED 1126
+Chakram medio CONFIRMED NOT USED 1126
+Chakram pesante CONFIRMED NOT USED 1126
+Chakram lungo CONFIRMED NOT USED 1126
+Bracciali da combattimento leggeri CONFIRMED NOT USED 1126
+Bracciali da combattimento medi CONFIRMED NOT USED 1126
+Bracciali da combattimento pesanti CONFIRMED NOT USED 1126
+Bracciali da combattimento lunghi CONFIRMED NOT USED 1126
+Salvare i progressi?
+Salvataggio in corso...{LF}Non spegnere il sistema PlayStation®3.
+Progressi salvati.
+Abilità: {04}
+Scegli due discepoli da portare con te in questa missione.
+Iniziare la missione?
+Acquista oggetti e potenzia armi.
+Scegli quali armi equipaggiare.
+Scegli quali discepoli portare con te nelle missioni.
+Cambia l'abito di Zero, l'aspetto di Mikhail o la musica di sottofondo.
+Modifica varie impostazioni di gioco.
+Salva i progressi di gioco attuali.
+Termina i preparativi di battaglia e inizia la missione.
+--- 
+Acquista oggetti.
+Acquista armi.
+Potenzia le armi in tuo possesso.
+Non hai quest'arma.
+Non hai altre armi.
+Acquista oggetti e armi.
+→
+Nessuna arma acquistabile disponibile.
+Nessun ulteriore potenziamento disponibile.
+Nuovi oggetti disponibili!
+Grazie per il tuo supporto!
+Oggetti di Accord
+Attualmente equipaggiato:
+Discepoli attuali
+Lv. 
+Quest'arma non può essere potenziata nel negozio!
+Ti servono almeno tre discepoli per cambiare i membri del gruppo.
+CONFIRMED NOT USED 1126
+Vuoto
+Non hai ancora armi di questo tipo.
+Regole di Accord:
