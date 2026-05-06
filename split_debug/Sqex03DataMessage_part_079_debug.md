@@ -4,7 +4,7 @@ How did a beauty like Five ever{LF}end up in such a sad state?{#Name="Octa"}
 `Immagino che la forza del fiore{LF}abbia riportato in vita il suo corpo.{#Name="Zero"}`
 I'm guessing the flower's force{LF}willed her body back to life.{#Name="Zero"}
 
-`Ma nessuno dei due è riuscito a gestire l’altro,{LF}e quindi eccoci qui.{#Name="Zero"}`
+`Ma nessuno dei due è riuscito a gestire l'altro,{LF}e quindi eccoci qui.{#Name="Zero"}`
 But neither one could handle the other,{LF}so now we have this.{#Name="Zero"}
 
 `Quella stupida bastarda doveva solo restare morta.{#Name="Zero"}`
@@ -37,7 +37,7 @@ Z-Zero... Beauti...ful Zero...{#Name="Five"}
 `{06}>{#Name="Five"}`
 {06}>{#Name="Five"}
 
-`Ci vediamo all’inferno,{#Name="Zero"}`
+`Ci vediamo all'inferno,{#Name="Zero"}`
 See ya in hell,{#Name="Zero"}
 
 `Sorella.{#Name="163"}`
@@ -46,7 +46,7 @@ Sister.{#Name="163"}
 `Eh? Aspetta, che diavolo è questo!?{#Name="Dito"}`
 Huh? Wait, what the hell is this!?{#Name="Dito"}
 
-`Hai evocato un angelo senza l’aiuto di un’Intoner.{#Name="Zero"}`
+`Hai evocato un angelo senza l'aiuto di un'Intoner.{#Name="Zero"}`
 You summoned an angel without the aid of an Intoner.{#Name="Zero"}
 
 `Dovrai pur pagarne il prezzo in qualche modo.{#Name="Zero"}`
@@ -55,7 +55,7 @@ Gonna have to pay for it somehow.{#Name="Zero"}
 `Oh, andiamo! Non è giusto per niente!{#Name="Dito"}`
 Oh, come on! That's not even fair!{#Name="Dito"}
 
-`L’ho finalmente trovato!{#Name="Dito"}`
+`L'ho finalmente trovato!{#Name="Dito"}`
 I finally found it!{#Name="Dito"}
 
 `Ho finalmente trovato un mondo in cui posso vivere e che posso amare davvero!{#Name="Dito"}`
@@ -112,7 +112,7 @@ S...st... Stop...ppp...{#Name="Five"}
 `Quel giorno ho mangiato la carne delle mele! La mia esplosione mi ha sfinito!{#Name="Soldier G"}`
 I ate the meat of the apples that day! My explosion tired me out!{#Name="Soldier G"}
 
-`Sconfiggi l’esercito di Galgaliel!{#Name="説明文"}`
+`Sconfiggi l'esercito di Galgaliel!{#Name="説明文"}`
 Defeat the army of Galgaliel!{#Name="説明文"}
 
 `Sconfiggi Five!{#Name="説明文"}`
@@ -283,7 +283,7 @@ Grant us strength!{#Name="Soldier A"}
 `Zero? Di già!?{#Name="Soldier C"}`
 Zero? Already!?{#Name="Soldier C"}
 
-`State all’erta o morirete!{#Name="Soldier D"}`
+`State all'erta o morirete!{#Name="Soldier D"}`
 Stay sharp or you're dead!{#Name="Soldier D"}
 
 `Informate la prima squadra che è arrivata!{#Name="Soldier F"}`

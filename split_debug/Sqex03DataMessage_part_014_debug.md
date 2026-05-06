@@ -70,7 +70,7 @@ Isn't it about time you had a bath?{#Name="Zero"}
 `Ma pensavo che apprezzassi il mio odore muschiato!{#Name="Octa"}`
 But I thought you enjoyed my musky odor!{#Name="Octa"}
 
-`Inoltre, quel dolce aroma di maschio mi mette davvero dell’umore giusto...{#Name="Octa"}`
+`Inoltre, quel dolce aroma di maschio mi mette davvero dell'umore giusto...{#Name="Octa"}`
 Besides, the sweet tang of man-funk really gets me in the mood...{#Name="Octa"}
 
 `Lavati o sparisci.{#Name="Zero"}`
@@ -247,13 +247,13 @@ You've been running yourself into the ground here.{#Name="Accord"}
 `Pensi che otterrai il futuro che desideri in questo modo?{#Name="Accord"}`
 You think you'll get the future you want that way?{#Name="Accord"}
 
-`Sta’ zitta, vuoi?{#Name="Zero"}`
+`Sta' zitta, vuoi?{#Name="Zero"}`
 Shut up, would you?{#Name="Zero"}
 
 `Almeno io non me ne sto col culo seduto cercando di fare{LF}la misteriosa del cazzo.{#Name="Zero"}`
 At least I'm not sitting on my ass trying to act{LF}all mysterious and shit.{#Name="Zero"}
 
-`Forse dovresti semplicemente lasciare che ci occupiamo noi{LF}di tutta questa faccenda delle Intoner, d’ora in poi.{#Name="Accord"}`
+`Forse dovresti semplicemente lasciare che ci occupiamo noi{LF}di tutta questa faccenda delle Intoner, d'ora in poi.{#Name="Accord"}`
 Maybe you should just let us handle this{LF}whole Intoner business from now on.{#Name="Accord"}
 
 `Ho iniziato io questo casino. Sarò io a finirlo.{#Name="Zero"}`

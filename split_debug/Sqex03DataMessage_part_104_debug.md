@@ -25,7 +25,7 @@ Combat bracers are good for stringing together{LF}combos. They also provide acce
 `I chakram sono ottime armi a lunga distanza che{LF}ti permettono di colpire da lontano mantenendo{LF}la posizione. Tieni premuto il pulsante di attacco{LF}per un colpo caricato più potente.{#Name="Chakrams"}`
 Chakrams are great long-range weapons that{LF}allow you to strike from a distance while still{LF}holding your ground. Press and hold the attack{LF}button for a stronger charged strike.{#Name="Chakrams"}
 
-`La luce solare infusa di magia può prosciugare la tua salute.{LF}Trova un’area con un po’ d’ombra per rinfrescarti{LF}e recuperare dai danni causati dal sole.{#Name="Sun Damage"}`
+`La luce solare infusa di magia può prosciugare la tua salute.{LF}Trova un'area con un po' d'ombra per rinfrescarti{LF}e recuperare dai danni causati dal sole.{#Name="Sun Damage"}`
 Magic-infused sunlight can sap your health.{LF}Find an area with some shade to cool down{LF}and recover from sun-based damage.{#Name="Sun Damage"}
 
 `ＴＩＰＳ_２５　　　　　　　　　　一行目{LF}ＴＩＰＳ_２５　　　　　　　　　　二行目{LF}ＴＩＰＳ_２５　　　　　　　　　　三行目{LF}ＴＩＰＳ_２５　　　　　　　　　　四行目{LF}ＴＩＰＳ_２５　　　　　　　　　　五行目{#Name="ＴＩＰＳ_２５"}`
@@ -73,25 +73,25 @@ Magic-infused sunlight can sap your health.{LF}Find an area with some shade to c
 `ＴＩＰＳ_３９　　　　　　　　　　一行目{LF}ＴＩＰＳ_３９　　　　　　　　　　二行目{LF}ＴＩＰＳ_３９　　　　　　　　　　三行目{LF}ＴＩＰＳ_３９　　　　　　　　　　四行目{LF}ＴＩＰＳ_３９　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３９"}`
 ＴＩＰＳ_３９　　　　　　　　　　一行目{LF}ＴＩＰＳ_３９　　　　　　　　　　二行目{LF}ＴＩＰＳ_３９　　　　　　　　　　三行目{LF}ＴＩＰＳ_３９　　　　　　　　　　四行目{LF}ＴＩＰＳ_３９　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３９"}
 
-`Un’enorme città creata dal Cataclisma.{LF}Godette di prosperità sotto la Chiesa e la sua{LF}Accademia di Magia, ma un’ondata magica accidentale nel 995{LF}la trasformò in una città fantasma. È anche chiamata "Vecchio mondo"{LF}per le sue rovine e per il suo ruolo di origine di tutta la magia.{#Name="The Cathedral City"}`
+`Un'enorme città creata dal Cataclisma.{LF}Godette di prosperità sotto la Chiesa e la sua{LF}Accademia di Magia, ma un'ondata magica accidentale nel 995{LF}la trasformò in una città fantasma. È anche chiamata "Vecchio mondo"{LF}per le sue rovine e per il suo ruolo di origine di tutta la magia.{#Name="The Cathedral City"}`
 An enormous city created by the Cataclysm.{LF}It enjoyed prosperity under the Church and its Magic{LF}Academy, but an accidental magic surge in 995 turned{LF}it into a ghost town. Also referred to as the "Old World"{LF}due to its ruins and status as the origin of all magic.{#Name="The Cathedral City"}
 
-`Una nazione sotto il dominio dell’Intoner Five. Ha{LF}poca terra coltivabile, ma abbondanti risorse marine.{LF}È rinomata per i suoi pescherecci, che si scambiano{LF}messaggi tramite una serie di corni. Il suo porto collega{LF}numerose rotte marittime, rendendola un centro di commercio.{#Name="The Land of Seas"}`
+`Una nazione sotto il dominio dell'Intoner Five. Ha{LF}poca terra coltivabile, ma abbondanti risorse marine.{LF}È rinomata per i suoi pescherecci, che si scambiano{LF}messaggi tramite una serie di corni. Il suo porto collega{LF}numerose rotte marittime, rendendola un centro di commercio.{#Name="The Land of Seas"}`
 A nation under the rule of the Intoner, Five. It has{LF}little arable land, but bountiful marine resources.{LF}Renowned for its trawler ships, which exchange{LF}messages via a series of horns. Its port connects{LF}a multitude of sea routes, making it a trade hub.{#Name="The Land of Seas"}
 
-`Una nazione montuosa con fortezze apparentemente{LF}a ogni svolta. Il suo prodotto più famoso,la pietra d'ambra,{LF}è un materiale raro che può essere trasportato solo portando{LF}carri lungo sentieri stretti e insidiosi.{LF}È governata dall’Intoner Four.{#Name="The Land of Mountains"}`
+`Una nazione montuosa con fortezze apparentemente{LF}a ogni svolta. Il suo prodotto più famoso,la pietra d'ambra,{LF}è un materiale raro che può essere trasportato solo portando{LF}carri lungo sentieri stretti e insidiosi.{LF}È governata dall'Intoner Four.{#Name="The Land of Mountains"}`
 A mountainous nation with fortresses at seemingly{LF}every turn. Its most famous product, Amberstone,{LF}is a rare material that can only be shipped by taking{LF}wagons along narrow and treacherous trails.{LF}Ruled by the Intoner, Four.{#Name="The Land of Mountains"}
 
-`Una nazione quasi interamente coperta di foreste. Gran parte di essa{LF}rimane inesplorata dall’umanità, ed è invece{LF}il dominio di fate ed elfi. È governata in teoria{LF}dall’Intoner Three, anche se lei sembra{LF}in gran parte ignara di ciò che vi accade.{#Name="The Land of Forests"}`
+`Una nazione quasi interamente coperta di foreste. Gran parte di essa{LF}rimane inesplorata dall'umanità, ed è invece{LF}il dominio di fate ed elfi. È governata in teoria{LF}dall'Intoner Three, anche se lei sembra{LF}in gran parte ignara di ciò che vi accade.{#Name="The Land of Forests"}`
 A nation mostly covered in forests. Much of it{LF}remains unexplored by mankind, and is instead{LF}the domain of faeries and elves. Ruled by the{LF}Intoner Three in theory, although she seems{LF}largely oblivious to what occurs there.{#Name="The Land of Forests"}
 
-`Una grande nazione quasi interamente coperta dal deserto,{LF}che la rende inadatta all’agricoltura. La magnetite è{LF}la sua principale esportazione. Pur essendo lontana dall’essere ricca,{LF}le sue numerose rovine hanno attirato negli ultimi anni{LF}l’interesse turistico di mercanti facoltosi.{#Name="The Land of Sands"}`
+`Una grande nazione quasi interamente coperta dal deserto,{LF}che la rende inadatta all'agricoltura. La magnetite è{LF}la sua principale esportazione. Pur essendo lontana dall'essere ricca,{LF}le sue numerose rovine hanno attirato negli ultimi anni{LF}l'interesse turistico di mercanti facoltosi.{#Name="The Land of Sands"}`
 A large nation mostly covered in desert,{LF}making it unsuitable for farming. Magnetite is{LF}its main export. While far from a wealthy land,{LF}its many ruins have seen tourism interest from{LF}wealthy merchants in recent years.{#Name="The Land of Sands"}
 
 `Le Terre dei Mari, Monti, Foreste e SabbieLF}sono governate ciascuna da un singolo sovrano.{LF}I sovrani passati erano dittatori che terrorizzavano il {LF}popolo, ma da quando le cinque Intoner li hanno sconfitti,{LF}il mondo è tornato ai pacifici giorni di un tempo.{#Name="Rulers"}`
 The Lands of Seas, Mountains, Forests, and Sands{LF}are each governed by an individual ruler.{LF}Past rulers were dictators that terrorized their {LF}people, but since the five Intoners defeated them,{LF}the world has returned to its peaceful days of yore.{#Name="Rulers"}
 
-`Un’organizzazione religiosa esistente fin{LF}dall’antichità. Il gruppo è cresciuto rapidamente dopo il{LF}Cataclisma, creando organizzazioni come l’Accademia{LF}di Magia per gestire la magia. Le sue molteplici sette sono{LF}note collettivamente semplicemente come la "Chiesa".{#Name="The Church"}`
+`Un'organizzazione religiosa esistente fin{LF}dall'antichità. Il gruppo è cresciuto rapidamente dopo il{LF}Cataclisma, creando organizzazioni come l'Accademia{LF}di Magia per gestire la magia. Le sue molteplici sette sono{LF}note collettivamente semplicemente come la "Chiesa".{#Name="The Church"}`
 A religious organization that has existed since{LF}antiquity. The group has grown rapidly since the{LF}Cataclysm, creating organizations like the Magic{LF}Academy to manage magic. Its multiple sects are{LF}known collectively as simply the "Church."{#Name="The Church"}
 
 `Generalmente, la donna più giovane tra due fratelli nati{LF}dagli stessi genitori. Una "cognata" è la{LF}sorella di un coniuge o la moglie di un fratello, e non{LF}possiede necessariamente un legame di sangue.{#Name="Younger Sister"}`
@@ -100,13 +100,13 @@ Generally, the younger woman of two siblings born{LF}from the same set of parent
 `Generalmente, la donna più anziana tra due fratelli nati{LF}dagli stessi genitori. Una "cognata" è la{LF}sorella di un coniuge o la moglie di un fratello, e non{LF}possiede necessariamente un legame di sangue.{#Name="Elder Sister"}`
 Generally, the older woman of two siblings born{LF}from the same set of parents. A "sister-in-law" is the{LF}sister of a spouse or wife of a sibling, and does not{LF}necessarily possess a blood relation.{#Name="Elder Sister"}
 
-`Un’organizzazione fondata dalla Chiesa nel 910 per la{LF}ricerca sulla magia. La sua storia iniziale è nebulosa, ma{LF}nel 995 un incidente avvenuto alla Central Magic Academy{LF}di Cathedral City la cancellò dalla mappa.{#Name="The Magic Academy"}`
+`Un'organizzazione fondata dalla Chiesa nel 910 per la{LF}ricerca sulla magia. La sua storia iniziale è nebulosa, ma{LF}nel 995 un incidente avvenuto alla Central Magic Academy{LF}di Cathedral City la cancellò dalla mappa.{#Name="The Magic Academy"}`
 An organization built by the Church in 910 for the{LF}research of magic. Its early history is murky, but{LF}in 995, an accident triggered at the Cathedral City's{LF}Central Magic Academy wiped it off the map.{#Name="The Magic Academy"}
 
-`Un metodo per raccogliere e utilizzare energia magica{LF}per vari scopi, sia legati al combattimento sia non.{LF}In quest’epoca non esiste alcuno studio attivo dedicato alla magia,{LF}e solo poche applicazioni limitate sono state{LF}tramandate dalle generazioni precedenti.{#Name="Magic"}`
+`Un metodo per raccogliere e utilizzare energia magica{LF}per vari scopi, sia legati al combattimento sia non.{LF}In quest'epoca non esiste alcuno studio attivo dedicato alla magia,{LF}e solo poche applicazioni limitate sono state{LF}tramandate dalle generazioni precedenti.{#Name="Magic"}`
 A method of gathering and utilizing magical energy{LF}for a variety of uses, both combat-related and otherwise.{LF}In this era, there is no active study devoted to magic,{LF}and only a few limited applications have been{LF}passed down from earlier generations.{#Name="Magic"}
 
-`Persone capaci di usare il potere del canto per esercitare{LF}un’enorme forza offensiva. Sei di loro, tutte donne,{LF}sono state registrate nel corso della storia. Le Intoner liberarono ogni{LF}terra dai sovrani dispotici che un tempo terrorizzavano{LF}il loro popolo, e ora sono venerate come salvatrici.{#Name="Intoners"}`
+`Persone capaci di usare il potere del canto per esercitare{LF}un'enorme forza offensiva. Sei di loro, tutte donne,{LF}sono state registrate nel corso della storia. Le Intoner liberarono ogni{LF}terra dai sovrani dispotici che un tempo terrorizzavano{LF}il loro popolo, e ora sono venerate come salvatrici.{#Name="Intoners"}`
 People who can use the power of song to wield vast{LF}attacking force. Six of them, all female, have been{LF}recorded throughout history. The Intoners freed each{LF}land from the despotic rulers that once terrorized{LF}their people, and are now worshipped as saviors.{#Name="Intoners"}
 
 `I negozi che trattano armi e altri oggetti si trovano{LF}in ogni paese. Funzionano principalmente con un{LF}sistema basato sugli ordini, e per questo sono in gran parte senza personale.{LF}Nel loro insieme, i negozi sono gestiti{LF}da una sola persona nota come Accord.{#Name="Weapon Shops"}`
@@ -115,22 +115,22 @@ Shops dealing in weapons and other items are{LF}located in each country. They ch
 `I più forti tra tutti i mostri. Dotati di grande{LF}intelligenza, vivono sugli altopiani e tra{LF}le nuvole, lontano dagli insediamenti umani.{LF}Esistono anche draghi antichi e altre sottospecie.{#Name="Dragons"}`
 The strongest of all monsters. Possessing great{LF}intelligence, they live up in highlands and among{LF}the clouds, far away from human settlements.{LF}Ancient dragons and other subspecies also exist.{#Name="Dragons"}
 
-`Eventi soprannaturali oltre la comprensione dell’umanità.{LF}La Chiesa li chiama "salvezza dagli dèi",{LF}e molti sono stati tramandati nel folklore. La maggior parte delle persone{LF}vede le stesse Intoner come miracoli, rendendole{LF}oggetto di culto tra le masse.{#Name="Miracles"}`
+`Eventi soprannaturali oltre la comprensione dell'umanità.{LF}La Chiesa li chiama "salvezza dagli dèi",{LF}e molti sono stati tramandati nel folklore. La maggior parte delle persone{LF}vede le stesse Intoner come miracoli, rendendole{LF}oggetto di culto tra le masse.{#Name="Miracles"}`
 Supernatural events beyond the ken of mankind.{LF}The Church calls them "salvation from the gods,"{LF}and many have been retold in folklore. Most people{LF}see the Intoners themselves as miracles, making them{LF}a common object of worship among the masses.{#Name="Miracles"}
 
-`Un disastro avvenuto nell’856, preannunciato da un vasto{LF}terremoto nella Penisola Iberica. A questo seguì{LF}l’apparizione improvvisa di un’enorme città durante la notte e{LF}il rilascio di strane creature in tutto il mondo. I registri della Chiesa{LF}suggeriscono che fu un evento capace di cambiare il mondo.{#Name="The Cataclysm"}`
+`Un disastro avvenuto nell'856, preannunciato da un vasto{LF}terremoto nella Penisola Iberica. A questo seguì{LF}l'apparizione improvvisa di un'enorme città durante la notte e{LF}il rilascio di strane creature in tutto il mondo. I registri della Chiesa{LF}suggeriscono che fu un evento capace di cambiare il mondo.{#Name="The Cataclysm"}`
 A disaster that occurred in 856, heralded by a vast{LF}earthquake in the Iberian Peninsula. This was{LF}followed by a huge city appearing overnight and{LF}unleashing strange creatures worldwide. Church{LF}records suggest this was a world-changing event.{#Name="The Cataclysm"}
 
-`L’esistenza di mondi paralleli innescati da{LF}materia quantistica intrecciata è nota da tempo.{LF}È possibile spostarsi, o ramificarsi, verso molti{LF}altri mondi, anche se la maggior parte di tali Diramazioni{LF}consente viaggi in una sola direzione.{#Name="Multiple Worlds"}`
+`L'esistenza di mondi paralleli innescati da{LF}materia quantistica intrecciata è nota da tempo.{LF}È possibile spostarsi, o ramificarsi, verso molti{LF}altri mondi, anche se la maggior parte di tali Diramazioni{LF}consente viaggi in una sola direzione.{#Name="Multiple Worlds"}`
 The existence of parallel worlds triggered by{LF}entangled quantum matter has long been known.{LF}It is possible to shift, or branch, to multiple{LF}other worlds, although most such branches{LF}allow for travel in one direction only.{#Name="Multiple Worlds"}
 
-`Persone, luoghi o cose che possono innescare una divergenza,{LF}o Diramazione, attraverso più mondi. I fenomeni di diramazione{LF}si verificano quando in un’area sono presenti abbastanza particelle magiche e{LF}tutte le condizioni rilevanti sono soddisfatte. Tuttavia, una singolarità{LF}non viene registrata come tale fino a dopo il verificarsi di una Diramazione.{#Name="Singularities"}`
+`Persone, luoghi o cose che possono innescare una divergenza,{LF}o Diramazione, attraverso più mondi. I fenomeni di diramazione{LF}si verificano quando in un'area sono presenti abbastanza particelle magiche e{LF}tutte le condizioni rilevanti sono soddisfatte. Tuttavia, una singolarità{LF}non viene registrata come tale fino a dopo il verificarsi di una Diramazione.{#Name="Singularities"}`
 Persons, places, or things that can trigger a divergence,{LF}or branch, across multiple worlds. Branch phenomena{LF}occur when enough magic particles are in an area, and{LF}all relevant conditions are met. However, a singularity{LF}is not recorded as such until after a branch occurs.{#Name="Singularities"}
 
-`L’atto di usare l’energia del proprio fiore{LF}per scopi offensivi o difensivi.{LF}È fondamentalmente diverso dalla magia,{LF}poiché si basa sull’imbrigliare energia dalle{LF}proprietà comuni di più mondi.{#Name="The Power of Song"}`
+`L'atto di usare l'energia del proprio fiore{LF}per scopi offensivi o difensivi.{LF}È fondamentalmente diverso dalla magia,{LF}poiché si basa sull'imbrigliare energia dalle{LF}proprietà comuni di più mondi.{#Name="The Power of Song"}`
 The act of using the energy from one's flower{LF}for offensive or defensive purposes.{LF}It is fundamentally different from magic{LF}as it relies on harnessing energy from the{LF}mutual properties of multiple worlds.{#Name="The Power of Song"}
 
-`Un oggetto parassitario a forma di pianta che si attacca{LF}a un’Intoner. Man mano che il parassita si diffonde,{LF}erode lo spirito e il corpo dell’Intoner ospite.{LF}Può essere distrutto usando un’arma derivata{LF}dal materiale cellulare di un drago.{#Name="The Flower"}`
+`Un oggetto parassitario a forma di pianta che si attacca{LF}a un'Intoner. Man mano che il parassita si diffonde,{LF}erode lo spirito e il corpo dell'Intoner ospite.{LF}Può essere distrutto usando un'arma derivata{LF}dal materiale cellulare di un drago.{#Name="The Flower"}`
 A parasitical plant-shaped object that latches{LF}on to an Intoner. As the parasite spreads,{LF}it erodes the host Intoner's spirit and body.{LF}It can be destroyed by using a weapon derived{LF}from the cellular material of a dragon.{#Name="The Flower"}
 
 `ＴＩＰＳ_６０　　　　　　　　　　一行目{LF}ＴＩＰＳ_６０　　　　　　　　　　二行目{LF}ＴＩＰＳ_６０　　　　　　　　　　三行目{LF}ＴＩＰＳ_６０　　　　　　　　　　四行目{LF}ＴＩＰＳ_６０　　　　　　　　　　五行目{#Name="ＴＩＰＳ_６０"}`

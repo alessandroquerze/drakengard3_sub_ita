@@ -67,7 +67,7 @@ I'm trying, I'm trying!{LF}I'm trying really, really hard!{#Name="Mikhail"}
 `Ehm, Zero?{#Name="Mikhail"}`
 Um, Zero?{#Name="Mikhail"}
 
-`E adesso che c’è?{#Name="Zero"}`
+`E adesso che c'è?{#Name="Zero"}`
 What now?{#Name="Zero"}
 
 `Posso andare a cercare un cespuglio? Devo fare pipì.{#Name="Mikhail"}`
@@ -148,7 +148,7 @@ I'm rather fond of sweets.{#Name="Decadus"}
 `Io prendo qualsiasi cosa faccia anche da afrodisiaco!{#Name="Octa"}`
 I'll take anything that doubles as an aphrodisiac!{#Name="Octa"}
 
-`Mi sembra proprio l’ultima cosa di cui TU abbia bisogno.{#Name="Zero"}`
+`Mi sembra proprio l'ultima cosa di cui TU abbia bisogno.{#Name="Zero"}`
 That sounds like the last thing YOU need.{#Name="Zero"}
 
 `Dunque, tornando a quello di cui stavamo parlando prima...{#Name="Dito"}`
@@ -160,7 +160,7 @@ I actually think stew is my favorite meal. {#Name="Dito"}
 `Sì, anche se un bel carpaccio di pesce{LF}sarebbe delizioso.{#Name="Cent"}`
 Yes, though a nice piece of fish carpaccio{LF}would be lovely.{#Name="Cent"}
 
-`Magari con un po’ di tapenade a lato{LF}e uno Chablis ben fresco?{#Name="Cent"}`
+`Magari con un po' di tapenade a lato{LF}e uno Chablis ben fresco?{#Name="Cent"}`
 Maybe with some tapenade on the side{LF}and a chilled Chablis?{#Name="Cent"}
 
 `Oppure puoi semplicemente immergere il pane in uova e zucchero.{#Name="Decadus"}`
@@ -199,7 +199,7 @@ Is that the sort of thing a dragon usually eats?{#Name="Decadus"}
 `No, ma è quello che mangia Zero,{LF}quindi mi adeguo.{#Name="Mikhail"}`
 No, but that's what Zero eats,{LF}so I just go along with it.{#Name="Mikhail"}
 
-`Ne volete un po’?{#Name="Zero"}`
+`Ne volete un po'?{#Name="Zero"}`
 You guys want some?{#Name="Zero"}
 
 `No, grazie!{#Name="Dito{0A}Cent{0A}Octa{0A}Decadus"}`
@@ -214,7 +214,7 @@ Accord... What did I tell you about barging in here!?{#Name="Zero"}
 `Eh? Ero sicura di aver bussato...{#Name="Accord"}`
 Huh? I could have sworn I knocked...{#Name="Accord"}
 
-`Oh, be’! Acqua passata.{#Name="Accord"}`
+`Oh, be'! Acqua passata.{#Name="Accord"}`
 Oh well! Water under the bridge.{#Name="Accord"}
 
 `Fammi indovinare. Sei qui per darmi qualche cupo avvertimento?{#Name="Zero"}`
@@ -229,7 +229,7 @@ As things stand now, it doesn't matter what{LF}branch you go down—it all ends 
 `Pensavo fosse meglio avvisarti.{#Name="Accord"}`
 Figured I'd give you a heads-up.{#Name="Accord"}
 
-`E com’è che puoi vedere il futuro, eh?{#Name="Zero"}`
+`E com'è che puoi vedere il futuro, eh?{#Name="Zero"}`
 So how come you can see the future, huh?{#Name="Zero"}
 
 `Non posso dirtelo.{#Name="Accord"}`
@@ -295,7 +295,7 @@ If that's when the branch occurred, I'm already too late.{#Name="Zero"}
 `Può davvero esistere un mondo senza questo fiore?{#Name="Zero"}`
 Could there really be a world without this flower?{#Name="Zero"}
 
-`Mi chiedo come sia l’altra me. O come siano le mie sorelle.{LF}...Sempre che io ABBIA delle sorelle.{#Name="Zero"}`
+`Mi chiedo come sia l'altra me. O come siano le mie sorelle.{LF}...Sempre che io ABBIA delle sorelle.{#Name="Zero"}`
 I wonder what I'm like over there? Or what my sisters are like.{LF}...Do I even HAVE sisters?{#Name="Zero"}
 
 `Meh, inutile rimuginarci sopra.{#Name="Zero"}`

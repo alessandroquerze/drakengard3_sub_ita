@@ -13,7 +13,7 @@ This world is beyond help! None of us can save it now.{#Name="Soldier D"}
 `Oh, Dio, sono morto... Mi uccideranno!{#Name="Soldier G"}`
 Oh, God, I'm so dead... They're gonna kill me!{#Name="Soldier G"}
 
-`Credi in Lady Two e lei ti resusciterà nell’abbondanza dell’aldilà!{#Name="Soldier D"}`
+`Credi in Lady Two e lei ti resusciterà nell'abbondanza dell'aldilà!{#Name="Soldier D"}`
 Believe in Lady Two and she will resurrect you in the bounty of the afterlife!{#Name="Soldier D"}
 
 `Credo in Lady Two, lo giuro! Ci credo, ci creeeedo!{#Name="Soldier G"}`
@@ -25,10 +25,10 @@ Those who have yet to awaken are always quick to wail and scream. How pathetic!{
 `Il vero mondo è immerso nella bellezza innocente di Lady Two!{#Name="Soldier F"}`
 The true world is bathed in the innocent beauty of Lady Two!{#Name="Soldier F"}
 
-`Se Two e One sono entrambe in città,{LF}mi farà risparmiare un po’ di tempo per ucciderle.{#Name="Zero"}`
+`Se Two e One sono entrambe in città,{LF}mi farà risparmiare un po' di tempo per ucciderle.{#Name="Zero"}`
 If Two and One are both in the city,{LF}that'll save me some killin' time.{#Name="Zero"}
 
-`Lascia che... Lascia che ti aiuti anch’io.{#Name="Mikhail"}`
+`Lascia che... Lascia che ti aiuti anch'io.{#Name="Mikhail"}`
 Let me... Let me help you out, too.{#Name="Mikhail"}
 
 `Certo. Vola su e controlla più avanti, okay?{#Name="Zero"}`
@@ -43,7 +43,7 @@ Aw, look at you trying to keep him safe.{#Name="Dito"}
 `Sei proprio una tenerona, Z. Lo sai?{#Name="Dito"}`
 You're just a big ol' cupcake, Z. You know that?{#Name="Dito"}
 
-`Se Two e One sono entrambe in città,{LF}mi farà risparmiare un po’ di tempo per ucciderle.{#Name="Zero"}`
+`Se Two e One sono entrambe in città,{LF}mi farà risparmiare un po' di tempo per ucciderle.{#Name="Zero"}`
 If Two and One are both in the city,{LF}that'll save me some killin' time.{#Name="Zero"}
 
 `Il miracolo è ancora vivo! Credete in Lady Two!{#Name="Soldier A"}`
@@ -61,7 +61,7 @@ Fire! Fiiiiiire!{#Name="Soldier E"}
 `Si muovono troppo in fretta!{#Name="Soldier G"}`
 They're moving too fast!{#Name="Soldier G"}
 
-`Dov’è la vostra fede in Lady Two!?{LF}Lei ci proteggerà!{#Name="Soldier E"}`
+`Dov'è la vostra fede in Lady Two!?{LF}Lei ci proteggerà!{#Name="Soldier E"}`
 Where's your faith in Lady Two!?{LF}She will protect us!{#Name="Soldier E"}
 
 `Sono il 1597esimo uomo in fila per{LF}ricevere la salvezza di Lady Two!{#Name="Soldier D"}`
@@ -70,7 +70,7 @@ I'm the 1597th man in line to{LF}receive Lady Two's salvation!{#Name="Soldier D"
 `Chi sono questi tizi?{#Name="Zero"}`
 Who are these guys?{#Name="Zero"}
 
-`Un fanatismo simile ricorda i sintomi{LF}d’astinenza di certi medicinali.{#Name="Octa"}`
+`Un fanatismo simile ricorda i sintomi{LF}d'astinenza di certi medicinali.{#Name="Octa"}`
 Such fanaticism resembles the withdrawal{LF}symptoms of certain medications.{#Name="Octa"}
 
 `Cosa, quindi sono dipendenti?{LF}Da cosa sono dipendenti?{#Name="Zero"}`
@@ -103,13 +103,13 @@ Weakness?{#Name="Zero"}
 `Il vostro disgusto nel compiere lo stesso{LF}compito ancora e ancora e ancora.{#Name="Decadus"}`
 Your dislike of performing the same{LF}task over and over and over again.{#Name="Decadus"}
 
-`Chi te l’ha chiesto, maledetto storpio pervertito!:::{#Name="Zero"}`
+`Chi te l'ha chiesto, maledetto storpio pervertito!:::{#Name="Zero"}`
 Who asked you, you freaky gimp!{#Name="Zero"}
 
 `Mi hai chiamato, Zero? Oh ragazzi, oh ragazzi, oh ragazzi!{#Name="Mikhail"}`
 Did you call me, Zero? Oh boy, oh boy, oh boy!{#Name="Mikhail"}
 
-`Non fare quella faccia felice. Fai solo quello{LF}per cui sei qui. ...E{LF}quando hai finito, riposati un po’.{#Name="Zero"}`
+`Non fare quella faccia felice. Fai solo quello{LF}per cui sei qui. ...E{LF}quando hai finito, riposati un po'.{#Name="Zero"}`
 Don't look so happy. Just do what{LF}you're here to do already. ...And{LF}when you're done, get some rest.{#Name="Zero"}
 
 `Grazie, Zero! Ce la metterò tutta, okay?{#Name="Mikhail"}`
@@ -133,7 +133,7 @@ Rather a lot of undead around here...{#Name="Octa"}
 `Probabilmente stanno riciclando i{LF}corpi dei soldati caduti.{#Name="Decadus"}`
 They're likely recycling the{LF}bodies of fallen soldiers.{#Name="Decadus"}
 
-`Forse anche questo è un altro sintomo{LF}dell’assenza di Lady Two.{#Name="Octa"}`
+`Forse anche questo è un altro sintomo{LF}dell'assenza di Lady Two.{#Name="Octa"}`
 Perhaps this is yet another symptom{LF}of Lady Two's absence.{#Name="Octa"}
 
 `説明文`
@@ -274,10 +274,10 @@ Why's that?{#Name="Zero"}
 `Le sono sempre piaciuti i posti bui come questo.{#Name="Octa"}`
 She always did enjoy dark places like this.{#Name="Octa"}
 
-`Questo, e queste rovine sono l’unico rifugio qui vicino.{#Name="Decadus"}`
+`Questo, e queste rovine sono l'unico rifugio qui vicino.{#Name="Decadus"}`
 That, and these ruins are the only nearby refuge.{#Name="Decadus"}
 
-`Giusto. Diamo un’occhiata.{#Name="Zero"}`
+`Giusto. Diamo un'occhiata.{#Name="Zero"}`
 Right. Let's give it a look.{#Name="Zero"}
 
 `Non vi avvicinerete a Lady Three!{#Name="Soldier B"}`

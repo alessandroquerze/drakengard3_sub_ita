@@ -76,7 +76,7 @@ May Lady Three watch over us always!{#Name="Soldier G"}
 `Dobbiamo servire la nostra signora e uccidere questi mostri!{#Name="Soldier C"}`
 We must serve our lady and kill these monsters!{#Name="Soldier C"}
 
-`Quella è...un’Intoner...{#Name="Soldier B"}`
+`Quella è...un'Intoner...{#Name="Soldier B"}`
 That's...an Intoner...{#Name="Soldier B"}
 
 `Restate calmi! Il panico vi farà solo ammazzare!{#Name="Soldier A"}`
@@ -106,7 +106,7 @@ Don't let her near our beloved Lady Three!{#Name="Soldier B"}
 `Wow, Three è piuttosto nota, eh?{#Name="Zero"}`
 Wow, Three's pretty popular, huh?{#Name="Zero"}
 
-`In effetti. Da un po’ sta guadagnando fama anche{LF}fuori dalla Terra delle Foreste.{#Name="Octa"}`
+`In effetti. Da un po' sta guadagnando fama anche{LF}fuori dalla Terra delle Foreste.{#Name="Octa"}`
 Indeed. She's been gaining fame even{LF}outside the Land of Forests for a while.{#Name="Octa"}
 
 `Soprattutto tra gli uomini che sono...dediti a quel{LF}genere di attività extracurricolari...{#Name="Octa"}`
@@ -232,7 +232,7 @@ You sure? I didn't think Three could fly.{#Name="Zero"}
 `Lo sento, Zero! È qui! Lo so!{#Name="Mikhail"}`
 I can feel it, Zero! She's here! I know it!{#Name="Mikhail"}
 
-`Lady Zero! Com’è la situazione lassù!?{#Name="Octa"}`
+`Lady Zero! Com'è la situazione lassù!?{#Name="Octa"}`
 Lady Zero! How does it look up there!?{#Name="Octa"}
 
 `Intendi a parte quei dannati cubi gargoyle?{#Name="Zero"}`
@@ -241,7 +241,7 @@ You mean other than the goddamn gargoyle cubes?{#Name="Zero"}
 `Cubi gargoyle? Oh cielo...{#Name="Octa"}`
 Gargoyle cubes? Oh dear...{#Name="Octa"}
 
-`Che c’è?{#Name="Zero"}`
+`Che c'è?{#Name="Zero"}`
 What's wrong?{#Name="Zero"}
 
 `Quei cubi richiedono enormi quantità{LF}di energia magica per funzionare.{#Name="Octa"}`
@@ -250,10 +250,10 @@ Those cubes require massive amounts{LF}of magical energy to operate.{#Name="Octa
 `È molto improbabile che Lady Three{LF}possa alimentarli da sola.{#Name="Octa"}`
 It's highly doubtful Lady Three{LF}could ever power them alone.{#Name="Octa"}
 
-`Dev’esserci una qualche fonte di energia qui vicino.{#Name="Octa"}`
+`Dev'esserci una qualche fonte di energia qui vicino.{#Name="Octa"}`
 There must be some kind of power source nearby.{#Name="Octa"}
 
-`Heh heh... Ma ovvio che c’è. COME SEMPRE!{#Name="Zero"}`
+`Heh heh... Ma ovvio che c'è. COME SEMPRE!{#Name="Zero"}`
 Heh heh... Of course there is. OF COURSE!{#Name="Zero"}
 
 `スリイは元々ちょっとオカシイ奴だったからな{#Name="ゼロ"}`

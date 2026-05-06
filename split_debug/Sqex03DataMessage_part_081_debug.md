@@ -1,4 +1,4 @@
-`Beh, immagino sia la maledizione dell’essere{LF}uno che guarda il quadro generale. Capite cosa intendo?{#Name="Cent"}`
+`Beh, immagino sia la maledizione dell'essere{LF}uno che guarda il quadro generale. Capite cosa intendo?{#Name="Cent"}`
 Well, I suppose that's just the curse of being{LF}a big-picture kind of guy. Know what I mean?{#Name="Cent"}
 
 `Conosco le mie capacità, e mi aspetto che anche gli altri le riconoscano.{#Name="Cent"}`
@@ -34,7 +34,7 @@ What?{#Name="Zero"}
 `Siete davvero ottusi, lo sapete?{#Name="Cent"}`
 You people really are dense, you know that?{#Name="Cent"}
 
-`Immagino che l’universo non possa aiutare chi non vuole aiutare sé stesso.{#Name="Cent"}`
+`Immagino che l'universo non possa aiutare chi non vuole aiutare sé stesso.{#Name="Cent"}`
 I guess the universe simply can't help those who won't help themselves.{#Name="Cent"}
 
 `Cosa stai cercando di—{#Name="Decadus"}`
@@ -43,7 +43,7 @@ What are you trying to—{#Name="Decadus"}
 `Zero.{#Name="Cent"}`
 Zero.{#Name="Cent"}
 
-`Un giorno o l’altro, quel drago sarà la tua rovina.{#Name="Cent"}`
+`Un giorno o l'altro, quel drago sarà la tua rovina.{#Name="Cent"}`
 One of these days, that dragon is gonna be your downfall.{#Name="Cent"}
 
 `E quando quel momento arriverà, sarà troppo tardi per i rimpianti...traditrice.{#Name="Cent"}`
@@ -232,10 +232,10 @@ Defeat the Undead!{#Name="説明文"}
 `Attraversa le rovine sotterranee.{#Name="説明文"}`
 Make your way through the underground ruins.{#Name="説明文"}
 
-`Com’è possibile che sia arrivata fin qui!?{#Name="Soldier A"}`
+`Com'è possibile che sia arrivata fin qui!?{#Name="Soldier A"}`
 How could she have made it all the way here!?{#Name="Soldier A"}
 
-`L’Intoner maledetta!{#Name="Soldier F"}`
+`L'Intoner maledetta!{#Name="Soldier F"}`
 The cursed Intoner!{#Name="Soldier F"}
 
 `Restate saldi! Anche lei è ferita!{#Name="Soldier B"}`
@@ -247,7 +247,7 @@ Dammit! I'm hit!{#Name="Soldier C"}
 `Io...non riesco a fermare il sangue!{#Name="Soldier D"}`
 I...I can't stop the bleeding!{#Name="Soldier D"}
 
-`Dov’è la nostra squadra medica!?{#Name="Soldier E"}`
+`Dov'è la nostra squadra medica!?{#Name="Soldier E"}`
 Where's our medical team!?{#Name="Soldier E"}
 
 `I messaggeri non rispondono!{#Name="Soldier F"}`
@@ -277,10 +277,10 @@ I heard she was scrawny, but daaaamn!{#Name="Soldier C"}
 `E io ho sentito che era bella, ma caaaavolo!{#Name="Soldier D"}`
 And I heard she was pretty, but daaaaaaaamn!{#Name="Soldier D"}
 
-`Beh, io ho sentito che ti uccide nel sonno! Quindi state zitti e rimanete all’erta!{#Name="Soldier E"}`
+`Beh, io ho sentito che ti uccide nel sonno! Quindi state zitti e rimanete all'erta!{#Name="Soldier E"}`
 Well, I heard she'll kill you in your sleep! So shut up and stay alert!{#Name="Soldier E"}
 
-`L’oscurità ci sta avvolgendo tutti!{#Name="Soldier B"}`
+`L'oscurità ci sta avvolgendo tutti!{#Name="Soldier B"}`
 The darkness is enveloping us all!{#Name="Soldier B"}
 
 `C-Che stai dicendo? Stai bene?{#Name="Soldier G"}`
@@ -292,7 +292,7 @@ Shit! Is this woman invincible!?{#Name="Soldier F"}
 `Forse. Ma dobbiamo ucciderla comunque!{#Name="Soldier A"}`
 Maybe. But we've got to kill her anyway!{#Name="Soldier A"}
 
-`Non inseguitela troppo all’interno!{#Name="Soldier E"}`
+`Non inseguitela troppo all'interno!{#Name="Soldier E"}`
 Don't chase her too far in!{#Name="Soldier E"}
 
 `Anche se volessi, è troppo veloce per starle dietro!{#Name="Soldier C"}`

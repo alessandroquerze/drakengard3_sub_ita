@@ -274,7 +274,7 @@ The people of the Land of Seas really love their{LF}Tealstones. I've got a reque
 `I corni di bue sono oggetti molto usati per inviare{LF}messaggi nella Terra dei Mari, e ho{LF}un ordine per otto di essi. Puoi aiutarmi?`
 Ox Horns are a popular item used to send{LF}messages in the Land of Seas, and I have{LF}an order for eight of them. Can you help?
 
-`Il Libro della Speranza è un testo sacro della Terra dei{LF}Mari. Si sa dell’esistenza di nove volumi, e ho bisogno{LF}che tu li trovi. Naturalmente, ti aspetta una ricompensa!`
+`Il Libro della Speranza è un testo sacro della Terra dei{LF}Mari. Si sa dell'esistenza di nove volumi, e ho bisogno{LF}che tu li trovi. Naturalmente, ti aspetta una ricompensa!`
 The Book of Hope is a sacred text from the Land of{LF}Seas. Nine volumes are known to exist, and I need{LF}you to find them. Of course, a reward awaits!
 
 `クエスト説明　１０２０＿１　　　　一行目{LF}クエスト説明　１０２０＿１　　　　二行目{LF}クエスト説明　１０２０＿１　　　　三行目`
@@ -289,7 +289,7 @@ Folks in the Land of Seas use Unicorn Horns to{LF}communicate with each other ov
 `Il Libro delle Ambizioni è un tomo leggendario tra{LF}gli abitanti della Terra dei Mari, ma qualcuno lo ha diviso{LF}in tre volumi. Vorrei che tu li recuperassi.`
 The Book of Ambition is a legendary tome among{LF}the people of the Land of Seas, but someone split{LF}it into three volumes. I'd like you to retrieve them.
 
-`Come ringraziamento per tutto il tuo aiuto, ecco una dritta gratis:{LF}ho ricevuto segnalazioni di un gigas che protegge un grande{LF}mucchio d’oro. ...Presumo tu sappia cosa fare?`
+`Come ringraziamento per tutto il tuo aiuto, ecco una dritta gratis:{LF}ho ricevuto segnalazioni di un gigas che protegge un grande{LF}mucchio d'oro. ...Presumo tu sappia cosa fare?`
 As thanks for all your help, here's a free tip:{LF}I have reports of a gigas that's protecting a big{LF}pile of gold. ...I assume you know what to do?
 
 `クエスト説明　１０３０＿２　　　　一行目{LF}クエスト説明　１０３０＿２　　　　二行目{LF}クエスト説明　１０３０＿２　　　　三行目`
@@ -301,15 +301,15 @@ As thanks for all your help, here's a free tip:{LF}I have reports of a gigas tha
 `クエスト説明　１０４０＿２　　　　一行目{LF}クエスト説明　１０４０＿２　　　　二行目{LF}クエスト説明　１０４０＿２　　　　三行目`
 クエスト説明　１０４０＿２　　　　一行目{LF}クエスト説明　１０４０＿２　　　　二行目{LF}クエスト説明　１０４０＿２　　　　三行目
 
-`Un Incontro di Sopravvivenza sta per cominciare{LF}nell’arena. Se riesci a sopravvivere a sette round,{LF}farò in modo che tu riceva una ricompensa come si deve.`
+`Un Incontro di Sopravvivenza sta per cominciare{LF}nell'arena. Se riesci a sopravvivere a sette round,{LF}farò in modo che tu riceva una ricompensa come si deve.`
 A Survival Match is about to begin over{LF}in the arena. If you can survive seven rounds,{LF}I'll make sure you're properly rewarded.
 
-`Un Incontro di Sopravvivenza sta per cominciare{LF}nell’arena. Se riesci a sopravvivere a otto round,{LF}farò in modo che tu riceva una ricompensa come si deve.`
+`Un Incontro di Sopravvivenza sta per cominciare{LF}nell'arena. Se riesci a sopravvivere a otto round,{LF}farò in modo che tu riceva una ricompensa come si deve.`
 A Survival Match is about to begin over{LF}in the arena. If you can survive eight rounds,{LF}I'll make sure you're properly rewarded.
 
-`Un Incontro di Sopravvivenza sta per cominciare{LF}nell’arena. Se riesci a sopravvivere a nove round,{LF}farò in modo che tu riceva una ricompensa come si deve.`
+`Un Incontro di Sopravvivenza sta per cominciare{LF}nell'arena. Se riesci a sopravvivere a nove round,{LF}farò in modo che tu riceva una ricompensa come si deve.`
 A Survival Match is about to begin over{LF}in the arena. If you can survive nine rounds,{LF}I'll make sure you're properly rewarded.
 
-`Un Incontro di Sopravvivenza sta per cominciare{LF}nell’arena. Se riesci a sopravvivere a dieci round,{LF}farò in modo che tu riceva una ricompensa come si deve.`
+`Un Incontro di Sopravvivenza sta per cominciare{LF}nell'arena. Se riesci a sopravvivere a dieci round,{LF}farò in modo che tu riceva una ricompensa come si deve.`
 A Survival Match is about to begin over{LF}in the arena. If you can survive ten rounds,{LF}I'll make sure you're properly rewarded.
 

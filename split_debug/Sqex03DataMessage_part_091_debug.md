@@ -40,7 +40,7 @@ So...the flower's not driving{LF}you crazy or anything?{#Name="Zero"}
 `No. Sto beeeeeenissimo.{#Name="Three"}`
 Nope. I'm aaaaaa-okay.{#Name="Three"}
 
-`Immagino che tu fossi già un po’ pazza in partenza.{#Name="Zero"}`
+`Immagino che tu fossi già un po' pazza in partenza.{#Name="Zero"}`
 I guess you were kinda crazy to begin with.{#Name="Zero"}
 
 `Heh heh.{#Name="Three"}`
@@ -52,7 +52,7 @@ Look, Zero! Check it out! I summoned{LF}an ancient dragon all by myself!{#Name="
 `Che diavolo stai blaterando?{#Name="Zero"}`
 The hell are you yammering on about?{#Name="Zero"}
 
-`È la forza del fiore all’opera! Vedi?{LF}Sono proprio come te! Hee hee hee hee!{#Name="Three"}`
+`È la forza del fiore all'opera! Vedi?{LF}Sono proprio come te! Hee hee hee hee!{#Name="Three"}`
 It's the flower's force at work! See?{LF}I'm just like you! Hee hee hee hee!{#Name="Three"}
 
 `La Three che conosco non è così allegra.{#Name="Zero"}`
@@ -85,7 +85,7 @@ Zeeeeeerrrooooooooo!{#Name="Three"}
 `Threeeeee!{#Name="Zero"}`
 Threeeeee!{#Name="Zero"}
 
-`Ce l’abbiamo fatta.{#Name="Mikhail"}`
+`Ce l'abbiamo fatta.{#Name="Mikhail"}`
 We did it.{#Name="Mikhail"}
 
 `Sì. Ne manca una...{#Name="Zero"}`
@@ -148,7 +148,7 @@ Defeat Ezrael!{#Name="説明文"}
 `次のシーケンスに移動しますか？{#Name=" "}`
 次のシーケンスに移動しますか？{#Name=" "}
 
-`Immagino che questo spieghi tutta quell’energia magica!{#Name="Zero"}`
+`Immagino che questo spieghi tutta quell'energia magica!{#Name="Zero"}`
 I guess that explains all the magical energy!{#Name="Zero"}
 
 `Non mi piace, Zero. Non mi piace affatto.{#Name="Mikhail"}`
@@ -220,7 +220,7 @@ Still...{#Name="Zero"}
 `Questo tizio ama proprio scappare, eh?{LF}Stupido bastardo!{#Name="Zero"}`
 This guy sure loves running away, huh?{LF}Stupid bastard!{#Name="Zero"}
 
-`Sta’ fermo e combatti, maiale di merda!{#Name="Zero"}`
+`Sta' fermo e combatti, maiale di merda!{#Name="Zero"}`
 Stand still and fight me, shit-hog!{#Name="Zero"}
 
 `Augh, è troppo veloce, Zero! Non riesco a seguirlo!{LF}Non riesco a seguirlo!{#Name="Mikhail"}`
@@ -229,7 +229,7 @@ Augh, he's too fast, Zero! I can't keep track!{LF}I can't keep track!{#Name="Mik
 `Accidenti! Smettila di saltare in giro!{#Name="Zero"}`
 Dammit! Stop jumpin' around!{#Name="Zero"}
 
-`Merda. Se solo potessimo fermare quell’attacco...{#Name="Zero"}`
+`Merda. Se solo potessimo fermare quell'attacco...{#Name="Zero"}`
 Shit. If we could just stop that attack...{#Name="Zero"}
 
 `Ora è la nostra occasione, Zero!{#Name="Mikhail"}`
@@ -262,7 +262,7 @@ Yay!{#Name="Mikhail"}
 `♪Mi chiamo Mikhail! Mi chiamo Mikhaiiil!♪{#Name="Mikhail"}`
 ♪My name is Mikhail! My name is Mikhaiiil!♪{#Name="Mikhail"}
 
-`♪Amo anche un po’ di carne marcia♪{#Name="Mikhail"}`
+`♪Amo anche un po' di carne marcia♪{#Name="Mikhail"}`
 ♪I also love me some rotten meat♪{#Name="Mikhail"}
 
 `♪Dammi lodi dammi lodi dammi lodi{LF}dammi lodi dimmi che sono il più meglio♪{#Name="Mikhail"}`

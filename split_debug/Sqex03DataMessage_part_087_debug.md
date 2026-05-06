@@ -1,7 +1,7 @@
 `"Le radici di tutto questo male?"{LF}Sul serio, Z. Chi parla così?{#Name="Dito"}`
 "The root of all this evil?"{LF}Seriously, Z. Who talks like that?{#Name="Dito"}
 
-`Sta’ zitto e combatti!{#Name="Zero"}`
+`Sta' zitto e combatti!{#Name="Zero"}`
 Shut up and fight!{#Name="Zero"}
 
 `487{#Name="487"}`
@@ -136,7 +136,7 @@ Defeat the Golems!{#Name="説明文"}
 `（リザーブ）{#Name="（リザーブ）"}`
 （リザーブ）{#Name="（リザーブ）"}
 
-`È Zero! Che sia dannata all’inferno!{#Name="Soldier A"}`
+`È Zero! Che sia dannata all'inferno!{#Name="Soldier A"}`
 It's Zero! Damn her to hell!{#Name="Soldier A"}
 
 `È terrificante! Niente a che vedere con la nostra Lady Two!{#Name="Soldier F"}`
@@ -148,7 +148,7 @@ There she is! All men, take positions!{#Name="Soldier B"}
 `Mi sacrificherò volentieri per Lady Two!{#Name="Soldier C"}`
 I will gladly sacrifice myself for the sake of Lady Two!{#Name="Soldier C"}
 
-`Anch’i— ehm, anch’io!{#Name="Soldier D"}`
+`Anch'i— ehm, anch'io!{#Name="Soldier D"}`
 Me to—er, as well!{#Name="Soldier D"}
 
 `Non possiamo lasciarla avvicinare a Lady Two!{#Name="Soldier E"}`
@@ -175,7 +175,7 @@ I want a world where Lady Two can always be happy!{#Name="Soldier G"}
 `Fermate il demonio qui e ora!{#Name="Soldier E"}`
 Stop the demon here and now!{#Name="Soldier E"}
 
-`Il momento è adesso! Ricordate l’addestramento, uomini!{#Name="Soldier F"}`
+`Il momento è adesso! Ricordate l'addestramento, uomini!{#Name="Soldier F"}`
 The time is now! Remember your training, men!{#Name="Soldier F"}
 
 `Lady Two veglia su di noi! Ne sono sicuro!{#Name="Soldier D"}`
@@ -184,7 +184,7 @@ Lady Two watches over us! I'm sure of it!{#Name="Soldier D"}
 `Aprite un varco! Stiamo trasportando dei feriti!{#Name="Soldier A"}`
 Open a path! We're carrying wounded here!{#Name="Soldier A"}
 
-`Non sono ancora morto... Ma ti porterò all’inferno con me!{#Name="Soldier B"}`
+`Non sono ancora morto... Ma ti porterò all'inferno con me!{#Name="Soldier B"}`
 I'm not dead yet... But I'll take you to hell with me!{#Name="Soldier B"}
 
 `Il nostro sacrificio qui garantirà la sopravvivenza di Lady Two!{#Name="Soldier E"}`
@@ -193,7 +193,7 @@ Our sacrifice here will ensure Lady Two lives on!{#Name="Soldier E"}
 `È la fine del mondo... Siamo tutti impazziti!{#Name="Soldier F"}`
 It's the end of the world... We've all gone mad!{#Name="Soldier F"}
 
-`Come può questo demonio essere un’Intoner!?{#Name="Soldier E"}`
+`Come può questo demonio essere un'Intoner!?{#Name="Soldier E"}`
 How can this demon be an Intoner!?{#Name="Soldier E"}
 
 `Una...una falsa Intoner!?{#Name="Soldier C"}`
@@ -208,7 +208,7 @@ That woman is a disgrace to Lady Two and everything she stands for!{#Name="Soldi
 `Andrà tutto bene finché Lady Two sarà con noi!{#Name="Soldier G"}`
 We'll be fine so long as Lady Two is with us!{#Name="Soldier G"}
 
-`A dire il vero, un po’ di equipaggiamento aiuterebbe!{#Name="Soldier E"}`
+`A dire il vero, un po' di equipaggiamento aiuterebbe!{#Name="Soldier E"}`
 Actually, some equipment might help!{#Name="Soldier E"}
 
 `Credete in Lady Two, e non proverete paura!{#Name="Soldier G"}`
@@ -226,7 +226,7 @@ Our perfect goddess would never betray us! ...Not like some of the girls I know,
 `Attenti! È Zero!{#Name="Soldier B"}`
 Look out! It's Zero!{#Name="Soldier B"}
 
-`Pensare che un’Intoner possa essere così vile!{#Name="Soldier F"}`
+`Pensare che un'Intoner possa essere così vile!{#Name="Soldier F"}`
 To think an Intoner could be so vile!{#Name="Soldier F"}
 
 `Niente ritirata! Come potremmo mai guardare Lady Two in faccia!?{#Name="Soldier C"}`
@@ -268,7 +268,7 @@ Cent!{#Name="Zero"}
 `Sììì?{#Name="Cent"}`
 Yeees?{#Name="Cent"}
 
-`Ho bisogno che tu pensi, okay?{LF}Dov’è Two? Qual è la sua debolezza?{#Name="Zero"}`
+`Ho bisogno che tu pensi, okay?{LF}Dov'è Two? Qual è la sua debolezza?{#Name="Zero"}`
 I need you to think, okay?{LF}Where's Two? What's her weakness?{#Name="Zero"}
 
 `Devi sapere qualcosa. Forza! Sbrigati!{#Name="Zero"}`

@@ -28,7 +28,7 @@ Figured you'd be happy as a pig in shit right now.{#Name="Zero"}
 `...Pfft.{#Name="Dito"}`
 ...Pfft.{#Name="Dito"}
 
-`C’è qualcosa... non lo so, accidenti.{LF}C’è qualcosa che non va in questo posto.{#Name="Dito"}`
+`C'è qualcosa... non lo so, accidenti.{LF}C'è qualcosa che non va in questo posto.{#Name="Dito"}`
 There's something... I don't know, man.{LF}There's just something wrong about this place.{#Name="Dito"}
 
 `Sembra che questa foresta stia cadendo a pezzi.{LF}Come se tutto, in qualche modo... stesse perdendo coesione.{#Name="Decadus"}`
@@ -37,7 +37,7 @@ It feels like this forest is falling apart.{LF}As if everything is somehow...los
 `Vero? Mi sta facendo venire una nausea tremenda.{#Name="Dito"}`
 Right? It's making me feel all sick and stuff.{#Name="Dito"}
 
-`Infatti. Anch’io sono preda di un profondo disagio.{#Name="Decadus"}`
+`Infatti. Anch'io sono preda di un profondo disagio.{#Name="Decadus"}`
 Indeed. I am wracked with discomfort as well.{#Name="Decadus"}
 
 `Un disagio così terribile... così magnifico... Nnnngh...{#Name="Decadus"}`
@@ -49,7 +49,7 @@ Uh oh. There he goes.{#Name="Zero"}
 `Infatti!{#Name="Octa"}`
 Indeed!{#Name="Octa"}
 
-`La fine del mondo potrebbe essere vicina, eppure noi{LF}restiamo qui, tormentati dall’inazione...{#Name="Decadus"}`
+`La fine del mondo potrebbe essere vicina, eppure noi{LF}restiamo qui, tormentati dall'inazione...{#Name="Decadus"}`
 The end of the world may be nigh, and yet we{LF}sit here wracked with inaction...{#Name="Decadus"}
 
 `Oh, quanto amo essere frustrato in questo modo!{#Name="Decadus"}`
@@ -67,7 +67,7 @@ Besides that.{#Name="Zero"}
 `Dito ha detto di sentire qualcosa di... strano da queste parti.{#Name="Zero"}`
 Dito said he felt something...weird going on around here.{#Name="Zero"}
 
-`Oh. Quello. Be’, sì, il mondo sembra un tantino fuori equilibrio. {#Name="Octa"}`
+`Oh. Quello. Be', sì, il mondo sembra un tantino fuori equilibrio. {#Name="Octa"}`
 Oh. That. Well, yes, the world does seem a tad out of balance. {#Name="Octa"}
 
 `Anche se potrebbe essere solo tutto il sangue che in questo momento{LF}sta defluendo dalla mia testa!{#Name="Octa"}`
@@ -82,7 +82,7 @@ Are we gonna be okay, Zero? I mean, with all this...{LF}important-sounding stuff
 `Non immischiarti in cose che non capisci.{#Name="Zero"}`
 Don't butt in on things you don't understand.{#Name="Zero"}
 
-`Ehi, eddai! Anch’io voglio parlare di cose che sembrano importanti!{#Name="Mikhail"}`
+`Ehi, eddai! Anch'io voglio parlare di cose che sembrano importanti!{#Name="Mikhail"}`
 Hey, come on! I wanna talk about important-sounding stuff too!{#Name="Mikhail"}
 
 `えっ{#Name="ミハイル"}`
@@ -124,7 +124,7 @@ That's odd. Why can't I get her face out of my mind?{#Name="Cent"}
 `E adesso cosa facciamo?{#Name="Mikhail"}`
 So what do we do now?{#Name="Mikhail"}
 
-`Addentriamoci nella foresta. Non c’è altra scelta.{#Name="Decadus"}`
+`Addentriamoci nella foresta. Non c'è altra scelta.{#Name="Decadus"}`
 Go deeper into the forest. There is no other choice.{#Name="Decadus"}
 
 `Dobbiamo trovare Lady One o Lady Three{LF}il prima possibile.{#Name="Octa"}`
@@ -139,7 +139,7 @@ Update{#Name="Accord"}
 `La divergenza innescata dalla singolarità nota come Zero{#Name="Accord"}`
 The divergence triggered by the singularity known as Zero{#Name="Accord"}
 
-`ha portato all’osservazione di un’ampia gamma di anomalie.{#Name="Accord"}`
+`ha portato all'osservazione di un'ampia gamma di anomalie.{#Name="Accord"}`
 has led to a wide range of observed anomalies.{#Name="Accord"}
 
 `La foresta è cambiata e i suoi nemici sono più violenti. Inoltre,{#Name="Accord"}`
@@ -148,7 +148,7 @@ The forest has changed, and its foes are more violent. Furthermore,{#Name="Accor
 `la singolarità nota come Two e il suo discepolo, Cent,{#Name="Accord"}`
 the singularity known as Two, and her disciple, Cent,{#Name="Accord"}
 
-`ora agiscono indipendentemente l’una dall’altro.{#Name="Accord"}`
+`ora agiscono indipendentemente l'una dall'altro.{#Name="Accord"}`
 are now acting independently of one another.{#Name="Accord"}
 
 `M3240_E0010_QV: Inizio registrazione{#Name="Accord"}`
@@ -274,13 +274,13 @@ I'm afraid I can't tell you that.{#Name="Accord"}
 `Quindi, cioè, tu chi saresti, esattamente?{#Name="Dito"}`
 So, like, who are you, anyway?{#Name="Dito"}
 
-`Mi chiamo Accord. Sono un’amica di Zero.{#Name="Accord"}`
+`Mi chiamo Accord. Sono un'amica di Zero.{#Name="Accord"}`
 My name is Accord. I'm a friend of Zero's.{#Name="Accord"}
 
 `Bugiarda. Ti conosco appena. {#Name="Zero"}`
 Liar. I barely know you. {#Name="Zero"}
 
-`Non c’è modo in cui Intoner e draghi{LF}possano vivere in pace tra loro?{#Name="Octa"}`
+`Non c'è modo in cui Intoner e draghi{LF}possano vivere in pace tra loro?{#Name="Octa"}`
 Is there no way Intoners and dragons{LF}can live at peace with each other?{#Name="Octa"}
 
 `No. Sarebbe una perdita di tempo provarci.{#Name="Zero"}`

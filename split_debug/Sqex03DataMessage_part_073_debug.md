@@ -7,10 +7,10 @@ And the forest they were expected to enter manifested in a different form...{#Na
 `M3210_E0020_QV: Inizio registrazione{#Name="361"}`
 M3210_E0020_QV: Begin Recording{#Name="361"}
 
-`Vado a controllare le cose dall’alto, okay?{LF}Controllerò fortissimo!{#Name="Mikhail"}`
+`Vado a controllare le cose dall'alto, okay?{LF}Controllerò fortissimo!{#Name="Mikhail"}`
 I'm gonna go watch for stuff from above, okay?{LF}I'm gonna watch real hard!{#Name="Mikhail"}
 
-`Sì, fa’ pure.{#Name="Zero"}`
+`Sì, fa' pure.{#Name="Zero"}`
 Yeah, you do that.{#Name="Zero"}
 
 `遠距離攻撃をするヤツは全員腐ったナマコのカスだ{#Name="ゼロ"}`
@@ -253,7 +253,7 @@ Hey, guys? Now's our chance.{#Name="Dito"}
 `La nostra occasione per cosa?{#Name="Octa"}`
 Our chance for what?{#Name="Octa"}
 
-`Uh, se non ve ne foste accorti, Zero al momento{LF}è un po’ bloccata. Non può usare{LF}i suoi poteri assurdi o quella roba lì.{#Name="Dito"}`
+`Uh, se non ve ne foste accorti, Zero al momento{LF}è un po' bloccata. Non può usare{LF}i suoi poteri assurdi o quella roba lì.{#Name="Dito"}`
 Uh, if you hadn't noticed, Zero's a bit{LF}tied up at the moment. She can't use{LF}her crazy powers or any of that junk.{#Name="Dito"}
 
 `Questa è la nostra occasione per levarci dalle palle!{#Name="Dito"}`
@@ -304,7 +304,7 @@ It's Zero! She's here! The traitor is here!{#Name="Soldier B"}
 `Proteggici, Lady Three! Ti prego!{#Name="Soldier C"}`
 Protect us, Lady Three! Please!{#Name="Soldier C"}
 
-`C’è qualcosa di strano in questa foresta.{#Name="Soldier G"}`
+`C'è qualcosa di strano in questa foresta.{#Name="Soldier G"}`
 There's something weird going on in this forest.{#Name="Soldier G"}
 
 `E chi se ne importa? Uccidila!{#Name="Soldier E"}`

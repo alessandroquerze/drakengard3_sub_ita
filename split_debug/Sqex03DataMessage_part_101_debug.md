@@ -22,7 +22,7 @@ You thought you could do everything by yourself?{LF}Well, THIS IS WHAT YOU FUCKI
 `Ugh... Sei tu quella che dovrebbe essere cancellata, Zero!{#Name="One"}`
 Ugh... You're the one who should be erased, Zero!{#Name="One"}
 
-`Sta’ zitta! Sta’ zitta, sta’ zitta, sta’ zitta, STA’ ZITTA!{#Name="Zero"}`
+`Sta' zitta! Sta' zitta, sta' zitta, sta' zitta, STA' ZITTA!{#Name="Zero"}`
 Shut up! Shut up, shut up, shut up, SHUT UP!{#Name="Zero"}
 
 `Hai ucciso Mikhail...{#Name="Zero"}`
@@ -34,7 +34,7 @@ You killed Mikhaaail!{#Name="Zero"}
 `Perché era la tua spada, Zero!{#Name="One"}`
 Because he was your sword, Zero!{#Name="One"}
 
-`Sei un’Intoner maledetta!{LF}Distruggerai il mondo!{#Name="One"}`
+`Sei un'Intoner maledetta!{LF}Distruggerai il mondo!{#Name="One"}`
 You're a cursed Intoner!{LF}You're going to destroy the world!{#Name="One"}
 
 `No! Io... Io...{#Name="Zero"}`
@@ -49,7 +49,7 @@ Aaaaaahhh!{#Name="Zero"}
 `{06}>{#Name="One"}`
 {06}>{#Name="One"}
 
-`Sei...l’unica rimasta...Zero...{#Name="One"}`
+`Sei...l'unica rimasta...Zero...{#Name="One"}`
 You're the...only one left...Zero...{#Name="One"}
 
 `{06}>{#Name="One"}`
@@ -73,7 +73,7 @@ Stupid One... Who does she think I am?{#Name="Zero"}
 `Idiota.{#Name="Zero"}`
 Idiot.{#Name="Zero"}
 
-`Troverò un drago in qualche modo...{LF}C’è...ancora tempo...{#Name="Zero"}`
+`Troverò un drago in qualche modo...{LF}C'è...ancora tempo...{#Name="Zero"}`
 I'll find a dragon somehow...{LF}There's...still time...{#Name="Zero"}
 
 `{06}>{#Name="Zero"}`
@@ -82,7 +82,7 @@ I'll find a dragon somehow...{LF}There's...still time...{#Name="Zero"}
 `Aggiornamento{#Name="Accord"}`
 Update{#Name="Accord"}
 
-`L’Intoner Zero ha completato il suo obiettivo.{#Name="Accord"}`
+`L'Intoner Zero ha completato il suo obiettivo.{#Name="Accord"}`
 The Intoner Zero completed her objective.{#Name="Accord"}
 
 `Tuttavia, il drago Mikhail è morto,{#Name="Accord"}`
@@ -109,7 +109,7 @@ M5120_E0945_FL: End Recording{#Name="Accord"}
 `Uccidi One.{#Name=" "}`
 Kill One.{#Name=" "}
 
-`Dev’esserci un nucleo magico che li controlla!{#Name="Zero"}`
+`Dev'esserci un nucleo magico che li controlla!{#Name="Zero"}`
 There's gotta be a magic core controlling them!{#Name="Zero"}
 
 `Non so cosa significhi, Zero!{#Name="Mikhail"}`
@@ -124,10 +124,10 @@ Dammit! It's not him.{#Name="Zero"}
 `Ci risiamo...{#Name="Zero"}`
 Here we go again...{#Name="Zero"}
 
-`Ehhh? Com’è che non è uscito nessun nucleo?{#Name="Mikhail"}`
+`Ehhh? Com'è che non è uscito nessun nucleo?{#Name="Mikhail"}`
 Huhhh? How come no core came out?{#Name="Mikhail"}
 
-`No! Laggiù! Ce l’ha quello!{#Name="Zero"}`
+`No! Laggiù! Ce l'ha quello!{#Name="Zero"}`
 No! Over there! That one's got it!{#Name="Zero"}
 
 `Ehi, hai visto in quale è entrato il nucleo?{#Name="Zero"}`
@@ -154,7 +154,7 @@ Defeat One!{#Name=" "}
 `Se volo qui dentro finirò per sbattere la testa!{#Name="Mikhail"}`
 I'm gonna hit my head if I fly around in here!{#Name="Mikhail"}
 
-`Magari ti farà diventare un po’ più intelligente!{#Name="Zero"}`
+`Magari ti farà diventare un po' più intelligente!{#Name="Zero"}`
 Maybe that'll smarten you up a bit!{#Name="Zero"}
 
 `Sei cattiva, Zero! Guarda, qui dentro non volo! Non volo!{#Name="Mikhail"}`
@@ -289,13 +289,13 @@ So this is One's home base, is it?{#Name="Zero"}
 `Sto bene! Vai a prendere quel tizio! {#Name="Zero"}`
 I'm fine! Go get that guy! {#Name="Zero"}
 
-`Giusto! Sta’ attenta, Zero! Sta’ attenta, okay?{#Name="Mikhail"}`
+`Giusto! Sta' attenta, Zero! Sta' attenta, okay?{#Name="Mikhail"}`
 Right! Be careful, Zero! Be careful, okay?{#Name="Mikhail"}
 
 `Smettila di ripeterti!{#Name="Zero"}`
 Stop repeating yourself!{#Name="Zero"}
 
-`Il mio nome è Zero, l’Intoner originale, e l’immortale—{#Name="Zero"}`
+`Il mio nome è Zero, l'Intoner originale, e l'immortale—{#Name="Zero"}`
 My name is Zero, the original Intoner, and the immortal—{#Name="Zero"}
 
 `PIANTALA! Sto cercando di fare un discorso!{#Name="Zero"}`
@@ -304,7 +304,7 @@ KNOCK IT OFF! I'm trying to make a speech here!{#Name="Zero"}
 `Ora... Uh...{#Name="Zero"}`
 Now... Uh...{#Name="Zero"}
 
-`Oh, per l’amor del cazzo! Ora ho perso il filo!{#Name="Zero"}`
+`Oh, per l'amor del cazzo! Ora ho perso il filo!{#Name="Zero"}`
 Oh for fuck's sake! Now I lost my place!{#Name="Zero"}
 
 `Credi di essere pronto per me!?{#Name="Soldier A"}`

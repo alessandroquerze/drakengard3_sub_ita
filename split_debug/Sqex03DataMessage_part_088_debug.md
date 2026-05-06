@@ -22,7 +22,7 @@ Watch and learn, chumps!{#Name="Zero"}
 `Oh, non avevo intenzione.{#Name="Dito"}`
 Oh, I wasn't gonna.{#Name="Dito"}
 
-`Nessun "te l’avevo detto"...{LF}Nessun "guarda quanto sei stupida"...{#Name="Dito"}`
+`Nessun "te l'avevo detto"...{LF}Nessun "guarda quanto sei stupida"...{#Name="Dito"}`
 No "I told you so"...{LF}No "Look how stupid you are"...{#Name="Dito"}
 
 `No! Bocca cucita.{#Name="Dito"}`
@@ -58,16 +58,16 @@ The unclean must never be allowed{LF}to set foot in the Cathedral City!{#Name="S
 `Infatti! Come osa Zero mettersi{LF}sullo stesso piano di Lady Two!{#Name="Soldier E"}`
 Indeed! How dare Zero put herself{LF}on equal footing with Lady Two!{#Name="Soldier E"}
 
-`Finché Lady Two sarà lì per me,{LF}non desidero nient’altro!{#Name="Soldier C"}`
+`Finché Lady Two sarà lì per me,{LF}non desidero nient'altro!{#Name="Soldier C"}`
 As long as Lady Two is there for me,{LF}I desire nothing else!{#Name="Soldier C"}
 
 `Inchinati davanti a Lady Two, falsa Intoner!{#Name="Soldier D"}`
 Bow before Lady Two, false Intoner!{#Name="Soldier D"}
 
-`Combattete per Lady Two!{LF}La nostra guida è la salvatrice di tutta l’umanità!{#Name="Soldier A"}`
+`Combattete per Lady Two!{LF}La nostra guida è la salvatrice di tutta l'umanità!{#Name="Soldier A"}`
 Fight for Lady Two!{LF}Our leader is the savior of all mankind!{#Name="Soldier A"}
 
-`Tu! Dov’è il tuo equipaggiamento?{#Name="Soldier F"}`
+`Tu! Dov'è il tuo equipaggiamento?{#Name="Soldier F"}`
 You! Where's your equipment?{#Name="Soldier F"}
 
 `Non temete! Lady Two è la mia spada!{LF}Lady Two è il mio scudo!{#Name="Soldier G"}`
@@ -79,7 +79,7 @@ The winds of Lady Two shall blow{LF}like a righteous hurricane!{#Name="Soldier G
 `Questi tizi sono fottutamente strani.{#Name="Zero"}`
 These guys are fuckin' weird.{#Name="Zero"}
 
-`L’hai detto.{#Name="Cent"}`
+`L'hai detto.{#Name="Cent"}`
 You said it.{#Name="Cent"}
 
 `Certo, chi sono io per parlare? Guarda con chi giro.{#Name="Zero"}`
@@ -97,7 +97,7 @@ The moment of judgment is here!{LF}Lady Two sees and knows all!{#Name="Soldier E
 `Attenti! Soldato ferito qui!{#Name="Soldier C"}`
 Look out! Wounded soldier here!{#Name="Soldier C"}
 
-`Okay. Questo è un po’ inquietante.{#Name="Zero"}`
+`Okay. Questo è un po' inquietante.{#Name="Zero"}`
 Okay. This is a bit creepy.{#Name="Zero"}
 
 `Sì. Si stanno trasformando in un branco di fanatici.{#Name="Dito"}`
@@ -127,7 +127,7 @@ I am no such thing!{#Name="Zero"}
 `トウは居なかったな……{#Name=" "}`
 トウは居なかったな……{#Name=" "}
 
-`Quello è il percorso per l’uscita?{#Name="Zero"}`
+`Quello è il percorso per l'uscita?{#Name="Zero"}`
 Is that the path to the exit?{#Name="Zero"}
 
 `Suppongo che questo significhi che Lady Two{LF}non sia mai stata qui.{#Name="Decadus"}`
@@ -136,7 +136,7 @@ I suppose that means Lady Two{LF}was never here at all.{#Name="Decadus"}
 `Eppure abbiamo sentito i soldati parlare{LF}molte volte di Cathedral City.{#Name="Octa"}`
 Yet we've heard the soldiers speak{LF}of the Cathedral City many times.{#Name="Octa"}
 
-`Cathedral City... Dev’essere lì che si trova One.{#Name="Zero"}`
+`Cathedral City... Dev'essere lì che si trova One.{#Name="Zero"}`
 Cathedral City... That must be where One is.{#Name="Zero"}
 
 `469{#Name="469"}`
@@ -214,7 +214,7 @@ Make your way through the desert ruins.{#Name="説明文"}
 `Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}`
 Defeat the enemies blocking your way!{#Name="説明文"}
 
-`Sconfiggi l’Ogre!{#Name="説明文"}`
+`Sconfiggi l'Ogre!{#Name="説明文"}`
 Defeat the Ogre!{#Name="説明文"}
 
 `Sconfiggi il Cerbero di Fiamme!{#Name="説明文"}`
@@ -244,7 +244,7 @@ Lady Two is with us all!{#Name="Soldier A"}
 `Va tutto bene! Andrà tutto bene!{#Name="Soldier A"}`
 It's all right! Everything will be all right!{#Name="Soldier A"}
 
-`Lady Two è l’unica vera creatrice! Anche se il mondo finirà, noi sopravvivremo! {#Name="Soldier B"}`
+`Lady Two è l'unica vera creatrice! Anche se il mondo finirà, noi sopravvivremo! {#Name="Soldier B"}`
 Lady Two is the one true creator! Even if the world ends, we will survive! {#Name="Soldier B"}
 
 `Infatti! Qualsiasi mondo che resista a Lady Two deve essere fatto a pezzi!{#Name="Soldier C"}`
@@ -271,7 +271,7 @@ There she is! The putrid demon they call Zero!{#Name="Soldier E"}
 `Ci offriamo a Lady Two!{#Name="Soldier D"}`
 We offer ourselves to Lady Two!{#Name="Soldier D"}
 
-`L’offerta deve essere compiuta!{#Name="Soldier C"}`
+`L'offerta deve essere compiuta!{#Name="Soldier C"}`
 The offering must be made!{#Name="Soldier C"}
 
 `Presto, molto presto, tutti su questo mondo saranno giudicati!{#Name="Soldier B"}`
@@ -292,7 +292,7 @@ Hail our Lady! Hail our Lady!{#Name="Soldier B"}
 `Il giorno del giudizio è vicino! Risorgeremo e raggiungeremo una dimensione superiore!{#Name="Soldier E"}`
 The day of judgment is nigh! We shall rise and attain a higher dimension!{#Name="Soldier E"}
 
-`Lady Two è la santa trinità! Madre, moglie e figlia dell’umanità!{#Name="Soldier F"}`
+`Lady Two è la santa trinità! Madre, moglie e figlia dell'umanità!{#Name="Soldier F"}`
 Lady Two is the holy trinity! Mother, wife, and daughter of mankind!{#Name="Soldier F"}
 
 `Strappate il fiore marcio dal volto della falsa Intoner!{#Name="Soldier G"}`
@@ -301,13 +301,13 @@ Pluck the rotten flower from the face of the false Intoner!{#Name="Soldier G"}
 `Quel bocciolo è un affronto a Lady Two!{#Name="Soldier G"}`
 That blossom is an affront to Lady Two!{#Name="Soldier G"}
 
-`Abbiamo bevuto dal calice dell’acqua santa! Siamo invincibili!{#Name="Soldier A"}`
+`Abbiamo bevuto dal calice dell'acqua santa! Siamo invincibili!{#Name="Soldier A"}`
 We have drunk from the cup of holy water! We are invincible!{#Name="Soldier A"}
 
 `Sììì!{#Name="Soldier B"}`
 Yeahhh!{#Name="Soldier B"}
 
-`L’acqua santa di Lady Two è dentro di noi!{#Name="Soldier F"}`
+`L'acqua santa di Lady Two è dentro di noi!{#Name="Soldier F"}`
 Lady Two's holy water is within us!{#Name="Soldier F"}
 
 `Lady Two è una sorgente di rettitudine! La sua divinità può evocare miracoli!{#Name="Soldier F"}`

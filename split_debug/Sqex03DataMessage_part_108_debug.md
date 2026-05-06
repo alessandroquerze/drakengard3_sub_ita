@@ -133,7 +133,7 @@ Part 2: The Climb{#Name=" "}
 `Parte 3: Cane da Guardia{#Name=" "}`
 Part 3: Guard Dog{#Name=" "}
 
-`Parte 4: Il Fiore dell’Intoner{#Name=" "}`
+`Parte 4: Il Fiore dell'Intoner{#Name=" "}`
 Part 4: The Intoner's Flower{#Name=" "}
 
 ` {#Name=" "}`
@@ -163,7 +163,7 @@ Part 1: Deliberation{#Name=" "}
 `Parte 2: Verso la Fortezza{#Name=" "}`
 Part 2: To the Fortress{#Name=" "}
 
-`Parte 3: L’idiota{#Name=" "}`
+`Parte 3: L'idiota{#Name=" "}`
 Part 3: The Dumbass{#Name=" "}
 
 `Parte 4: Questioni di miniera{#Name=" "}`

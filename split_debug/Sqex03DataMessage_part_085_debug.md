@@ -28,7 +28,7 @@ That's good, right? That's really good!{#Name="Mikhail"}
 `*Sigh*{#Name="Zero"}`
 *Sigh*{#Name="Zero"}
 
-`Ehi, Zero? Che cos’ha Two,{LF}comunque?{#Name="Mikhail"}`
+`Ehi, Zero? Che cos'ha Two,{LF}comunque?{#Name="Mikhail"}`
 Hey, Zero? What's wrong with Two,{LF}anyway?{#Name="Mikhail"}
 
 `Ha combattuto contro i suoi stessi poteri e ha perso.{#Name="Zero"}`
@@ -37,7 +37,7 @@ She fought her own powers and lost.{#Name="Zero"}
 `Serve una mente forte per resistere{LF}al potere di un canto.{#Name="Zero"}`
 You need a strong mind to withstand{LF}the power of a song.{#Name="Zero"}
 
-`Lei non ce l’aveva.{#Name="Zero"}`
+`Lei non ce l'aveva.{#Name="Zero"}`
 She didn't have it.{#Name="Zero"}
 
 `Quindi è solo malata, giusto?{LF}Possiamo curarla? Eh? Possiamo?{#Name="Mikhail"}`
@@ -58,7 +58,7 @@ Get 'em, Zero, get 'em!{#Name="Mikhail"}
 `Io? Sei tu quello che deve prenderli!{#Name="Zero"}`
 Me? You're the one who has to get 'em!{#Name="Zero"}
 
-`L’angelo di Lady Two... Sta perdendo l’armatura...{#Name="Cent"}`
+`L'angelo di Lady Two... Sta perdendo l'armatura...{#Name="Cent"}`
 Lady Two's angel... It's losing its armor...{#Name="Cent"}
 
 `Sì, perché lo stiamo attaccando!{#Name="Zero"}`
@@ -172,7 +172,7 @@ Attack! Attack!{#Name="Soldier B"}
 `Uh...ah... Ahhhhhhh!{#Name="Soldier G"}`
 Uh...ah... Ahhhhhhh!{#Name="Soldier G"}
 
-`L’oscurità è nostra alleata, uomini! Conosciamo la conformazione di questa terra!{#Name="Soldier E"}`
+`L'oscurità è nostra alleata, uomini! Conosciamo la conformazione di questa terra!{#Name="Soldier E"}`
 The darkness is our ally, men! We know the lay of this land!{#Name="Soldier E"}
 
 `Non possiamo permettere che accada qualcosa a Lady Two!{#Name="Soldier C"}`
@@ -253,10 +253,10 @@ Please be mindful of your health at all times.{#Name="Decadus"}
 `Grazie per il consiglio.{#Name="Zero"}`
 Thanks for the tip.{#Name="Zero"}
 
-`Detto questo, ho la bocca un po’ secca.{LF}E mi fa male la testa...{#Name="Zero"}`
+`Detto questo, ho la bocca un po' secca.{LF}E mi fa male la testa...{#Name="Zero"}`
 That said, my mouth is kinda dry.{LF}And my head hurts...{#Name="Zero"}
 
-`Lady Zero, quelli sono classici sintomi di disidratazione!{LF}Vi serve subito dell’acqua!{#Name="Decadus"}`
+`Lady Zero, quelli sono classici sintomi di disidratazione!{LF}Vi serve subito dell'acqua!{#Name="Decadus"}`
 Lady Zero, those are classic dehydration symptoms!{LF}You need water right away!{#Name="Decadus"}
 
 `379{#Name="379"}`

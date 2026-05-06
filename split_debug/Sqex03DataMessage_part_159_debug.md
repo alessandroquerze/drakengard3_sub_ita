@@ -184,16 +184,16 @@ Twisted Hunger Lv. 3
 `Fame Distorta Lv. 4`
 Twisted Hunger Lv. 4
 
-`Lancia dell’Empatia Lv. 1`
+`Lancia dell'Empatia Lv. 1`
 Spear of Empathy Lv. 1
 
-`Lancia dell’Empatia Lv. 2`
+`Lancia dell'Empatia Lv. 2`
 Spear of Empathy Lv. 2
 
-`Lancia dell’Empatia Lv. 3`
+`Lancia dell'Empatia Lv. 3`
 Spear of Empathy Lv. 3
 
-`Lancia dell’Empatia Lv. 4`
+`Lancia dell'Empatia Lv. 4`
 Spear of Empathy Lv. 4
 
 `Principessa del Tuono Lv. 1`
@@ -244,16 +244,16 @@ Robber King Lv. 3
 `Re Ladro Lv. 4`
 Robber King Lv. 4
 
-`Bastone dell’Evocatore Lv. 1`
+`Bastone dell'Evocatore Lv. 1`
 Conjurer's Staff Lv. 1
 
-`Bastone dell’Evocatore Lv. 2`
+`Bastone dell'Evocatore Lv. 2`
 Conjurer's Staff Lv. 2
 
-`Bastone dell’Evocatore Lv. 3`
+`Bastone dell'Evocatore Lv. 3`
 Conjurer's Staff Lv. 3
 
-`Bastone dell’Evocatore Lv. 4`
+`Bastone dell'Evocatore Lv. 4`
 Conjurer's Staff Lv. 4
 
 `Fiamma del Sangue di Viverna Lv. 1`

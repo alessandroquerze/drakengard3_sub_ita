@@ -241,7 +241,7 @@ Pinkstone
 `Pietra Focaia`
 Flintstone
 
-`Pietra d’Ambra`
+`Pietra d'Ambra`
 Amberstone
 
 `Pietra del Cibo`
@@ -298,7 +298,7 @@ Meteorite
 `Libro della Speranza`
 Book of Hope
 
-`Libro dell’Ambizione`
+`Libro dell'Ambizione`
 Book of Ambition
 
 `Libro della Reticenza`

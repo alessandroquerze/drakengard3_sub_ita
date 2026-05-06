@@ -13,7 +13,7 @@ You sure talk a lot for a guy{LF}who says he can't talk. {#Name="Zero"}
 `Infatti!{#Name="Octa"}`
 Indeed!{#Name="Octa"}
 
-`Sì, ti prego, sta’ zitto.{#Name="Decadus"}`
+`Sì, ti prego, sta' zitto.{#Name="Decadus"}`
 Yes, do please be quiet.{#Name="Decadus"}
 
 `Come ti pare, brutto fi—{#Name="Dito"}`
@@ -94,7 +94,7 @@ I'LL mess with your health if you don't get moving!{#Name="Zero"}
 `Sto combattendo! Sto combattendo davvero! Guardami!{#Name="Dito"}`
 I'm fighting! I'm totally fighting! Watch me go!{#Name="Dito"}
 
-`Che cos’è tutta questa agitazione, Octa?{#Name="Zero"}`
+`Che cos'è tutta questa agitazione, Octa?{#Name="Zero"}`
 What's all the fuss about, Octa?{#Name="Zero"}
 
 `Hmm? Non so di nessuna agitazione.{#Name="Octa"}`
@@ -103,7 +103,7 @@ Hmm? I don't know of any fuss?{#Name="Octa"}
 `Oh, non lo sai, eh?{#Name="Zero"}`
 Oh, you don't, do you?{#Name="Zero"}
 
-`Allora che cos’è quell’improvviso{LF}manico di scopa nei pantaloni?{#Name="Zero"}`
+`Allora che cos'è quell'improvviso{LF}manico di scopa nei pantaloni?{#Name="Zero"}`
 Then what's with the sudden{LF}broom handle in your pants?{#Name="Zero"}
 
 `Oh ho! Hai scoperto il mio segreto, vero!?{#Name="Octa"}`
@@ -139,7 +139,7 @@ If you can do it, then do it already!{#Name="Zero"}
 `Nngh...rrgh...{#Name="Mikhail"}`
 Nngh...rrgh...{#Name="Mikhail"}
 
-`Che c’è? Hai freddo?{#Name="Zero"}`
+`Che c'è? Hai freddo?{#Name="Zero"}`
 What's wrong? You cold?{#Name="Zero"}
 
 `Io...non lo so.{#Name="Mikhail"}`
@@ -160,7 +160,7 @@ It's purely a matter of character, I'd say.{#Name="Octa"}
 `Infatti. Mikhail ha una{LF}innocenza affascinante. Tu...no.{#Name="Decadus"}`
 Indeed. Mikhail has a charming{LF}innocence about him. You...do not.{#Name="Decadus"}
 
-`Oh, per l’amor del cielo! Non sa{LF}nemmeno dire se ha freddo o no!{#Name="Dito"}`
+`Oh, per l'amor del cielo! Non sa{LF}nemmeno dire se ha freddo o no!{#Name="Dito"}`
 Oh, for hell's sake! He can't{LF}even tell if he's cold or not!{#Name="Dito"}
 
 `Quella stupida lucertola se la caverà benissimo.{#Name="Dito"}`
@@ -181,19 +181,19 @@ Really? I'm surprised you feel anything{LF}through that thick head of yours.{#Na
 `Momento curiosità! Sapevate che i bagni nel ghiaccio{LF}in realtà ti scaldano se—{#Name="Cent"}`
 Trivia time! Did you know ice baths{LF}actually warm you up if—{#Name="Cent"}
 
-`Sta’ zitto, Cent.{#Name="Dito"}`
+`Sta' zitto, Cent.{#Name="Dito"}`
 Shut up, Cent.{#Name="Dito"}
 
-`Perché non ci ritiriamo per un po’ così possiamo recuperare?{#Name="Octa"}`
+`Perché non ci ritiriamo per un po' così possiamo recuperare?{#Name="Octa"}`
 Why don't we retreat for a bit so we can recover?{#Name="Octa"}
 
 `Non sono sicuro...che possiamo...{#Name="Mikhail"}`
 I'm not sure...we can...{#Name="Mikhail"}
 
-`Ooof. Sembra che quest’area sia{LF}chiusa da un potere magico...{#Name="Octa"}`
+`Ooof. Sembra che quest'area sia{LF}chiusa da un potere magico...{#Name="Octa"}`
 Ooof. It does seem this area is{LF}enclosed by magical power...{#Name="Octa"}
 
-`Dev’essere quello che trattiene il freddo.{#Name="Decadus"}`
+`Dev'essere quello che trattiene il freddo.{#Name="Decadus"}`
 That must be what's holding in the cold.{#Name="Decadus"}
 
 `Per dio. Ucciderò ogni{LF}singolo stregone qui intorno!{#Name="Zero"}`
@@ -271,7 +271,7 @@ Okay...{#Name="Mikhail"}
 `{06}>{#Name="Mikhail"}`
 {06}>{#Name="Mikhail"}
 
-`Che c’è?{#Name="Zero"}`
+`Che c'è?{#Name="Zero"}`
 What's wrong?{#Name="Zero"}
 
 `{06}>{#Name="Mikhail"}`
@@ -283,7 +283,7 @@ What the hell is this?{#Name="Zero"}
 `Divergenza: Diramazione C{#Name="Accord"}`
 Divergence: Branch C{#Name="Accord"}
 
-`13 aprile dell’anno 1000 d.C.{#Name="Accord"}`
+`13 aprile dell'anno 1000 d.C.{#Name="Accord"}`
 April the 13th, 1000 A.D.{#Name="Accord"}
 
 `Ho osservato una diramazione estremamente preoccupante.{#Name="Accord"}`
@@ -301,7 +301,7 @@ Until now, only Zero could enact such influence.{LF}This is the first known exce
 `e in quanto tale aumenta la probabilità{LF}che si verifichi un incidente imprevisto.{#Name="Accord"}`
 and as such, increases the likelihood{LF}of an unforeseen accident occurring.{#Name="Accord"}
 
-`Questa questione deve avere priorità per un’osservazione attenta.{#Name="Accord"}`
+`Questa questione deve avere priorità per un'osservazione attenta.{#Name="Accord"}`
 This matter must be prioritized for careful observation.{#Name="Accord"}
 
 `M4110_E0020_DM: Inizio registrazione{#Name="Accord"}`

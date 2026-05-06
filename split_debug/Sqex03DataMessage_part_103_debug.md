@@ -100,7 +100,7 @@ Once the flower's in full bloom, you have to destroy it.{#Name="Zero"}
 `...Okay.{#Name="Mikhail"}`
 ...Okay.{#Name="Mikhail"}
 
-`C’è un’ultima cosa che devo dirti.{#Name="Zero"}`
+`C'è un'ultima cosa che devo dirti.{#Name="Zero"}`
 There's one more thing I need to tell you.{#Name="Zero"}
 
 `Cosa?{#Name="Mikhail"}`
@@ -130,7 +130,7 @@ However, the possibility exists that this seal{LF}could unravel at some time or 
 `Fino ad allora, i nostri sforzi per registrare continueranno.{#Name="Accord"}`
 Until then, our recording efforts will continue.{#Name="Accord"}
 
-`...Oh. E un’appendice personale riguardo al mio bersaglio d’osservazione, Zero.{#Name="Accord"}`
+`...Oh. E un'appendice personale riguardo al mio bersaglio d'osservazione, Zero.{#Name="Accord"}`
 ...Oh. And a personal addendum regarding my observational target, Zero.{#Name="Accord"}
 
 `Forse questo va oltre i miei requisiti funzionali come Recorder, ma{#Name="Accord"}`
@@ -259,7 +259,7 @@ Accord C
 `343`
 343
 
-`Accords`
+`Accord`
 Accords
 
 `ZERO`
@@ -283,7 +283,7 @@ Press {01}{0A} + {01}{0D} to activate Intoner Mode.{LF}Press it again at any tim
 `Puoi concatenare attacchi combo speciali{LF}premendo {01}{03} e {01}{04} in varie sequenze.{LF}Consulta la Lista Combo nel Menu di Pausa per vedere tutte{LF}le possibili rotte combo per una determinata arma.{#Name="Combo Attacks"}`
 You can string together special combo attacks{LF}by pressing {01}{03} and {01}{04} in various sequences.{LF}View the Combo List in the Pause Menu to see all{LF}the possible combo routes for a particular weapon.{#Name="Combo Attacks"}
 
-`Usa {01}{01} mentre attacchi con {01}{03} per lanciare sia{LF}te sia il tuo nemico in aria, permettendoti di{LF}attivare colpi a mezz’aria. I nemici più pesanti non possono{LF}essere palleggiati, quindi valuta attentamente un nemico{LF}prima di tentare questa manovra.{#Name="Aerial Combos"}`
+`Usa {01}{01} mentre attacchi con {01}{03} per lanciare sia{LF}te sia il tuo nemico in aria, permettendoti di{LF}attivare colpi a mezz'aria. I nemici più pesanti non possono{LF}essere palleggiati, quindi valuta attentamente un nemico{LF}prima di tentare questa manovra.{#Name="Aerial Combos"}`
 Use {01}{01} while attacking with {01}{03} to launch both{LF}you and your foe into the air, allowing you to{LF}trigger midair strikes. Heavier foes cannot{LF}be juggled, so judge an enemy carefully{LF}before attempting this maneuver.{#Name="Aerial Combos"}
 
 `Premi {01}{08} per agganciare un nemico. Muovi {01}{0F} in alto, in basso,{LF}a sinistra o a destra per passare tra i bersagli disponibili.{#Name="Locking On"}`
@@ -301,7 +301,7 @@ You can also evade while jumping. This can be{LF}useful for dodging attacks whil
 `Premi {01}{0D} per visualizzare un indicatore a freccia che{LF}punta verso il prossimo obiettivo. Usalo insieme{LF}alla mini-mappa se ti capita di perderti.{#Name="Navigation Help"}`
 Press {01}{0D} to display an arrow indicator that{LF}points toward your next goal. Use this along with{LF}the mini-map if you ever find yourself lost.{#Name="Navigation Help"}
 
-`Premi {01}{09} o {01}{0C} per cambiare arma.{LF}Puoi farlo anche nel mezzo di un attacco,{LF}innescando così un colpo extra mentre{LF}passi da un’arma all’altra.{#Name="Switching Weapons"}`
+`Premi {01}{09} o {01}{0C} per cambiare arma.{LF}Puoi farlo anche nel mezzo di un attacco,{LF}innescando così un colpo extra mentre{LF}passi da un'arma all'altra.{#Name="Switching Weapons"}`
 Press {01}{09} or {01}{0C} to switch weapons.{LF}You can even do so in the middle of an attack,{LF}which will trigger an extra strike as you{LF}move from one weapon to the next.{#Name="Switching Weapons"}
 
 `Il conteggio della tua catena (colpi) aumenterà quando colpirai i nemici{LF}in rapida successione. Quando sarà abbastanza alto, inizierai{LF}a ottenere sfere di sangue bonus e altri oggetti rilasciati.{#Name="Chain Combos"}`
@@ -310,7 +310,6 @@ Your chain (hit) count will rise as you strike foes{LF}in rapid succession. Once
 `Entra in un cerchio di evocazione e premi {01}{02} per chiamare il tuo{LF}drago a combattere al tuo fianco. Attaccherà{LF}in vari modi a seconda della situazione.{#Name="Summon Circles"}`
 Enter a summon circle and press {01}{02} to call your{LF}dragon to fight alongside you. He will attack{LF}in various ways depending on the situation.{#Name="Summon Circles"}
 
-`Visita l'Archivio dal Menu Principale{LF}per visualizzare le Storie delle Armi. Ogni volta che{LF}potenzi un’arma e ne aumenti il livello,{LF}svelerai un’altra parte della sua storia.{#Name="Weapon Stories"}`
+`Visita l'Archivio dal Menu Principale{LF}per visualizzare le Storie delle Armi. Ogni volta che{LF}potenzi un'arma e ne aumenti il livello,{LF}svelerai un'altra parte della sua storia.{#Name="Weapon Stories"}`
 Visit the Database from the Main Menu{LF}to view Weapon Stories. Each time you{LF}upgrade a weapon and raise its level,{LF}you'll reveal more of its story.{#Name="Weapon Stories"}
-
 

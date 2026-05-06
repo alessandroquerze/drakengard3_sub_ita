@@ -1,4 +1,4 @@
-`Libro dell’Innocenza`
+`Libro dell'Innocenza`
 Book of Innocence
 
 `Libro della Dottrina`
@@ -112,7 +112,7 @@ Unicorn Horn
 `Artiglio di Falco`
 Hawk Talon
 
-`Artiglio d’Aquila`
+`Artiglio d'Aquila`
 Eagle Talon
 
 `Pungiglione di Rospo`
@@ -121,7 +121,7 @@ Toad Stinger
 `Zanna di Vipera`
 Viper Fang
 
-`Fossile d’Osso`
+`Fossile d'Osso`
 Bone Fossil
 
 `Fossile Vegetale`
@@ -166,7 +166,7 @@ Old-World Shard
 `クエスト用武器２１`
 クエスト用武器２１
 
-`Molto tempo fa, in un’epoca macchiata da conflitti infiniti,{#Name="Old Man"}`
+`Molto tempo fa, in un'epoca macchiata da conflitti infiniti,{#Name="Old Man"}`
 Long ago, in an age tarnished by endless conflict,{#Name="Old Man"}
 
 `cinque splendide dee discesero sulla terra.{#Name="Old Man"}`
@@ -184,7 +184,7 @@ and came to refer to them as "Intoners."{#Name="Old Man"}
 `Grazie agli sforzi di queste Intoner,{LF}il caos della guerra divenne un ricordo lontano.{#Name="Old Man"}`
 Thanks to the efforts of these Intoners,{LF}the chaos of war became a distant memory.{#Name="Old Man"}
 
-`E così, l’umanità godette di un’epoca di dolce estasi,{#Name="Old Man"}`
+`E così, l'umanità godette di un'epoca di dolce estasi,{#Name="Old Man"}`
 And as a result, mankind enjoyed an age of sweet reverie,{#Name="Old Man"}
 
 `crogiolandosi nella nuova luce e belle—{#Name="Old Man"}`
@@ -226,7 +226,7 @@ Zero! Go! Defeat your sisters!{#Name="Michael"}
 `No! Non hai la forza per farlo!{#Name="Zero"}`
 No! You don't have the strength for this!{#Name="Zero"}
 
-`Questi fantocci non sono all’altezza di un drago!{#Name="Michael"}`
+`Questi fantocci non sono all'altezza di un drago!{#Name="Michael"}`
 These puppets are no match for a dragon!{#Name="Michael"}
 
 `Bene. Basta che tu non muoia ora.{#Name="Zero"}`
@@ -289,7 +289,7 @@ If this keeps up, our world as we know it is over...{#Name="Soldier F"}
 `Non glielo permetteremo!{#Name="Soldier B"}`
 We're not about to let that happen!{#Name="Soldier B"}
 
-`Merda, mi si è rotto l’arco!{#Name="Soldier G"}`
+`Merda, mi si è rotto l'arco!{#Name="Soldier G"}`
 Shit, my bow broke!{#Name="Soldier G"}
 
 `Ecco, usa il mio!{#Name="Soldier A"}`

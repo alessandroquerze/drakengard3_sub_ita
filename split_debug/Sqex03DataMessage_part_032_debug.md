@@ -25,7 +25,7 @@ Shamrock Fabric
 `Tessuto panacea`
 Panacea Fabric
 
-`Tessuto dell’abbondanza`
+`Tessuto dell'abbondanza`
 Bountiful Fabric
 
 `Tessuto antipioggia`
@@ -37,13 +37,13 @@ Gleipnir Weave
 `槍兵の服B`
 槍兵の服B
 
-`Intreccio del Vello d’oro`
+`Intreccio del Vello d'oro`
 Goldfleece Weave
 
 `槍兵の服D`
 槍兵の服D
 
-`Intreccio dell’Albero del mondo`
+`Intreccio dell'Albero del mondo`
 Worldtree Weave
 
 `Sudario antico`

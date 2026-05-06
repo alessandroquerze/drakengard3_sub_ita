@@ -1,7 +1,7 @@
-`L’unico modo per passare da qui è sui nostri cadaveri!{#Name="Soldier B"}`
+`L'unico modo per passare da qui è sui nostri cadaveri!{#Name="Soldier B"}`
 The only way through here is over our dead bodies!{#Name="Soldier B"}
 
-`Oh ho! È davvero il genere di cosa che{LF}vuoi dire a un’Intoner e al suo discepolo?{#Name="Octa"}`
+`Oh ho! È davvero il genere di cosa che{LF}vuoi dire a un'Intoner e al suo discepolo?{#Name="Octa"}`
 Oh ho! Is that really the kind of thing you{LF}want to say to an Intoner and her disciple?{#Name="Octa"}
 
 `Tenetela a bada il più a lungo possibile!{LF}Lady One conta su di noi!{#Name="Soldier E"}`
@@ -31,7 +31,7 @@ But your flower...{#Name="Mikhail"}
 `Senti. Tu pensa solo a uccidere One.{#Name="Zero"}`
 Look. You just worry about killing One.{#Name="Zero"}
 
-`È un’avversaria potente.{#Name="Zero"}`
+`È un'avversaria potente.{#Name="Zero"}`
 She's a powerful foe.{#Name="Zero"}
 
 `Tiene la sua magia sigillata dentro{LF}di sé solo con la pura volontà—{#Name="Zero"}`
@@ -61,13 +61,13 @@ No buts!{#Name="Zero"}
 `One!{#Name="Zero"}`
 One!{#Name="Zero"}
 
-`Pensi di essere l’unica che può sistemare le cose?{#Name="One"}`
+`Pensi di essere l'unica che può sistemare le cose?{#Name="One"}`
 You think you're the only one who can fix things?{#Name="One"}
 
 `Il mondo non ha bisogno delle Intoner!{#Name="One"}`
 The world doesn't need Intoners!{#Name="One"}
 
-`Heh. Sono completamente d’accordo.{#Name="Zero"}`
+`Heh. Sono completamente d'accordo.{#Name="Zero"}`
 Heh. I completely agree.{#Name="Zero"}
 
 `Allora muori e basta!{#Name="One"}`
@@ -112,19 +112,19 @@ Recording: M5310_E0040_GM{#Name="Accord"}
 `Le difese del fiore crearono{LF}cinque sorelle dal corpo di Zero.{#Name="Accord"}`
 The flower's defenses created{LF}five sisters from Zero's body.{#Name="Accord"}
 
-`All’inizio erano semplici cadaveri{LF}controllati dal fiore.{#Name="Accord"}`
+`All'inizio erano semplici cadaveri{LF}controllati dal fiore.{#Name="Accord"}`
 At first, they were simply corpses{LF}controlled by the flower.{#Name="Accord"}
 
 `Ma presto acquisirono autocoscienza{LF}e iniziarono ad agire di propria volontà.{#Name="Accord"}`
 But soon, they gained self-awareness{LF}and began to act of their own free will.{#Name="Accord"}
 
-`Se il fiore non viene distrutto, l’umanità{LF}non ha futuro in questa Diramazione.{#Name="Accord"}`
+`Se il fiore non viene distrutto, l'umanità{LF}non ha futuro in questa Diramazione.{#Name="Accord"}`
 If the flower isn't destroyed, mankind{LF}has no future in this branch.{#Name="Accord"}
 
-`Alcuni di noi sono dell’opinione che questa{LF}Diramazione debba essere sigillata immediatamente,{#Name="Accord"}`
+`Alcuni di noi sono dell'opinione che questa{LF}Diramazione debba essere sigillata immediatamente,{#Name="Accord"}`
 Some of us are of the opinion that this{LF}branch should be sealed off at once,{#Name="Accord"}
 
-`ma io non sono d’accordo.{#Name="Accord"}`
+`ma io non sono d'accordo.{#Name="Accord"}`
 but I disagree.{#Name="Accord"}
 
 `Penso che almeno una di loro{LF}potrebbe riuscirci...{#Name="Accord"}`
@@ -187,7 +187,7 @@ Just make sure you're ready!{#Name="Accord"}
 `Se muori qui, questa intera Diramazione terminerà!{#Name="Accord"}`
 If you die here, this entire branch is going to terminate!{#Name="Accord"}
 
-`Quindi passa dalle parole ai fatti e fa’ che succeda!{#Name="Accord"}`
+`Quindi passa dalle parole ai fatti e fa' che succeda!{#Name="Accord"}`
 So put your money where your mouth is and make this happen!{#Name="Accord"}
 
 `...Ricevuto.{#Name="Accord (lit: Cell Phone)"}`
@@ -208,7 +208,7 @@ I thought you...weren't going to interfere.{#Name="Zero"}
 `Sì...ma...{#Name="Accord"}`
 Yes...but...{#Name="Accord"}
 
-`È andata...un po’ diversamente...da come avevo previsto...{#Name="Accord"}`
+`È andata...un po' diversamente...da come avevo previsto...{#Name="Accord"}`
 This went...a little different...than I had planned...{#Name="Accord"}
 
 `Tuttavia...{#Name="Accord"}`
@@ -223,7 +223,7 @@ Yeah. I guess.{#Name="Zero"}
 `Zero... Ti prego...{#Name="Accord"}`
 Zero... Please...{#Name="Accord"}
 
-`Sono...un po’...stanca.{#Name="Accord"}`
+`Sono...un po'...stanca.{#Name="Accord"}`
 I'm...a little...tired.{#Name="Accord"}
 
 `Buonanotte, Accord. Saluta il vecchio mondo da parte mia.{#Name="Zero"}`
@@ -232,7 +232,7 @@ Good night, Accord. Tell the Old World I said hi.{#Name="Zero"}
 `Sconfiggi One!{#Name="説明文"}`
 Defeat One!{#Name="説明文"}
 
-`L’ultima voce della mia registrazione si avvicina.{#Name="Accord"}`
+`L'ultima voce della mia registrazione si avvicina.{#Name="Accord"}`
 The final entry in my recording draws near.{#Name="Accord"}
 
 `Qualunque conclusione ci attenda alla fine di questa diramazione,{#Name="Accord"}`
@@ -265,7 +265,7 @@ Aww man...{#Name="Mikhail"}
 `Zero...{#Name="Mikhail"}`
 Zero...{#Name="Mikhail"}
 
-`E ora che c’è? Non azzardarti a tirarti indietro...{#Name="Zero"}`
+`E ora che c'è? Non azzardarti a tirarti indietro...{#Name="Zero"}`
 Now what? Don't you dare wuss out on me...{#Name="Zero"}
 
 `No, io... Io lo farò, Zero.{#Name="Mikhail"}`
@@ -283,10 +283,10 @@ But I'm gonna try!{#Name="Mikhail"}
 `Voglio dire, io...io potrei non{LF}rivederti mai più, giusto?{#Name="Mikhail"}`
 I mean, I...I may not ever{LF}see you again, right?{#Name="Mikhail"}
 
-`Questa... Questa potrebbe essere l’ultima volta...{#Name="Mikhail"}`
+`Questa... Questa potrebbe essere l'ultima volta...{#Name="Mikhail"}`
 This... This may be the last time...{#Name="Mikhail"}
 
-`Questa potrebbe essere l’ultima volta in cui{LF}potremo mai stare insieme...{#Name="Mikhail"}`
+`Questa potrebbe essere l'ultima volta in cui{LF}potremo mai stare insieme...{#Name="Mikhail"}`
 This may be the last time we{LF}ever get to be together...{#Name="Mikhail"}
 
 `Quindi voglio aiutarti, Zero. Voglio aiutarti...{#Name="Mikhail"}`

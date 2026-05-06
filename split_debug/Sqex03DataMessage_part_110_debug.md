@@ -55,7 +55,7 @@ Part 3: Wyverns!{#Name=" "}
 ` {#Name=" "}`
  {#Name=" "}
 
-`Parte 1: L’assalto{#Name=" "}`
+`Parte 1: L'assalto{#Name=" "}`
 Part 1: The Assault{#Name=" "}
 
 `Parte 2: Seconda Ondata{#Name=" "}`

@@ -1,7 +1,7 @@
 `Ma non è nemmeno...{LF}Sei davvero senza speranza, Octa.{#Name="Dito"}`
 But that's not even...{LF}You really are hopeless, Octa.{#Name="Dito"}
 
-`Dimmi dov’è Two, o sei morto!{LF}E se non lo sai...sei comunque morto!{#Name="Zero"}`
+`Dimmi dov'è Two, o sei morto!{LF}E se non lo sai...sei comunque morto!{#Name="Zero"}`
 Tell me where Two is, or you're dead!{LF}And if you don't know...you're still dead!{#Name="Zero"}
 
 `Ho ho! Sempre la solita Intoner agguerrita, eh?{#Name="Octa"}`
@@ -73,7 +73,7 @@ I mean, hell, she ate raw meat{LF}off the floor earlier!{#Name="Dito"}
 `Ho visto cani più schizzinosi di lei.{#Name="Dito"}`
 I've seen dogs who are pickier than that.{#Name="Dito"}
 
-`Un’Intoner più rozza di un cane?{LF}Oh ho! Questo tocca tutti i miei punti deboli!{#Name="Octa"}`
+`Un'Intoner più rozza di un cane?{LF}Oh ho! Questo tocca tutti i miei punti deboli!{#Name="Octa"}`
 An Intoner who's cruder than a dog?{LF}Oh ho! That pushes all my buttons!{#Name="Octa"}
 
 `State zitti prima che vi strappi tutte le lingue!{#Name="Zero"}`
@@ -121,13 +121,13 @@ Lemme guess—magic, right?{#Name="Zero"}
 `Sai come funziona. Roba strana come questa{LF}viene sempre liquidata come magia.{#Name="Zero"}`
 You know how it goes. Weird shit like this{LF}always gets written off as magic.{#Name="Zero"}
 
-`Che cos’è?{#Name="Zero"}`
+`Che cos'è?{#Name="Zero"}`
 What's that?{#Name="Zero"}
 
 `Hmm. Sembra essere un covo sotterraneo...{#Name="Octa"}`
 Hmm. It appears to be an underground lair...{#Name="Octa"}
 
-`L’hanno costruito direttamente nelle rovine. Che astuzia.{#Name="Decadus"}`
+`L'hanno costruito direttamente nelle rovine. Che astuzia.{#Name="Decadus"}`
 They built it right into the ruins. How clever.{#Name="Decadus"}
 
 `Pfft! Hanno messo un branco di ragazzini{LF}a sorvegliare questo posto.{#Name="Dito"}`
@@ -136,7 +136,7 @@ Pfft! They got a bunch of juniors{LF}guarding this place.{#Name="Dito"}
 `Curioso sentire te chiamare qualcuno "ragazzini".{#Name="Zero"}`
 Funny to hear you calling anyone "junior."{#Name="Zero"}
 
-`Ehi, taci! Te l’ho detto, ho 22 anni!{#Name="Dito"}`
+`Ehi, taci! Te l'ho detto, ho 22 anni!{#Name="Dito"}`
 Hey, cram it! I told you, I'm 22!{#Name="Dito"}
 
 `Restate calmi e ricordate ciò che vi abbiamo insegnato!{#Name="Soldier A"}`
@@ -145,7 +145,7 @@ Stay calm and remember what we taught you!{#Name="Soldier A"}
 `È ora di mostrare a Lady Two di cosa siete capaci!{#Name="Soldier B"}`
 It's time to show Lady Two what you've got!{#Name="Soldier B"}
 
-`Questo non è più un campo d’addestramento!{#Name="Soldier F"}`
+`Questo non è più un campo d'addestramento!{#Name="Soldier F"}`
 This is no training ground any longer!{#Name="Soldier F"}
 
 `Questo è reale, mi sentite?{LF}Il combattimento E la morte!{#Name="Soldier F"}`
@@ -157,7 +157,7 @@ This is real, you hear me?{LF}The fighting AND the dying!{#Name="Soldier F"}
 `Potrete anche essere nuove reclute,{LF}ma siete comunque soldati!{#Name="Soldier G"}`
 You may be new recruits,{LF}but you're still soldiers!{#Name="Soldier G"}
 
-`Combattete bene, e Lady Two potrebbe{LF}scegliervi per la sua guardia d’élite!{#Name="Soldier G"}`
+`Combattete bene, e Lady Two potrebbe{LF}scegliervi per la sua guardia d'élite!{#Name="Soldier G"}`
 Fight well, and Lady Two may{LF}choose you for her elite guard!{#Name="Soldier G"}
 
 `Oh ho ho! Che braccio notevole ha Lady Zero!{#Name="Octa"}`
@@ -175,10 +175,10 @@ Hmm? Something the matter, Decadus?{#Name="Octa"}
 `Probabilmente gli fa schifo. È piuttosto{LF}delicato...per essere un pervertito.{#Name="Dito"}`
 Probably grossed out. He's pretty{LF}delicate...for a freak.{#Name="Dito"}
 
-`Un’Intoner con le braccia staccabili è troppo per te?{#Name="Zero"}`
+`Un'Intoner con le braccia staccabili è troppo per te?{#Name="Zero"}`
 An Intoner with detachable arms too much for you?{#Name="Zero"}
 
-`No, mia signora. Come vostro discepolo, devo imparare{LF}tutto ciò che c’è da sapere su di voi.{#Name="Decadus"}`
+`No, mia signora. Come vostro discepolo, devo imparare{LF}tutto ciò che c'è da sapere su di voi.{#Name="Decadus"}`
 No, my lady. As your disciple, I must learn{LF}all there is to know about you.{#Name="Decadus"}
 
 `In effetti. Dopotutto, al mondo esistono cose{LF}ben più orribili.{#Name="Octa"}`

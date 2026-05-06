@@ -52,10 +52,10 @@ Cutscene{LF}As they attempt to enter the underground{LF}ruins, Mikhail suddenly 
 `あらすじ第十一項　４１１０　一行目{LF}あらすじ第十一項　４１１０　二行目{LF}あらすじ第十一項　４１１０　三行目{LF}あらすじ第十一項　４１１０　四行目{LF}あらすじ第十一項　４１１０　五行目`
 あらすじ第十一項　４１１０　一行目{LF}あらすじ第十一項　４１１０　二行目{LF}あらすじ第十一項　４１１０　三行目{LF}あらすじ第十一項　４１１０　四行目{LF}あらすじ第十一項　４１１０　五行目
 
-`Accampamento{LF}Temendo che la regressione di Mikhail{LF}possa essere una maledizione causata da un’Intoner, Zero{LF}si addentra nelle rovine in cerca di Two.`
+`Accampamento{LF}Temendo che la regressione di Mikhail{LF}possa essere una maledizione causata da un'Intoner, Zero{LF}si addentra nelle rovine in cerca di Two.`
 Camp{LF}As the group fears Mikhail's devolution{LF}may be an Intoner-driven curse, Zero{LF}heads into the ruins in search of Two.
 
-`Gioco{LF}Mentre il gruppo avanza, l’energia{LF}di Mikhail continua a diminuire.{LF}Il tempo è essenziale!`
+`Gioco{LF}Mentre il gruppo avanza, l'energia{LF}di Mikhail continua a diminuire.{LF}Il tempo è essenziale!`
 Game{LF}As the party presses on, Mikhail's{LF}energy continues to dwindle.{LF}Time is of the essence!
 
 `Gioco{LF}Il gruppo si affretta attraverso le rovine,{LF}ma non riesce a trovare Two. Le chiacchiere{LF}del suo esercito, però, rivelano che{LF}si nasconde a Cathedral City.`
@@ -85,7 +85,7 @@ Game{LF}The group hurries through the ruins,{LF}but is unable to locate Two. Cha
 `あらすじ第十一項　４１２０　一行目{LF}あらすじ第十一項　４１２０　二行目{LF}あらすじ第十一項　４１２０　三行目{LF}あらすじ第十一項　４１２０　四行目{LF}あらすじ第十一項　４１２０　五行目`
 あらすじ第十一項　４１２０　一行目{LF}あらすじ第十一項　４１２０　二行目{LF}あらすじ第十一項　４１２０　三行目{LF}あらすじ第十一項　４１２０　四行目{LF}あらすじ第十一項　４１２０　五行目
 
-`Gioco{LF}Il gruppo lascia che un Mikhail indebolito fugga{LF}nei cieli mentre attacca l’esercito di Two,{LF}che comincia a mostrare una fede bizzarramente{LF}devota nella propria Intoner.`
+`Gioco{LF}Il gruppo lascia che un Mikhail indebolito fugga{LF}nei cieli mentre attacca l'esercito di Two,{LF}che comincia a mostrare una fede bizzarramente{LF}devota nella propria Intoner.`
 Game{LF}The group lets a weakened Mikhail flee{LF}to the skies as they attack Two's army,{LF}which is beginning to show a bizarrely{LF}devout faith in their Intoner.
 
 `Gioco{LF}Respingendo soldati impazziti e una coppia{LF}di cerberi, il gruppo prosegue{LF}verso Cathedral City, dove si pensa che Two{LF}e One si nascondano.`
@@ -151,7 +151,7 @@ Cutscene{LF}Two unleashes a trap on Zero's{LF}disciples, bringing their lives an
 `あらすじ第十一項　５１１０　一行目{LF}あらすじ第十一項　５１１０　二行目{LF}あらすじ第十一項　５１１０　三行目{LF}あらすじ第十一項　５１１０　四行目{LF}あらすじ第十一項　５１１０　五行目`
 あらすじ第十一項　５１１０　一行目{LF}あらすじ第十一項　５１１０　二行目{LF}あらすじ第十一項　５１１０　三行目{LF}あらすじ第十一項　５１１０　四行目{LF}あらすじ第十一項　５１１０　五行目
 
-`Gioco{LF}Anche con Two morta, la maledizione di Mikhail{LF}resta attiva. In cerca di risposte,{LF}Zero si addentra in un covo sotterraneo{LF}dall’arredamento discutibile.`
+`Gioco{LF}Anche con Two morta, la maledizione di Mikhail{LF}resta attiva. In cerca di risposte,{LF}Zero si addentra in un covo sotterraneo{LF}dall'arredamento discutibile.`
 Game{LF}Even with Two dead, Mikhail's curse{LF}remains in place. In search of answers,{LF}Zero heads into an underground lair{LF}with questionable decor.
 
 `Cutscene → Gioco{LF}Zero trova One ad attenderla. Lei{LF}dichiara che Zero aveva ragione e che tutte{LF}le Intoner—incluse loro stesse—devono{LF}morire. Le sorelle iniziano quindi a combattere.`
@@ -184,7 +184,7 @@ Cutscene{LF}Zero kills One, but with Mikhail and{LF}her disciples gone, her ment
 `あらすじ第十一項　５１２０　一行目{LF}あらすじ第十一項　５１２０　二行目{LF}あらすじ第十一項　５１２０　三行目{LF}あらすじ第十一項　５１２０　四行目{LF}あらすじ第十一項　５１２０　五行目`
 あらすじ第十一項　５１２０　一行目{LF}あらすじ第十一項　５１２０　二行目{LF}あらすじ第十一項　５１２０　三行目{LF}あらすじ第十一項　５１２０　四行目{LF}あらすじ第十一項　５１２０　五行目
 
-`Mappa Diramazioni → Accampamento{LF}Uh oh. Non avrò mica perso una registrazione{LF}per sbaglio, vero? Dai, è assurdo.{LF}Dov’è... Ah, eccola. Credo che{LF}la Terra dei Mari venisse prima, giusto?`
+`Mappa Diramazioni → Accampamento{LF}Uh oh. Non avrò mica perso una registrazione{LF}per sbaglio, vero? Dai, è assurdo.{LF}Dov'è... Ah, eccola. Credo che{LF}la Terra dei Mari venisse prima, giusto?`
 Branch Map → Camp{LF}Uh oh. I didn't lose a recording by{LF}accident, did I? Come on, this is silly.{LF}Where is... Ah, there we go. I think{LF}the Land of Seas came first, right?
 
 `Gioco{LF}Zero e il suo gruppo continuano a combattere nella Terra{LF}dei Mari. Sembrano diretti{LF}di nuovo verso la casa di Zero.`
@@ -223,7 +223,7 @@ Branch Map → Game{LF}Right! Let's tackle that recording gap{LF}in Branch B. Th
 `Gioco{LF}Il gruppo avanza a fatica tra montagne{LF}innevate in cerca del raro{LF}frutto di Cent. Mi chiedo se lo troveranno? `
 Game{LF}The party trudges on through snowy{LF}mountains in search of Cent's rare{LF}fruit. I wonder if they'll find it? 
 
-`Accampamento → Cutscene{LF}Zero lotta per cambiare il futuro,{LF}mentre Accord continua a registrare.{LF}Le due non sembrano ancora{LF}essere proprio sulla stessa lunghezza d’onda...`
+`Accampamento → Cutscene{LF}Zero lotta per cambiare il futuro,{LF}mentre Accord continua a registrare.{LF}Le due non sembrano ancora{LF}essere proprio sulla stessa lunghezza d'onda...`
 Camp → Cutscene{LF}Zero struggles to change the future,{LF}while Accord continues to record.{LF}The two of them don't quite seem{LF}to see eye-to-eye just yet...
 
 `あらすじ第四項　２４１０　一行目{LF}あらすじ第四項　２４１０　二行目{LF}あらすじ第四項　２４１０　三行目{LF}あらすじ第四項　２４１０　四行目{LF}あらすじ第四項　２４１０　五行目`
@@ -250,7 +250,7 @@ Camp → Cutscene{LF}Zero struggles to change the future,{LF}while Accord contin
 `あらすじ第十一項　２４１０　一行目{LF}あらすじ第十一項　２４１０　二行目{LF}あらすじ第十一項　２４１０　三行目{LF}あらすじ第十一項　２４１０　四行目{LF}あらすじ第十一項　２４１０　五行目`
 あらすじ第十一項　２４１０　一行目{LF}あらすじ第十一項　２４１０　二行目{LF}あらすじ第十一項　２４１０　三行目{LF}あらすじ第十一項　２４１０　四行目{LF}あらすじ第十一項　２４１０　五行目
 
-`Cutscene → Accampamento{LF}Torniamo ai giorni in cui Zero e{LF}Michael confermarono la loro incrollabile{LF}determinazione. Ma le attività più recenti di Zero{LF}richiedono un’osservazione continua...{LF} `
+`Cutscene → Accampamento{LF}Torniamo ai giorni in cui Zero e{LF}Michael confermarono la loro incrollabile{LF}determinazione. Ma le attività più recenti di Zero{LF}richiedono un'osservazione continua...{LF} `
 Cutscene → Camp{LF}We return to the days when Zero and{LF}Michael confirmed their unbreakable{LF}resolve. But Zero's more recent activity{LF}requires continued observation...{LF} 
 
 `Gioco{LF}Zero si unisce a Mikhail per distruggere le{LF}torri. Continua a distrarsi{LF}con i ricordi del palato di Michael quando dovrebbe{LF}concentrarsi sul compito da svolgere.`

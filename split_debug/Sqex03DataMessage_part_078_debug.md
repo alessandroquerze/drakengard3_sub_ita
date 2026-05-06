@@ -136,7 +136,7 @@ I'm wounded! It's good to meet you!{#Name="Soldier C"}
 `Anche per me, mio ferito amico!{#Name="Soldier D"}`
 And you as well, my wounded friend!{#Name="Soldier D"}
 
-`Acqua... Qualcuno mi dia dell’acqua!{#Name="Soldier F"}`
+`Acqua... Qualcuno mi dia dell'acqua!{#Name="Soldier F"}`
 Water... Someone give me water!{#Name="Soldier F"}
 
 `Tu... Prendi questo...!{#Name="Soldier B"}`
@@ -145,7 +145,7 @@ You... Take this...!{#Name="Soldier B"}
 `Vedo una graziosa capanna nella foresta!{#Name="Soldier E"}`
 I see a quaint little hut in the forest!{#Name="Soldier E"}
 
-`E dentro quella capanna c’è un enorme uomo-pesca-lucertola!{#Name="Soldier G"}`
+`E dentro quella capanna c'è un enorme uomo-pesca-lucertola!{#Name="Soldier G"}`
 And inside that hut, there's a great big man-peach-lizard!{#Name="Soldier G"}
 
 `Un uomo-pesca-lucertola, dici? Sono i peggiori! Aaaargh!{#Name="Soldier A"}`
@@ -160,7 +160,7 @@ When...this battle is over...I'll finally see you...{#Name="Soldier C"}
 `Quando vedrò Madre... Le farò preparare...la sua zuppa bianca per me!{#Name="Soldier G"}`
 Once I see Mother... I'll have her make...her white soup for me!{#Name="Soldier G"}
 
-`E una bistecca bianca...e anche un po’ di insalata bianca!{#Name="Soldier G"}`
+`E una bistecca bianca...e anche un po' di insalata bianca!{#Name="Soldier G"}`
 And a white steak...and some white salad, too!{#Name="Soldier G"}
 
 `Bianco! Bianco! ...Nero? ...No, bianco!{#Name="Soldier G"}`
@@ -184,7 +184,7 @@ Don't run away!{#Name="Soldier B"}
 `Non scappate!{#Name="Soldier B"}`
 Don't run away!{#Name="Soldier B"}
 
-`Eh? È Zero! Il fiore nato dall’uovo...{#Name="Soldier D"}`
+`Eh? È Zero! Il fiore nato dall'uovo...{#Name="Soldier D"}`
 Huh? It's Zero! The flower born from the egg...{#Name="Soldier D"}
 
 `91{#Name="91"}`
@@ -250,13 +250,13 @@ What's Five doing here in the{LF}forest instead of Three?{#Name="Zero"}
 `Forse Accord aveva ragione sul fatto che{LF}il mondo si stia sgretolando.{#Name="Octa"}`
 Perhaps Accord was right about{LF}the world breaking down.{#Name="Octa"}
 
-`Oh, per l’amor del cazzo.{#Name="Zero"}`
+`Oh, per l'amor del cazzo.{#Name="Zero"}`
 Oh, for fuck's sake.{#Name="Zero"}
 
 `È fantastico! Oh mio Dio,{LF}questo posto è dannatamente fantastico!{#Name="Dito"}`
 This is great! Oh my gosh,{LF}this place is freaking great!{#Name="Dito"}
 
-`Guardalo, Cent! È incredibile!{LF}C’è sangue, budella e...tutto il resto!{#Name="Dito"}`
+`Guardalo, Cent! È incredibile!{LF}C'è sangue, budella e...tutto il resto!{#Name="Dito"}`
 Look at it, Cent! It's amazing!{LF}There's blood and guts and...everything!{#Name="Dito"}
 
 `È un mondo dove solo il brutto è bello!{#Name="Dito"}`
@@ -271,7 +271,7 @@ Meeeeee?{#Name="Cent"}
 `Sì! Tu! Andiamo, so che{LF}odi il mondo in cui vivi.{#Name="Dito"}`
 Yeah! You! Come on, I know you{LF}hate the world you're in.{#Name="Dito"}
 
-`L’ho sempre saputo!{LF}Ti si legge in faccia!{#Name="Dito"}`
+`L'ho sempre saputo!{LF}Ti si legge in faccia!{#Name="Dito"}`
 I've known it forever!{LF}It's written all over your face!{#Name="Dito"}
 
 `Mmmm? È così evidente?{#Name="Cent"}`
@@ -292,7 +292,7 @@ Huh?{#Name="Dito"}
 `Il mio posto era al suo fianco.{LF}Era tutto ciò che avevo...{#Name="Cent"}`
 My place was by her side.{LF}It's really all I ever had...{#Name="Cent"}
 
-`Ugh, che diavolo, amico?{LF}Sembri un adolescente malato d’amore.{#Name="Dito"}`
+`Ugh, che diavolo, amico?{LF}Sembri un adolescente malato d'amore.{#Name="Dito"}`
 Ugh, what the hell, man?{LF}You sound like a lovesick teenager.{#Name="Dito"}
 
 `Mi viene voglia di vomitare le budella sul pavimento...{#Name="Dito"}`

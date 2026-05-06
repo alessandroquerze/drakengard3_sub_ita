@@ -52,7 +52,7 @@ Un...Under...s-sie..ge... (insane ranting){#Name="Soldier D"}
 `Hodfarrrrg! (delirio folle){#Name="Soldier E"}`
 Hodfarrrrg! (insane ranting){#Name="Soldier E"}
 
-`L’Intoner... (delirio folle){#Name="Soldier E"}`
+`L'Intoner... (delirio folle){#Name="Soldier E"}`
 The Intoner... (insane ranting){#Name="Soldier E"}
 
 `Graaaaah! (delirio folle){#Name="Soldier E"}`
@@ -139,7 +139,7 @@ You better be ready, One.{#Name="Zero"}
 `Sto venendo a prenderti!{#Name="Zero"}`
 I'm coming for you!{#Name="Zero"}
 
-`Questa dev’essere la stanza di One.{#Name="Zero"}`
+`Questa dev'essere la stanza di One.{#Name="Zero"}`
 This must be One's room.{#Name="Zero"}
 
 `Le Intoner portano solo pestilenza a questo mondo.{#Name="One"}`
@@ -181,7 +181,7 @@ This world has no place for us.{#Name="One"}
 `Ottimo! Allora non ti dispiacerà morire.{#Name="Zero"}`
 Great! Then you won't mind dying.{#Name="Zero"}
 
-`So del tuo fiore. So che c’è lui dietro tutto questo.{#Name="One"}`
+`So del tuo fiore. So che c'è lui dietro tutto questo.{#Name="One"}`
 I know about your flower. I know it's behind all of this.{#Name="One"}
 
 `E immagino che non ti lascerà morire{LF}finché non sarà riuscito a distruggere il mondo.{#Name="One"}`
@@ -274,7 +274,7 @@ Stop with the bullshit and kill that thing already!{#Name="Zero"}
 `Zero... So che lo sai!{#Name="One"}`
 Zero... I know you know this!{#Name="One"}
 
-`Se vuoi uccidere un’Intoner,{#Name="One"}`
+`Se vuoi uccidere un'Intoner,{#Name="One"}`
 If you want to kill an Intoner,{#Name="One"}
 
 `hai bisogno del potere di un drago!{#Name="One"}`
@@ -289,7 +289,7 @@ Zero!{#Name="Mikhail"}
 `Vai!{#Name="Zero"}`
 Go!{#Name="Zero"}
 
-`Ce l’hai fatta! Davvero—{#Name="Zero"}`
+`Ce l'hai fatta! Davvero—{#Name="Zero"}`
 You did it! You actually—{#Name="Zero"}
 
 `Zero, io...{#Name="Mikhail"}`
@@ -310,6 +310,6 @@ Ooooooooone!{#Name="Zero"}
 `Mikhaaail!{#Name="Zero"}`
 Mikhaaail!{#Name="Zero"}
 
-`Se pensi di essere l’unica a soffrire qui,{#Name="One"}`
+`Se pensi di essere l'unica a soffrire qui,{#Name="One"}`
 If you think you're the only one suffering here,{#Name="One"}
 

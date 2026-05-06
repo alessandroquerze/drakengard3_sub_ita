@@ -256,13 +256,13 @@ No! NOOOO! ...Wait, which one is Zero?{#Name="Soldier D"}
 `Quella tipa inquietante con i capelli, idiota! Ma che cazzo?{#Name="Soldier C"}`
 The creepy chick with the hair, man! What the hell?{#Name="Soldier C"}
 
-`Uomini! Il nostro nemico è un’Intoner! Rompete la formazione e datele tutto quello che avete!{#Name="Soldier A"}`
+`Uomini! Il nostro nemico è un'Intoner! Rompete la formazione e datele tutto quello che avete!{#Name="Soldier A"}`
 Men! Our foe is an Intoner! Break formation and give her all you've got!{#Name="Soldier A"}
 
 `Ricevuto, signore! Prendetela!{#Name="Soldier B"}`
 Understood, sir! Get her!{#Name="Soldier B"}
 
-`Dov’è Lady Three?{#Name="Soldier E"}`
+`Dov'è Lady Three?{#Name="Soldier E"}`
 Where's Lady Three?{#Name="Soldier E"}
 
 `Al sicuro con Octa, spero!{#Name="Soldier F"}`
@@ -307,7 +307,7 @@ Trees with faces.{#Name="Zero"}
 `Sì! Ne ho salutato uno perché pensavo{LF}che mi stesse sorridendo! Divertente, eh?{#Name="Mikhail"}`
 Yeah! I said hi to one because I thought{LF}he was smiling at me! Funny, huh?{#Name="Mikhail"}
 
-`L’unica cosa divertente è quanto sei stupido.{#Name="Zero"}`
+`L'unica cosa divertente è quanto sei stupido.{#Name="Zero"}`
 The only thing funny is how dumb you are.{#Name="Zero"}
 
 `ゼロ！あぶないよ！{#Name="ミハイル"}`

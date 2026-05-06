@@ -115,13 +115,13 @@ It's time for a full-scale attack!{#Name="Soldier A"}
 `Alla fine siamo arrivati a questo...{#Name="Soldier E"}`
 It's finally come to this...{#Name="Soldier E"}
 
-`Com’è riuscita ad avanzare fin qui?{#Name="Soldier C"}`
+`Com'è riuscita ad avanzare fin qui?{#Name="Soldier C"}`
 How could she have advanced this far?{#Name="Soldier C"}
 
-`È un’Intoner! Le Intoner fanno sul serio, amico!{#Name="Soldier D"}`
+`È un'Intoner! Le Intoner fanno sul serio, amico!{#Name="Soldier D"}`
 She's an Intoner! Intoners are the real deal, man!{#Name="Soldier D"}
 
-`La ritirata non è un’opzione! Perché diavolo pensate che siamo qui!?{#Name="Soldier F"}`
+`La ritirata non è un'opzione! Perché diavolo pensate che siamo qui!?{#Name="Soldier F"}`
 Retreat is not an option! Why the hell do you think we're here!?{#Name="Soldier F"}
 
 `Ha ragione! Combattiamo fino alla fine! Per Lady One!{#Name="Soldier G"}`
@@ -130,7 +130,7 @@ He's right! We fight to the end! For Lady One's sake!{#Name="Soldier G"}
 `Dobbiamo diventare uno scudo per la nostra Signora!{#Name="Soldier A"}`
 We must become as a shield for our Lady!{#Name="Soldier A"}
 
-`È l’unico modo per ripagare la nostra salvatrice!{#Name="Soldier A"}`
+`È l'unico modo per ripagare la nostra salvatrice!{#Name="Soldier A"}`
 It's the only way to repay our savior!{#Name="Soldier A"}
 
 `それが、我々を救ってくださったワン様への…恩返しだ{#Name="兵士Ａ"}`
@@ -211,7 +211,7 @@ Are we even hurting them!?{#Name="Soldier C"}
 `Ormai dobbiamo aver fatto QUALCHE danno!{LF}...Giusto!?{#Name="Soldier D"}`
 We must have done SOME damage by now!{LF}...Right!?{#Name="Soldier D"}
 
-`Avremmo dovuto saperlo che semplici umani{LF}non potevano combattere un’Intoner...{#Name="Soldier C"}`
+`Avremmo dovuto saperlo che semplici umani{LF}non potevano combattere un'Intoner...{#Name="Soldier C"}`
 We should have known mere humans{LF}couldn't combat an Intoner...{#Name="Soldier C"}
 
 `Beh, ormai ci siamo messi nei guai, quindi continuate a combattere!{#Name="Soldier D"}`
@@ -256,13 +256,13 @@ I detect the putrid breath of{LF}soldiers quaking in fear.{#Name="Decadus"}
 `Momento curiosità! Sapevate che il sedici percento{LF}del respiro umano è composto da sostanze nocive?{#Name="Cent"}`
 Trivia time! Did you know sixteen percent of{LF}human breath consists of harmful chemicals?{#Name="Cent"}
 
-`Io... No, non l’ho mai sentito.{#Name="Decadus"}`
+`Io... No, non l'ho mai sentito.{#Name="Decadus"}`
 I... No, I've never heard that.{#Name="Decadus"}
 
-`Non credo proprio. È la prima volta{LF}che lo sento anch’io.{#Name="Cent"}`
+`Non credo proprio. È la prima volta{LF}che lo sento anch'io.{#Name="Cent"}`
 I wouldn't think so. This is my{LF}first time hearing it too.{#Name="Cent"}
 
-`Com’è che finisco sempre a combattere{LF}di nuovo queste stupide battaglie?{#Name="Dito"}`
+`Com'è che finisco sempre a combattere{LF}di nuovo queste stupide battaglie?{#Name="Dito"}`
 How is it that I keep ending up fighting{LF}these stupid battles again?{#Name="Dito"}
 
 `Oh ho ho! Tutto per Lady Zero, ovviamente.{#Name="Octa"}`

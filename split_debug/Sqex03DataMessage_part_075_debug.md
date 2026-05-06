@@ -4,7 +4,7 @@ When the golden swallow's tears overflow...{LF}the world's mirror will shatter i
 `Ugh. Come se mi servissero queste assurdità proprio adesso.{#Name="Zero"}`
 Ugh. Like I need this nonsense right now.{#Name="Zero"}
 
-`Il grigio attraversa il bosco.{LF}L’oscurità passa. Un sipario si apre...{#Name="Three"}`
+`Il grigio attraversa il bosco.{LF}L'oscurità passa. Un sipario si apre...{#Name="Three"}`
 Gray runs through the wood.{LF}Darkness passes. A curtain parts...{#Name="Three"}
 
 `Che significa, eh? Che significa?{#Name="Mikhail"}`
@@ -13,7 +13,7 @@ What's that mean, huh? What's it mean?{#Name="Mikhail"}
 `Non pensarci. Dubito che significhi qualcosa.{#Name="Zero"}`
 Don't worry about it. I doubt it means anything.{#Name="Zero"}
 
-`Il rosso attraversa il cielo.{LF}La scala dell’anima si tende fino alla stella della sera...{#Name="Three"}`
+`Il rosso attraversa il cielo.{LF}La scala dell'anima si tende fino alla stella della sera...{#Name="Three"}`
 Red runs through the sky.{LF}The soul's stairway spans the evening star...{#Name="Three"}
 
 `...La scala di cosa, adesso?{#Name="Zero"}`
@@ -31,16 +31,16 @@ Have you any reaction to these poems, my lady?{#Name="Octa"}
 `Sono stanca di questa merda. Ti basta?{#Name="Zero"}`
 I'm tired of this shit. How's that?{#Name="Zero"}
 
-`...Che c’è? Hai finalmente finito?{#Name="Zero"}`
+`...Che c'è? Hai finalmente finito?{#Name="Zero"}`
 ...What is it? You finally done?{#Name="Zero"}
 
-`Il cane agile emerge dagli inferi,{LF}facendo risuonare un tamburo dall’erba...{#Name="Three"}`
+`Il cane agile emerge dagli inferi,{LF}facendo risuonare un tamburo dall'erba...{#Name="Three"}`
 The nimble dog arises from the underworld,{LF}sounding a drumbeat from the grass...{#Name="Three"}
 
 `Lo sapevo che avrebbe ripreso.{#Name="Zero"}`
 I knew that was coming.{#Name="Zero"}
 
-`I passi di una fanciulla calpestano l’erba,{LF}lasciando spazio alle spine.{#Name="Three"}`
+`I passi di una fanciulla calpestano l'erba,{LF}lasciando spazio alle spine.{#Name="Three"}`
 A maiden's footpads trample grass,{LF}giving way to thorns.{#Name="Three"}
 
 `Danzano. Danzano! Le braci ardenti{LF}danzano fino alla terra promessa.{#Name="Three"}`
@@ -61,7 +61,7 @@ Zero... I screwed up...{#Name="Three"}
 `Ho invitato One nella foresta...per poterla uccidere, ma...{#Name="Three"}`
 I invited One to the forest...so I could kill her, but...{#Name="Three"}
 
-`Lei è... Sta’ attenta...{#Name="Three"}`
+`Lei è... Sta' attenta...{#Name="Three"}`
 She's... Be careful...{#Name="Three"}
 
 `È morta? È mortissima!{#Name="Dito"}`
@@ -76,7 +76,7 @@ Update{#Name="60"}
 `La divergenza innescata dalla singolarità nota come Zero{#Name="307"}`
 The divergence triggered by the singularity known as Zero{#Name="307"}
 
-`ha portato a un’ampia gamma di anomalie osservate.{#Name="235"}`
+`ha portato a un'ampia gamma di anomalie osservate.{#Name="235"}`
 has led to a wide range of observed anomalies.{#Name="235"}
 
 `La foresta è cambiata, e i suoi nemici sono più violenti. Inoltre,{#Name="307"}`
@@ -85,7 +85,7 @@ The forest has changed, and its foes are more violent. Furthermore,{#Name="307"}
 `la singolarità nota come Two, e il suo discepolo, Cent,{#Name="325"}`
 the singularity known as Two, and her disciple, Cent,{#Name="325"}
 
-`ora agiscono indipendentemente l’una dall’altro.{#Name="469"}`
+`ora agiscono indipendentemente l'una dall'altro.{#Name="469"}`
 are now acting independently of one another.{#Name="469"}
 
 `M3240_E0010_QV: Inizio registrazione{#Name="361"}`
@@ -97,10 +97,10 @@ Statues of Lady Three, it would seem.{#Name="Octa"}
 `Lei non ha mai avuto un dannato senso.{#Name="Zero"}`
 She never did make any goddamn sense.{#Name="Zero"}
 
-`L’uscita non si è aperta.{#Name="Zero"}`
+`L'uscita non si è aperta.{#Name="Zero"}`
 The exit hasn't opened up.{#Name="Zero"}
 
-`Forse c’è qualcosa nascosto dentro{LF}le statue di Lady Three?{#Name="Octa"}`
+`Forse c'è qualcosa nascosto dentro{LF}le statue di Lady Three?{#Name="Octa"}`
 Is there something hidden within{LF}Lady Three's statues, perhaps?{#Name="Octa"}
 
 `Chiudete il becco, stupidi bastardi!:::{#Name="Dito"}`
@@ -247,7 +247,7 @@ Mikhail! Don't listen to Cent!{LF}Show him no mercy!{#Name="Octa"}
 `Davvero? Ma...ma è nostro amico!{#Name="Mikhail"}`
 Really? But...but he's our friend!{#Name="Mikhail"}
 
-`Eppure ha assassinato Dito.{LF}È questa l’azione di un amico?{#Name="Decadus"}`
+`Eppure ha assassinato Dito.{LF}È questa l'azione di un amico?{#Name="Decadus"}`
 And yet he murdered Dito.{LF}Is this the action of a friend?{#Name="Decadus"}
 
 `È troppo difficile! Non ci capisco niente!{#Name="Mikhail"}`
@@ -292,7 +292,7 @@ Give us your blessing...Raphael...{#Name="Cent"}
 `Zero!{#Name="Mikhail"}`
 Zero!{#Name="Mikhail"}
 
-`Com’è riuscita a evocare un angelo senza canto?{#Name="Zero"}`
+`Com'è riuscita a evocare un angelo senza canto?{#Name="Zero"}`
 How'd she summon an angel without a song?{#Name="Zero"}
 
 `Merda. È...veleno!?{#Name="Zero"}`
@@ -310,7 +310,7 @@ Hey! Hey, you good?{#Name="Zero"}
 `Sono...bravo...in cosa?{#Name="Mikhail"}`
 Am I...good...at what?{#Name="Mikhail"}
 
-`Ugh, per l’amor di Dio!{#Name="Zero"}`
+`Ugh, per l'amor di Dio!{#Name="Zero"}`
 Ugh, for God's sake!{#Name="Zero"}
 
 `Z-Zero... Tu...stai bene?{#Name="Mikhail"}`

@@ -34,7 +34,7 @@ Cutscene{LF}Zero hands off the defeated Four{LF}to Mikhail, who eats her and evo
 `あらすじ第十一項　２３２０　一行目{LF}あらすじ第十一項　２３２０　二行目{LF}あらすじ第十一項　２３２０　三行目{LF}あらすじ第十一項　２３２０　四行目{LF}あらすじ第十一項　２３２０　五行目`
 あらすじ第十一項　２３２０　一行目{LF}あらすじ第十一項　２３２０　二行目{LF}あらすじ第十一項　２３２０　三行目{LF}あらすじ第十一項　２３２０　四行目{LF}あらすじ第十一項　２３２０　五行目
 
-`Mappa Diramazioni → Accampamento{LF}Ma guarda un po’. Chi è questa donna affascinante e{LF}bellissima che parla di draghi{LF}e Intoner con il gruppo di Zero? È {LF}di certo una gioia per gli occhi, mmm?`
+`Mappa Diramazioni → Accampamento{LF}Ma guarda un po'. Chi è questa donna affascinante e{LF}bellissima che parla di draghi{LF}e Intoner con il gruppo di Zero? È {LF}di certo una gioia per gli occhi, mmm?`
 Branch Map → Camp{LF}Well, well. Who's this charming and{LF}beautiful woman talking about dragons{LF}and Intoners with Zero's party? She {LF}certainly is a treat for the eyes, mmm?
 
 `Gioco{LF}Il gruppo resta turbato nello scoprire che{LF}i draghi divorano le Intoner per puro{LF}istinto, ma continua ad avanzare attraverso{LF}la Terra delle Foreste.`
@@ -67,13 +67,13 @@ Game{LF}The party's way is blocked by undead{LF}monsters so hideous, they send D
 `あらすじ第十一項　３３１０　一行目{LF}あらすじ第十一項　３３１０　二行目{LF}あらすじ第十一項　３３１０　三行目{LF}あらすじ第十一項　３３１０　四行目{LF}あらすじ第十一項　３３１０　五行目`
 あらすじ第十一項　３３１０　一行目{LF}あらすじ第十一項　３３１０　二行目{LF}あらすじ第十一項　３３１０　三行目{LF}あらすじ第十一項　３３１０　四行目{LF}あらすじ第十一項　３３１０　五行目
 
-`Gioco{LF}Decadus è infastidito dal terribile{LF}stato della foresta, ma Dito è{LF}elettrizzato all’inverosimile dagli orrori{LF}che essa contiene.`
+`Gioco{LF}Decadus è infastidito dal terribile{LF}stato della foresta, ma Dito è{LF}elettrizzato all'inverosimile dagli orrori{LF}che essa contiene.`
 Game{LF}Decadus is annoyed by the terrible{LF}state of the forest, but Dito is{LF}thrilled to no end by the horrors{LF}it contains.
 
 `Cutscene → Gioco{LF}Il gruppo viene accolto da Five, che avrebbe{LF}dovuto essere morta. La sua carne putrefatta{LF}e il suo esercito di zombie bastano a{LF}far impazzire Dito di gioia.`
 Cutscene → Game{LF}The group is greeted by Five, who was{LF}supposed to be dead. Her rotting flesh{LF}and army of zombies are enough to{LF}drive Dito mad with delight.
 
-`Cutscene{LF}Five viene uccisa, ma quando Dito e Cent{LF}evocano angeli senza il potere{LF}di un’Intoner, scoprono che c’è un prezzo da{LF}pagare per certe cose...`
+`Cutscene{LF}Five viene uccisa, ma quando Dito e Cent{LF}evocano angeli senza il potere{LF}di un'Intoner, scoprono che c'è un prezzo da{LF}pagare per certe cose...`
 Cutscene{LF}Five is killed, but as Dito and Cent{LF}summon angels without an Intoner's{LF}power, they learn there is a price to{LF}be paid for such things...
 
 `あらすじ第四項　３３２０　一行目{LF}あらすじ第四項　３３２０　二行目{LF}あらすじ第四項　３３２０　三行目{LF}あらすじ第四項　３３２０　四行目{LF}あらすじ第四項　３３２０　五行目`
@@ -166,10 +166,10 @@ Cutscene{LF}The ancient dragon and Three are{LF}defeated, leaving Zero with one{
 `あらすじ第十一項　４３２０　一行目{LF}あらすじ第十一項　４３２０　二行目{LF}あらすじ第十一項　４３２０　三行目{LF}あらすじ第十一項　４３２０　四行目{LF}あらすじ第十一項　４３２０　五行目`
 あらすじ第十一項　４３２０　一行目{LF}あらすじ第十一項　４３２０　二行目{LF}あらすじ第十一項　４３２０　三行目{LF}あらすじ第十一項　４３２０　四行目{LF}あらすじ第十一項　４３２０　五行目
 
-`Accampamento{LF}Con Octa come unico discepolo rimasto,{LF}l’accampamento è davvero un luogo silenzioso. Zero{LF}decide di rompere il silenzio{LF}rivelando la verità sulla sua storia.`
+`Accampamento{LF}Con Octa come unico discepolo rimasto,{LF}l'accampamento è davvero un luogo silenzioso. Zero{LF}decide di rompere il silenzio{LF}rivelando la verità sulla sua storia.`
 Camp{LF}With Octa the only remaining disciple,{LF}camp is a quiet place indeed. Zero{LF}decides to break the silence by{LF}revealing the truth of her story.
 
-`Gioco{LF}Zero racconta finalmente la sua storia—il segreto{LF}dietro le Intoner, e la storia del{LF}fiore e della sua lotta contro l’umanità.`
+`Gioco{LF}Zero racconta finalmente la sua storia—il segreto{LF}dietro le Intoner, e la storia del{LF}fiore e della sua lotta contro l'umanità.`
 Game{LF}Zero tells her tale at last—the secret{LF}behind the Intoners, and the story of the{LF}flower and its plight against mankind.
 
 `Gioco{LF}Le Intoner sono semi che porteranno{LF}la fine del mondo, e solo un drago può{LF}ucciderle. Armata di questa informazione, Zero{LF}fece visita a qualcuno due anni fa.`
@@ -208,7 +208,7 @@ Game{LF}Mikhail and Gabriel battle in the sky,{LF}while Zero and Octa take the g
 `Cutscene → Gioco{LF}Zero è pronta ad affrontare sua sorella One.{LF}Due cadaveri, un tempo mossi solo dal{LF}fiore, hanno acquisito una volontà propria,{LF}e ora scelgono il proprio futuro.`
 Cutscene → Game{LF}Zero is ready to face her sister One.{LF}Two corpses, once driven only by the{LF}flower, have gained their own wills,{LF}and now choose their own futures.
 
-`Cutscene{LF}Zero mette One alle strette. Octa si sacrifica{LF}evocando un angelo. E un’osservatrice{LF}a cui è proibito interferire con gli eventi{LF}si fa avanti...`
+`Cutscene{LF}Zero mette One alle strette. Octa si sacrifica{LF}evocando un angelo. E un'osservatrice{LF}a cui è proibito interferire con gli eventi{LF}si fa avanti...`
 Cutscene{LF}Zero corners One. Octa sacrifices himself{LF}by summoning an angel. And an observer{LF}forbidden from interfering with events{LF}steps forward...
 
 `あらすじ第五項　５３１０　一行目{LF}あらすじ第五項　５３１０　二行目{LF}あらすじ第五項　５３１０　三行目{LF}あらすじ第五項　５３１０　四行目{LF}あらすじ第五項　５３１０　五行目`

@@ -19,10 +19,10 @@ Stop! You'll get yourself killed!{#Name="Soldier D"}
 `Ci servono rinforzi. Ora, muoviamoci!{#Name="Soldier E"}`
 We need backup. Now come on!{#Name="Soldier E"}
 
-`Oggi sarà versato il sangue dell’Intoner maledetta!{#Name="Soldier F"}`
+`Oggi sarà versato il sangue dell'Intoner maledetta!{#Name="Soldier F"}`
 The blood of the cursed Intoner will be spilled this day!{#Name="Soldier F"}
 
-`Maledetta Zero! Che tu sia dannata all’inferno!{#Name="Soldier G"}`
+`Maledetta Zero! Che tu sia dannata all'inferno!{#Name="Soldier G"}`
 Damn you, Zero! Damn you to Hell!{#Name="Soldier G"}
 
 `Possiamo farcela?{#Name="Soldier A"}`
@@ -55,7 +55,7 @@ Get up! We're going home together!{#Name="Soldier F"}
 `Come fa a muoversi così in fretta?{#Name="Soldier E"}`
 How does she move so quickly?{#Name="Soldier E"}
 
-`È...l’Intoner!?{#Name="Soldier A"}`
+`È...l'Intoner!?{#Name="Soldier A"}`
 Is that...the Intoner!?{#Name="Soldier A"}
 
 `Perché... Perché mi prude così tanto il corpo!?{#Name="Soldier F"}`
@@ -127,7 +127,7 @@ Me, I feel great!{#Name="Dito"}
 `Davvero? Non sapevo fossi così amante della natura.{#Name="Zero"}`
 Seriously? I didn't know you were so big on nature.{#Name="Zero"}
 
-`L’unica cosa che conta adesso{LF}è che Five non esiste più!{#Name="Dito"}`
+`L'unica cosa che conta adesso{LF}è che Five non esiste più!{#Name="Dito"}`
 The only thing that matters right now{LF}is that Five no longer exists!{#Name="Dito"}
 
 `A dire il vero, non mi sono mai sentito meglio!{#Name="Dito"}`
@@ -175,7 +175,7 @@ Do take care, Lady Zero.{#Name="Decadus"}
 `Questi uomini hanno perso la testa.{#Name="Decadus"}`
 These men have lost their minds.{#Name="Decadus"}
 
-`Come mi importasse. Sono circondata{LF}da pazzi fin dall’inizio.{#Name="Zero"}`
+`Come mi importasse. Sono circondata{LF}da pazzi fin dall'inizio.{#Name="Zero"}`
 Like I care. I've been surrounded{LF}by loons from the get-go.{#Name="Zero"}
 
 `...Nnngh!{#Name="Zero"}`
@@ -199,10 +199,10 @@ What?{#Name="Zero"}
 `Faccio un brutto odore anche oggi?{#Name="Mikhail"}`
 Do I smell bad again today?{#Name="Mikhail"}
 
-`...Effettivamente, sai che c’è?{LF}Credo che sia un po’ migliorato.{#Name="Zero"}`
+`...Effettivamente, sai che c'è?{LF}Credo che sia un po' migliorato.{#Name="Zero"}`
 ...Actually, you know what?{LF}I think it's gotten a little better.{#Name="Zero"}
 
-`Yaaay! Mi sono lavato in un fiume{LF}così d’ora in poi sarò pulito!{#Name="Mikhail"}`
+`Yaaay! Mi sono lavato in un fiume{LF}così d'ora in poi sarò pulito!{#Name="Mikhail"}`
 Yaaay! I washed myself in a river{LF}so I'd be clean from now on!{#Name="Mikhail"}
 
 `Quindi, ehm, forse questo significa che non...{#Name="Mikhail"}`
@@ -223,7 +223,7 @@ Ha ha ha! Check out all the blood and guts!{#Name="Dito"}
 `Aw, che schifo! Gli escono i vermi{LF}dagli OCCHI!{#Name="Dito"}`
 Aw, nasty! They got maggots{LF}comin' outta their EYES!{#Name="Dito"}
 
-`Guardate questi spettacoli dell’orrore!{LF}Come fanno a sopportarlo!?{#Name="Dito"}`
+`Guardate questi spettacoli dell'orrore!{LF}Come fanno a sopportarlo!?{#Name="Dito"}`
 Look at these horror shows!{LF}How can they stand it!?{#Name="Dito"}
 
 `Sono bestie putride e luride...{LF}È così contorto... LO ADORO!{LF}Ha ha! Ha ha ha ha!{#Name="Dito"}`
@@ -250,7 +250,7 @@ Ngh... C-Can't breathe...{#Name="Zero"}
 `Zero, il tuo fiore ti sta intralciando.{#Name="Mikhail"}`
 Zero, your flower's getting in the way.{#Name="Mikhail"}
 
-`Dovresti riposarti, okay? Solo un po’...{#Name="Mikhail"}`
+`Dovresti riposarti, okay? Solo un po'...{#Name="Mikhail"}`
 You better take a rest, okay? Just a little rest...{#Name="Mikhail"}
 
 `Whoooaaa! Eccolo che arriva!{#Name="Dito"}`
@@ -262,10 +262,10 @@ Whoooaaa! Thar she blows!{#Name="Dito"}
 `Guardateli! Così puzzolenti, viscidi,{LF}sanguinolenti e marci...{#Name="Dito"}`
 Look at 'em! So stinky and slimy{LF}and gory and rotten...{#Name="Dito"}
 
-`Questa battaglia sarà orribile!{LF}Non vedo l’ora!{#Name="Dito"}`
+`Questa battaglia sarà orribile!{LF}Non vedo l'ora!{#Name="Dito"}`
 This battle's gonna be horrible!{LF}I totally can't wait!{#Name="Dito"}
 
-`Questo spettacolo supera l’immaginazione.{LF}Che sta succedendo qui?{#Name="Octa"}`
+`Questo spettacolo supera l'immaginazione.{LF}Che sta succedendo qui?{#Name="Octa"}`
 This sight is beyond imagining.{LF}What is happening here?{#Name="Octa"}
 
 `Davvero? Chi se ne frega!?{#Name="Dito"}`
@@ -277,7 +277,7 @@ Me, I feel great!{#Name="Dito"}
 `Davvero? Non sapevo fossi così amante della natura.{#Name="Zero"}`
 Seriously? I didn't know you were so big on nature.{#Name="Zero"}
 
-`L’unica cosa che conta adesso{LF}è che Five non esiste più!{#Name="Dito"}`
+`L'unica cosa che conta adesso{LF}è che Five non esiste più!{#Name="Dito"}`
 The only thing that matters right now{LF}is that Five no longer exists!{#Name="Dito"}
 
 `A dire il vero, non mi sono mai sentito meglio!{#Name="Dito"}`
@@ -298,10 +298,10 @@ Whatever! I'll curse her corpse{LF}until the day I die!{#Name="Dito"}
 `Non la perdonerò mai! Mai!{#Name="Dito"}`
 I'll never forgive her! Never!{#Name="Dito"}
 
-`Ha ha! Caspita, non vedo l’ora di massacrare{LF}la prossima Intoner! Sarà fantastico!{#Name="Dito"}`
+`Ha ha! Caspita, non vedo l'ora di massacrare{LF}la prossima Intoner! Sarà fantastico!{#Name="Dito"}`
 Ha ha! Man, I can't wait to slaughter{LF}the next Intoner! It's gonna be great!{#Name="Dito"}
 
-`Sai che anch’io sono un’Intoner...{#Name="Zero"}`
+`Sai che anch'io sono un'Intoner...{#Name="Zero"}`
 You do know I'm an Intoner too...{#Name="Zero"}
 
 `Ha ha! Ha ha ha ha!{#Name="Dito"}`

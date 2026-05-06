@@ -16,16 +16,16 @@ A spear of betrayal once owned by{LF}a man who usurped the throne.
 `Una lancia del tradimento un tempo appartenuta{LF}a un uomo che usurpò il trono.`
 A spear of betrayal once owned by{LF}a man who usurped the throne.
 
-`Un bastone tramandato da{LF}un potente evocatore all’altro.`
+`Un bastone tramandato da{LF}un potente evocatore all'altro.`
 A staff that's been passed down from{LF}one powerful conjurer to the next.
 
-`Un bastone tramandato da{LF}un potente evocatore all’altro.`
+`Un bastone tramandato da{LF}un potente evocatore all'altro.`
 A staff that's been passed down from{LF}one powerful conjurer to the next.
 
-`Un bastone tramandato da{LF}un potente evocatore all’altro.`
+`Un bastone tramandato da{LF}un potente evocatore all'altro.`
 A staff that's been passed down from{LF}one powerful conjurer to the next.
 
-`Un bastone tramandato da{LF}un potente evocatore all’altro.`
+`Un bastone tramandato da{LF}un potente evocatore all'altro.`
 A staff that's been passed down from{LF}one powerful conjurer to the next.
 
 `La lancia di un drago rinomato.`
@@ -64,16 +64,16 @@ A spear that once threatened the royal{LF}throne. Strikes fear in weaker foes.
 `Una lancia che un tempo minacciò il trono{LF}reale. Incute paura ai nemici più deboli.`
 A spear that once threatened the royal{LF}throne. Strikes fear in weaker foes.
 
-`L’ultima lancia lasciata dal{LF}Holy Emperor. Efficace contro i non morti.`
+`L'ultima lancia lasciata dal{LF}Holy Emperor. Efficace contro i non morti.`
 The last spear left behind by the{LF}Holy Emperor. Effective vs. undead.
 
-`L’ultima lancia lasciata dal{LF}Holy Emperor. Efficace contro i non morti.`
+`L'ultima lancia lasciata dal{LF}Holy Emperor. Efficace contro i non morti.`
 The last spear left behind by the{LF}Holy Emperor. Effective vs. undead.
 
-`L’ultima lancia lasciata dal{LF}Holy Emperor. Efficace contro i non morti.`
+`L'ultima lancia lasciata dal{LF}Holy Emperor. Efficace contro i non morti.`
 The last spear left behind by the{LF}Holy Emperor. Effective vs. undead.
 
-`L’ultima lancia lasciata dal{LF}Holy Emperor. Efficace contro i non morti.`
+`L'ultima lancia lasciata dal{LF}Holy Emperor. Efficace contro i non morti.`
 The last spear left behind by the{LF}Holy Emperor. Effective vs. undead.
 
 `Una lancia che informa chi la impugna{LF}della sua rovina imminente.`
@@ -292,16 +292,16 @@ A compact chakram infused with a{LF}sorcerer's curse.
 `Un chakram compatto infuso con la{LF}maledizione di uno stregone.`
 A compact chakram infused with a{LF}sorcerer's curse.
 
-`Un chakram che si dice sia stato tinto{LF}di blu riflettendo le onde dell’oceano.`
+`Un chakram che si dice sia stato tinto{LF}di blu riflettendo le onde dell'oceano.`
 A chakram said to have been stained{LF}blue from reflecting ocean waves.
 
-`Un chakram che si dice sia stato tinto{LF}di blu riflettendo le onde dell’oceano.`
+`Un chakram che si dice sia stato tinto{LF}di blu riflettendo le onde dell'oceano.`
 A chakram said to have been stained{LF}blue from reflecting ocean waves.
 
-`Un chakram che si dice sia stato tinto{LF}di blu riflettendo le onde dell’oceano.`
+`Un chakram che si dice sia stato tinto{LF}di blu riflettendo le onde dell'oceano.`
 A chakram said to have been stained{LF}blue from reflecting ocean waves.
 
-`Un chakram che si dice sia stato tinto{LF}di blu riflettendo le onde dell’oceano.`
+`Un chakram che si dice sia stato tinto{LF}di blu riflettendo le onde dell'oceano.`
 A chakram said to have been stained{LF}blue from reflecting ocean waves.
 
 `Un grande chakram riccamente decorato.`

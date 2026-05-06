@@ -37,10 +37,10 @@ I've got a new job I need help with,
 `e credo che tu sia proprio la donna adatta.`
 and I think you're just the woman to handle it.
 
-`L’ho inserito nella mia lista di richieste,`
+`L'ho inserito nella mia lista di richieste,`
 I posted it to my list of requests,
 
-`quindi dagli un’occhiata appena hai un secondo!`
+`quindi dagli un'occhiata appena hai un secondo!`
 so check it out when you have a sec!
 
 `Cordialmente, Accord (dal Negozio di Armi)`

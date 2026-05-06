@@ -181,13 +181,13 @@ Ugh! This heat is killing me.{#Name="Zero"}
 `La luce del sole si riflette sulla sabbia,{LF}facendolo sembrare ancora più caldo.{#Name="Octa"}`
 The sunlight reflects off the sand,{LF}making it seem even hotter.{#Name="Octa"}
 
-`Forse togliervi i vestiti{LF}vi darebbe un po’ di sollievo?{#Name="Octa"}`
+`Forse togliervi i vestiti{LF}vi darebbe un po' di sollievo?{#Name="Octa"}`
 Perhaps removing your clothes{LF}would provide a bit of relief?{#Name="Octa"}
 
 `Forza! A me non dispiace!{LF}Toglieteli pure qui!{#Name="Octa"}`
 Go on! I don't mind!{LF}Just take them off right here!{#Name="Octa"}
 
-`Sta’ zitto. Mi stai facendo scaldare ancora di più.{#Name="Zero"}`
+`Sta' zitto. Mi stai facendo scaldare ancora di più.{#Name="Zero"}`
 Shut up. You're making me hotter.{#Name="Zero"}
 
 `Grrr! Che diavolo? Mi sembra di andare a fuoco!{#Name="Dito"}`
@@ -199,7 +199,7 @@ The sunlight seems to have suddenly grown stronger.{#Name="Decadus"}
 `Non possiamo fare niente?{LF}Mi sta facendo evaporare la vita dal corpo.{#Name="Dito"}`
 Can't we do anything about it?{LF}It's suckin' the life out of me.{#Name="Dito"}
 
-`Non è un caso. C’è qualcosa{LF}di strano qui.{#Name="Zero"}`
+`Non è un caso. C'è qualcosa{LF}di strano qui.{#Name="Zero"}`
 This is no accident. There's something{LF}weird going on here.{#Name="Zero"}
 
 `Forse i nostri nemici stanno usando la magia{LF}per amplificare i raggi del sole.{#Name="Decadus"}`
@@ -223,10 +223,10 @@ Ha ha ha! That's my Z!{#Name="Dito"}
 `Questa luce solare odiosa è qualcosa di tremendo.{LF}Basterebbe a far ammosciare persino me!{#Name="Octa"}`
 This odious sunlight is something else.{LF}It's enough to make even me go limp!{#Name="Octa"}
 
-`Faremmo meglio a restare all’ombra per conservare le energie.{#Name="Decadus"}`
+`Faremmo meglio a restare all'ombra per conservare le energie.{#Name="Decadus"}`
 We'd best stay in the shade to preserve our energy.{#Name="Decadus"}
 
-`Che c’è? Non dovresti{LF}lamentarti di qualcosa?{#Name="Zero"}`
+`Che c'è? Non dovresti{LF}lamentarti di qualcosa?{#Name="Zero"}`
 What's wrong? Shouldn't you be{LF}complaining about something?{#Name="Zero"}
 
 `Troppo caldo. Non riesco a parlare.{#Name="Dito"}`
@@ -241,13 +241,13 @@ Stop. Making it worse.{#Name="Dito"}
 `La luce del sole non vi dà fastidio, mia signora?{#Name="Decadus"}`
 Is the sunlight not bothering you, my lady?{#Name="Decadus"}
 
-`Ci vuole più di un po’ di sole per farmi male. {#Name="Zero"}`
+`Ci vuole più di un po' di sole per farmi male. {#Name="Zero"}`
 It takes more than a little sunlight to hurt me. {#Name="Zero"}
 
-`Tuttavia, vi prego di non esagerare.{LF}Meglio restare all’ombra.{#Name="Decadus"}`
+`Tuttavia, vi prego di non esagerare.{LF}Meglio restare all'ombra.{#Name="Decadus"}`
 Still, please don't overdo it.{LF}Best stick to the shade.{#Name="Decadus"}
 
-`Dannato sole, tutto questo nascondersi all’ombra{LF}sta iniziando davvero a farmi incazzare!{#Name="Zero"}`
+`Dannato sole, tutto questo nascondersi all'ombra{LF}sta iniziando davvero a farmi incazzare!{#Name="Zero"}`
 Dammit, all this hiding in the shade{LF}is really starting to piss me off!{#Name="Zero"}
 
 `Non è che abbiamo scelta.{LF}Questo sole ammazza i discepoli!{#Name="Dito"}`
@@ -262,7 +262,7 @@ Well, it still pisses me off.{#Name="Zero"}
 `Lady Zero, guardate dove mettete i piedi.{#Name="Octa"}`
 Lady Zero, watch where you step.{#Name="Octa"}
 
-`Nnngh! Ci sta mettendo un’eternità!{LF}Quanto è grande quest’area!?{#Name="Zero"}`
+`Nnngh! Ci sta mettendo un'eternità!{LF}Quanto è grande quest'area!?{#Name="Zero"}`
 Nnngh! This is taking forever!{LF}How big IS this area!?{#Name="Zero"}
 
 `Ho ho. Viaggiare è come il dolce amore: un viaggio{LF}terribilmente lungo per un climax fin troppo breve!{#Name="Octa"}`
@@ -304,7 +304,7 @@ Great. Now we've got a giant, flaming man-horse.{#Name="Zero"}
 `Non mi dà fastidio nessuna di quelle parole{LF}presa da sola, ma insieme...{#Name="Dito"}`
 I don't mind any of those words{LF}on their own, but together...{#Name="Dito"}
 
-`Dov’è il santuario?{#Name="Zero"}`
+`Dov'è il santuario?{#Name="Zero"}`
 Where's the shrine?{#Name="Zero"}
 
 `Immagino più avanti.{LF}Ma prima occupiamoci di questo nemico.{#Name="Octa"}`

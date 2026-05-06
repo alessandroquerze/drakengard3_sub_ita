@@ -37,10 +37,10 @@ Cutscene{LF}With Two dead, Mikhail evolves a second{LF}time. Masterless and alon
 `あらすじ第十一項　４０４０　一行目{LF}あらすじ第十一項　４０４０　二行目{LF}あらすじ第十一項　４０４０　三行目{LF}あらすじ第十一項　４０４０　四行目{LF}あらすじ第十一項　４０４０　五行目`
 あらすじ第十一項　４０４０　一行目{LF}あらすじ第十一項　４０４０　二行目{LF}あらすじ第十一項　４０４０　三行目{LF}あらすじ第十一項　４０４０　四行目{LF}あらすじ第十一項　４０４０　五行目
 
-`Accampamento{LF}L’accampamento è diventato piuttosto{LF}animato. Dopo un po’ di discussione,{LF}il gruppo decide di muovere contro{LF}la Città della Cattedrale di One dall’aria.`
+`Accampamento{LF}L'accampamento è diventato piuttosto{LF}animato. Dopo un po' di discussione,{LF}il gruppo decide di muovere contro{LF}la Città della Cattedrale di One dall'aria.`
 Camp{LF}The campsite has become rather{LF}lively. After a bit of discussion,{LF}the group decides to move against{LF}One's Cathedral City from the air.
 
-`Mappa → Gioco{LF}Mentre Zero e Mikhail sorvolano {LF}Cathedral City, One e il suo drago,{LF}Gabriel, appaiono all’improvviso e iniziano{LF}ad affrontare Zero in battaglia.`
+`Mappa → Gioco{LF}Mentre Zero e Mikhail sorvolano {LF}Cathedral City, One e il suo drago,{LF}Gabriel, appaiono all'improvviso e iniziano{LF}ad affrontare Zero in battaglia.`
 Map → Game{LF}As Zero and Mikhail fly over the{LF}Cathedral City, One and her dragon,{LF}Gabriel, suddenly appear and begin{LF}to engage Zero in battle.
 
 `Cutscene → Gioco{LF}Gabriel richiama uno stormo di viverne{LF}e fugge, lasciando un Mikhail furioso a{LF}occuparsi di quelle seccature volanti.`
@@ -103,13 +103,13 @@ Cutscene → Game{LF}A bridge falls as Gabriel attacks again,{LF}forcing Zero an
 `あらすじ第十一項　５０２０　一行目{LF}あらすじ第十一項　５０２０　二行目{LF}あらすじ第十一項　５０２０　三行目{LF}あらすじ第十一項　５０２０　四行目{LF}あらすじ第十一項　５０２０　五行目`
 あらすじ第十一項　５０２０　一行目{LF}あらすじ第十一項　５０２０　二行目{LF}あらすじ第十一項　５０２０　三行目{LF}あらすじ第十一項　５０２０　四行目{LF}あらすじ第十一項　５０２０　五行目
 
-`Gioco{LF}La battaglia raggiunge il culmine{LF}mentre Zero e il suo gruppo si avvicinano{LF}all’ultimo nascondiglio di One, capo{LF}della Chiesa.`
+`Gioco{LF}La battaglia raggiunge il culmine{LF}mentre Zero e il suo gruppo si avvicinano{LF}all'ultimo nascondiglio di One, capo{LF}della Chiesa.`
 Game{LF}The battle grows to a fever pitch{LF}as Zero and her crew approach the{LF}final hiding place of One, head of{LF}the Church.
 
 `Gioco{LF}Il gruppo arriva finalmente alla cattedrale{LF}principale, solo per trovarsi davanti{LF}un feroce cerbero.`
 Game{LF}The party finally arrives at the main{LF}cathedral, only to be confronted by{LF}a vicious cerberus.
 
-`Cutscene{LF}Mentre il gruppo si avvicina all’obiettivo,{LF}Zero informa i discepoli che non ha più{LF}bisogno di loro prima di restituirli{LF}alle loro forme originali.`
+`Cutscene{LF}Mentre il gruppo si avvicina all'obiettivo,{LF}Zero informa i discepoli che non ha più{LF}bisogno di loro prima di restituirli{LF}alle loro forme originali.`
 Cutscene{LF}As the group approaches their goal,{LF}Zero informs the disciples she no longer{LF}needs them before returning them to{LF}their original forms.
 
 `あらすじ第四項　５０３０　一行目{LF}あらすじ第四項　５０３０　二行目{LF}あらすじ第四項　５０３０　三行目{LF}あらすじ第四項　５０３０　四行目{LF}あらすじ第四項　５０３０　五行目`
@@ -148,7 +148,7 @@ Cutscene → Game{LF}As Zero and One reunite, Gabriel{LF}appears and crashes the
 `Cutscene → Gioco{LF}Zero supplica Mikhail, ferito mortalmente, di{LF}reincarnarsi, ma lui usa invece il suo ultimo desiderio{LF}per finire Gabriel, lasciando{LF}Zero ad affrontare sua sorella da sola.`
 Cutscene → Game{LF}Zero begs a mortally wounded Mikhail to{LF}reincarnate, but he uses his last wish{LF}to finish off Gabriel instead, leaving{LF}Zero to deal with her sister alone.
 
-`Cutscene{LF}Zero uccide l’ultima delle sue sorelle.{LF}Chissà cosa vide quando{LF}"quello" rimasto indietro{LF}compì il suo ultimo dovere?`
+`Cutscene{LF}Zero uccide l'ultima delle sue sorelle.{LF}Chissà cosa vide quando{LF}"quello" rimasto indietro{LF}compì il suo ultimo dovere?`
 Cutscene{LF}Zero kills the last of her sisters.{LF}I wonder what she saw when the{LF}"one" who remained behind{LF}performed his final duty?
 
 `あらすじ第六項　５０４０　一行目{LF}あらすじ第六項　５０４０　二行目{LF}あらすじ第六項　５０４０　三行目{LF}あらすじ第六項　５０４０　四行目{LF}あらすじ第六項　５０４０　五行目`
@@ -235,10 +235,10 @@ Cutscene{LF}Mikhail frees Zero, allowing her to use{LF}the power of her flower t
 `あらすじ第十一項　３２２０　一行目{LF}あらすじ第十一項　３２２０　二行目{LF}あらすじ第十一項　３２２０　三行目{LF}あらすじ第十一項　３２２０　四行目{LF}あらすじ第十一項　３２２０　五行目`
 あらすじ第十一項　３２２０　一行目{LF}あらすじ第十一項　３２２０　二行目{LF}あらすじ第十一項　３２２０　三行目{LF}あらすじ第十一項　３２２０　四行目{LF}あらすじ第十一項　３２２０　五行目
 
-`Gioco{LF}Il gruppo attraversa l’edera{LF}aspettandosi di trovare fate irritanti. {LF}Ma questa volta ad attenderli{LF}c’è qualcosa di molto più sinistro.`
+`Gioco{LF}Il gruppo attraversa l'edera{LF}aspettandosi di trovare fate irritanti. {LF}Ma questa volta ad attenderli{LF}c'è qualcosa di molto più sinistro.`
 Game{LF}The group moves through the ivy{LF}expecting to find annoying faeries. {LF}But something much more sinister{LF}is waiting for them this time.
 
-`Gioco{LF}Mentre titani e centauri li accerchiano,{LF}il gruppo è costretto ad ammettere che{LF}c’è qualcosa di molto sbagliato nella foresta.`
+`Gioco{LF}Mentre titani e centauri li accerchiano,{LF}il gruppo è costretto ad ammettere che{LF}c'è qualcosa di molto sbagliato nella foresta.`
 Game{LF}As titans and centaurs close in around{LF}them, the group is forced to admit that{LF}something is very wrong with the forest.
 
 `あらすじ第三項　３２３０　一行目{LF}あらすじ第三項　３２３０　二行目{LF}あらすじ第三項　３２３０　三行目{LF}あらすじ第三項　３２３０　四行目{LF}あらすじ第三項　３２３０　五行目`
@@ -271,10 +271,10 @@ Game{LF}As titans and centaurs close in around{LF}them, the group is forced to a
 `Mappa Diramazioni → Accampamento{LF}Zero ha innescato una divergenza che{LF}ha alterato la foresta, separato Two{LF}e Cent, e causato altri cambiamenti.{LF}Ciò nonostante, la sua ricerca continua.`
 Branch Map → Camp{LF}Zero triggered a divergence that{LF}altered the forest, separated Two{LF}and Cent, and caused other changes.{LF}Nevertheless, her quest continues.
 
-`Gioco{LF}Il gruppo raggiunge un’area aperta piena{LF}di statue di Three, poi sente risuonare{LF}la voce dell’Intoner. Che diavolo{LF}sta succedendo qui intorno?`
+`Gioco{LF}Il gruppo raggiunge un'area aperta piena{LF}di statue di Three, poi sente risuonare{LF}la voce dell'Intoner. Che diavolo{LF}sta succedendo qui intorno?`
 Game{LF}The group reaches an open area filled{LF}with statues of Three, then hears the{LF}Intoner's voice ring out. What the{LF}heck is going on around here?
 
-`Gioco{LF}La voce di Three sembra richiamare lupi e{LF}un cerberus nell’area. E proprio quando{LF}pensavano che la battaglia fosse finita...`
+`Gioco{LF}La voce di Three sembra richiamare lupi e{LF}un cerberus nell'area. E proprio quando{LF}pensavano che la battaglia fosse finita...`
 Game{LF}Three's voice seems to call wolves and{LF}a cerberus into the area. And just when{LF}they thought the battle was over...
 
 `Cutscene{LF}Three appare di nuovo, solo per cadere{LF}morta dopo alcune ultime parole inquietanti.{LF}Cosa potrebbero mai significare?`
@@ -307,7 +307,7 @@ Game{LF}The forest gets even stranger after{LF}Three's death, but Zero just keep
 `Cutscene → Gioco{LF}Il gruppo trova Two che danza vicino al{LF}cadavere di One in una radura aperta. Quella che dovrebbe{LF}essere una felice riunione con Cent invece{LF}porta solo disperazione.`
 Cutscene → Game{LF}The group finds Two dancing near One's{LF}corpse in an open glade. What should{LF}be a happy reunion with Cent instead{LF}leads to nothing but despair.
 
-`Cutscene{LF}Mentre i discepoli cadono uno dopo l’altro,{LF}anche Two e Cent si ritrovano{LF}sull’orlo del baratro. I due usano l’ultimo frammento{LF}del loro potere per evocare un angelo.`
+`Cutscene{LF}Mentre i discepoli cadono uno dopo l'altro,{LF}anche Two e Cent si ritrovano{LF}sull'orlo del baratro. I due usano l'ultimo frammento{LF}del loro potere per evocare un angelo.`
 Cutscene{LF}As the disciples fall one after the next,{LF}Two and Cent find themselves on the{LF}brink as well. The two use their last bit{LF}of power to summon forth an angel.
 
 `Gioco{LF}Combattere Raphael nella foresta piena di veleno{LF}inizia a pesare su Mikhail...`

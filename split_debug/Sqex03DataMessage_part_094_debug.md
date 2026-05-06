@@ -10,7 +10,7 @@ All men, take position now!{#Name="Soldier B"}
 `Resistete! Non lasciateli passare!{#Name="Soldier C"}`
 Stay strong! Don't let 'em through!{#Name="Soldier C"}
 
-`Siamo l’ultima linea di difesa...{#Name="Soldier D"}`
+`Siamo l'ultima linea di difesa...{#Name="Soldier D"}`
 We're the last line of defense...{#Name="Soldier D"}
 
 `Avanti a tutta velocità! Muovetevi! Vi copriamo noi!{#Name="Soldier B"}`
@@ -55,7 +55,7 @@ It's kill or be killed here!{#Name="Soldier F"}
 `Ah... Aaaaahh! Yaaaahh!{#Name="Soldier G"}`
 Ah... Aaaaahh! Yaaaahh!{#Name="Soldier G"}
 
-`Chiunque sappia impugnare un’arma, mi segua!{#Name="Soldier A"}`
+`Chiunque sappia impugnare un'arma, mi segua!{#Name="Soldier A"}`
 Any who can wield a weapon, follow me!{#Name="Soldier A"}
 
 `Aspetta! Non possiamo lasciare indietro i feriti!{#Name="Soldier E"}`
@@ -76,7 +76,7 @@ Remember who you fight for!{#Name="Soldier C"}
 `Volete che quel folle signore torni a opprimerci di nuovo?{#Name="Soldier E"}`
 You want that insane lord to return and oppress us again?{#Name="Soldier E"}
 
-`Lady One è l’unica vera salvatrice! Per noi e per il mondo!{#Name="Soldier D"}`
+`Lady One è l'unica vera salvatrice! Per noi e per il mondo!{#Name="Soldier D"}`
 Lady One is the one true savior! For us and the world!{#Name="Soldier D"}
 
 `Dobbiamo ripiegare!{#Name="Soldier B"}`
@@ -94,7 +94,7 @@ Our lives are expendable here! Now move! Forwaaaaard!{#Name="Soldier F"}
 `Zero! Che devo fare adesso?{#Name="Mikhail"}`
 Zero! What should I do now?{#Name="Mikhail"}
 
-`Supportami dall’aria.{#Name="Zero"}`
+`Supportami dall'aria.{#Name="Zero"}`
 Support me from the air.{#Name="Zero"}
 
 `Uh...io?{#Name="Mikhail"}`
@@ -121,7 +121,7 @@ Yeah! Victory will be ours!{#Name="Soldier D"}
 `Ritirata! Ritirata!{#Name="Soldier A"}`
 Retreat! Retreat!{#Name="Soldier A"}
 
-`Non c’è nessun posto dove scappare! Restate e combattete!{#Name="Soldier E"}`
+`Non c'è nessun posto dove scappare! Restate e combattete!{#Name="Soldier E"}`
 There's nowhere to run! Stand and fight!{#Name="Soldier E"}
 
 `ううむ……全員……突撃！{#Name="兵士Ａ"}`
@@ -262,13 +262,13 @@ I'm fine. Go take out that cannon for me.{#Name="Zero"}
 `Ricevuto! Rice—{#Name="Mikhail"}`
 You got it! You g—{#Name="Mikhail"}
 
-`Che c’è?{#Name="Zero"}`
+`Che c'è?{#Name="Zero"}`
 What's wrong?{#Name="Zero"}
 
 `Non mi sono ripetuto, Zero! Non mi sono ripetuto!{#Name="Mikhail"}`
 I didn't repeat, Zero! I didn't repeat myself!{#Name="Mikhail"}
 
-`L’hai appena fatto, scemo.{#Name="Zero"}`
+`L'hai appena fatto, scemo.{#Name="Zero"}`
 You just did, dummy.{#Name="Zero"}
 
 `Questa merda non finirà veramente mai, vero?{#Name="Zero"}`
@@ -277,7 +277,7 @@ This shit really is never gonna end, is it?{#Name="Zero"}
 `Oh ho! Serve qualcuno che allenti quella tensione?{#Name="Octa"}`
 Oh ho! Need someone to ease that tension?{#Name="Octa"}
 
-`Non sei d’aiuto, Octa!{#Name="Zero"}`
+`Non sei d'aiuto, Octa!{#Name="Zero"}`
 You're not helping, Octa!{#Name="Zero"}
 
 `Guarda queste cose. Pazzi grassi e brutti.{LF}Vorrei che non fossero mai nati.{#Name="Dito"}`
@@ -292,7 +292,7 @@ Whatever, Decadus. Sometimes I wish{LF}you'd never been born either!{#Name="Dito
 `Nnngh... Che parole crudeli...{#Name="Decadus"}`
 Nnngh... Such cruel words...{#Name="Decadus"}
 
-`D’accordo, andiamo.{#Name="Zero"}`
+`D'accordo, andiamo.{#Name="Zero"}`
 All right, let's go.{#Name="Zero"}
 
 `説明文`

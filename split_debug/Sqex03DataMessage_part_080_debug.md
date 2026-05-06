@@ -4,10 +4,10 @@ All soldiers, commence counterattack!{#Name="Soldier F"}
 `È come la rinascita di qualche potere oscuro...{#Name="Soldier G"}`
 It's like the rebirth of some dark power...{#Name="Soldier G"}
 
-`Dov’è Lady Two?{#Name="Soldier F"}`
+`Dov'è Lady Two?{#Name="Soldier F"}`
 Where's Lady Two?{#Name="Soldier F"}
 
-`L’ultima volta ho sentito che si stava dirigendo al santuario, con Cent!{#Name="Soldier G"}`
+`L'ultima volta ho sentito che si stava dirigendo al santuario, con Cent!{#Name="Soldier G"}`
 Last I heard, she was headed for the shrine, with Cent!{#Name="Soldier G"}
 
 `Bene. Allora dobbiamo fermare Zero qui!{#Name="Soldier F"}`
@@ -19,7 +19,7 @@ Lady Two is our shining sun. Without our sun, we're nothing!{#Name="Soldier F"}
 `Il drago è troppo forte!{#Name="Soldier D"}`
 The dragon's so strong!{#Name="Soldier D"}
 
-`Un’Intoner che doma un drago? Non essere assurdo!{#Name="Soldier C"}`
+`Un'Intoner che doma un drago? Non essere assurdo!{#Name="Soldier C"}`
 A dragon-taming Intoner? Don't be absurd!{#Name="Soldier C"}
 
 `La nostra retroguardia è indebolita!{#Name="Soldier E"}`
@@ -73,7 +73,7 @@ Indeed, it saps my strength as well.{LF}...Though not my man strength!{#Name="Oc
 `Per la miseria, questi lupi sono irritanti!{#Name="Zero"}`
 Goddamn, these wolves are annoying!{#Name="Zero"}
 
-`I lupi possono percepire l’intento{LF}omicida dei loro nemici...{#Name="Decadus"}`
+`I lupi possono percepire l'intento{LF}omicida dei loro nemici...{#Name="Decadus"}`
 Wolves can sense the murderous{LF}intent of their foes...{#Name="Decadus"}
 
 `Cosa? Stai dicendo che non sto nascondendo{LF}abbastanza il mio "intento omicida"!?{#Name="Zero"}`
@@ -115,10 +115,10 @@ My throat's on fire here.{#Name="Zero"}
 `Oh ho! Forse un dolce bacio{LF}può spegnere quelle fiamme!{#Name="Octa"}`
 Oh ho! Perhaps a sweet kiss{LF}can quench those flames!{#Name="Octa"}
 
-`E poi potrei ripulire{LF}un po’ di sabbia dalla tana del leone, mmm?{#Name="Octa"}`
+`E poi potrei ripulire{LF}un po' di sabbia dalla tana del leone, mmm?{#Name="Octa"}`
 And then afterwards, I could clear{LF}some sand from the lion's den, mmm?{#Name="Octa"}
 
-`Un’altra parola e ti faccio a pezzi.{#Name="Zero"}`
+`Un'altra parola e ti faccio a pezzi.{#Name="Zero"}`
 Another word and I'll cut you down.{#Name="Zero"}
 
 `Quei bastardi! Attaccare{LF}Lady Two mentre è malata!{#Name="Soldier B"}`
@@ -199,7 +199,7 @@ D-Damn... My leg...{#Name="Soldier A"}
 `ALTRI lupi!? Sta diventando ri-dannatamente-dicolo.{#Name="Zero"}`
 MORE wolves!? This is getting ri-goddamn-diculous.{#Name="Zero"}
 
-`L’hai detto. Stupide palle di pelo...{#Name="Dito"}`
+`L'hai detto. Stupide palle di pelo...{#Name="Dito"}`
 You said it. Stupid furballs...{#Name="Dito"}
 
 `こんな砂漠でご苦労さまだな{#Name="ゼロ"}`
@@ -271,7 +271,7 @@ Golems...{#Name="Zero"}
 `181{#Name="181"}`
 181{#Name="181"}
 
-`Quindi, esattamente, come hai fatto{LF}a farti rapire di nuovo? Dov’è il tuo cervello?{#Name="Zero"}`
+`Quindi, esattamente, come hai fatto{LF}a farti rapire di nuovo? Dov'è il tuo cervello?{#Name="Zero"}`
 So how is it exactly that you got{LF}kidnapped again? Where's your brain?{#Name="Zero"}
 
 `Nella mia testa!{LF}...È nella mia testa, vero?{#Name="Mikhail"}`
@@ -298,7 +298,7 @@ And said magic spells are always{LF}etched upon their bodies.{#Name="Octa"}
 `Quindi?{#Name="Zero"}`
 So?{#Name="Zero"}
 
-`Ehm, beh, se distruggete la parte del corpo{LF}che contiene l’incantesimo, forse il golem potrebbe...{#Name="Octa"}`
+`Ehm, beh, se distruggete la parte del corpo{LF}che contiene l'incantesimo, forse il golem potrebbe...{#Name="Octa"}`
 Er, well, if you destroy the part of the body{LF}that contains the spell, perhaps the golem may...{#Name="Octa"}
 
 `Troppo lavoro. Lo pesterò a morte e basta.{#Name="Zero"}`

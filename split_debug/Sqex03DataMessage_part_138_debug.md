@@ -124,10 +124,10 @@ When near a statue, the light will illuminate your view!{#Name="Explanation"}
 `予備{#Name="Explanation"}`
 予備{#Name="Explanation"}
 
-`Prendi i Fossili d’Osso dai bersagli!{#Name="Explanation"}`
+`Prendi i Fossili d'Osso dai bersagli!{#Name="Explanation"}`
 Take the Bone Fossils from the targets!{#Name="Explanation"}
 
-`Tutti i Fossili d’Osso acquisiti!{#Name="Explanation"}`
+`Tutti i Fossili d'Osso acquisiti!{#Name="Explanation"}`
 All Bone Fossils acquired!{#Name="Explanation"}
 
 `予備{#Name="Explanation"}`
@@ -229,7 +229,7 @@ All Books of Doctrine acquired!{#Name="Explanation"}
 `予備{#Name="Explanation"}`
 予備{#Name="Explanation"}
 
-`Prendi le Pietre Rosa nascoste nei Forzieri d’Acciaio!{#Name="Explanation"}`
+`Prendi le Pietre Rosa nascoste nei Forzieri d'Acciaio!{#Name="Explanation"}`
 Take the Pinkstones hidden in the steel chests!{#Name="Explanation"}
 
 `Tutte le Pietre Rosa raccolte!{#Name="Explanation"}`
@@ -244,7 +244,7 @@ All Pinkstones collected!{#Name="Explanation"}
 `予備{#Name="Explanation"}`
 予備{#Name="Explanation"}
 
-`Prendi le Pietre d'Ambra nascoste nei Forzieri d’Acciaio!{#Name="Explanation"}`
+`Prendi le Pietre d'Ambra nascoste nei Forzieri d'Acciaio!{#Name="Explanation"}`
 Take the Amberstones hidden in the steel chests!{#Name="Explanation"}
 
 `Tutte le Pietre d'Ambra raccolte!{#Name="Explanation"}`
@@ -259,7 +259,7 @@ All Amberstones collected!{#Name="Explanation"}
 `予備{#Name="Explanation"}`
 予備{#Name="Explanation"}
 
-`Prendi le Pietre del Movimento nascoste nei Forzieri d’Acciaio!{#Name="Explanation"}`
+`Prendi le Pietre del Movimento nascoste nei Forzieri d'Acciaio!{#Name="Explanation"}`
 Take the Movestones hidden in the steel chests!{#Name="Explanation"}
 
 `Tutte le Pietre del Movimento raccolte!{#Name="Explanation"}`
@@ -274,7 +274,7 @@ All Movestones collected!{#Name="Explanation"}
 `予備{#Name="Explanation"}`
 予備{#Name="Explanation"}
 
-`Prendi le Rocce di Magnetite nascoste nei Forzieri d’Acciaio!{#Name="Explanation"}`
+`Prendi le Rocce di Magnetite nascoste nei Forzieri d'Acciaio!{#Name="Explanation"}`
 Take the Magnetite stones hidden in the steel chests!{#Name="Explanation"}
 
 `Tutte le Rocce di Magnetite raccolte!{#Name="Explanation"}`
@@ -289,7 +289,7 @@ All Magnetite stones collected!{#Name="Explanation"}
 `予備{#Name="Explanation"}`
 予備{#Name="Explanation"}
 
-`Prendi le Rocce di Meteorite  nascoste nei Forzieri d’Acciaio!{#Name="Explanation"}`
+`Prendi le Rocce di Meteorite  nascoste nei Forzieri d'Acciaio!{#Name="Explanation"}`
 Take the Meteorite stones hidden in the steel chests!{#Name="Explanation"}
 
 `Tutte le Rocce di Meteorite raccolte!{#Name="Explanation"}`
@@ -304,7 +304,7 @@ All Meteorite stones collected!{#Name="Explanation"}
 `予備{#Name="Explanation"}`
 予備{#Name="Explanation"}
 
-`Prendi i Corni di Unicorno nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}`
+`Prendi i Corni di Unicorno nascosti nei Forzieri d'Acciaio!{#Name="Explanation"}`
 Take the Unicorn Horns hidden in the steel chests!{#Name="Explanation"}
 
 `Tutti i Corni di Unicorno raccolti!{#Name="Explanation"}`

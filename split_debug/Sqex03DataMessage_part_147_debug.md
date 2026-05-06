@@ -199,7 +199,7 @@ Adjust various game settings.
 `Visualizza le armi e i personaggi che appaiono nella storia.`
 View the weapons and characters that appear in the story.
 
-`Cambia il costume di Zero, l’aspetto di Mikhail o la musica di sottofondo.`
+`Cambia il costume di Zero, l'aspetto di Mikhail o la musica di sottofondo.`
 Change Zero's outfit, Mikhail's appearance, or the background music.
 
 `Controllo dei dati attuali.{LF}Non spegnere il sistema PlayStation®3.`
@@ -253,7 +253,7 @@ Press {01}{0B} to evade in the direction you're facing.{LF}Use it while locked o
 `Comandi: Cambio Armi`
 Controls: Changing Weapons
 
-`Premi {01}{09} o {01}{0C} per aprire il menu armi, poi premi{LF}il pulsante corrispondente all’arma che vuoi usare.`
+`Premi {01}{09} o {01}{0C} per aprire il menu armi, poi premi{LF}il pulsante corrispondente all'arma che vuoi usare.`
 Press {01}{09} or {01}{0C} to open the weapons menu, then press{LF}the button that corresponds to the weapon you want to use.
 
 `Armi di Zero: Lance`

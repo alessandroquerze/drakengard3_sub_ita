@@ -4,13 +4,13 @@ Then I shall ascend to heaven{LF}without regrets! Oh ho ho!{#Name="Octa"}
 `Puoi anche ridere, ma sogno{LF}di vivere un giorno in pace.{#Name="Decadus"}`
 You may laugh at this, but I dream{LF}of one day living in peace.{#Name="Decadus"}
 
-`Eppure...l’amara verità non mi sfugge.{LF}Nel mio cuore so di essere nato per combattere.{#Name="Decadus"}`
+`Eppure...l'amara verità non mi sfugge.{LF}Nel mio cuore so di essere nato per combattere.{#Name="Decadus"}`
 Yet...the bitter truth does not escape me.{LF}I know in my heart that I was born for combat.{#Name="Decadus"}
 
-`Sono un discepolo, creato solo per servire un’Intoner.{#Name="Decadus"}`
+`Sono un discepolo, creato solo per servire un'Intoner.{#Name="Decadus"}`
 I am a disciple, created only to serve an Intoner.{#Name="Decadus"}
 
-`Sono d’accordo. Completamente.{#Name="Octa"}`
+`Sono d'accordo. Completamente.{#Name="Octa"}`
 I agree. Completely.{#Name="Octa"}
 
 `Allora che ne dite di chiudere il becco{LF}e mettervi a uccidere!{#Name="Dito"}`
@@ -37,7 +37,7 @@ M-My Lady, please, if you're worried about us, we—{#Name="Decadus"}
 `No.{#Name="Zero"}`
 No.{#Name="Zero"}
 
-`È inevitabile. I discepoli non possono mantenere{LF}forma umana senza il potere di un’Intoner.{#Name="Zero"}`
+`È inevitabile. I discepoli non possono mantenere{LF}forma umana senza il potere di un'Intoner.{#Name="Zero"}`
 It's unavoidable. Disciples can't remain{LF}in human form without an Intoner's power.{#Name="Zero"}
 
 `Prima o poi sparirete.{#Name="Zero"}`
@@ -58,7 +58,7 @@ Zero's actually here!? But how!?{#Name="Soldier F"}
 `Tutti i soldati, in posizione!{#Name="Soldier A"}`
 All soldiers, take position!{#Name="Soldier A"}
 
-`Oh ho! Pare che il nemico non veda l’ora di uscire{LF}di scena in un tripudio di gloria!{#Name="Octa"}`
+`Oh ho! Pare che il nemico non veda l'ora di uscire{LF}di scena in un tripudio di gloria!{#Name="Octa"}`
 Oh ho! It seems the enemy's anxious to go out {LF}in a blaze of glory!{#Name="Octa"}
 
 `Dirigiti alla Cattedrale.{#Name="ディト"}`
@@ -112,7 +112,7 @@ They say they feast on the livers of humans.{#Name="Octa"}
 `Hanno proprio una bella abitudine.{#Name="Zero"}`
 That's quite the habit they've got there.{#Name="Zero"}
 
-`Oh ho! Pare che il nemico non veda l’ora{LF}di uscire di scena in un tripudio di gloria!{#Name="Octa"}`
+`Oh ho! Pare che il nemico non veda l'ora{LF}di uscire di scena in un tripudio di gloria!{#Name="Octa"}`
 Oh ho! It seems the enemy's anxious{LF}to go out in a blaze of glory!{#Name="Octa"}
 
 `Allora non deludiamo quei bastardi!{#Name="Dito"}`
@@ -238,7 +238,7 @@ We can't defeat her...{#Name="Soldier A"}
 `Nemico avvistato! Ma che...?{#Name="Soldier G"}`
 Enemy sighted! What the...?{#Name="Soldier G"}
 
-`Che c’è?{#Name="Soldier E"}`
+`Che c'è?{#Name="Soldier E"}`
 What is it?{#Name="Soldier E"}
 
 `È sola. Zero è da sola!{#Name="Soldier G"}`
@@ -256,10 +256,10 @@ Anyone who can fight, get to the front! Defend us!{#Name="Soldier B"}
 `Sono ancora in piedi!{#Name="Soldier D"}`
 I'm still in this!{#Name="Soldier D"}
 
-`Anch’io!{#Name="Soldier C"}`
+`Anch'io!{#Name="Soldier C"}`
 Me, too!{#Name="Soldier C"}
 
-`Quindi quella è l’Intoner maledetta...{#Name="Soldier E"}`
+`Quindi quella è l'Intoner maledetta...{#Name="Soldier E"}`
 So that's the accursed Intoner...{#Name="Soldier E"}
 
 `Uccidetela! Uccidetela! Uccideeeetela!{#Name="Soldier A"}`
@@ -307,7 +307,7 @@ No retreat! Keep going!{#Name="Soldier B"}
 `Porca merda, è Zero! È qui!{#Name="Soldier G"}`
 Holy shit, it's Zero! She's here!{#Name="Soldier G"}
 
-`C’è qualcun altro?{#Name="Soldier A"}`
+`C'è qualcun altro?{#Name="Soldier A"}`
 Anyone else?{#Name="Soldier A"}
 
 `No, signore! Sembra essere sola!{#Name="Soldier G"}`

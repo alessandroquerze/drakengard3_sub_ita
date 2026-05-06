@@ -76,7 +76,7 @@ All towers destroyed!{#Name="説明文"}
 `Nemico in vista! Tutte le squadre in posizione!{#Name="Soldier A"}`
 Enemy in sight! All teams into position!{#Name="Soldier A"}
 
-`Quello non è un miraggio, idioti! È lei! L’Intoner demoniaca!{#Name="Soldier B"}`
+`Quello non è un miraggio, idioti! È lei! L'Intoner demoniaca!{#Name="Soldier B"}`
 That's no mirage, you fools! That's her! The demon Intoner!{#Name="Soldier B"}
 
 `Dannazione! Questa sabbia continua a finirmi negli occhi!{#Name="Soldier C"}`
@@ -151,7 +151,7 @@ I'm with you!{#Name="Soldier G"}
 `Ci siamo!{#Name="Soldier B"}`
 Here we go!{#Name="Soldier B"}
 
-`Sarà anche un’Intoner, ma può comunque morire!{#Name="Soldier A"}`
+`Sarà anche un'Intoner, ma può comunque morire!{#Name="Soldier A"}`
 She may be an Intoner, but she can still die!{#Name="Soldier A"}
 
 `Abbiamo uomini a terra qui!{#Name="Soldier E"}`
@@ -172,13 +172,13 @@ Take it to her yourself, fool! We're not dying here!{#Name="Soldier D"}
 `Portaglielo tu stesso, idiota! Non moriremo qui!{#Name="Soldier D"}`
 Take it to her yourself, fool! We're not dying here!{#Name="Soldier D"}
 
-`Affronterò io l’Intoner!{#Name="Soldier G"}`
+`Affronterò io l'Intoner!{#Name="Soldier G"}`
 I'll take the Intoner myself!{#Name="Soldier G"}
 
 `Ehi! Non farti ammazzare!{#Name="Soldier F"}`
 Hey! Don't get yourself killed!{#Name="Soldier F"}
 
-`16 aprile dell’anno 1000 d.C.{#Name="Accord"}`
+`16 aprile dell'anno 1000 d.C.{#Name="Accord"}`
 April the 16th, 1000 A.D.{#Name="Accord"}
 
 `La Terra delle Sabbie.{#Name="Accord"}`
@@ -187,7 +187,7 @@ The Land of Sands.{#Name="Accord"}
 `È questo che sta interferendo{LF}con la nostra connesione mentale?{#Name="Zero"}`
 Is this what's been interfering{LF}with our mental link?{#Name="Zero"}
 
-`La magia di quelle quattro torri sta{LF}rendendo l’interferenza più forte!{#Name="Mikhail"}`
+`La magia di quelle quattro torri sta{LF}rendendo l'interferenza più forte!{#Name="Mikhail"}`
 The magic from those four towers is{LF}making the interference stronger!{#Name="Mikhail"}
 
 `Immagino che non abbiamo scelta se non distruggerle tutte.{#Name="Zero"}`
@@ -238,10 +238,10 @@ Pffft.{#Name="Zero"}
 `Sono un bravo drago, Zero!{LF}Non sono schizzinoso!{#Name="Mikhail"}`
 I'm a good dragon, Zero!{LF}I'm not a picky eater!{#Name="Mikhail"}
 
-`Il tuo palato dev’essere parecchio sballato{LF}per apprezzare la carne marcia come fai tu.{#Name="Zero"}`
+`Il tuo palato dev'essere parecchio sballato{LF}per apprezzare la carne marcia come fai tu.{#Name="Zero"}`
 Your palate's gotta be pretty screwed up{LF}to enjoy rotten meat the way you do.{#Name="Zero"}
 
-`Il mio palato? Ehi, che cos’ha che non va il mio palato!?{#Name="Mikhail"}`
+`Il mio palato? Ehi, che cos'ha che non va il mio palato!?{#Name="Mikhail"}`
 My palate? Hey, what's wrong with my palate!?{#Name="Mikhail"}
 
 `Non ti piace il mio palato, Zero?{#Name="Mikhail"}`
@@ -250,7 +250,7 @@ Don't you like my palate, Zero?{#Name="Mikhail"}
 `Beh, non sei esattamente un buongustaio.{#Name="Zero"}`
 Well, you're not exactly a gourmet.{#Name="Zero"}
 
-`Cos’è un buongustaio?{#Name="Mikhail"}`
+`Cos'è un buongustaio?{#Name="Mikhail"}`
 What's a gourmet?{#Name="Mikhail"}
 
 `Ehm... Beh, uno come Michael, immagino.{#Name="Zero"}`
@@ -268,7 +268,7 @@ Wow...{#Name="Mikhail"}
 `E mangiava solo cibo perfettamente fresco.{#Name="Zero"}`
 And he'd only eat food that was perfectly fresh.{#Name="Zero"}
 
-`Se era troppo maturo? Anche solo un po’? Niente da fare.{#Name="Zero"}`
+`Se era troppo maturo? Anche solo un po'? Niente da fare.{#Name="Zero"}`
 If it was overripe? Even a little? Forget it.{#Name="Zero"}
 
 `Anche se aveva fame?{#Name="Mikhail"}`
@@ -283,7 +283,7 @@ Wow! Awesome!{#Name="Mikhail"}
 `Fidati. Grandioso non è la{LF}parola che stai cercando.{#Name="Zero"}`
 Trust me. Awesome is not the{LF}word you're looking for.{#Name="Zero"}
 
-`Dev’essere davvero difficile preparare{LF}da mangiare per un buongustaio, eh?{#Name="Mikhail"}`
+`Dev'essere davvero difficile preparare{LF}da mangiare per un buongustaio, eh?{#Name="Mikhail"}`
 It must be really hard to make{LF}food for a gourmet, huh?{#Name="Mikhail"}
 
 `Heh. Non ne hai idea. Se a Michael non piaceva{LF}qualcosa, si assicurava di farmelo sapere.{#Name="Zero"}`

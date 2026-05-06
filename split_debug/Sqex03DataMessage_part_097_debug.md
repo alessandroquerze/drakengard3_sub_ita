@@ -28,7 +28,7 @@ Belay that talk!{#Name="Soldier B"}
 `Attaccate! Sacrificate pure i vostri uomini, se necessario!{#Name="Soldier A"}`
 Attack! Sacrifice your own men if needs be!{#Name="Soldier A"}
 
-`L’unica cosa che conta è la sicurezza di Lady One!{#Name="Soldier A"}`
+`L'unica cosa che conta è la sicurezza di Lady One!{#Name="Soldier A"}`
 All that matters is Lady One's safety!{#Name="Soldier A"}
 
 `ワン様が無事ならそれでいい！{#Name="兵士Ａ"}`
@@ -37,7 +37,7 @@ All that matters is Lady One's safety!{#Name="Soldier A"}
 `Feriti! Ho dei feriti qui!{#Name="Soldier C"}`
 Wounded! I've got wounded here!{#Name="Soldier C"}
 
-`C’è un uomo a terra anche qui!{#Name="Soldier D"}`
+`C'è un uomo a terra anche qui!{#Name="Soldier D"}`
 There's a man down over here, too!{#Name="Soldier D"}
 
 `自分達でなんとかしろ！救護班もやられておる{#Name="兵士Ｆ"}`
@@ -61,7 +61,7 @@ Intoner or not, how can one woman{LF}fight off all these troops?{#Name="Soldier 
 `Sta cercando di porre fine al mondo da sola.{LF}È ovvio che sia fottutamente forte!{#Name="Soldier E"}`
 She's trying to end the world by herself.{LF}She's obviously pretty fuckin' strong!{#Name="Soldier E"}
 
-`Questo è l’inferno in terra...{#Name="Soldier C"}`
+`Questo è l'inferno in terra...{#Name="Soldier C"}`
 This is hell on earth...{#Name="Soldier C"}
 
 `Non perdete il coraggio! Possiamo farcela, okay?{#Name="Soldier D"}`
@@ -70,7 +70,7 @@ Don't lose your nerve! We can do this, all right?{#Name="Soldier D"}
 `Mamma? Mamma! M-Mammaaaaa...{#Name="Soldier G"}`
 Mother? Mother! M-Motherrrrr...{#Name="Soldier G"}
 
-`Riprenditi, amico! Per l’amor del cielo!{#Name="Soldier B"}`
+`Riprenditi, amico! Per l'amor del cielo!{#Name="Soldier B"}`
 Pull it together, man! For cryin' out loud!{#Name="Soldier B"}
 
 `Mamma! Aiutami! Aiutamiiiiii!{#Name="Soldier G"}`
@@ -97,13 +97,13 @@ A record of life?{#Name="Zero"}
 `Zero, non pensi che sia strano?{#Name="One"}`
 Zero, don't you think it's strange?{#Name="One"}
 
-`Si dice che questa città sia l’origine di tutta la magia.{#Name="One"}`
+`Si dice che questa città sia l'origine di tutta la magia.{#Name="One"}`
 This city is said to be the origin of all magic.{#Name="One"}
 
 `Qui furono creati incantesimi che ancora oggi sono ben oltre le nostre capacità.{#Name="One"}`
 Spells were crafted here that even now are far beyond our abilities.{#Name="One"}
 
-`Dove è finita questa conoscenza? Quando l’abbiamo perduta?{#Name="One"}`
+`Dove è finita questa conoscenza? Quando l'abbiamo perduta?{#Name="One"}`
 Where did this knowledge go? When did we lose it?{#Name="One"}
 
 `E che ne è stato delle persone che un tempo la possedevano?{#Name="One"}`
@@ -112,19 +112,19 @@ And what happened to the people who once possessed it?{#Name="One"}
 `Pensavo che, studiandolo, forse avrei potuto{LF}capire lo scopo delle Intoner. Di...noi.{#Name="One"}`
 I thought if I studied that, I might be able{LF}to learn the purpose of Intoners. Of...us.{#Name="One"}
 
-`Solo un’idiota cerca di imparare un mucchio di stronzate{LF}che non ha bisogno di sapere. O non lo sapevi?{#Name="Zero"}`
+`Solo un'idiota cerca di imparare un mucchio di stronzate{LF}che non ha bisogno di sapere. O non lo sapevi?{#Name="Zero"}`
 Only an idiot tries to learn about a bunch of shit{LF}she doesn't need to know. Or did you not know that?{#Name="Zero"}
 
 `È un modo di pensare piuttosto chiuso.{#Name="One"}`
 That's rather close-minded.{#Name="One"}
 
-`Anche se, nel senso che non possiamo mai sapere davvero tutto...{LF}Beh, suppongo di essere d’accordo.{#Name="One"}`
+`Anche se, nel senso che non possiamo mai sapere davvero tutto...{LF}Beh, suppongo di essere d'accordo.{#Name="One"}`
 Though, in the sense that we cannot ever truly know everything...{LF}Well, I suppose I agree.{#Name="One"}
 
 `Come ti pare.{#Name="Zero"}`
 Whatever.{#Name="Zero"}
 
-`Sto per ucciderti comunque. È l’unica cosa che conta.{#Name="Zero"}`
+`Sto per ucciderti comunque. È l'unica cosa che conta.{#Name="Zero"}`
 I'm about to kill you anyway. That's all that matters.{#Name="Zero"}
 
 `...Così prevedibile.{#Name="One"}`
@@ -181,7 +181,7 @@ Hey, Zero? Why are we fighting?{#Name="Mikhail"}
 `Me lo stai chiedendo seriamente adesso?{#Name="Zero"}`
 Are you seriously asking me that now?{#Name="Zero"}
 
-`Voglio dire... È solo un po’ triste, sai?{LF}È triste.{#Name="Mikhail"}`
+`Voglio dire... È solo un po' triste, sai?{LF}È triste.{#Name="Mikhail"}`
 I mean... It's just kind of sad, you know?{LF}It's sad.{#Name="Mikhail"}
 
 `Mi dispiace davvero per Gabriel.{#Name="Mikhail"}`
@@ -190,7 +190,7 @@ I feel really bad for Gabriel.{#Name="Mikhail"}
 `Davvero? Ti dispiace per lo stronzo{LF}che sta cercando di ucciderti!?{#Name="Zero"}`
 Really? You feel bad for the fucker{LF}that's trying to kill you!?{#Name="Zero"}
 
-`Cazzo! C’è qualcosa che gli fa male!?{#Name="Zero"}`
+`Cazzo! C'è qualcosa che gli fa male!?{#Name="Zero"}`
 Dammit! Does anything hurt him!?{#Name="Zero"}
 
 `{06}>{#Name="Mikhail"}`
@@ -259,7 +259,7 @@ I mean, being with you...{#Name="Mikhail"}
 `Mikhail, no! Non puoi! Non te lo permetterò!{#Name="Zero"}`
 Mikhail, no! You can't! I won't let you!{#Name="Zero"}
 
-`Heh... Guarda un po’... Finalmente hai usato il mio nome... Il mio...nome...{#Name="Mikhail"}`
+`Heh... Guarda un po'... Finalmente hai usato il mio nome... Il mio...nome...{#Name="Mikhail"}`
 Heh... Look at that... You finally used my name... My...name...{#Name="Mikhail"}
 
 `Dannazione, scemo... Smettila di ripetere le cose...{#Name="Zero"}`
@@ -274,7 +274,7 @@ Mik...hail...{#Name="Zero"}
 `Tu...non sei...{#Name="One"}`
 You're...not...{#Name="One"}
 
-`l’unica...pronta...a sacrificare tutto...{#Name="One"}`
+`l'unica...pronta...a sacrificare tutto...{#Name="One"}`
 the only one...who's ready...to sacrifice everything...{#Name="One"}
 
 `{06}>{#Name="One"}`

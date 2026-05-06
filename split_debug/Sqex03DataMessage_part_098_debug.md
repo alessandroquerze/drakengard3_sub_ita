@@ -85,7 +85,7 @@ I was her final weapon.{#Name="? ? ?"}
 `Vedi questa spada? È fatta con la zanna di un drago.{#Name="? ? ?"}`
 See this sword? It's made from a dragon's fang.{#Name="? ? ?"}
 
-`Questo significa che può uccidere un’Intoner, giusto?{#Name="? ? ?"}`
+`Questo significa che può uccidere un'Intoner, giusto?{#Name="? ? ?"}`
 That means it can kill an Intoner, right?{#Name="? ? ?"}
 
 `Io...Capisco...{#Name="Zero"}`
@@ -178,7 +178,7 @@ If a good smack in the mouth don't work,{LF}I dunno what will. Such a pain...{#N
 `Se volo qui dentro finirò per sbattere la testa!{#Name="Mikhail"}`
 I'm gonna hit my head if I fly around in here!{#Name="Mikhail"}
 
-`Magari ti farà diventare un po’ più intelligente!{#Name="Zero"}`
+`Magari ti farà diventare un po' più intelligente!{#Name="Zero"}`
 Maybe that'll smarten you up a bit!{#Name="Zero"}
 
 `Sei cattiva, Zero! Guarda, qui dentro non volo!{LF}Non volo!{#Name="Mikhail"}`

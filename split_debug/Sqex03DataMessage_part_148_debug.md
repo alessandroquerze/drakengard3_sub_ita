@@ -112,7 +112,7 @@ Press {01}{0D} to display a navigation arrow that will{LF}point you in the direc
 `Comandi: Mini-mappa`
 Controls: Mini-map
 
-`Usa la mini-mappa in alto a destra dello schermo per controllare{LF}l’ambiente circostante. Premi {01}{0A} per cambiare il livello di zoom.`
+`Usa la mini-mappa in alto a destra dello schermo per controllare{LF}l'ambiente circostante. Premi {01}{0A} per cambiare il livello di zoom.`
 Use the mini-map at the top-right of the screen to check your{LF}current surroundings. Press {01}{0A} to change the zoom level.
 
 `操作 / 通常攻撃`
@@ -124,7 +124,7 @@ Use the mini-map at the top-right of the screen to check your{LF}current surroun
 `Comandi: Aggancio`
 Controls: Locking On
 
-`Premi {01}{08} per agganciare un nemico; premilo di nuovo per annullare.{LF}Usa la levetta destra per passare da un bersaglio all’altro.`
+`Premi {01}{08} per agganciare un nemico; premilo di nuovo per annullare.{LF}Usa la levetta destra per passare da un bersaglio all'altro.`
 Press {01}{08} to lock on to a foe; press it again to cancel.{LF}Use the right stick to switch between targets.
 
 `Comandi: Attacchi Stamina`
@@ -238,7 +238,7 @@ Hold {01}{04} and use the left stick to lock on to multiple foes.{LF}Release {01
 `Danni Solari`
 Sun Damage
 
-`Se entri nella luce solare potenziata dalla magia, subirai danni.{LF}Ritirati nelle zone d’ombra per recuperare salute.`
+`Se entri nella luce solare potenziata dalla magia, subirai danni.{LF}Ritirati nelle zone d'ombra per recuperare salute.`
 If you enter the magically enhanced sunlight, you'll take damage.{LF}Retreat into shaded areas to recover your health.
 
 `使徒アビリティ / セント`
@@ -256,7 +256,7 @@ If you enter the magically enhanced sunlight, you'll take damage.{LF}Retreat int
 `Negozio di Armi: Acquisto e Potenziamento`
 The Weapon Shop: Buying and Upgrading
 
-`Fai scorta di oggetti e acquista o potenzia armi{LF}tra una missione e l’altra usando oro e materiali base.`
+`Fai scorta di oggetti e acquista o potenzia armi{LF}tra una missione e l'altra usando oro e materiali base.`
 Stock up on items and purchase or upgrade weapons{LF}between missions using gold and base materials.
 
 `ショップ / 強化`

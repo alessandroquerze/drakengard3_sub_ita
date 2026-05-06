@@ -13,7 +13,7 @@ Part 1: To the Forests{#Name=" "}
 `Parte 2: Uccidili tutti{#Name=" "}`
 Part 2: Kill 'em All{#Name=" "}
 
-`Parte 3: Legati dall’edera{#Name=" "}`
+`Parte 3: Legati dall'edera{#Name=" "}`
 Part 3: Bound by Ivy{#Name=" "}
 
 `Parte 4: Fate{#Name=" "}`

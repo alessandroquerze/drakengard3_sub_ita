@@ -10,7 +10,7 @@ He was measuring the length of...{LF}Well, he was measuring...something.{#Name="
 `Sono soltanto uno scienziato che raccoglie dati{LF}sui suoi beni più preziosi, mia signora.{#Name="Octa"}`
 I'm merely a scientist collecting data{LF}on my finest assets, my lady.{#Name="Octa"}
 
-`Insomma, che senso ha possedere un’opera d’arte{LF}se non la si ammira di tanto in tanto?{#Name="Octa"}`
+`Insomma, che senso ha possedere un'opera d'arte{LF}se non la si ammira di tanto in tanto?{#Name="Octa"}`
 I mean, what's the point of owning art{LF}if you don't view it once in a while?{#Name="Octa"}
 
 `Sei proprio un tipo raffinato, Octa.{#Name="Zero"}`
@@ -19,10 +19,10 @@ You're a class act, Octa.{#Name="Zero"}
 `Bene. Sarà divertente. È da una vita che non ho{LF}qualcosa di carnoso da fare a pezzi.{#Name="Zero"}`
 Nice. This should be fun. I haven't had{LF}something meaty to rip into in forever.{#Name="Zero"}
 
-`C’è qualcosa di strano in quest’albero.{#Name="Zero"}`
+`C'è qualcosa di strano in quest'albero.{#Name="Zero"}`
 There's something weird about this tree.{#Name="Zero"}
 
-`Be’, come ho già detto, è il santuario di Lady Three.{#Name="Octa"}`
+`Be', come ho già detto, è il santuario di Lady Three.{#Name="Octa"}`
 Well, as I said before, it is the shrine of Lady Three.{#Name="Octa"}
 
 `541{#Name="541"}`

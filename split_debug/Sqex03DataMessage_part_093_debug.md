@@ -25,13 +25,13 @@ Aw, come on! That's just humiliating!{#Name="Mikhail"}
 `Uh. Che parolone, per te.{#Name="Zero"}`
 Huh. That's a pretty big word for you.{#Name="Zero"}
 
-`Ce l’abbiamo fatta!{#Name="Mikhail"}`
+`Ce l'abbiamo fatta!{#Name="Mikhail"}`
 We did it!{#Name="Mikhail"}
 
 `Ora possiamo tornare indietro! Possiamo tornare e rivedere tutti!{#Name="Mikhail"}`
 Now we can go back! We can go back and see everyone again!{#Name="Mikhail"}
 
-`Sì. È proprio l’ultima cosa di cui ho bisogno adesso.{#Name="Zero"}`
+`Sì. È proprio l'ultima cosa di cui ho bisogno adesso.{#Name="Zero"}`
 Yeah. That's the last thing I need right now.{#Name="Zero"}
 
 `Eh? Non vuoi vedere tutti? Devi volerlo!{#Name="Mikhail"}`
@@ -154,7 +154,7 @@ You transformed your dragon into a daemon.{#Name="Zero"}
 `......{#Name="One"}`
 ......{#Name="One"}
 
-`Dov’è il discepolo che hai usato{LF}per evocare quella cosa?{#Name="Zero"}`
+`Dov'è il discepolo che hai usato{LF}per evocare quella cosa?{#Name="Zero"}`
 Where's the disciple you used{LF}to summon that thing?{#Name="Zero"}
 
 `...Io non ho discepoli.{#Name="One"}`
@@ -184,7 +184,7 @@ Hey! It takes more than a trick{LF}to control a dragon!{#Name="Mikhail"}
 `Scommetto che anche One e il suo drago sono molto legati!{#Name="Mikhail"}`
 I bet One and her dragon are really close, too!{#Name="Mikhail"}
 
-`Un po’ come te e me, vero, Zero?{LF}Migliori amici per sempre!{#Name="Mikhail"}`
+`Un po' come te e me, vero, Zero?{LF}Migliori amici per sempre!{#Name="Mikhail"}`
 Kinda like you and me, right, Zero?{LF}Best friends forever!{#Name="Mikhail"}
 
 `Heh. Ciò che li lega non è amicizia.{#Name="Zero"}`
@@ -220,10 +220,10 @@ Ha ha ha ha! How's it goin' up there, Z?{#Name="Dito"}
 `Un branco di viverne cerca di uccidermi. E a te?{#Name="Zero"}`
 Buncha wyverns trying to kill me. How 'bout you?{#Name="Zero"}
 
-`Fantastico, grazie! C’è sangue OVUNQUE!{#Name="Dito"}`
+`Fantastico, grazie! C'è sangue OVUNQUE!{#Name="Dito"}`
 Fantastic, thanks! There's blood EVERYWHERE!{#Name="Dito"}
 
-`Ce l’ho persino negli OCCHI! HA HA HA HA HA!{#Name="Dito"}`
+`Ce l'ho persino negli OCCHI! HA HA HA HA HA!{#Name="Dito"}`
 It's even in my EYES! HA HA HA HA HA!{#Name="Dito"}
 
 `Ehm... Sai cosa? Buon per te.{#Name="Zero"}`
@@ -268,13 +268,13 @@ It's no good! We can't get away! We can't get away!{#Name="Mikhail"}
 `Per conquistare la roccaforte nemica a Cathedral City,{#Name="Accord"}`
 To conquer the enemy stronghold in the Cathedral City,{#Name="Accord"}
 
-`il gruppo di Zero decise di lanciare un attacco dall’aria.{#Name="Accord"}`
+`il gruppo di Zero decise di lanciare un attacco dall'aria.{#Name="Accord"}`
 Zero's group decided to stage an attack from the air.{#Name="Accord"}
 
 `Ma ciò che trovarono ad attenderli lì...{#Name="Accord"}`
 But what they found waiting for them there...{#Name="Accord"}
 
-`non era altri che One in persona. L’ultima Intoner.{#Name="Accord"}`
+`non era altri che One in persona. L'ultima Intoner.{#Name="Accord"}`
 was none other than One herself. The final Intoner.{#Name="Accord"}
 
 `Mikhail`

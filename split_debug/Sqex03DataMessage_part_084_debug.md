@@ -10,10 +10,10 @@ After decimating the enemy's base,{#Name="Accord"}
 `Zero scoprì dei documenti che indicavano la posizione del Santuario delle Sabbie.{#Name="Accord"}`
 Zero discovered documents pointing to the location of the Shrine of Sands.{#Name="Accord"}
 
-`Ma il sentiero che l’avrebbe condotta lì era{LF}un inferno rovente che puniva ogni intruso...{#Name="Accord"}`
+`Ma il sentiero che l'avrebbe condotta lì era{LF}un inferno rovente che puniva ogni intruso...{#Name="Accord"}`
 But the path that would take her there was{LF}a blistering hell that punished all trespassers...{#Name="Accord"}
 
-`Restate all’ombra per recuperare le forze!{#Name="Decadus"}`
+`Restate all'ombra per recuperare le forze!{#Name="Decadus"}`
 Stay in the shade to recover your strength!{#Name="Decadus"}
 
 `暑すぎる！　クソ！　死ね！{#Name="ゼロ"}`
@@ -124,7 +124,7 @@ You really are an idiot.{#Name="Zero"}
 `{06}>{#Name="Zero"}`
 {06}>{#Name="Zero"}
 
-`D’accordo, mia signora. Apra bene e dica "aaaaaah..."{#Name="Cent"}`
+`D'accordo, mia signora. Apra bene e dica "aaaaaah..."{#Name="Cent"}`
 All right, my lady. Open up and say "aaaaaah..."{#Name="Cent"}
 
 `Aaaaaahh...{#Name="Two"}`
@@ -136,13 +136,13 @@ Yes! Perfect! Just like that—keep it up!{#Name="Cent"}
 `Ecco il secondo canto:{#Name="Cent"}`
 Behold the second song:{#Name="Cent"}
 
-`Grande Pugno dell’Antichità!{#Name="Cent"}`
+`Grande Pugno dell'Antichità!{#Name="Cent"}`
 Great Fist of Antiquity!{#Name="Cent"}
 
 `Le tempeste di vento sanguigno che squarciano il destino...{#Name="Cent"}`
 The blood-wind storms that slash through fate...{#Name="Cent"}
 
-`La mano d’acciaio che ha giurato fedeltà...{#Name="Cent"}`
+`La mano d'acciaio che ha giurato fedeltà...{#Name="Cent"}`
 The steely hand that has sworn allegiance...{#Name="Cent"}
 
 `Attraversa gli innumerevoli sciami di morti contorti!{#Name="Cent"}`
@@ -199,7 +199,7 @@ You're not gonna follow Two to the grave?{#Name="Zero"}
 `Cielo, no!{#Name="Cent"}`
 Heavens, no!{#Name="Cent"}
 
-`Voglio solo servire un’Intoner. Non mi importa davvero quale.{#Name="Cent"}`
+`Voglio solo servire un'Intoner. Non mi importa davvero quale.{#Name="Cent"}`
 I just want to serve an Intoner. I really don't care which one.{#Name="Cent"}
 
 `Dopotutto...sono solo un grande idiota, giusto?{#Name="Cent"}`
@@ -226,7 +226,7 @@ Nooo! I'm scared! Get me off the front line!{#Name="Soldier G"}
 `Resisti! Se moriamo, moriamo insieme!{#Name="Soldier E"}`
 Hang in there! If we die, we die together!{#Name="Soldier E"}
 
-`Mantenete la posizione! Siamo l’ultima avanguardia di Lady Two!{#Name="Soldier B"}`
+`Mantenete la posizione! Siamo l'ultima avanguardia di Lady Two!{#Name="Soldier B"}`
 Hold your ground! We're Lady Two's last vanguard!{#Name="Soldier B"}
 
 `Sì! È ora di mostrarle il nostro invincibile pugno di ferro!{#Name="Soldier A"}`
@@ -262,7 +262,7 @@ But that was really uncalled for.{LF}Wasn't it, Lady Two?{#Name="Cent"}
 `Un idiota è un idiota.{#Name="Zero"}`
 An idiot's an idiot.{#Name="Zero"}
 
-`E Two ha perso l’anima perché{LF}ha creduto a tutte le stronzate idiote che sputavi.{#Name="Zero"}`
+`E Two ha perso l'anima perché{LF}ha creduto a tutte le stronzate idiote che sputavi.{#Name="Zero"}`
 And Two lost her soul because she{LF}believed all the idiot crap you spouted.{#Name="Zero"}
 
 `Questo la rende la più grande idiota di tutti. {#Name="Zero"}`

@@ -4,7 +4,7 @@
 `予備{#Name="Explanation"}`
 予備{#Name="Explanation"}
 
-`Prendi gli Artigli di Acquila nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}`
+`Prendi gli Artigli di Acquila nascosti nei Forzieri d'Acciaio!{#Name="Explanation"}`
 Take the Eagle Talons hidden in the steel chests!{#Name="Explanation"}
 
 `Tutti gli Artigli di Acquila raccolti!{#Name="Explanation"}`
@@ -19,7 +19,7 @@ All Eagle Talons collected!{#Name="Explanation"}
 `予備{#Name="Explanation"}`
 予備{#Name="Explanation"}
 
-`Prendi le Zanne di Vipera nascoste nei Forzieri d’Acciaio!{#Name="Explanation"}`
+`Prendi le Zanne di Vipera nascoste nei Forzieri d'Acciaio!{#Name="Explanation"}`
 Take the Viper Fangs hidden in the steel chests!{#Name="Explanation"}
 
 `Tutte le Zanne di Vipera raccolte!{#Name="Explanation"}`
@@ -34,7 +34,7 @@ All Viper Fangs collected!{#Name="Explanation"}
 `予備{#Name="Explanation"}`
 予備{#Name="Explanation"}
 
-`Prendi i Fossili Vegetali nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}`
+`Prendi i Fossili Vegetali nascosti nei Forzieri d'Acciaio!{#Name="Explanation"}`
 Take the Plant Fossils hidden in the steel chests!{#Name="Explanation"}
 
 `Tutti i Fossili Vegetali raccolti!{#Name="Explanation"}`
@@ -49,7 +49,7 @@ All Plant Fossils collected!{#Name="Explanation"}
 `予備{#Name="Explanation"}`
 予備{#Name="Explanation"}
 
-`Prendi i Frammenti del Vecchio Mondo nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}`
+`Prendi i Frammenti del Vecchio Mondo nascosti nei Forzieri d'Acciaio!{#Name="Explanation"}`
 Take the Old-World Shards hidden in the steel chests!{#Name="Explanation"}
 
 `Tutti i Frammenti del Vecchio Mondo raccolti!{#Name="Explanation"}`
@@ -64,10 +64,10 @@ All Old-World Shards collected!{#Name="Explanation"}
 `予備{#Name="Explanation"}`
 予備{#Name="Explanation"}
 
-`Prendi i Libri dell’Ambizione nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}`
+`Prendi i Libri dell'Ambizione nascosti nei Forzieri d'Acciaio!{#Name="Explanation"}`
 Take the Books of Ambition hidden in the steel chests!{#Name="Explanation"}
 
-`Tutti i Libri dell’Ambizione raccolti!{#Name="Explanation"}`
+`Tutti i Libri dell'Ambizione raccolti!{#Name="Explanation"}`
 All Books of Ambition collected!{#Name="Explanation"}
 
 `予備{#Name="Explanation"}`
@@ -79,7 +79,7 @@ All Books of Ambition collected!{#Name="Explanation"}
 `予備{#Name="Explanation"}`
 予備{#Name="Explanation"}
 
-`Prendi i Libri dello Stoicismo nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}`
+`Prendi i Libri dello Stoicismo nascosti nei Forzieri d'Acciaio!{#Name="Explanation"}`
 Take the Books of Stoicism hidden in the steel chests!{#Name="Explanation"}
 
 `Tutti i Libri dello Stoicismo raccolti!{#Name="Explanation"}`
@@ -94,7 +94,7 @@ All Books of Stoicism collected!{#Name="Explanation"}
 `予備{#Name="Explanation"}`
 予備{#Name="Explanation"}
 
-`Prendi i Libri del Mistero nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}`
+`Prendi i Libri del Mistero nascosti nei Forzieri d'Acciaio!{#Name="Explanation"}`
 Take the Books of Mystery hidden in the steel chests!{#Name="Explanation"}
 
 `Tutti i Libri del Mistero raccolti!{#Name="Explanation"}`
@@ -109,10 +109,10 @@ All Books of Mystery collected!{#Name="Explanation"}
 `予備{#Name="Explanation"}`
 予備{#Name="Explanation"}
 
-`Prendi i Libri dell’Innocenza nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}`
+`Prendi i Libri dell'Innocenza nascosti nei Forzieri d'Acciaio!{#Name="Explanation"}`
 Take the Books of Innocence hidden in the steel chests!{#Name="Explanation"}
 
-`Tutti i Libri dell’Innocenza raccolti!{#Name="Explanation"}`
+`Tutti i Libri dell'Innocenza raccolti!{#Name="Explanation"}`
 All Books of Innocence collected!{#Name="Explanation"}
 
 `予備{#Name="Explanation"}`
@@ -124,7 +124,7 @@ All Books of Innocence collected!{#Name="Explanation"}
 `予備{#Name="Explanation"}`
 予備{#Name="Explanation"}
 
-`Prendi i Libri della Disciplina nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}`
+`Prendi i Libri della Disciplina nascosti nei Forzieri d'Acciaio!{#Name="Explanation"}`
 Take the Books of Discipline hidden in the steel chests!{#Name="Explanation"}
 
 `Tutti i Libri della Disciplina raccolti!{#Name="Explanation"}`

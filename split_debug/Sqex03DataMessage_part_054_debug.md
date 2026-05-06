@@ -202,7 +202,7 @@ Then we must be getting close to something!{#Name="Mikhail"}
 `Più cattivi ti mandano contro,{LF}più vogliono proteggere qualcosa, giusto?{#Name="Mikhail"}`
 The more bad guys they throw at you,{LF}the more they wanna guard stuff, right?{#Name="Mikhail"}
 
-`Guarda un po’. Il bambinone{LF}ha davvero imparato qualcosa.{#Name="Dito"}`
+`Guarda un po'. Il bambinone{LF}ha davvero imparato qualcosa.{#Name="Dito"}`
 Look at that. Big baby actually{LF}went and learned something.{#Name="Dito"}
 
 `E che farai quando rintraccerai Four?{#Name="Dito"}`
@@ -211,13 +211,13 @@ So what'll you do once you track down Four?{#Name="Dito"}
 `La ucciderò.{#Name="Zero"}`
 Kill her.{#Name="Zero"}
 
-`Tutto qui? Che noooia!{LF}Dovresti divertirti un po’ con lei, prima!{#Name="Dito"}`
+`Tutto qui? Che noooia!{LF}Dovresti divertirti un po' con lei, prima!{#Name="Dito"}`
 That's it? Booo-ring!{LF}You should have a little fun with her first!{#Name="Dito"}
 
 ` {#Name="ディト"}`
  {#Name="ディト"}
 
-`Tipo, scoprire la sua più grande vergogna e poi raccontarla{LF}a tutti quelli che conosce, finché non ti supplica{LF}di ucciderla per porre fine all’umiliazione!{#Name="Dito"}`
+`Tipo, scoprire la sua più grande vergogna e poi raccontarla{LF}a tutti quelli che conosce, finché non ti supplica{LF}di ucciderla per porre fine all'umiliazione!{#Name="Dito"}`
 Like, find her greatest shame and then tell{LF}everyone she knows until she begs you to{LF}kill her so the humiliation can finally end!{#Name="Dito"}
 
 `Sei proprio un cucciolo malato, eh?{#Name="Zero"}`
@@ -301,7 +301,7 @@ Not this stupid mutt again...{#Name="Zero"}
 `Oh, guarda. Chiusi dentro e circondati dai nemici.{LF}...DI NUOVO.{#Name="Dito"}`
 Oh, look. Locked in and surrounded by enemies.{LF}...AGAIN.{#Name="Dito"}
 
-`Non potevi inventarti qualcosa{LF}di un po’ meno cliché?{#Name="Dito"}`
+`Non potevi inventarti qualcosa{LF}di un po' meno cliché?{#Name="Dito"}`
 Couldn't you come up with something{LF}a little less cliché?{#Name="Dito"}
 
 `Di che diavolo ti lamenti?{LF}E con CHI ti lamenti?{#Name="Zero"}`

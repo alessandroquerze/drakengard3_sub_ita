@@ -37,7 +37,7 @@ Part 3: Devolution{#Name=" "}
 ` {#Name=" "}`
  {#Name=" "}
 
-`Parte 1: La Maledizione dell’Intoner{#Name=" "}`
+`Parte 1: La Maledizione dell'Intoner{#Name=" "}`
 Part 1: The Intoner's Curse{#Name=" "}
 
 `Parte 2: Discesa Rovinosa{#Name=" "}`
@@ -139,7 +139,7 @@ Part 3: Trapped{#Name=" "}
 `Parte 1: Sale Scheletriche{#Name=" "}`
 Part 1: Skeletal Halls{#Name=" "}
 
-`Parte 2: La Rovina dell’Umanità{#Name=" "}`
+`Parte 2: La Rovina dell'Umanità{#Name=" "}`
 Part 2: Mankind's Ruin{#Name=" "}
 
 `Parte 3: Maggiore e Minore{#Name=" "}`
@@ -178,7 +178,7 @@ Part 2: Homecoming{#Name=" "}
 `Parte 3: Battaglia di Cibo{#Name=" "}`
 Part 3: Food Fight{#Name=" "}
 
-`Parte 4: L’avvertimento{#Name=" "}`
+`Parte 4: L'avvertimento{#Name=" "}`
 Part 4: The Warning{#Name=" "}
 
 ` {#Name=" "}`

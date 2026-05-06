@@ -64,10 +64,10 @@ EXP Sphere
 `Materiale base di rame`
 Copper Base Material
 
-`Materiale base d’argento`
+`Materiale base d'argento`
 Silver Base Material
 
-`Materiale base d’oro`
+`Materiale base d'oro`
 Gold Base Material
 
 `Materiale base bianco`
@@ -88,19 +88,19 @@ Rusted Copper Coin
 `Moneta di rame incrinata`
 Cracked Copper Coin
 
-`Moneta d’argento antica`
+`Moneta d'argento antica`
 Antique Silver Coin
 
 `Moneta di rame lucidata`
 Polished Copper Coin
 
-`Moneta d’oro antica`
+`Moneta d'oro antica`
 Antique Gold Coin
 
 `剣兵のメダルC`
 剣兵のメダルC
 
-`Moneta d’argento gessosa`
+`Moneta d'argento gessosa`
 Chalky Silver Coin
 
 `剣兵のメダルE`
@@ -112,28 +112,28 @@ Copper Goblin Coin
 `槍兵のメダルB`
 槍兵のメダルB
 
-`Moneta Merrow d’argento`
+`Moneta Merrow d'argento`
 Silver Merrow Coin
 
-`Moneta Valkyrie d’oro`
+`Moneta Valkyrie d'oro`
 Gold Valkyrie Coin
 
-`Moneta Phoenix d’oro`
+`Moneta Phoenix d'oro`
 Gold Phoenix Coin
 
 `Moneta Angelos di rame`
 Copper Angelos Coin
 
-`Moneta Arche d’argento`
+`Moneta Arche d'argento`
 Silver Arche Coin
 
-`Moneta Thrones d’argento`
+`Moneta Thrones d'argento`
 Silver Thrones Coin
 
-`Moneta Cherub d’argento`
+`Moneta Cherub d'argento`
 Silver Cherub Coin
 
-`Moneta Seraph d’argento`
+`Moneta Seraph d'argento`
 Silver Seraph Coin
 
 `弓兵のメダルA`
@@ -154,7 +154,7 @@ Benevolence Coin
 `Moneta della gentilezza`
 Kindness Coin
 
-`Moneta dell’affetto`
+`Moneta dell'affetto`
 Affection Coin
 
 `砲兵のメダルC`

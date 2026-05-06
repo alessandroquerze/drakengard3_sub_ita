@@ -115,13 +115,13 @@ Helloooooo?{LF}Hey, stupid dragon! Where are you?{#Name="Zero"}
 `Sì, ehm...{#Name="Dito"}`
 Yeah, uh...{#Name="Dito"}
 
-`Che c’è?{#Name="Zero"}`
+`Che c'è?{#Name="Zero"}`
 What?{#Name="Zero"}
 
 `Non credo sia una grande idea urlare da queste parti.{#Name="Dito"}`
 I don't think it's such a good idea to yell around here.{#Name="Dito"}
 
-`Che c’è? Hai paura?{#Name="Zero"}`
+`Che c'è? Hai paura?{#Name="Zero"}`
 What? You scared?{#Name="Zero"}
 
 `Tipico. Voi discepoli siete più fifoni di quanto pensassi.{#Name="Zero"}`
@@ -262,7 +262,7 @@ Yaaaaaah!{#Name="Soldier D"}
 `Come fanno a risalire la montagna così in fretta!?{#Name="Soldier E"}`
 How are they getting up the mountain so quickly!?{#Name="Soldier E"}
 
-`Quella non è un’Intoner... È un dannato mostro!{#Name="Soldier B"}`
+`Quella non è un'Intoner... È un dannato mostro!{#Name="Soldier B"}`
 That's no Intoner... It's a goddamn monster!{#Name="Soldier B"}
 
 ` {#Name="兵士B"}`
@@ -301,7 +301,7 @@ Move! Move, move, move!{#Name="Soldier E"}
 `Attenti! È qui!{#Name="Soldier A"}`
 Look out! She's here!{#Name="Soldier A"}
 
-`Dov’è!? Non riesco a vederla! Ahhhh, vattene! Stammi lontana!{#Name="Soldier G"}`
+`Dov'è!? Non riesco a vederla! Ahhhh, vattene! Stammi lontana!{#Name="Soldier G"}`
 Where is she!? I can't see her! Ahhhh, get away! Get away from me!{#Name="Soldier G"}
 
 ` {#Name="兵士G"}`

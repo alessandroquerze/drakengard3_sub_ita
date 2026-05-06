@@ -19,7 +19,7 @@
 `Ehi, ehi, ehi. Che storia è{LF}tutta questa nebbia?{#Name="Dito"}`
 Whoa, whoa, whoa. What's the deal{LF}with all this fog?{#Name="Dito"}
 
-`Te lo dico io, c’è qualcosa di strano{LF}in questa foresta.{#Name="Dito"}`
+`Te lo dico io, c'è qualcosa di strano{LF}in questa foresta.{#Name="Dito"}`
 I'm telling you, something's weird{LF}about this forest.{#Name="Dito"}
 
 `Sì, ma...{#Name="Decadus"}`
@@ -34,16 +34,16 @@ If you say "The discomfort is exquisite!"{LF}or some shit, I swear I'll cut your
 `Unnngh...{#Name="Decadus"}`
 Unnngh...{#Name="Decadus"}
 
-`Che ne dite di un po’ di curiosità? Sapevate che{LF}le fate purificano l’aria ruttando?{#Name="Cent"}`
+`Che ne dite di un po' di curiosità? Sapevate che{LF}le fate purificano l'aria ruttando?{#Name="Cent"}`
 How about some trivia time! Did you know{LF}faeries purify the air by burping?{#Name="Cent"}
 
 `Oh? Non ne avevo idea.{#Name="Octa"}`
 Oh? I had no idea.{#Name="Octa"}
 
-`Non fare l’impressionato. Se le tira tutte{LF}fuori dal culo.{#Name="Zero"}`
+`Non fare l'impressionato. Se le tira tutte{LF}fuori dal culo.{#Name="Zero"}`
 Don't be impressed. He pulls all this{LF}shit out of his ass.{#Name="Zero"}
 
-`Tsk. Suvvia. Questa foresta è contaminata perché{LF}mancano le fate. Non lo vedete? Possibile che sia{LF}l’unico ad accorgersene?{#Name="Cent"}`
+`Tsk. Suvvia. Questa foresta è contaminata perché{LF}mancano le fate. Non lo vedete? Possibile che sia{LF}l'unico ad accorgersene?{#Name="Cent"}`
 Tch. Come now. This forest is tainted because{LF}it lacks faeries. Don't you see it? Surely, I can't{LF}be the only one?{#Name="Cent"}
 
 `Odio davvero, davvero tanto questo tizio.{#Name="Dito"}`
@@ -67,7 +67,7 @@ I hate this one- and two-at-a-time shit.{#Name="Zero"}
 `Vorrei che mi assalissero tutti insieme{LF}e la facessero finita!{#Name="Zero"}`
 I wish they'd just rush me all at once{LF}and get it over with!{#Name="Zero"}
 
-`Per una volta, Z, credo di essere davvero d’accordo con te.{#Name="Dito"}`
+`Per una volta, Z, credo di essere davvero d'accordo con te.{#Name="Dito"}`
 For once, Z, I think I actually agree with you.{#Name="Dito"}
 
 `...Il che è piuttosto inquietante, se ci pensi.{#Name="Dito"}`
@@ -103,7 +103,7 @@ That's right! I'm not bad! Not bad at all!{#Name="Mikhail"}
 `Zero! Mi hai chiamato, Zero!?{#Name="Mikhail"}`
 Zero! Did you call me, Zero!?{#Name="Mikhail"}
 
-`Sì, l’ho fatto. Quindi muoviti!{#Name="Zero"}`
+`Sì, l'ho fatto. Quindi muoviti!{#Name="Zero"}`
 Yeah, I did. So move it!{#Name="Zero"}
 
 `Hee hee. Hai bisogno di me, eh? Hai bisogno di me!{#Name="Mikhail"}`
@@ -112,7 +112,7 @@ Hee hee. You need me, huh? You need me!{#Name="Mikhail"}
 `Chiudi il becco e mettiti al lavoro!{#Name="Zero"}`
 Shut up and get to work already!{#Name="Zero"}
 
-`Sì, c’è qualcosa in questa foresta{LF}che decisamente non torna.{#Name="Dito"}`
+`Sì, c'è qualcosa in questa foresta{LF}che decisamente non torna.{#Name="Dito"}`
 Yeah, something about this forest{LF}definitely feels off.{#Name="Dito"}
 
 `Dici?{#Name="Zero"}`
@@ -229,7 +229,7 @@ Except killing.{#Name="Dito"}
 `Uccidere non è lavoro. È come pisciare:{LF}viene naturale.{#Name="Zero"}`
 Killing isn't work. It's like takin'{LF}a piss—it comes naturally.{#Name="Zero"}
 
-`Oh. Guarda chi c’è.{#Name="Three"}`
+`Oh. Guarda chi c'è.{#Name="Three"}`
 Oh. Look who's here.{#Name="Three"}
 
 `È Zero.{#Name="Three"}`
@@ -247,7 +247,7 @@ You ready to die?{#Name="Zero"}
 `Suppongo di sì. Ma...{#Name="Three"}`
 I suppose. But...{#Name="Three"}
 
-`C’è qualcosa che non va...nella foresta...{#Name="Three"}`
+`C'è qualcosa che non va...nella foresta...{#Name="Three"}`
 Something's wrong...with the forest...{#Name="Three"}
 
 `Non senti le voci? Il pianto?{#Name="Three"}`
@@ -265,10 +265,10 @@ Why is Octa fighting for Zero?{#Name="Soldier A"}
 `Non importa. Octa ora è nostro nemico!{#Name="Soldier B"}`
 It doesn't matter. Octa's our enemy now!{#Name="Soldier B"}
 
-`Dov’è Lady Three!?{#Name="Soldier C"}`
+`Dov'è Lady Three!?{#Name="Soldier C"}`
 Where is Lady Three!?{#Name="Soldier C"}
 
-`Non lo so! Abbiamo perso i contatti con lei da un po’!{#Name="Soldier D"}`
+`Non lo so! Abbiamo perso i contatti con lei da un po'!{#Name="Soldier D"}`
 I don't know! We lost contact with her a while ago!{#Name="Soldier D"}
 
 `Allora manda un altro messaggero!{#Name="Soldier C"}`
@@ -283,7 +283,7 @@ Lady Three freed us from the oppressive rule of the past. We owe her our lives!{
 `Rinforzi! Chiamate i rinforzi!{#Name="Soldier G"}`
 Reinforcements! Call for reinforcements!{#Name="Soldier G"}
 
-`C’è qualcosa di strano in questa foresta...{#Name="Soldier B"}`
+`C'è qualcosa di strano in questa foresta...{#Name="Soldier B"}`
 There's something weird about this forest...{#Name="Soldier B"}
 
 `Che diavolo è questa nebbia?{#Name="Soldier B"}`
@@ -310,7 +310,7 @@ if a unique set of conditions known as "singularities" come together,{#Name="397
 `si verificano fratture nel tempo, dando origine al fenomeno della divergenza tra realtà.{#Name="541"}`
 splits occur in time, resulting in the multiple-world divergence phenomenon.{#Name="541"}
 
-`Oggi è il 1o aprile dell’anno 1000 d.C.,{#Name="253"}`
+`Oggi è il 1o aprile dell'anno 1000 d.C.,{#Name="253"}`
 It is now April the 1st, 1000 A.D.,{#Name="253"}
 
 `sono passati 28 giorni da quando la singolarità nota come Zero ha ripreso attività.{#Name="433"}`

@@ -1,4 +1,4 @@
-`Gioco{LF}Con i cannoni distrutti, Zero pensa{LF}che la vittoria sia a portata di mano. Ma una Four testarda{LF}ha un’ultima carta da giocare.`
+`Gioco{LF}Con i cannoni distrutti, Zero pensa{LF}che la vittoria sia a portata di mano. Ma una Four testarda{LF}ha un'ultima carta da giocare.`
 Game{LF}With the cannons destroyed, Zero thinks{LF}victory is at hand. But a stubborn Four{LF}has one last card to play.
 
 `Cutscene{LF}La furia omicida di Zero terrorizza Four e{LF}Decadus, che tentano di fuggire. Ma quando{LF}Zero atterra sulla loro aeronave, il suo umore{LF}subisce un cambiamento improvviso e radicale...`
@@ -25,13 +25,13 @@ Cutscene{LF}Zero's murderous rage terrifies Four and{LF}Decadus, who attempt to 
 `Mappa → Aeronave{LF}Con Four morta e Decadus ora{LF}dalla sua parte, Zero si dirige verso la Terra delle{LF}Foreste. Con la sua nuova aeronave scintillante,{LF}sembra che nulla possa abbatterle il morale.`
 Map → Airship{LF}With Four dead and Decadus now on{LF}her side, Zero makes for the Land of{LF}Forests. With her shiny new airship,{LF}it seems nothing can break her spirits.
 
-`Cutscene → Gioco{LF}L’amata aeronave di Zero viene abbattuta dai{LF}soldati nemici prima che lei abbia la possibilità{LF}di godersela. Inutile dirlo, qualcuno{LF}pagherà per questo.`
+`Cutscene → Gioco{LF}L'amata aeronave di Zero viene abbattuta dai{LF}soldati nemici prima che lei abbia la possibilità{LF}di godersela. Inutile dirlo, qualcuno{LF}pagherà per questo.`
 Cutscene → Game{LF}Zero's beloved airship is shot down by{LF}enemy soldiers before she has a chance{LF}to enjoy it. Needless to say, someone{LF}is going to pay for this.
 
-`Gioco{LF}Separata da Mikhail e bloccata{LF}dall’edera, l’umore di Zero va di male{LF}in peggio. Nonostante tutto, il gruppo va avanti.`
+`Gioco{LF}Separata da Mikhail e bloccata{LF}dall'edera, l'umore di Zero va di male{LF}in peggio. Nonostante tutto, il gruppo va avanti.`
 Game{LF}Separated from Mikhail and blocked in{LF}by ivy, Zero's mood goes from bad to{LF}worse. Regardless, the party soldiers on.
 
-`Cutscene{LF}Il gruppo scopre dove si trova Mikhail{LF}da una fata della foresta tutta allegra, ma{LF}l’atteggiamento del piccolo spiritello si rivela troppo{LF}perché Zero possa sopportarlo.`
+`Cutscene{LF}Il gruppo scopre dove si trova Mikhail{LF}da una fata della foresta tutta allegra, ma{LF}l'atteggiamento del piccolo spiritello si rivela troppo{LF}perché Zero possa sopportarlo.`
 Cutscene{LF}The group learns of Mikhail's location{LF}from a cheerful forest faerie, but the{LF}little sprite's attitude proves too{LF}much for Zero to handle.
 
 `あらすじ第五項　３０１０　一行目{LF}あらすじ第五項　３０１０　二行目{LF}あらすじ第五項　３０１０　三行目{LF}あらすじ第五項　３０１０　四行目{LF}あらすじ第五項　３０１０　五行目`
@@ -55,10 +55,10 @@ Cutscene{LF}The group learns of Mikhail's location{LF}from a cheerful forest fae
 `あらすじ第十一項　３０１０　一行目{LF}あらすじ第十一項　３０１０　二行目{LF}あらすじ第十一項　３０１０　三行目{LF}あらすじ第十一項　３０１０　四行目{LF}あらすじ第十一項　３０１０　五行目`
 あらすじ第十一項　３０１０　一行目{LF}あらすじ第十一項　３０１０　二行目{LF}あらすじ第十一項　３０１０　三行目{LF}あらすじ第十一項　３０１０　四行目{LF}あらすじ第十一項　３０１０　五行目
 
-`Gioco{LF}Il gruppo si addentra più a fondo nel bosco{LF}in cerca di Mikhail. Dopo aver sistemato{LF}un gruppo di troll, si imbatte in{LF}un’altra fata con un bel caratterino.`
+`Gioco{LF}Il gruppo si addentra più a fondo nel bosco{LF}in cerca di Mikhail. Dopo aver sistemato{LF}un gruppo di troll, si imbatte in{LF}un'altra fata con un bel caratterino.`
 Game{LF}The party heads deeper into the woods{LF}in search of Mikhail. After dispatching{LF}a group of trolls, they come across yet{LF}another faerie with an attitude.
 
-`Gioco{LF}La foresta è piena di fate maleducate,{LF}al punto che Dito minaccia di bruciare{LF}l’intero bosco. Nonostante tutto, Zero{LF}continua la ricerca del suo drago.`
+`Gioco{LF}La foresta è piena di fate maleducate,{LF}al punto che Dito minaccia di bruciare{LF}l'intero bosco. Nonostante tutto, Zero{LF}continua la ricerca del suo drago.`
 Game{LF}The forest is filled with rude faeries,{LF}so much so that Dito threatens to burn{LF}down the entire woods. Regardless, Zero{LF}continues the search for her dragon.
 
 `Cutscene{LF}Il Re Fata sa dove si trova Three, {LF}ma decide di prendere in giro Zero e i suoi{LF}compagni invece di rivelarlo. Finisce{LF}più o meno come ci si potrebbe aspettare.`
@@ -127,7 +127,7 @@ Camp{LF}Dito is suspicious of the new disciple,{LF}but Zero appears unconcerned.
 `Gioco{LF}Mentre Octa intrattiene il gruppo con racconti sulle{LF}attività ricreative di Three, Mikhail{LF}scompare ancora una volta. Ben presto, il gruppo{LF}scopre che Three ha preparato una trappola.`
 Game{LF}As Octa regales the group with tales of{LF}Three's recreational activities, Mikhail{LF}goes missing once again. Soon, the group{LF}learns that Three has a trap waiting.
 
-`Gioco{LF}Il gruppo combatte altri cubi mentre la voce di Three{LF}li tormenta con enigmi. Lo shock più grande{LF}di tutti, però, arriva quando Octa{LF}rivela di avere appena vent’anni. `
+`Gioco{LF}Il gruppo combatte altri cubi mentre la voce di Three{LF}li tormenta con enigmi. Lo shock più grande{LF}di tutti, però, arriva quando Octa{LF}rivela di avere appena vent'anni. `
 Game{LF}The group battles more cubes as Three's{LF}voice pesters them with riddles. The biggest{LF}shock of all, however, comes when Octa{LF}reveals that he's only in his twenties. 
 
 `Cutscene{LF}Octa guida il gruppo attraverso un cancello{LF}aperto verso il Santuario della Foresta oltre,{LF}mentre Mikhail si occupa di alcuni{LF}suoi affari urgenti.`
@@ -187,16 +187,16 @@ Game{LF}The group leaves Mikhail to his own{LF}devices and continues on, eventua
 `あらすじ第十一項　３０５０　一行目{LF}あらすじ第十一項　３０５０　二行目{LF}あらすじ第十一項　３０５０　三行目{LF}あらすじ第十一項　３０５０　四行目{LF}あらすじ第十一項　３０５０　五行目`
 あらすじ第十一項　３０５０　一行目{LF}あらすじ第十一項　３０５０　二行目{LF}あらすじ第十一項　３０５０　三行目{LF}あらすじ第十一項　３０５０　四行目{LF}あらすじ第十一項　３０５０　五行目
 
-`Gioco{LF}Il gruppo scopre Mikhail intrappolato{LF}nell’edera mentre si fa strada verso il{LF}secondo piano del santuario.`
+`Gioco{LF}Il gruppo scopre Mikhail intrappolato{LF}nell'edera mentre si fa strada verso il{LF}secondo piano del santuario.`
 Game{LF}The group discovers Mikhail trapped{LF}in ivy as they make their way to the{LF}shrine's second floor.
 
-`Cutscene → Gioco{LF}Dopo aver salvato Mikhail di nuovo, Three{LF}appare all’improvviso. Stranamente indifferente{LF}al tradimento di Octa, l’Intoner avverte il{LF}gruppo di fare attenzione all’ambiente circostante.`
+`Cutscene → Gioco{LF}Dopo aver salvato Mikhail di nuovo, Three{LF}appare all'improvviso. Stranamente indifferente{LF}al tradimento di Octa, l'Intoner avverte il{LF}gruppo di fare attenzione all'ambiente circostante.`
 Cutscene → Game{LF}After rescuing Mikhail (again), Three{LF}suddenly appears. Oddly nonchalant about{LF}Octa's betrayal, the Intoner warns the{LF}group to mind its surroundings.
 
 `Cutscene → Gioco{LF}Three usa i suoi poteri per prendere il controllo di{LF}Octa, costringendolo a evocare Armisael,{LF}un esercito di umani che lei ha trasformato in{LF}orribili macchine da guerra. `
 Cutscene → Game{LF}Three uses her powers to take control of{LF}Octa, forcing him to summon Armisael,{LF}an army of humans she has turned into{LF}horrific fighting machines. 
 
-`Cutscene{LF}Subito dopo la sconfitta dell’esercito di Armisael,{LF}un Mikhail fuori controllo ingoia Three intera.{LF}Prima che qualcuno possa agire, il discepolo di Two, Cent,{LF}appare e porta via il drago.`
+`Cutscene{LF}Subito dopo la sconfitta dell'esercito di Armisael,{LF}un Mikhail fuori controllo ingoia Three intera.{LF}Prima che qualcuno possa agire, il discepolo di Two, Cent,{LF}appare e porta via il drago.`
 Cutscene{LF}Right after the Armisael army is defeated,{LF}a berserk Mikhail swallows Three whole.{LF}Before anyone can act, Two's disciple, Cent,{LF}appears and spirits the dragon away.
 
 `あらすじ第五項　３０６０　一行目{LF}あらすじ第五項　３０６０　二行目{LF}あらすじ第五項　３０６０　三行目{LF}あらすじ第五項　３０６０　四行目{LF}あらすじ第五項　３０６０　五行目`
@@ -220,13 +220,13 @@ Cutscene{LF}Right after the Armisael army is defeated,{LF}a berserk Mikhail swal
 `あらすじ第十一項　３０６０　一行目{LF}あらすじ第十一項　３０６０　二行目{LF}あらすじ第十一項　３０６０　三行目{LF}あらすじ第十一項　３０６０　四行目{LF}あらすじ第十一項　３０６０　五行目`
 あらすじ第十一項　３０６０　一行目{LF}あらすじ第十一項　３０６０　二行目{LF}あらすじ第十一項　３０６０　三行目{LF}あらすじ第十一項　３０６０　四行目{LF}あらすじ第十一項　３０６０　五行目
 
-`Mappa → Accampamento{LF}Three non c’è più, ma il gruppo non può{LF}stare tranquillo a causa dello sconvolgente{LF}gesto di Mikhail e del successivo rapimento per{LF}mano di Cent.`
+`Mappa → Accampamento{LF}Three non c'è più, ma il gruppo non può{LF}stare tranquillo a causa dello sconvolgente{LF}gesto di Mikhail e del successivo rapimento per{LF}mano di Cent.`
 Map → Camp{LF}Three is gone, but the group cannot{LF}rest easy thanks to Mikhail's shocking{LF}act and subsequent kidnapping at the{LF}hands of Cent.
 
 `Gioco{LF}Il gruppo procede attraverso una regione di{LF}rovine coperte di sabbia. I pettegolezzi tra i{LF}soldati rivelano che Two al momento{LF}soffre di una qualche malattia.`
 Game{LF}The group proceeds through a region of{LF}sand-covered ruins. Gossip among the{LF}soldiers reveals that Two is currently{LF}suffering from some sort of illness.
 
-`Gioco{LF}Combattendo sia il caldo sia branchi di{LF}lupi, il gruppo finalmente si imbatte in{LF}Mikhail. La riunione viene però interrotta{LF}dall’apparizione di un golem.`
+`Gioco{LF}Combattendo sia il caldo sia branchi di{LF}lupi, il gruppo finalmente si imbatte in{LF}Mikhail. La riunione viene però interrotta{LF}dall'apparizione di un golem.`
 Game{LF}Fighting both the heat and packs of{LF}wolves, the party finally stumbles upon{LF}Mikhail. The reunion is interrupted,{LF}however, by the appearance of a golem.
 
 `Cutscene{LF}Cent appare davanti al gruppo e avverte{LF}Zero che Mikhail sarà la sua rovina.{LF}Poi se ne va con la stessa rapidità con cui è arrivato.`
@@ -259,7 +259,7 @@ Map → Camp{LF}The group decides to hunt down Two{LF}and Cent to learn the trut
 `Gioco{LF}Il gruppo decima i soldati{LF}che presidiano le rovine, nonostante le suppliche di Decadus{LF}di non combattere in un luogo di tale{LF}profonda importanza storica.`
 Game{LF}The group decimates the soldiers{LF}manning the ruins, despite Decadus'{LF}pleas not to fight in a place of such{LF}deep historical significance.
 
-`Gioco{LF}Una serie di pavimenti mobili blocca{LF}l’avanzata di Zero. ...Lei non la prende bene.`
+`Gioco{LF}Una serie di pavimenti mobili blocca{LF}l'avanzata di Zero. ...Lei non la prende bene.`
 Game{LF}A series of moving floors blocks Zero's{LF}progress. ...She doesn't take it well.
 
 `Cutscene → Gioco{LF}I discepoli di Zero osservano con orrore{LF}un soldato nemico tagliarle il braccio,{LF}solo per vederla riattaccarselo subito{LF}e continuare a combattere. `

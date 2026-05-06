@@ -1,4 +1,4 @@
-`Sta’ zitto e pensa a te stesso!{#Name="Zero"}`
+`Sta' zitto e pensa a te stesso!{#Name="Zero"}`
 Shut up and worry about yourself!{#Name="Zero"}
 
 `Tu...stai bene, Zero?{#Name="Mikhail"}`
@@ -31,7 +31,7 @@ Get outta there, idiot!{#Name="Zero"}
 `Muoviti! Il veleno sta per... Tu stai per...{#Name="Zero"}`
 Move it! The poison's gonna... You're gonna...{#Name="Zero"}
 
-`Mi sa che ci ho provato un po’ troppo...{#Name="Mikhail"}`
+`Mi sa che ci ho provato un po' troppo...{#Name="Mikhail"}`
 Guess I tried a little too hard...{#Name="Mikhail"}
 
 `No! No, devi reincarnarti! Fallo ora!{#Name="Zero"}`
@@ -76,7 +76,7 @@ I hereby forge a pact{#Name="Zero"}
 `in cambio della vita di questo drago!{#Name="Zero"}`
 in exchange for the life of this dragon!{#Name="Zero"}
 
-`Dei dell’est, dee dell’ovest,{#Name="Zero"}`
+`Dei dell'est, dee dell'ovest,{#Name="Zero"}`
 Gods of the east, goddesses of the west,{#Name="Zero"}
 
 `offro la fiamma della mia vita{#Name="Zero"}`

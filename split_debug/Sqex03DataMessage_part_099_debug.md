@@ -55,7 +55,7 @@ Mikhail, meant to be the group's harmonizing factor,{LF}has devolved and demonst
 `Sia le Intoner sia i loro discepoli sembrano{LF}entrare in stati mentali ed emotivi instabili.{#Name="Accord"}`
 Both the Intoners and their disciples seem to be{LF}entering unstable mental and emotional states.{#Name="Accord"}
 
-`Continuerò la mia indagine,{LF}tenendo d’occhio eventuali segni di un Collasso totale.{#Name="Accord"}`
+`Continuerò la mia indagine,{LF}tenendo d'occhio eventuali segni di un Collasso totale.{#Name="Accord"}`
 I shall continue my investigation,{LF}keeping an eye out for any signs of a Full Collapse.{#Name="Accord"}
 
 `M5110_E0020_DM: Inizio registrazione{#Name="Accord"}`
@@ -148,7 +148,7 @@ She's been consumed by her song.{#Name="Zero"}
 `Ugggh... È tutta colpa mia...{#Name="Cent"}`
 Ugggh... This is all my fault...{#Name="Cent"}
 
-`Se solo... Se solo non l’avessi lasciata...{#Name="Cent"}`
+`Se solo... Se solo non l'avessi lasciata...{#Name="Cent"}`
 If only... If only I hadn't left her...{#Name="Cent"}
 
 `Nnngh...{#Name="Cent"}`
@@ -160,7 +160,7 @@ I suppose... I can at least end her misery...{#Name="Cent"}
 `Ha ha ha! Questo non è proprio da te, Cent!{#Name="Dito"}`
 Ha ha ha! This isn't like you at all, Cent!{#Name="Dito"}
 
-`Non avrei mai pensato di vederti provare compassione{LF}per un’Intoner fuori di testa!{#Name="Dito"}`
+`Non avrei mai pensato di vederti provare compassione{LF}per un'Intoner fuori di testa!{#Name="Dito"}`
 Never thought I'd see you sympathizing{LF}with a whack-job Intoner!{#Name="Dito"}
 
 `Beh, immagino che uno strambo ne attiri un altro.{#Name="Dito"}`
@@ -196,7 +196,7 @@ How's this feel, hmmm?{#Name="Octa"}
 `Lady Two...{#Name="Cent"}`
 Lady Two...{#Name="Cent"}
 
-`Cos’è questo?{#Name="Cent"}`
+`Cos'è questo?{#Name="Cent"}`
 What is this?{#Name="Cent"}
 
 `È una trappola! Correte!{#Name="Zero"}`
@@ -253,13 +253,13 @@ Zero...{#Name="Mikhail"}
 `Sul serio? ...Di nuovo?{#Name="Dito"}`
 Seriously? ...Again?{#Name="Dito"}
 
-`Una delle mie sorelle dev’essere particolarmente fissata coi cani.{#Name="Zero"}`
+`Una delle mie sorelle dev'essere particolarmente fissata coi cani.{#Name="Zero"}`
 One of my sisters must be big into dogs.{#Name="Zero"}
 
 `Ugh. Disgustoso.{#Name="Dito"}`
 Ugh. Disgusting.{#Name="Dito"}
 
-`Vieni qui, bastardo! Ho una cuccia per te...all’inferno!{#Name="Dito"}`
+`Vieni qui, bastardo! Ho una cuccia per te...all'inferno!{#Name="Dito"}`
 Come here, mutt! I got a doghouse for ya...in hell!{#Name="Dito"}
 
 `説明文`

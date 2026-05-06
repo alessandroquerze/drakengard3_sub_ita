@@ -10,7 +10,7 @@ Accord's Requests: Treasure Hunting
 `Apri tutti i forzieri per ottenere una ricompensa da Accord,{LF}incluso uno speciale bonus di completamento valido solo la prima volta.`
 Unlock all the treasure chests to earn a reward from Accord,{LF}including a first-time-only special completion bonus.
 
-`Forzieri del Tesoro d’Acciaio`
+`Forzieri del Tesoro d'Acciaio`
 Steel Treasure Chests
 
 `I forzieri rinforzati in acciaio non si aprono facilmente come quelli normali;{LF}dovrai colpirli molte volte per rompere tutte le catene.`
@@ -31,19 +31,19 @@ Complete every round to earn a reward from Accord,{LF}including a first-time-onl
 `Cerchi Sfida`
 Challenge Circles
 
-`Vinci un round e apparirà un cerchio sfida. Raccogli l’esperienza{LF}e l’oro che emergono, poi scegli se continuare o ritirarti.`
+`Vinci un round e apparirà un cerchio sfida. Raccogli l'esperienza{LF}e l'oro che emergono, poi scegli se continuare o ritirarti.`
 Win a round, and a challenge circle will appear. Collect the experience{LF}and gold that emerges, and then choose whether to continue or retire.
 
 `Richieste di Accord: Fallire una Sfida di Sopravvivenza`
 Accord's Requests: Failing a Survival Challenge
 
-`Se fallisci in una Sfida di Sopravvivenza, perderai tutta l’esperienza e l’oro ottenuti.{LF}Se invece ti ritiri, potrai conservare ciò che hai guadagnato finora.`
+`Se fallisci in una Sfida di Sopravvivenza, perderai tutta l'esperienza e l'oro ottenuti.{LF}Se invece ti ritiri, potrai conservare ciò che hai guadagnato finora.`
 If you fail in a Survival Challenge, you'll lose all earned experience and gold.{LF}If you retire, however, you can keep what you've earned so far.
 
 `Richieste di Accord: Raccolta di Oro`
 Accord's Requests: Gold Farming
 
-`Metti a segno attacchi sui nemici e lasceranno cadere monete d’oro.{LF}Sconfiggili e raccogli più oro che puoi!`
+`Metti a segno attacchi sui nemici e lasceranno cadere monete d'oro.{LF}Sconfiggili e raccogli più oro che puoi!`
 Land attacks on your foes and they'll drop gold coins.{LF}Defeat them and grab as much gold as you can!
 
 `Moltiplica il Denaro`
