@@ -1,0 +1,105 @@
+Beh, immagino sia la maledizione dell’essere{LF}uno che guarda il quadro generale. Capite cosa intendo?{#Name="Cent"}
+Conosco le mie capacità, e mi aspetto che anche gli altri le riconoscano.{#Name="Cent"}
+Maaa, immagino che sia chiedere troppo a gente come voi, no?{#Name="Cent"}
+Voglio dire, perché pretendere dalle persone un ideale che non possono raggiungere? Ho ragione?{#Name="Cent"}
+Questo tizio sta iniziando davvero a farmi incazzare.{#Name="Dito"}
+Tu sei il discepolo di Two, giusto?{#Name="Zero"}
+{06}>{#Name="Cent"}
+Devo uccidere anche te?{#Name="Zero"}
+Vedete?{#Name="Cent"}
+Ora siamo passati dal male al peggio.{#Name="Cent"}
+Cosa?{#Name="Zero"}
+Siete davvero ottusi, lo sapete?{#Name="Cent"}
+Immagino che l’universo non possa aiutare chi non vuole aiutare sé stesso.{#Name="Cent"}
+Cosa stai cercando di—{#Name="Decadus"}
+Zero.{#Name="Cent"}
+Un giorno o l’altro, quel drago sarà la tua rovina.{#Name="Cent"}
+E quando quel momento arriverà, sarà troppo tardi per i rimpianti...traditrice.{#Name="Cent"}
+{06}>{#Name="Mikhail"}
+{06}>{#Name="Mikhail"}
+Zero sconfisse Three, ma nel processo perse Mikhail a causa del discepolo Cent.{#Name="Accord"}
+Il gruppo si diresse verso la dimora di Cent nella Terra delle Sabbie per cercare di salvare il drago…{#Name="Accord"}
+左様。私めも性への情熱以外はカラカラでございます{#Name="オクタ"}
+ほら、狼が増えてきた！{#Name="デカート"}
+それ以上エロ口叩いたら殺すぞ{#Name="ゼロ"}
+性根の腐ったヤツらめ！{#Name="兵士B"}
+た……助けて……{#Name="兵士"}
+くそっ……足が……{#Name="兵士"}
+また狼か……ウンザリだな{#Name="ゼロ"}
+まったくだよ。吐き気がする{#Name="ディト"}
+セント
+ディト
+ゼロ
+デカート
+ミハイル
+Soldato A
+Soldato B
+Soldato C
+Soldato D
+Soldato F
+Soldato E
+Soldato G
+217
+271
+説明文
+Dito
+Octa
+Zero
+Decadus
+兵士
+Soldati C/D/G
+兵士C
+181
+397
+Mikhail
+Cent
+Accord
+オクタ
+兵士B
+{06}>{#Name="Decadus"}
+{06}>{#Name="Dito"}
+{06}>{#Name="Decadus"}
+Spero tu riesca a riattaccarlo!{#Name="Dito"}
+{06}>{#Name="Zero"}
+Vediamo...{#Name="Zero"}
+{06}>{#Name="Zero"}
+I-Il vostro braccio!{#Name="Decadus"}
+Ecco qua. La finiamo?{#Name="Zero"}
+Lady Zero, il vostro braccio sta bene?{#Name="Decadus"}
+...Sembra che non senta più dolore.{#Name="Zero"}
+Pare che ogni giorno io diventi sempre meno umana.{#Name="Zero"}
+Tre eliminate, ne restano due.{#Name="Zero"}
+Oh, e non dite niente di questo a Mikhail.{#Name="Zero"}
+Sconfiggi i Maghi!{#Name="説明文"}
+Sconfiggi i Golem!{#Name="説明文"}
+Sconfiggi gli Ogre della Sabbia!{#Name="説明文"}
+Sconfiggi i non morti!{#Name="説明文"}
+予備{#Name="説明文"}
+Attraversa le rovine sotterranee.{#Name="説明文"}
+Com’è possibile che sia arrivata fin qui!?{#Name="Soldier A"}
+L’Intoner maledetta!{#Name="Soldier F"}
+Restate saldi! Anche lei è ferita!{#Name="Soldier B"}
+Dannazione! Sono stato colpito!{#Name="Soldier C"}
+Io...non riesco a fermare il sangue!{#Name="Soldier D"}
+Dov’è la nostra squadra medica!?{#Name="Soldier E"}
+I messaggeri non rispondono!{#Name="Soldier F"}
+Quella è Lei? Potrei affrontarla a mani nude!{#Name="Soldier B"}
+C-Che stai facendo!? Ti farai ammazzare!{#Name="Soldier G"}
+La morte non è che una porta! Non temetela!{#Name="Soldier E"}
+Ah... Aaaaaah! Non posso! Non ce la faccio proprio!{#Name="Soldier G"}
+Il sole eterno in persona, Lady Two, veglia su di noi! Ora combattete!{#Name="Soldier F"}
+Quella è Zero?{#Name="Soldier D"}
+Ho sentito che era mingherlina, ma cavolo!{#Name="Soldier C"}
+E io ho sentito che era bella, ma caaaavolo!{#Name="Soldier D"}
+Beh, io ho sentito che ti uccide nel sonno! Quindi state zitti e rimanete all’erta!{#Name="Soldier E"}
+L’oscurità ci sta avvolgendo tutti!{#Name="Soldier B"}
+C-Che stai dicendo? Stai bene?{#Name="Soldier G"}
+Merda! Questa donna è invincibile!?{#Name="Soldier F"}
+Forse. Ma dobbiamo ucciderla comunque!{#Name="Soldier A"}
+Non inseguitela troppo all’interno!{#Name="Soldier E"}
+Anche se volessi, è troppo veloce per starle dietro!{#Name="Soldier C"}
+Non possiamo... Non possiamo farci annientare!{#Name="Soldier A"}
+Signore! Nessun sopravvissuto trovato nella prima squadra!{#Name="Soldier G"}
+Merda. E ora che facciamo!?{#Name="Soldier A"}
+Questa oscurità rende difficile vedere.{#Name="Decadus"}
+Oh ho ho! A volte vedere è sopravvalutato,{LF}non credi?{#Name="Octa"}

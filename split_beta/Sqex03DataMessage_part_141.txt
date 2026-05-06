@@ -1,0 +1,105 @@
+Bonus Completamento Missione!
+Bonus Sterminatore:
+Bonus Richiesta 2:
+Bonus Richiesta 3:
+Bonus Completamento Richiesta:
+Bonus Soldato Dorato:
+Bonus Perfetto
+Bonus Richiesta 7:
+Bonus Richiesta 8:
+Bonus Richiesta 9:
+Bonus Richiesta 10:
+Ho un nuovo incarico per cui mi serve aiuto,
+e credo che tu sia proprio la donna adatta.
+L’ho inserito nella mia lista di richieste,
+quindi dagli un’occhiata appena hai un secondo!
+Cordialmente, Accord (dal Negozio di Armi)
+Lasciato dal boss!
+Trovato in un forziere!
+Dono ottenuto!
+Bonus Primo Completamento!
+Bonus Completamento!
+Tesoro ottenuto!
+Verso Perduto "Canzone di Accord" sbloccato.
+Verso Perduto "Preghiera di Accord" sbloccato.
+FINE
+"{04}
+Ora hai tre discepoli.{LF}Puoi selezionare quali discepoli portare con te{LF}nel menu Preparazione Battaglia.
+Diramazione B sbloccata.
+Diramazione C sbloccata.
+Versi Perduti sbloccati.
+Diramazione D sbloccata.
+Le Pietre Amate
+Caccia ai Corni
+Club del Libro: Speranza
+Pellegrinaggio della Pietra Rosa
+Comunicorni
+Club del Libro: Ambizione
+Paga in Riva al Mare
+La Prima Sopravvivenza
+La Seconda Sopravvivenza
+La Terza Sopravvivenza
+La Sopravvivenza Finale
+Turno di Selce
+Sussurratore di Falchi
+Club del Libro: Reticenza
+Paga nei Monti
+La Zona della Pietra d'Ambra
+Scout Aquila
+Club del Libro: Stoicismo
+In Movimento
+Zanne Fortunate
+Club del Libro: Mistero
+Paga nella Foresta
+Festival del Cibo
+Medicine Pungenti
+Club del Libro: Santità
+Come una Pietra Fluttuante
+Fossili Famosi
+Club del Libro: Purezza
+Incasso della Bussola
+Rivendica la Tua Terra
+Club del Libro: Innocenza
+Paga nel Deserto
+Stelle Cadenti
+Tesori Antichi
+Club del Libro: Disciplina
+La Scia della Cometa
+Storia Riportata alla Luce
+Club del Libro: Dottrina
+Paga alla Cattedrale
+Sopravvivenza
+Memorie delle Intoner{LF}è stato sbloccato.
+Aumentando il livello di questo personaggio è stato sbloccato un nuovo ricordo.{LF}Puoi vederlo dal menu Memorie delle Intoner.
+Tutte le missioni completate. Hai ottenuto {04}
+Tutte le missioni completate. Hai ottenuto {04}
+Ora i Soldati Dorati appariranno da qualche parte nella missione.
+Impostazioni
+Abbandona Missione
+Regola varie impostazioni di gioco.
+Abbandona la missione attuale e torna al menu Selezione Capitolo.
+Abbandonare la missione attuale e tornare al menu Selezione Capitolo?
+Musica
+Cambia la musica di sottofondo riprodotta durante la missione.
+Abbandona la missione attuale e torna al Menu Principale.
+Abbandonare la missione attuale e tornare al Menu Principale?
+Menu Selezione
+Aaron J. Adams (QA Manager, SQUARE ENIX, INC.)
+Adam Erde (Information Center Representative, SQUARE ENIX, INC.)
+Adam Pelc (QA Translator, SQUARE ENIX, INC.)
+Adam Sullivan (Sr. Counsel, Business & Legal Affairs, SQUARE ENIX, INC.)
+Aimi Tokutake (Project Com and Events Coordinator, SQUARE ENIX, INC.)
+Akari Yamamoto (Sets & Props Modeler, ACCESS GAMES INC.)
+Akihiko Kamiya (CG Designer, ATTIC CO., LTD.)
+Akihiro Minami (Audio Programmer, SQUARE ENIX CO., LTD.)
+Akihiro Miura (Animator, DigitalMediaLab., Inc.)
+Akinori Ozawa (Manager, iNiS Corporation)
+Akira Chodo (CG Designer, MOZOO, Inc.)
+Akira Hisamoto (Sales & Marketing Staff, SQUARE ENIX CO., LTD.)
+Akira Iwasawa (Cutscene Facial Animation Supervisor, SQUARE ENIX CO., LTD.)
+Alan Averill (English Localization Editor, 8-4, Ltd.)
+Alec Anderson (QA Tester, SQUARE ENIX, INC.)
+Alex Huhtala (PR Manager, SQUARE ENIX LTD.)
+Alex Moresby (Senior Localisation Producer, SQUARE ENIX LTD.)
+Alfred Holz (Events Assistant Manager, SQUARE ENIX, INC.)
+Alfred Persch (Information Center Representative, SQUARE ENIX, INC.)

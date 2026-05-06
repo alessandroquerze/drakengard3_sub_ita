@@ -1,0 +1,106 @@
+いや、逆に楽しくなってきたよ{#Name="ゼロ"}
+楽しい？どうして？{#Name="ミハイル"}
+これだけ鬱陶しい想いをさせてもらったんだ{#Name="ゼロ"}
+後から{LF}ファイブをブチ殺す楽しみが増えてしょうがないよ{#Name="ゼロ"}
+うん！楽しいのがふえるのはいいことだね！{#Name="ミハイル"}
+Aaaaaah!{#Name="Soldier B"}
+Attenzione! Fuoco amico!{#Name="Soldier A"}
+Mantenete la posizione! Per Lady Five!{#Name="Soldier G"}
+Beh, ma guarda che coraggioso.{#Name="Zero"}
+Quei colpi di cannone sono fastidiosi...{LF}Meglio continuare a muoversi.{#Name="Zero"}
+テスト１８５{#Name=" "}
+テスト１８６{#Name=" "}
+テスト１８７{#Name=" "}
+テスト１８８{#Name=" "}
+テスト１８９{#Name=" "}
+テスト１９０{#Name=" "}
+説明文
+Mikhail
+Zero
+271
+Soldato B
+Soldato G
+Soldato A
+Soldato F
+ミハイル
+ゼロ
+Soldato E
+Soldato C
+Soldato D
+ 
+Ne è passato di tempo, sorella.{#Name="Five"}
+Ma guarda, la principessina.{#Name="Zero"}
+Com'è essere circondata da un branco di idioti con il cervello bacato?{#Name="Zero"}
+Oh... Vedo che quella tua lingua lunga e tagliente non è cambiata.{LF}Sempre così maleducata...{#Name="Five"}
+Maleducata? Ma ti ho portato un regalo per la casa nuova.{#Name="Zero"}
+Un regalo? Per me? Ma cosa potrebbe mai essere?{#Name="Five"}
+Vendetta. Per quello che avete fatto.{#Name="Zero"}
+Oooh, giusto. Come ho potuto dimenticarlo?{#Name="Five"}
+Allora eri così forte che mi facevi fremere le cosce...{#Name="Five"}
+...Ma ormai non è più così.{#Name="Five"}
+Michael, il più grande di tutti i draghi, è morto.{#Name="Five"}
+E tutto ciò che resta è quel patetico{LF}guscio di ciò che era un tempo.{#Name="Five"}
+Comunque, credo che sarò gentile e lo farò diventare{LF}il mio animaletto dopo che avrò finito con te.{#Name="Five"}
+Ehhh?{#Name="Mikhail"}
+Sì, proprio così. Tu e quella misera rimanenza{LF}di drago apparterrete presto a me...{#Name="Five"}
+Huh. Se non chiudi il becco, mi perforo i timpani con una forchetta.{#Name="Zero"}
+Ohh, quanto mi erano mancati questi nostri{LF}stuzzicanti dialoghetti, mia cara, cara sorella.{#Name="Five"}
+Ma ora è tempo che tu muoia.{#Name="Five"}
+{06}>{#Name="Five"}
+Ammirate il quinto canto:{#Name="Dito"}
+Grande Luce dell'Antichità!{#Name="Dito"}
+Il grande potere manifestato...{#Name="Dito"}
+La cerimonia della gloriosa venuta...{#Name="Dito"}
+Imprimete nei vostri occhi la lancia punitrice del castigo divino!{#Name="Dito"}
+Io, Dito, ti evoco nel mio nome...{#Name="Dito"}
+Phanuel, sorgi!{#Name="Dito"}
+Ugh. Si può essere più pacchiani di così?{#Name="Zero"}
+Dimmi... Le mie altre sorelle hanno già{LF}avuto il piacere?{#Name="Five"}
+No. Sei in cima alla mia lista.{#Name="Zero"}
+Oh? Sei davvero venuta prima da me!? Che lusinga!{#Name="Five"}
+Ho pensato di iniziare dalla più stupida{LF}e poi andare a scendere.{#Name="Zero"}
+Andare a scendere? Zero, non stuzzicarmi...{#Name="Five"}
+Non ti sto stuzzicando, Five. Ti sto ammazzando.{#Name="Zero"}
+Cielo, Zero... Quanto sei forte!{#Name="Five"}
+Heh. È da un po' che non vedo l'ora di{LF}pestarti a morte.{#Name="Zero"}
+Mi sei mancata così tanto, Zero...{LF}Sono così eccitata che tu sia venuta a trovarmi!{#Name="Five"}
+A dire il vero, stavo per venire io...{#Name="Five"}
+Che bello.{#Name="Zero"}
+ファイブ、がんばって！{#Name="ディト"}
+やっと最愛のお姉様に会えたんでしょう？{#Name="ディト"}
+ディト……ありがとう。{LF}そうね。もっと精一杯よがらなきゃ！{#Name="ファイブ"}
+その調子！{#Name="ディト"}
+ほら、見てるよ。{LF}ファイブの美しい胸やお尻をお姉様が見てる{#Name="ディト"}
+アーーアーーアーー……もう私、昇天しちゃいそう{#Name="ファイブ"}
+Zero... Adoro quel fiore nel tuo occhio...{#Name="Five"}
+Aggiunge davvero fascino al tuo sex appeal...{#Name="Five"}
+Sei ancora più sexy di un anno fa!{#Name="Five"}
+Puoi anche chiudere il becco quando vuoi, Five.{#Name="Zero"}
+Il mio punto forte è il seno, naturalmente.{#Name="Five"}
+Così tondo e sodo... Puoi toccarle{LF}se vuoi, sai.{#Name="Five"}
+Credo che passerò.{#Name="Zero"}
+Magari la prossima volta noi tre potremmo{LF}divertirci un po' insieme...{#Name="Five"}
+Non ci sarà nessuna "prossima volta" per te!{#Name="Zero"}
+Perché respiri così forte, scemo?{#Name="Zero"}
+Perché sei pesante!{#Name="Mikhail"}
+...Cosa?{#Name="Zero"}
+Ho detto: "Perché sei pesante!"{#Name="Mikhail"}
+Faccio fatica a sentirti, drago.{#Name="Zero"}
+Vuoi provare a ripeterlo un'altra volta?{#Name="Zero"}
+Ahi! Ahi ahi ahi! Non con la spada, Zero!{#Name="Mikhail"}
+おい、またしくじったぞ！！{#Name="ゼロ"}
+もうちょっとなのにな{#Name="ミハイル"}
+ツメが甘いんだ{#Name="ゼロ"}
+うー。ボク、がんばる！{#Name="ミハイル"}
+油断するな！すぐに体勢を戻せ！{#Name="ゼロ"}
+わかってるよ！{#Name="ミハイル"}
+いいや、わかってない{#Name="ゼロ"}
+体がついてきて、{LF}はじめて『わかってる』と言うんだ{#Name="ゼロ"}
+……ゼロ、きびしい……{#Name="ミハイル"}
+戦いの最中に泣くな！{#Name="ゼロ"}
+はあい！{#Name="ミハイル"}
+Quel raggio-coso fa male! Fa davvero, davvero male!{#Name="Mikhail"}
+È un attacco, scemo. Deve fare male.{#Name="Zero"}
+Uh, sì, immagino...{#Name="Mikhail"}
+Bene. Allora smetti di fartene un problema!{#Name="Zero"}
+Okay!{#Name="Mikhail"}

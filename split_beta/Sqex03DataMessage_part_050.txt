@@ -1,0 +1,106 @@
+Beh, ho pensato che il tuo amico lì non fosse abbastanza sveglio{LF}da far saltare solo la barricata.{#Name="Dito"}
+Così sono rimasto indietro per vedere cosa sarebbe successo.{LF}...Insomma, ovvio, no?{#Name="Dito"}
+"ovvio" un cazzo, stronzo!{#Name="Zero"}
+Heh. Sai, Z, la tua mancanza di{LF}buonsenso è quasi carina.{#Name="Dito"}
+Vuoi morire?{#Name="Zero"}
+Quella dev'essere la cittadella di Four.{#Name="Zero"}
+Ehm, Zero? Non credo che possiamo entrare nel modo normale.{#Name="Mikhail"}
+Che vuoi dire?{#Name="Zero"}
+La sua canzone sta creando una specie di barriera invisibile!{#Name="Mikhail"}
+Hmph. Crede di essere così fottutamente furba, eh?{#Name="Zero"}
+Noi ci faremo strada da qui.{LF}Tu vola su e trova un'altra via.{#Name="Zero"}
+L'hai sentita. Rendici fieri, drago!{#Name="Dito"}
+Lo farò! Promesso!{#Name="Mikhail"}
+Ehi, Zero?{#Name="Mikhail"}
+Che c'è?{#Name="Zero"}
+Che tipo di sorella è Four?{#Name="Mikhail"}
+Il tipo viscido.{#Name="Zero"}
+Viscida? Vuoi dire che è sgualdrina, come Five?{#Name="Mikhail"}
+Non proprio così, no.{#Name="Zero"}
+In superficie fa tutta la dolce e carina.{LF}Ma sotto sotto è malvagia.{#Name="Zero"}
+Voglio dire, devi essere un po' malvagia{LF}per essere un'Intoner vergine.{#Name="Zero"}
+Eh? Cos'è una vergine?{#Name="Mikhail"}
+...Lascia perdere.{#Name="Zero"}
+Quindi proprio non riesci ad andare d'accordo con lei?{#Name="Mikhail"}
+Proprio. Le vergini non le reggo.{#Name="Zero"}
+Non reggi...le vergini?{#Name="Mikhail"}
+No, non le reggo. Ora basta!{#Name="Zero"}
+È Zero! È qui!{#Name="Soldier G"}
+Maledetta sia l'Intoner traditrice{LF}che si rivolta contro la Chiesa!{#Name="Soldier F"}
+Ora è tutto o niente! Uccidete l'Intoner!{#Name="Soldier A"}
+死ぬ気で行けっ！ウタウタイを殺せ！{#Name="兵士A"}
+Vuoi proprio morire, eh?{#Name="Zero"}
+Beh, non sia mai che ti deluda!{#Name="Zero"}
+Stai bene? Ci sono un sacco{LF}di nemici laggiù!{#Name="Mikhail"}
+Tranquillo. Muoiono piuttosto in fretta.{#Name="Zero"}
+...Perché ti piace così tanto uccidere le persone?{#Name="Mikhail"}
+Chi ha detto che mi piace?{#Name="Zero"}
+Eh?{#Name="Mikhail"}
+Se qualcuno mi intralcia, lo ammazzo.{#Name="Zero"}
+Non ci provo nessuna gioia particolare.{#Name="Zero"}
+A dirla tutta, è una rottura di palle.{#Name="Zero"}
+Ma, se sono solo d'intralcio,{LF}non puoi parlarci e basta?{#Name="Mikhail"}
+Parlare è ANCORA più una rottura di palle.{#Name="Zero"}
+Preferisco ammazzarli e farla finita.{#Name="Zero"}
+Urgh! Perché dev'essere così!?{#Name="Mikhail"}
+Senti, è una cosa da adulti, va bene?{#Name="Zero"}
+Ugh, ce ne sono altri? Non finisce mai...{#Name="Zero"}
+Le mie spalle mi stanno uccidendo.{#Name="Zero"}
+Stanotte ti faccio un massaggio.{LF}Tu ammazzali tutti!{#Name="Dito"}
+Che succede!?{#Name="Zero"}
+Il muro! È duro! E spesso!{LF}Tipo, davvero duro e spesso!{#Name="Mikhail"}
+Distruggilo e basta!{#Name="Zero"}
+ゼロ！ゼロっ！もうダメだ！この壁、無理だよ！{#Name="ミハイル"}
+がんばれ！なせばなる！{#Name="ゼロ"}
+そうそう。デカイ図体はこのためにあるんだろ{#Name="ディト"}
+もう！勝手なことばっかり言って～！！{#Name="ミハイル"}
+Ce l'ho fatta, Zero!{#Name="Mikhail"}
+Argh! Fai attenzione a sparare qui dentro, idiota!{#Name="Zero"}
+Adesso fa un caldo infernale!{#Name="Zero"}
+****! Sta' attento, lucertola di **** moscia del ****!{#Name="Dito"}
+Aspetta solo un secondo!{#Name="Mikhail"}
+Le squadre cannoni 1 e 2 sono scomparse.{LF}Se non li fermiamo qui... siamo spacciati.{#Name="Soldier E"}
+Affrontiamo un'Intoner folle! Non trattenetevi!{#Name="Soldier B"}
+E se sfonda?{#Name="Soldier C"}
+Se sfonda, è finita!{#Name="Soldier D"}
+Che fine ha fatto il messaggero{LF}che abbiamo mandato a Lady Four?{#Name="Soldier E"}
+Il messaggero non è tornato!{#Name="Soldier G"}
+Maledizione... Le nostre file stanno crollando!{#Name="Soldier F"}
+Sono tutti nel panico, eh?{#Name="Mikhail"}
+Il momento perfetto per colpire...{#Name="Zero"}
+Ha ha ha! Cavolo, è proprio il massimo.{LF}Adoro infierire su chi è già a terra!{#Name="Dito"}
+そんなつもりで言ったんじゃないよ！そんなつもりで言ったんじゃないよ！{#Name="ミハイル"}
+二回言うなって言っただろ！{#Name="ゼロ"}
+はーい……{#Name="ミハイル"}
+Direi che quello è il nascondiglio di Four...{#Name="Zero"}
+Dio. Guarda quanto è grande quel posto...{LF}Tua sorella deve avere una gran paura di morire.{#Name="Dito"}
+Maledizione, drago! Guarda dove{LF}spari quella merda, vuoi!?{#Name="Dito"}
+あのクソ邪魔なバリケードを壊せ！{#Name="ゼロ"}
+こっちの跳ね橋を頼む。{#Name="ゼロ"}
+Il contrattacco nemico si fece sempre più disperato.{#Name="Accord"}
+E il santuario dove si diceva che Four si nascondesse{#Name="Accord"}
+era a sua volta celato dentro un'enorme struttura difensiva...{#Name="Accord"}
+Attento! È un ogre!{#Name="Mikhail"}
+Questo tizio è più stupido di un sacco di martelli.{#Name="Zero"}
+Sì, più stupido dei martelli!{#Name="Mikhail"}
+...Ma più sveglio di te.{#Name="Zero"}
+Sì, più sveglio di—{LF}Ehi, questo è cattivo!{#Name="Mikhail"}
+説明文
+a
+Soldato A
+Soldato F
+Soldato G
+Soldato E
+Soldato B
+Soldato C
+Soldato D
+兵士D
+Zero
+Mikhail
+Dito
+451
+253
+127
+271
+595
+415

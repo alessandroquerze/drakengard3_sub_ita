@@ -1,0 +1,105 @@
+Richieste di Accord: Caccia al Tesoro
+Respingi i nemici che ti attaccano e recupera gli oggetti{LF}rinchiusi nei forzieri che stanno sorvegliando.
+Richieste di Accord: Caccia al Tesoro
+Apri tutti i forzieri per ottenere una ricompensa da Accord,{LF}incluso uno speciale bonus di completamento valido solo la prima volta.
+Forzieri del Tesoro d’Acciaio
+I forzieri rinforzati in acciaio non si aprono facilmente come quelli normali;{LF}dovrai colpirli molte volte per rompere tutte le catene.
+Richieste di Accord: Sfide di Sopravvivenza
+Sconfiggi i nemici che ti attaccano in ogni round{LF}e cerca di restare vivo fino alla fine.
+Richieste di Accord: Sfide di Sopravvivenza
+Completa ogni round per ottenere una ricompensa da Accord,{LF}incluso uno speciale bonus di completamento valido solo la prima volta.
+Cerchi Sfida
+Vinci un round e apparirà un cerchio sfida. Raccogli l’esperienza{LF}e l’oro che emergono, poi scegli se continuare o ritirarti.
+Richieste di Accord: Fallire una Sfida di Sopravvivenza
+Se fallisci in una Sfida di Sopravvivenza, perderai tutta l’esperienza e l’oro ottenuti.{LF}Se invece ti ritiri, potrai conservare ciò che hai guadagnato finora.
+Richieste di Accord: Raccolta di Oro
+Metti a segno attacchi sui nemici e lasceranno cadere monete d’oro.{LF}Sconfiggili e raccogli più oro che puoi!
+Moltiplica il Denaro
+I Soldati Dorati valgono una fortuna—letteralmente! Sconfiggine quanti più{LF}possibile per aumentare il moltiplicatore del denaro ottenuto.
+M{#Name="Zero's Blade Lv. 1"}
+M{#Name="Zero's Blade Lv. 2"}
+M{#Name="Zero's Blade Lv. 3"}
+M{#Name="Zero's Blade Lv. 4"}
+L{#Name="Sinful Scream Lv. 1"}
+L{#Name="Sinful Scream Lv. 2"}
+L{#Name="Sinful Scream Lv. 3"}
+L{#Name="Sinful Scream Lv. 4"}
+S{#Name="Eternal Voice Lv. 1"}
+S{#Name="Eternal Voice Lv. 2"}
+M{#Name="Eternal Voice Lv. 3"}
+M{#Name="Eternal Voice Lv. 4"}
+S{#Name="Ceremonial Blade Lv. 1"}
+S{#Name="Ceremonial Blade Lv. 2"}
+S{#Name="Ceremonial Blade Lv. 3"}
+S{#Name="Ceremonial Blade Lv. 4"}
+S{#Name="Thunder Lord Lv. 1"}
+M{#Name="Thunder Lord Lv. 2"}
+M{#Name="Thunder Lord Lv. 3"}
+M{#Name="Thunder Lord Lv. 4"}
+M{#Name="Virginal Sin Lv. 1"}
+M{#Name="Virginal Sin Lv. 2"}
+M{#Name="Virginal Sin Lv. 3"}
+M{#Name="Virginal Sin Lv. 4"}
+S{#Name="Saintly Brimstone Lv. 1"}
+M{#Name="Saintly Brimstone Lv. 2"}
+M{#Name="Saintly Brimstone Lv. 3"}
+M{#Name="Saintly Brimstone Lv. 4"}
+M{#Name="Bloodletter Lv. 1"}
+M{#Name="Bloodletter Lv. 2"}
+M{#Name="Bloodletter Lv. 3"}
+M{#Name="Bloodletter Lv. 4"}
+S{#Name="False Pact Lv. 1"}
+S{#Name="False Pact Lv. 2"}
+M{#Name="False Pact Lv. 3"}
+M{#Name="False Pact Lv. 4"}
+S{#Name="Broken Iron Lv. 1"}
+L{#Name="Broken Iron Lv. 2"}
+L{#Name="Broken Iron Lv. 3"}
+L{#Name="Broken Iron Lv. 4"}
+S{#Name="Gaia's Flame Lv. 1"}
+M{#Name="Gaia's Flame Lv. 2"}
+M{#Name="Gaia's Flame Lv. 3"}
+M{#Name="Gaia's Flame Lv. 4"}
+L{#Name="Moonfire Lv. 1"}
+L{#Name="Moonfire Lv. 2"}
+L{#Name="Moonfire Lv. 3"}
+L{#Name="Moonfire Lv. 4"}
+S{#Name="Skyward Thunder Lv. 1"}
+M{#Name="Skyward Thunder Lv. 2"}
+M{#Name="Skyward Thunder Lv. 3"}
+M{#Name="Skyward Thunder Lv. 4"}
+S{#Name="Cries and Whispers Lv. 1"}
+S{#Name="Cries and Whispers Lv. 2"}
+M{#Name="Cries and Whispers Lv. 3"}
+M{#Name="Cries and Whispers Lv. 4"}
+S{#Name="Once a Woman Lv. 1"}
+S{#Name="Once a Woman Lv. 2"}
+S{#Name="Once a Woman Lv. 3"}
+S{#Name="Once a Woman Lv. 4"}
+M{#Name="Imperial Fang Lv. 1"}
+M{#Name="Imperial Fang Lv. 2"}
+M{#Name="Imperial Fang Lv. 3"}
+M{#Name="Imperial Fang Lv. 4"}
+L{#Name="Feral King's Wildblade Lv. 1"}
+L{#Name="Feral King's Wildblade Lv. 2"}
+L{#Name="Feral King's Wildblade Lv. 3"}
+L{#Name="Feral King's Wildblade Lv. 4"}
+S{#Name="Mourning Thorn Lv. 1"}
+S{#Name="Mourning Thorn Lv. 2"}
+M{#Name="Mourning Thorn Lv. 3"}
+M{#Name="Mourning Thorn Lv. 4"}
+M{#Name="剣180"}
+M{#Name="剣181"}
+M{#Name="剣182"}
+M{#Name="剣183"}
+S{#Name="剣190"}
+S{#Name="剣191"}
+S{#Name="剣192"}
+S{#Name="剣193"}
+M{#Name="剣200"}
+L{#Name="剣201"}
+L{#Name="剣202"}
+L{#Name="剣203"}
+M{#Name="剣210"}
+M{#Name="剣211"}
+M{#Name="剣212"}

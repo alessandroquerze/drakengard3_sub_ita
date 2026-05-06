@@ -48,14 +48,14 @@ Soldati nemici sconfitti!
 Campagna
 クエスト
 Missioni scaricabili
-Database
+Archivio
 Flusso della storia
 Cambia scheda
 Seleziona/Cambia scheda
 Tornare al menu principale?
 Non hai soddisfatto le condizioni necessarie per scegliere questa missione.
 未読です
-Devi raccogliere tutte le armi prima di poter scegliere questa diramazione.{LF}La tua percentuale attuale di completamento armi è {04}
+Devi raccogliere tutte le armi prima di poter scegliere questa Diramazione.{LF}La tua percentuale attuale di completamento armi è {04}
 現在の武器収集率は{04}
 Non guadagnerai esperienza durante questa missione.{LF}Vuoi comunque procedere?
 Devi soddisfare {04}

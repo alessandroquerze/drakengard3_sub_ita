@@ -1,0 +1,105 @@
+Ottieni 3 Libri dell'Innocenza.
+Raccogli quanto più oro possibile prima{LF}che il tempo scada.
+クエストクリア条件を表示　　４０３０＿２
+クエストクリア条件を表示　　４０４０＿１
+クエストクリア条件を表示　　４０４０＿２
+クエストクリア条件を表示　　５０１０＿１
+クエストクリア条件を表示　　５０１０＿２
+クエストクリア条件を表示　　５０２０＿１
+Ottieni 3 Rocce di Meteorite.
+Ottieni 3 Frammenti del Vecchio Mondo.
+Ottieni 3 Libri della Disciplina.
+クエストクリア条件を表示　　５０３０＿１
+Ottieni 7 Pietre Cometa.
+Ottieni 8 Artifatti del Vecchio Mondo.
+Ottieni 9 Libri della Dottrina.
+Raccogli quanto più oro possibile prima{LF}che il tempo scada.
+クエストクリア条件を表示　　５０４０＿２
+Avanti
+Seleziona
+Esperienza Ottenuta:
+Catena Più Lunga:
+Danni Subiti:
+Bonus Senza Continua:
+Esperienza Totale Ottenuta:
+colpi
+esp
+Lv.
+Livello Successivo:
+Salute
+Stamina
+Attacco
+Lealtà
+Grado
+Grado Successivo
+Il solo pensiero che lei usi la mia arma...{LF}Che...meravigliosa umiliazione...
+{04}
+La tua fiducia con {04}
+Oro Totale:
+Oro Ottenuto:
+Oro
+Forziere del Tesoro
+Nuova arma ottenuta!
+{04}
+{04}
+Ecco a te, "Lady Zero." Forse questo ti sarà utile.
+Mikhail si è evoluto nella sua seconda forma!
+Mikhail si è evoluto nella sua forma finale!
+Mikhail è regredito!
+Richiesta n. {04}
+Tempo di Completamento:
+Nemici Sconfitti:
+Oggetti Distrutti:
+Sfere Ottenute:
+Esperienza Ottenuta:
+Oro Ottenuto:
+{04}
+×
+＝
+Materiali Base
+Uscire dalla schermata dei risultati?
+Minerale di Ferro
+Minerale di Ferro di Bassa Qualità
+Minerale di Ferro di Alta Qualità
+{04}
+Nemici Sconfitti:
+Oggetti Distrutti:
+Sfere Ottenute:
+Tempo di Completamento:
+{04}
+Danni: 
+xyz
+yza
+zab
+? ? ?
+{04}
+Diramazione A completata.
+Diramazione B completata.
+Diramazione C completata.
+Tutti i Versi Perduti completati.
+Richiesta sbloccata nella Terra dei Mari.{LF}Accedici dal menu Selezione Capitolo.
+Richiesta sbloccata nella Terra dei Monti.{LF}Accedici dal menu Selezione Capitolo.
+Richiesta sbloccata nella Terra delle Foreste.{LF}Accedici dal menu Selezione Capitolo.
+Richiesta sbloccata nella Terra delle Sabbie.{LF}Accedici dal menu Selezione Capitolo.
+Richiesta sbloccata a Cathedral City.{LF}Accedici dal menu Selezione Capitolo.
+Lama di Zero è ora Lv. {04}
+Grazie per avermi permesso di unirmi a voi, mia signora.{LF}Vi prego, conservatelo come simbolo della mia lealtà.
+Non desidero altro che servire la mia Intoner...{LF}E magari farlo anche con un certo stile.
+Aeronave acquisita!
+Lama di Zero è ora Lv. 2!
+Lama di Zero è ora Lv. 3!
+Lama di Zero è ora Lv. 4!
+Ultimamente stai facendo piazza pulita.{LF}Forse ora puoi occuparti di questo.
+Permettetemi di ripagarvi per la vostra gentilezza, mia signora.{LF}Spero di soffrirne ancora...molto di più...presto.
+Un simbolo della mia lealtà verso di voi, mia signora.{LF}Che il nostro reciproco piacere duri per sempre...e anche oltre.
+Già, magari ora puoi anche ringraziarmi?{LF}Voglio dire, sono stata piuttosto utile.
+Accord ha pubblicato una nuova richiesta:
+Accedici dal menu Selezione Capitolo!
+Tre richieste della Terra dei Mari completate!{LF}Richiesta bonus "{04}
+Tre richieste della Terra dei Monti completate!{LF}Richiesta bonus "{04}
+Tre richieste della Terra delle Foreste completate!{LF}Richiesta bonus "{04}
+Tre richieste della Terra delle Sabbie completate!{LF}Richiesta bonus "{04}
+Tre richieste di Cathedral City completate!{LF}Richiesta bonus "{04}
+Bonus Completamento:
+Bonus Completamento Missione!
+{04}

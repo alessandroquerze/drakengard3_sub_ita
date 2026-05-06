@@ -1,0 +1,106 @@
+あ、そうだ！　{LF}キングはぁあ、パスタにまぜても……{#Name="セント"}
+だから！　現物がないのに{LF}料理方法を教えてくださらんで結構！{#Name="オクタ"}
+487{#Name="487"}
+Okay. Decisione esecutiva.{#Name="Zero"}
+La prossima volta che vediamo un cerberus,{LF}gli diamo in pasto Cent.{#Name="Zero"}
+Ho un brutto presentimento.{#Name="Dito"}
+So di averlo già detto, ma se non cambi{LF}direzione presto, finirà male.{#Name="Accord"}
+È quello che dice il tuo libriccino?{#Name="Zero"}
+Esatto.{#Name="Accord"}
+...Quindi non hai intenzione di farmelo vedere?{#Name="Zero"}
+Mi è stato ordinato di non interferire con il mondo.{#Name="Accord"}
+Bugiarda.{#Name="Zero"}
+No, è vero!{#Name="Accord"}
+Ma... be', nessuno ha detto che non posso dare almeno qualche piccolo consiglio, no?{#Name="Accord"}
+Cosa diavolo sei, in ogni caso?{#Name="Zero"}
+Siamo Recorder.{#Name="Accord"}
+Recorder?{#Name="Zero"}
+Esatto. Il nostro compito è registrare gli eventi del mondo,{LF}dal remoto passato al lontano futuro...{#Name="Accord"}
+Hai presente quel "Vecchio Mondo" di cui voi parlate sempre?{#Name="Accord"}
+Be', sono stata mandata da gente di lì.{#Name="Accord"}
+Senti, io non so un cazzo del Vecchio Mondo.{#Name="Zero"}
+Ma se mi segui solo per fare registrazioni{LF}o roba del genere, puoi anche piantarla, cazzo.{#Name="Zero"}
+Be', certo, in teoria dovrei fare solo quello...{#Name="Accord"}
+Ma dopo tutti questi brutti finali in cui continui a imbatterti,{LF}sono davvero tentata di aiutarti.{#Name="Accord"}
+Ora, cerchiamo di chiudere la questione in un modo che convenga a tutti, hmm?{#Name="Accord"}
+Come se avessi bisogno che me lo dicessi tu. Posso chiudere la questione da sola.{#Name="Zero"}
+Sconfiggi il Cerbero grigio!{#Name="説明文"}
+Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}
+Cerca il prezioso frutto di Cent.{#Name="説明文"}
+次のシーケンスに移行しますか？{#Name=" "}
+Non... ce la faccio più... Zzz...{#Name="Dito"}
+Stufato... Così caldo e buono... Zzz...{#Name="Dito"}
+Zzz... Mmmngh... C-Cosa? Oh, cielo!{#Name="Decadus"}
+Zzz... Unnngh... Marmellata...tutta...sulla faccia...{#Name="Decadus"}
+Oh ho ho... Ammirate il mio... tronco gigantesco... Zzzzzz...{#Name="Octa"}
+Oh... Non avete...ancora visto niente... Zzzzzz...{#Name="Octa"}
+Zzz... Mrrmm... Che...buono...{#Name="Mikhail"}
+Zzz... Mrrmm... Zero... Zero...{#Name="Mikhail"}
+Zzz... Eh? Stai...andando a dormire...Lady Zero?{#Name="Cent"}
+Che...strano... Zzz...{#Name="Cent"}
+Meglio che mi riposi anch'io...{#Name="Zero"}
+Concedersi un sonno davvero necessario?{#Name=" "}
+Ti ammazzo! Giuro che ti ammazzo!{#Name="Soldier C"}
+Bene, adesso... abbiamo questa registrazione della Diramazione B.{#Name="Accord"}
+No, non quella- quella è la Diramazione C!{#Name="Accord"}
+E QUELLA è la Diramazione A! Andiamo!{#Name="Accord"}
+Ecco qua. Questa è la Diramazione B! Finalmente...{#Name="Accord"}
+D'accordo! Diamo un'occhiata alla registrazione M2410_E0005_FL...{#Name="Accord"}
+Mmm... sì. Non è nemmeno questa...{#Name="Cent"}
+Uhm... Forse sulla montagna accanto?{#Name="Cent"}
+Oooo forse nella nazione accanto?{#Name="Cent"}
+...Cent?{#Name="Zero"}
+Sììì?{#Name="Cent"}
+Ti stai inventando queste cazzate, vero?{#Name="Zero"}
+Io? No, no! Mai! No! ...No. {#Name="Cent"}
+È sicuramente, probabilmente, da qualche parte{LF}su questo continente.{#Name="Cent"}
+Ora basta! Ti strapperò il{LF}cuore dal culo!{#Name="Dito"}
+Oh, ehi! Adesso ricordo! È proprio laggiù!{#Name="Cent"}
+Malconci ed esausti dopo aver seguito{LF}Cent come un branco di idioti,{#Name="Zero"}
+fummo costretti a ripararci{LF}sul fianco innevato di una montagna.{#Name="Zero"}
+Spazzatura inutile ottenuta.{#Name="説明文"}
+...Ottenuta altra spazzatura ancora più inutile.{#Name="説明文"}
+Soldato A
+Soldato B
+Soldato C
+Soldato D
+Soldato E
+Soldato F
+Soldato G
+兵士C
+兵士D
+兵士G
+兵士F
+Zero
+Dito
+Cent
+Mikhail
+Octa
+Decadus
+541
+ 
+セント
+デカート
+オクタ
+487
+Accord
+説明文
+Sfonda le linee nemiche.{#Name="説明文"}
+Sconfiggi i non morti!{#Name="説明文"}
+Sconfiggi il Gigas non morto!{#Name="説明文"}
+Oh Dio, è qui!{#Name="Soldier A"}
+Chi?{#Name="Soldier B"}
+Lei! Hai presente... quella!{#Name="Soldier A"}
+Quella cosa? Parla chiaro, idiota!{#Name="Soldier B"}
+Che tu sia maledetta, demone! Ti combatterò finché avrò vita in corpo!{#Name="Soldier F"}
+La nostra foresta sarà perduta...{#Name="Soldier E"}
+Non ce l'hanno ancora! Continuate a combattere!{#Name="Soldier B"}
+Quella diabolica cantatrice è terrificante... Credo che vomiterò!{#Name="Soldier G"}
+Riprenditi, uomo!{#Name="Soldier E"}
+Cazzo! Dobbiamo passare all'offensiva!{#Name="Soldier A"}
+Siamo fuori formazione!{#Name="Soldier G"}
+Tenete la posizione! La traditrice deve essere punita per i suoi crimini!{#Name="Soldier A"}
+Soldato ferito in arrivo! C'è un medico qui?{#Name="Soldier D"}
+Che spettacolo orribile...{#Name="Soldier F"}
+È un drago! E sta...attaccando!{#Name="Soldier G"}
+Ci ritiriamo? Avanziamo!? Ci servono ordini!{#Name="Soldier E"}

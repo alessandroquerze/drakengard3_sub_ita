@@ -1,0 +1,105 @@
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi gli Artigli di Acquila nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti gli Artigli di Acquila raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi le Zanne di Vipera nascoste nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutte le Zanne di Vipera raccolte!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi i Fossili Vegetali nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti i Fossili Vegetali raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi i Frammenti del Vecchio Mondo nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti i Frammenti del Vecchio Mondo raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi i Libri dell’Ambizione nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti i Libri dell’Ambizione raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi i Libri dello Stoicismo nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti i Libri dello Stoicismo raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi i Libri del Mistero nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti i Libri del Mistero raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi i Libri dell’Innocenza nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti i Libri dell’Innocenza raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi i Libri della Disciplina nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti i Libri della Disciplina raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Spiegazione
+Zero
+Condizioni Completamento Quest
+クエストクリア条件を表示　　１０１０＿１
+Ottieni 7 Pietre Acquamarina.{LF}Puoi combattere solo con le spade.
+Ottieni 8 Corni di Bue.{LF}Puoi combattere solo con le spade.
+Ottieni 9 Libri della Speranza.
+クエストクリア条件を表示　　１０２０＿１
+Ottieni 3 Pietre Rosa.{LF}Puoi combattere solo con le spade.
+Ottieni 3 Corni di Unicorno.{LF}Puoi combattere solo con le spade.
+Ottieni 3 Libri dell'Ambizione.
+Raccogli quanto più oro possibile prima{LF}che il tempo scada.
+クエストクリア条件を表示　　１０３０＿２
+クエストクリア条件を表示　　１０４０＿１
+クエストクリア条件を表示　　１０４０＿２
+Torna vivo dall' Incontro di Sopravvivenza.
+Torna vivo dall' Incontro di Sopravvivenza.
+Torna vivo dall' Incontro di Sopravvivenza.
+Torna vivo dall' Incontro di Sopravvivenza.
+クエストクリア条件を表示　　２０１０＿１
+クエストクリア条件を表示　　２０１０＿２
+クエストクリア条件を表示　　２０２０＿１
+Ottieni 7 Pietre Focaie.{LF}Puoi combattere solo con le lance.
+Ottieni 8 Artigli di Falco.{LF}Puoi combattere solo con le lance.
+Ottieni 9 Libri della Reticenza.
+クエストクリア条件を表示　　２０３０＿１
+クエストクリア条件を表示　　２０３０＿２
+Raccogli quanto più oro possibile prima{LF}che il tempo scada.
+クエストクリア条件を表示　　２０４０＿２
+クエストクリア条件を表示　　２０５０＿１
+Ottieni 3 Pietre d'Ambra.{LF}Puoi combattere solo con le lance.
+Ottieni 3 Artigli d'Acquila.{LF}Puoi combattere solo con le lance.
+Ottieni 3 Libri dello Stoicismo.
+クエストクリア条件を表示　　２０６０＿１
+クエストクリア条件を表示　　２０６０＿２
+クエストクリア条件を表示　　３０１０＿１
+Ottieni 3 Pietre del Movimento.{LF}Puoi combattere solo con i Bracciali da Combattimento.
+Ottieni 3 Zanne di Vipera.{LF}Puoi combattere solo con i Bracciali da Combattimento.
+Ottieni 3 Libri del Mistero.
+クエストクリア条件を表示　　３０２０＿１
+クエストクリア条件を表示　　３０２０＿２
+Raccogli quanto più oro possibile prima{LF}che il tempo scada.
+クエストクリア条件を表示　　３０３０＿２
+クエストクリア条件を表示　　３０４０＿１
+クエストクリア条件を表示　　３０４０＿２
+クエストクリア条件を表示　　３０５０＿１
+Ottieni 7 Pietre del Cibo.{LF}Puoi combattere solo con i Bracciali da Combattimento.
+Ottieni 8 Pungiglioni di Rospo.{LF}Puoi combattere solo con i Bracciali da Combattimento.
+Ottieni 9 Book of Sanctity.
+クエストクリア条件を表示　　３０６０＿１
+クエストクリア条件を表示　　３０６０＿２
+クエストクリア条件を表示　　４０１０＿１
+Ottieni 7 Pietre Focaie.{LF}Puoi combattere solo con i chakram.
+Ottieni 8 Fossili d'Osso.{LF}Puoi combattere solo con i chakram.
+Ottieni 9 Libri della Purezza.
+クエストクリア条件を表示　　４０２０＿１
+Ottieni 3 Rocce di Magnetite .{LF}Puoi combattere solo con i chakram.
+Ottieni 3 Fossili Vegetali.{LF}Puoi combattere solo con i chakram.

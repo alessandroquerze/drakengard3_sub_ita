@@ -1,0 +1,105 @@
+あらすじ第十一項　２３１０　一行目{LF}あらすじ第十一項　２３１０　二行目{LF}あらすじ第十一項　２３１０　三行目{LF}あらすじ第十一項　２３１０　四行目{LF}あらすじ第十一項　２３１０　五行目
+Cutscene → Gioco{LF}Il gruppo raggiunge la fortezza e scopre{LF}che la mente di Four è stata spezzata{LF}dal fiore. Lei evoca quindi un{LF}drago usando un terrificante nuovo potere.
+Gioco{LF}Con Zophiel sconfitto, Zero affronta {LF}Four, la cui mente si è disintegrata{LF}in un abisso di follia.
+Cutscene{LF}Zero consegna Four sconfitta{LF}a Mikhail, che la divora ed evolve{LF}di due livelli in una volta. Questo sembra {LF}instillare una nuova determinazione in Zero...
+あらすじ第四項　２３２０　一行目{LF}あらすじ第四項　２３２０　二行目{LF}あらすじ第四項　２３２０　三行目{LF}あらすじ第四項　２３２０　四行目{LF}あらすじ第四項　２３２０　五行目
+あらすじ第五項　２３２０　一行目{LF}あらすじ第五項　２３２０　二行目{LF}あらすじ第五項　２３２０　三行目{LF}あらすじ第五項　２３２０　四行目{LF}あらすじ第五項　２３２０　五行目
+あらすじ第六項　２３２０　一行目{LF}あらすじ第六項　２３２０　二行目{LF}あらすじ第六項　２３２０　三行目{LF}あらすじ第六項　２３２０　四行目{LF}あらすじ第六項　２３２０　五行目
+あらすじ第七項　２３２０　一行目{LF}あらすじ第七項　２３２０　二行目{LF}あらすじ第七項　２３２０　三行目{LF}あらすじ第七項　２３２０　四行目{LF}あらすじ第七項　２３２０　五行目
+あらすじ第八項　２３２０　一行目{LF}あらすじ第八項　２３２０　二行目{LF}あらすじ第八項　２３２０　三行目{LF}あらすじ第八項　２３２０　四行目{LF}あらすじ第八項　２３２０　五行目
+あらすじ第九項　２３２０　一行目{LF}あらすじ第九項　２３２０　二行目{LF}あらすじ第九項　２３２０　三行目{LF}あらすじ第九項　２３２０　四行目{LF}あらすじ第九項　２３２０　五行目
+あらすじ第十項　２３２０　一行目{LF}あらすじ第十項　２３２０　二行目{LF}あらすじ第十項　２３２０　三行目{LF}あらすじ第十項　２３２０　四行目{LF}あらすじ第十項　２３２０　五行目
+あらすじ第十一項　２３２０　一行目{LF}あらすじ第十一項　２３２０　二行目{LF}あらすじ第十一項　２３２０　三行目{LF}あらすじ第十一項　２３２０　四行目{LF}あらすじ第十一項　２３２０　五行目
+Mappa Diramazioni → Accampamento{LF}Ma guarda un po’. Chi è questa donna affascinante e{LF}bellissima che parla di draghi{LF}e Intoner con il gruppo di Zero? È {LF}di certo una gioia per gli occhi, mmm?
+Gioco{LF}Il gruppo resta turbato nello scoprire che{LF}i draghi divorano le Intoner per puro{LF}istinto, ma continua ad avanzare attraverso{LF}la Terra delle Foreste.
+Gioco{LF}La strada del gruppo è bloccata da mostri{LF}non morti così orrendi da mandare Dito in{LF}spasmi di gioia. Che altro potrebbe{LF}attenderli più avanti?
+あらすじ第四項　３３１０　一行目{LF}あらすじ第四項　３３１０　二行目{LF}あらすじ第四項　３３１０　三行目{LF}あらすじ第四項　３３１０　四行目{LF}あらすじ第四項　３３１０　五行目
+あらすじ第五項　３３１０　一行目{LF}あらすじ第五項　３３１０　二行目{LF}あらすじ第五項　３３１０　三行目{LF}あらすじ第五項　３３１０　四行目{LF}あらすじ第五項　３３１０　五行目
+あらすじ第六項　３３１０　一行目{LF}あらすじ第六項　３３１０　二行目{LF}あらすじ第六項　３３１０　三行目{LF}あらすじ第六項　３３１０　四行目{LF}あらすじ第六項　３３１０　五行目
+あらすじ第七項　３３１０　一行目{LF}あらすじ第七項　３３１０　二行目{LF}あらすじ第七項　３３１０　三行目{LF}あらすじ第七項　３３１０　四行目{LF}あらすじ第七項　３３１０　五行目
+あらすじ第八項　３３１０　一行目{LF}あらすじ第八項　３３１０　二行目{LF}あらすじ第八項　３３１０　三行目{LF}あらすじ第八項　３３１０　四行目{LF}あらすじ第八項　３３１０　五行目
+あらすじ第九項　３３１０　一行目{LF}あらすじ第九項　３３１０　二行目{LF}あらすじ第九項　３３１０　三行目{LF}あらすじ第九項　３３１０　四行目{LF}あらすじ第九項　３３１０　五行目
+あらすじ第十項　３３１０　一行目{LF}あらすじ第十項　３３１０　二行目{LF}あらすじ第十項　３３１０　三行目{LF}あらすじ第十項　３３１０　四行目{LF}あらすじ第十項　３３１０　五行目
+あらすじ第十一項　３３１０　一行目{LF}あらすじ第十一項　３３１０　二行目{LF}あらすじ第十一項　３３１０　三行目{LF}あらすじ第十一項　３３１０　四行目{LF}あらすじ第十一項　３３１０　五行目
+Gioco{LF}Decadus è infastidito dal terribile{LF}stato della foresta, ma Dito è{LF}elettrizzato all’inverosimile dagli orrori{LF}che essa contiene.
+Cutscene → Gioco{LF}Il gruppo viene accolto da Five, che avrebbe{LF}dovuto essere morta. La sua carne putrefatta{LF}e il suo esercito di zombie bastano a{LF}far impazzire Dito di gioia.
+Cutscene{LF}Five viene uccisa, ma quando Dito e Cent{LF}evocano angeli senza il potere{LF}di un’Intoner, scoprono che c’è un prezzo da{LF}pagare per certe cose...
+あらすじ第四項　３３２０　一行目{LF}あらすじ第四項　３３２０　二行目{LF}あらすじ第四項　３３２０　三行目{LF}あらすじ第四項　３３２０　四行目{LF}あらすじ第四項　３３２０　五行目
+あらすじ第五項　３３２０　一行目{LF}あらすじ第五項　３３２０　二行目{LF}あらすじ第五項　３３２０　三行目{LF}あらすじ第五項　３３２０　四行目{LF}あらすじ第五項　３３２０　五行目
+あらすじ第六項　３３２０　一行目{LF}あらすじ第六項　３３２０　二行目{LF}あらすじ第六項　３３２０　三行目{LF}あらすじ第六項　３３２０　四行目{LF}あらすじ第六項　３３２０　五行目
+あらすじ第七項　３３２０　一行目{LF}あらすじ第七項　３３２０　二行目{LF}あらすじ第七項　３３２０　三行目{LF}あらすじ第七項　３３２０　四行目{LF}あらすじ第七項　３３２０　五行目
+あらすじ第八項　３３２０　一行目{LF}あらすじ第八項　３３２０　二行目{LF}あらすじ第八項　３３２０　三行目{LF}あらすじ第八項　３３２０　四行目{LF}あらすじ第八項　３３２０　五行目
+あらすじ第九項　３３２０　一行目{LF}あらすじ第九項　３３２０　二行目{LF}あらすじ第九項　３３２０　三行目{LF}あらすじ第九項　３３２０　四行目{LF}あらすじ第九項　３３２０　五行目
+あらすじ第十項　３３２０　一行目{LF}あらすじ第十項　３３２０　二行目{LF}あらすじ第十項　３３２０　三行目{LF}あらすじ第十項　３３２０　四行目{LF}あらすじ第十項　３３２０　五行目
+あらすじ第十一項　３３２０　一行目{LF}あらすじ第十一項　３３２０　二行目{LF}あらすじ第十一項　３３２０　三行目{LF}あらすじ第十一項　３３２０　四行目{LF}あらすじ第十一項　３３２０　五行目
+Mappa Diramazioni → Accampamento{LF}Mentre il rapporto tra Intoner,{LF}discepoli e draghi diventa sempre{LF}più chiaro, Zero decide che è ora di{LF}rivalutare le sue attività notturne.
+Gioco{LF}Zero ordina a Mikhail di pattugliare i cieli{LF}mentre lei si dirige verso le rovine sotterranee{LF}in cerca di Three.
+Gioco{LF}Mentre la forza del fiore di Zero continua{LF}ad aumentare, Mikhail avverte il potere di{LF}un canto nelle vicinanze. Dopo una breve discussione,{LF}il gruppo prende il volo.
+あらすじ第四項　４３１０　一行目{LF}あらすじ第四項　４３１０　二行目{LF}あらすじ第四項　４３１０　三行目{LF}あらすじ第四項　４３１０　四行目{LF}あらすじ第四項　４３１０　五行目
+あらすじ第五項　４３１０　一行目{LF}あらすじ第五項　４３１０　二行目{LF}あらすじ第五項　４３１０　三行目{LF}あらすじ第五項　４３１０　四行目{LF}あらすじ第五項　４３１０　五行目
+あらすじ第六項　４３１０　一行目{LF}あらすじ第六項　４３１０　二行目{LF}あらすじ第六項　４３１０　三行目{LF}あらすじ第六項　４３１０　四行目{LF}あらすじ第六項　４３１０　五行目
+あらすじ第七項　４３１０　一行目{LF}あらすじ第七項　４３１０　二行目{LF}あらすじ第七項　４３１０　三行目{LF}あらすじ第七項　４３１０　四行目{LF}あらすじ第七項　４３１０　五行目
+あらすじ第八項　４３１０　一行目{LF}あらすじ第八項　４３１０　二行目{LF}あらすじ第八項　４３１０　三行目{LF}あらすじ第八項　４３１０　四行目{LF}あらすじ第八項　４３１０　五行目
+あらすじ第九項　４３１０　一行目{LF}あらすじ第九項　４３１０　二行目{LF}あらすじ第九項　４３１０　三行目{LF}あらすじ第九項　４３１０　四行目{LF}あらすじ第九項　４３１０　五行目
+あらすじ第十項　４３１０　一行目{LF}あらすじ第十項　４３１０　二行目{LF}あらすじ第十項　４３１０　三行目{LF}あらすじ第十項　４３１０　四行目{LF}あらすじ第十項　４３１０　五行目
+あらすじ第十一項　４３１０　一行目{LF}あらすじ第十一項　４３１０　二行目{LF}あらすじ第十一項　４３１０　三行目{LF}あらすじ第十一項　４３１０　四行目{LF}あらすじ第十一項　４３１０　五行目
+Gioco{LF}Zero ordina a Mikhail di smettere di cantare, {LF}un messaggio che spezza il{LF}cuore del drago.
+Cutscene → Gioco{LF}Three appare ed evoca Ezrael, un {LF}drago antico uscito direttamente dalla leggenda.
+Cutscene → Gioco{LF}La velocità di Ezrael lo rende un nemico{LF}problematico, ma Decadus si offre di sacrificare {LF}se stesso per rallentare la bestia—un ultimo atto{LF}di masochismo che lo compiace enormemente.
+Cutscene{LF}Il drago antico e Three vengono{LF}sconfitti, lasciando a Zero un{LF}ultimo affare da sbrigare...
+あらすじ第五項　４３２０　一行目{LF}あらすじ第五項　４３２０　二行目{LF}あらすじ第五項　４３２０　三行目{LF}あらすじ第五項　４３２０　四行目{LF}あらすじ第五項　４３２０　五行目
+あらすじ第六項　４３２０　一行目{LF}あらすじ第六項　４３２０　二行目{LF}あらすじ第六項　４３２０　三行目{LF}あらすじ第六項　４３２０　四行目{LF}あらすじ第六項　４３２０　五行目
+あらすじ第七項　４３２０　一行目{LF}あらすじ第七項　４３２０　二行目{LF}あらすじ第七項　４３２０　三行目{LF}あらすじ第七項　４３２０　四行目{LF}あらすじ第七項　４３２０　五行目
+あらすじ第八項　４３２０　一行目{LF}あらすじ第八項　４３２０　二行目{LF}あらすじ第八項　４３２０　三行目{LF}あらすじ第八項　４３２０　四行目{LF}あらすじ第八項　４３２０　五行目
+あらすじ第九項　４３２０　一行目{LF}あらすじ第九項　４３２０　二行目{LF}あらすじ第九項　４３２０　三行目{LF}あらすじ第九項　４３２０　四行目{LF}あらすじ第九項　４３２０　五行目
+あらすじ第十項　４３２０　一行目{LF}あらすじ第十項　４３２０　二行目{LF}あらすじ第十項　４３２０　三行目{LF}あらすじ第十項　４３２０　四行目{LF}あらすじ第十項　４３２０　五行目
+あらすじ第十一項　４３２０　一行目{LF}あらすじ第十一項　４３２０　二行目{LF}あらすじ第十一項　４３２０　三行目{LF}あらすじ第十一項　４３２０　四行目{LF}あらすじ第十一項　４３２０　五行目
+Accampamento{LF}Con Octa come unico discepolo rimasto,{LF}l’accampamento è davvero un luogo silenzioso. Zero{LF}decide di rompere il silenzio{LF}rivelando la verità sulla sua storia.
+Gioco{LF}Zero racconta finalmente la sua storia—il segreto{LF}dietro le Intoner, e la storia del{LF}fiore e della sua lotta contro l’umanità.
+Gioco{LF}Le Intoner sono semi che porteranno{LF}la fine del mondo, e solo un drago può{LF}ucciderle. Armata di questa informazione, Zero{LF}fece visita a qualcuno due anni fa.
+あらすじ第四項　１３１０　一行目{LF}あらすじ第四項　１３１０　二行目{LF}あらすじ第四項　１３１０　三行目{LF}あらすじ第四項　１３１０　四行目{LF}あらすじ第四項　１３１０　五行目
+あらすじ第五項　１３１０　一行目{LF}あらすじ第五項　１３１０　二行目{LF}あらすじ第五項　１３１０　三行目{LF}あらすじ第五項　１３１０　四行目{LF}あらすじ第五項　１３１０　五行目
+あらすじ第六項　１３１０　一行目{LF}あらすじ第六項　１３１０　二行目{LF}あらすじ第六項　１３１０　三行目{LF}あらすじ第六項　１３１０　四行目{LF}あらすじ第六項　１３１０　五行目
+あらすじ第七項　１３１０　一行目{LF}あらすじ第七項　１３１０　二行目{LF}あらすじ第七項　１３１０　三行目{LF}あらすじ第七項　１３１０　四行目{LF}あらすじ第七項　１３１０　五行目
+あらすじ第八項　１３１０　一行目{LF}あらすじ第八項　１３１０　二行目{LF}あらすじ第八項　１３１０　三行目{LF}あらすじ第八項　１３１０　四行目{LF}あらすじ第八項　１３１０　五行目
+あらすじ第九項　１３１０　一行目{LF}あらすじ第九項　１３１０　二行目{LF}あらすじ第九項　１３１０　三行目{LF}あらすじ第九項　１３１０　四行目{LF}あらすじ第九項　１３１０　五行目
+あらすじ第十項　１３１０　一行目{LF}あらすじ第十項　１３１０　二行目{LF}あらすじ第十項　１３１０　三行目{LF}あらすじ第十項　１３１０　四行目{LF}あらすじ第十項　１３１０　五行目
+あらすじ第十一項　１３１０　一行目{LF}あらすじ第十一項　１３１０　二行目{LF}あらすじ第十一項　１３１０　三行目{LF}あらすじ第十一項　１３１０　四行目{LF}あらすじ第十一項　１３１０　五行目
+Mappa Diramazioni → Cutscene{LF}Mentre ci avviciniamo alla fine di questa{LF}Diramazione, Zero lascia Gabriel a{LF}Mikhail e si dirige da sola verso{LF}Cathedral City.
+Gioco{LF}Mikhail e Gabriel combattono nel cielo,{LF}mentre Zero e Octa procedono a terra.{LF}Ma Zero comincia a faticare mentre il{LF}fiore continua a consumarla. 
+Cutscene → Gioco{LF}Zero è pronta ad affrontare sua sorella One.{LF}Due cadaveri, un tempo mossi solo dal{LF}fiore, hanno acquisito una volontà propria,{LF}e ora scelgono il proprio futuro.
+Cutscene{LF}Zero mette One alle strette. Octa si sacrifica{LF}evocando un angelo. E un’osservatrice{LF}a cui è proibito interferire con gli eventi{LF}si fa avanti...
+あらすじ第五項　５３１０　一行目{LF}あらすじ第五項　５３１０　二行目{LF}あらすじ第五項　５３１０　三行目{LF}あらすじ第五項　５３１０　四行目{LF}あらすじ第五項　５３１０　五行目
+あらすじ第六項　５３１０　一行目{LF}あらすじ第六項　５３１０　二行目{LF}あらすじ第六項　５３１０　三行目{LF}あらすじ第六項　５３１０　四行目{LF}あらすじ第六項　５３１０　五行目
+あらすじ第七項　５３１０　一行目{LF}あらすじ第七項　５３１０　二行目{LF}あらすじ第七項　５３１０　三行目{LF}あらすじ第七項　５３１０　四行目{LF}あらすじ第七項　５３１０　五行目
+あらすじ第八項　５３１０　一行目{LF}あらすじ第八項　５３１０　二行目{LF}あらすじ第八項　５３１０　三行目{LF}あらすじ第八項　５３１０　四行目{LF}あらすじ第八項　５３１０　五行目
+あらすじ第九項　５３１０　一行目{LF}あらすじ第九項　５３１０　二行目{LF}あらすじ第九項　５３１０　三行目{LF}あらすじ第九項　５３１０　四行目{LF}あらすじ第九項　５３１０　五行目
+あらすじ第十項　５３１０　一行目{LF}あらすじ第十項　５３１０　二行目{LF}あらすじ第十項　５３１０　三行目{LF}あらすじ第十項　５３１０　四行目{LF}あらすじ第十項　５３１０　五行目
+あらすじ第十一項　５３１０　一行目{LF}あらすじ第十一項　５３１０　二行目{LF}あらすじ第十一項　５３１０　三行目{LF}あらすじ第十一項　５３１０　四行目{LF}あらすじ第十一項　５３１０　五行目
+Cutscene → Gioco?{LF}Con la battaglia finalmente conclusa,{LF}Zero affida a Mikhail il compito di distruggere{LF}il fiore una volta per tutte.
+Cutscene{LF}Sarebbe bello se ci incontrassimo di nuovo.{LF}...Non credi?
+あらすじ第三項　５３２０　一行目{LF}あらすじ第三項　５３２０　二行目{LF}あらすじ第三項　５３２０　三行目{LF}あらすじ第三項　５３２０　四行目{LF}あらすじ第三項　５３２０　五行目
+あらすじ第四項　５３２０　一行目{LF}あらすじ第四項　５３２０　二行目{LF}あらすじ第四項　５３２０　三行目{LF}あらすじ第四項　５３２０　四行目{LF}あらすじ第四項　５３２０　五行目
+あらすじ第五項　５３２０　一行目{LF}あらすじ第五項　５３２０　二行目{LF}あらすじ第五項　５３２０　三行目{LF}あらすじ第五項　５３２０　四行目{LF}あらすじ第五項　５３２０　五行目
+あらすじ第六項　５３２０　一行目{LF}あらすじ第六項　５３２０　二行目{LF}あらすじ第六項　５３２０　三行目{LF}あらすじ第六項　５３２０　四行目{LF}あらすじ第六項　５３２０　五行目
+あらすじ第七項　５３２０　一行目{LF}あらすじ第七項　５３２０　二行目{LF}あらすじ第七項　５３２０　三行目{LF}あらすじ第七項　５３２０　四行目{LF}あらすじ第七項　５３２０　五行目
+あらすじ第八項　５３２０　一行目{LF}あらすじ第八項　５３２０　二行目{LF}あらすじ第八項　５３２０　三行目{LF}あらすじ第八項　５３２０　四行目{LF}あらすじ第八項　５３２０　五行目
+あらすじ第九項　５３２０　一行目{LF}あらすじ第九項　５３２０　二行目{LF}あらすじ第九項　５３２０　三行目{LF}あらすじ第九項　５３２０　四行目{LF}あらすじ第九項　５３２０　五行目
+あらすじ第十項　５３２０　一行目{LF}あらすじ第十項　５３２０　二行目{LF}あらすじ第十項　５３２０　三行目{LF}あらすじ第十項　５３２０　四行目{LF}あらすじ第十項　５３２０　五行目
+あらすじ第十一項　５３２０　一行目{LF}あらすじ第十一項　５３２０　二行目{LF}あらすじ第十一項　５３２０　三行目{LF}あらすじ第十一項　５３２０　四行目{LF}あらすじ第十一項　５３２０　五行目
+あらすじ第一項　ＤＬＣ＿５０１０　一行目{LF}あらすじ第一項　ＤＬＣ＿５０１０　二行目{LF}あらすじ第一項　ＤＬＣ＿５０１０　三行目{LF}あらすじ第一項　ＤＬＣ＿５０１０　四行目{LF}あらすじ第一項　ＤＬＣ＿５０１０　五行目
+あらすじ第二項　ＤＬＣ＿５０１０　一行目{LF}あらすじ第二項　ＤＬＣ＿５０１０　二行目{LF}あらすじ第二項　ＤＬＣ＿５０１０　三行目{LF}あらすじ第二項　ＤＬＣ＿５０１０　四行目{LF}あらすじ第二項　ＤＬＣ＿５０１０　五行目
+あらすじ第三項　ＤＬＣ＿５０１０　一行目{LF}あらすじ第三項　ＤＬＣ＿５０１０　二行目{LF}あらすじ第三項　ＤＬＣ＿５０１０　三行目{LF}あらすじ第三項　ＤＬＣ＿５０１０　四行目{LF}あらすじ第三項　ＤＬＣ＿５０１０　五行目
+あらすじ第四項　ＤＬＣ＿５０１０　一行目{LF}あらすじ第四項　ＤＬＣ＿５０１０　二行目{LF}あらすじ第四項　ＤＬＣ＿５０１０　三行目{LF}あらすじ第四項　ＤＬＣ＿５０１０　四行目{LF}あらすじ第四項　ＤＬＣ＿５０１０　五行目
+あらすじ第五項　ＤＬＣ＿５０１０　一行目{LF}あらすじ第五項　ＤＬＣ＿５０１０　二行目{LF}あらすじ第五項　ＤＬＣ＿５０１０　三行目{LF}あらすじ第五項　ＤＬＣ＿５０１０　四行目{LF}あらすじ第五項　ＤＬＣ＿５０１０　五行目
+あらすじ第六項　ＤＬＣ＿５０１０　一行目{LF}あらすじ第六項　ＤＬＣ＿５０１０　二行目{LF}あらすじ第六項　ＤＬＣ＿５０１０　三行目{LF}あらすじ第六項　ＤＬＣ＿５０１０　四行目{LF}あらすじ第六項　ＤＬＣ＿５０１０　五行目
+あらすじ第七項　ＤＬＣ＿５０１０　一行目{LF}あらすじ第七項　ＤＬＣ＿５０１０　二行目{LF}あらすじ第七項　ＤＬＣ＿５０１０　三行目{LF}あらすじ第七項　ＤＬＣ＿５０１０　四行目{LF}あらすじ第七項　ＤＬＣ＿５０１０　五行目
+あらすじ第八項　ＤＬＣ＿５０１０　一行目{LF}あらすじ第八項　ＤＬＣ＿５０１０　二行目{LF}あらすじ第八項　ＤＬＣ＿５０１０　三行目{LF}あらすじ第八項　ＤＬＣ＿５０１０　四行目{LF}あらすじ第八項　ＤＬＣ＿５０１０　五行目
+あらすじ第九項　ＤＬＣ＿５０１０　一行目{LF}あらすじ第九項　ＤＬＣ＿５０１０　二行目{LF}あらすじ第九項　ＤＬＣ＿５０１０　三行目{LF}あらすじ第九項　ＤＬＣ＿５０１０　四行目{LF}あらすじ第九項　ＤＬＣ＿５０１０　五行目
+あらすじ第十項　ＤＬＣ＿５０１０　一行目{LF}あらすじ第十項　ＤＬＣ＿５０１０　二行目{LF}あらすじ第十項　ＤＬＣ＿５０１０　三行目{LF}あらすじ第十項　ＤＬＣ＿５０１０　四行目{LF}あらすじ第十項　ＤＬＣ＿５０１０　五行目
+あらすじ第十一項　ＤＬＣ＿５０１０　一行目{LF}あらすじ第十一項　ＤＬＣ＿５０１０　二行目{LF}あらすじ第十一項　ＤＬＣ＿５０１０　三行目{LF}あらすじ第十一項　ＤＬＣ＿５０１０　四行目{LF}あらすじ第十一項　ＤＬＣ＿５０１０　五行目
+あらすじ第一項　欠番　ＤＬＣ＿５０２０　一行目{LF}あらすじ第一項　欠番　ＤＬＣ＿５０２０　二行目{LF}あらすじ第一項　欠番　ＤＬＣ＿５０２０　三行目{LF}あらすじ第一項　欠番　ＤＬＣ＿５０２０　四行目{LF}あらすじ第一項　欠番　ＤＬＣ＿５０２０　五行目
+あらすじ第二項　欠番　ＤＬＣ＿５０２０　一行目{LF}あらすじ第二項　欠番　ＤＬＣ＿５０２０　二行目{LF}あらすじ第二項　欠番　ＤＬＣ＿５０２０　三行目{LF}あらすじ第二項　欠番　ＤＬＣ＿５０２０　四行目{LF}あらすじ第二項　欠番　ＤＬＣ＿５０２０　五行目
+あらすじ第三項　欠番　ＤＬＣ＿５０２０　一行目{LF}あらすじ第三項　欠番　ＤＬＣ＿５０２０　二行目{LF}あらすじ第三項　欠番　ＤＬＣ＿５０２０　三行目{LF}あらすじ第三項　欠番　ＤＬＣ＿５０２０　四行目{LF}あらすじ第三項　欠番　ＤＬＣ＿５０２０　五行目
+あらすじ第四項　欠番　ＤＬＣ＿５０２０　一行目{LF}あらすじ第四項　欠番　ＤＬＣ＿５０２０　二行目{LF}あらすじ第四項　欠番　ＤＬＣ＿５０２０　三行目{LF}あらすじ第四項　欠番　ＤＬＣ＿５０２０　四行目{LF}あらすじ第四項　欠番　ＤＬＣ＿５０２０　五行目
+あらすじ第五項　欠番　ＤＬＣ＿５０２０　一行目{LF}あらすじ第五項　欠番　ＤＬＣ＿５０２０　二行目{LF}あらすじ第五項　欠番　ＤＬＣ＿５０２０　三行目{LF}あらすじ第五項　欠番　ＤＬＣ＿５０２０　四行目{LF}あらすじ第五項　欠番　ＤＬＣ＿５０２０　五行目

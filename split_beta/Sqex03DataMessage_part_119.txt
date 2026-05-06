@@ -1,0 +1,105 @@
+Gioco{LF}Con i cannoni distrutti, Zero pensa{LF}che la vittoria sia a portata di mano. Ma una Four testarda{LF}ha un’ultima carta da giocare.
+Cutscene{LF}La furia omicida di Zero terrorizza Four e{LF}Decadus, che tentano di fuggire. Ma quando{LF}Zero atterra sulla loro aeronave, il suo umore{LF}subisce un cambiamento improvviso e radicale...
+あらすじ第六項　２０６０　一行目{LF}あらすじ第六項　２０６０　二行目{LF}あらすじ第六項　２０６０　三行目{LF}あらすじ第六項　２０６０　四行目{LF}あらすじ第六項　２０６０　五行目
+あらすじ第七項　２０６０　一行目{LF}あらすじ第七項　２０６０　二行目{LF}あらすじ第七項　２０６０　三行目{LF}あらすじ第七項　２０６０　四行目{LF}あらすじ第七項　２０６０　五行目
+あらすじ第八項　２０６０　一行目{LF}あらすじ第八項　２０６０　二行目{LF}あらすじ第八項　２０６０　三行目{LF}あらすじ第八項　２０６０　四行目{LF}あらすじ第八項　２０６０　五行目
+あらすじ第九項　２０６０　一行目{LF}あらすじ第九項　２０６０　二行目{LF}あらすじ第九項　２０６０　三行目{LF}あらすじ第九項　２０６０　四行目{LF}あらすじ第九項　２０６０　五行目
+あらすじ第十項　２０６０　一行目{LF}あらすじ第十項　２０６０　二行目{LF}あらすじ第十項　２０６０　三行目{LF}あらすじ第十項　２０６０　四行目{LF}あらすじ第十項　２０６０　五行目
+あらすじ第十一項　２０６０　一行目{LF}あらすじ第十一項　２０６０　二行目{LF}あらすじ第十一項　２０６０　三行目{LF}あらすじ第十一項　２０６０　四行目{LF}あらすじ第十一項　２０６０　五行目
+Mappa → Aeronave{LF}Con Four morta e Decadus ora{LF}dalla sua parte, Zero si dirige verso la Terra delle{LF}Foreste. Con la sua nuova aeronave scintillante,{LF}sembra che nulla possa abbatterle il morale.
+Cutscene → Gioco{LF}L’amata aeronave di Zero viene abbattuta dai{LF}soldati nemici prima che lei abbia la possibilità{LF}di godersela. Inutile dirlo, qualcuno{LF}pagherà per questo.
+Gioco{LF}Separata da Mikhail e bloccata{LF}dall’edera, l’umore di Zero va di male{LF}in peggio. Nonostante tutto, il gruppo va avanti.
+Cutscene{LF}Il gruppo scopre dove si trova Mikhail{LF}da una fata della foresta tutta allegra, ma{LF}l’atteggiamento del piccolo spiritello si rivela troppo{LF}perché Zero possa sopportarlo.
+あらすじ第五項　３０１０　一行目{LF}あらすじ第五項　３０１０　二行目{LF}あらすじ第五項　３０１０　三行目{LF}あらすじ第五項　３０１０　四行目{LF}あらすじ第五項　３０１０　五行目
+あらすじ第六項　３０１０　一行目{LF}あらすじ第六項　３０１０　二行目{LF}あらすじ第六項　３０１０　三行目{LF}あらすじ第六項　３０１０　四行目{LF}あらすじ第六項　３０１０　五行目
+あらすじ第七項　３０１０　一行目{LF}あらすじ第七項　３０１０　二行目{LF}あらすじ第七項　３０１０　三行目{LF}あらすじ第七項　３０１０　四行目{LF}あらすじ第七項　３０１０　五行目
+あらすじ第八項　３０１０　一行目{LF}あらすじ第八項　３０１０　二行目{LF}あらすじ第八項　３０１０　三行目{LF}あらすじ第八項　３０１０　四行目{LF}あらすじ第八項　３０１０　五行目
+あらすじ第九項　３０１０　一行目{LF}あらすじ第九項　３０１０　二行目{LF}あらすじ第九項　３０１０　三行目{LF}あらすじ第九項　３０１０　四行目{LF}あらすじ第九項　３０１０　五行目
+あらすじ第十項　３０１０　一行目{LF}あらすじ第十項　３０１０　二行目{LF}あらすじ第十項　３０１０　三行目{LF}あらすじ第十項　３０１０　四行目{LF}あらすじ第十項　３０１０　五行目
+あらすじ第十一項　３０１０　一行目{LF}あらすじ第十一項　３０１０　二行目{LF}あらすじ第十一項　３０１０　三行目{LF}あらすじ第十一項　３０１０　四行目{LF}あらすじ第十一項　３０１０　五行目
+Gioco{LF}Il gruppo si addentra più a fondo nel bosco{LF}in cerca di Mikhail. Dopo aver sistemato{LF}un gruppo di troll, si imbatte in{LF}un’altra fata con un bel caratterino.
+Gioco{LF}La foresta è piena di fate maleducate,{LF}al punto che Dito minaccia di bruciare{LF}l’intero bosco. Nonostante tutto, Zero{LF}continua la ricerca del suo drago.
+Cutscene{LF}Il Re Fata sa dove si trova Three, {LF}ma decide di prendere in giro Zero e i suoi{LF}compagni invece di rivelarlo. Finisce{LF}più o meno come ci si potrebbe aspettare.
+あらすじ第四項　３０２０　一行目{LF}あらすじ第四項　３０２０　二行目{LF}あらすじ第四項　３０２０　三行目{LF}あらすじ第四項　３０２０　四行目{LF}あらすじ第四項　３０２０　五行目
+あらすじ第五項　３０２０　一行目{LF}あらすじ第五項　３０２０　二行目{LF}あらすじ第五項　３０２０　三行目{LF}あらすじ第五項　３０２０　四行目{LF}あらすじ第五項　３０２０　五行目
+あらすじ第六項　３０２０　一行目{LF}あらすじ第六項　３０２０　二行目{LF}あらすじ第六項　３０２０　三行目{LF}あらすじ第六項　３０２０　四行目{LF}あらすじ第六項　３０２０　五行目
+あらすじ第七項　３０２０　一行目{LF}あらすじ第七項　３０２０　二行目{LF}あらすじ第七項　３０２０　三行目{LF}あらすじ第七項　３０２０　四行目{LF}あらすじ第七項　３０２０　五行目
+あらすじ第八項　３０２０　一行目{LF}あらすじ第八項　３０２０　二行目{LF}あらすじ第八項　３０２０　三行目{LF}あらすじ第八項　３０２０　四行目{LF}あらすじ第八項　３０２０　五行目
+あらすじ第九項　３０２０　一行目{LF}あらすじ第九項　３０２０　二行目{LF}あらすじ第九項　３０２０　三行目{LF}あらすじ第九項　３０２０　四行目{LF}あらすじ第九項　３０２０　五行目
+あらすじ第十項　３０２０　一行目{LF}あらすじ第十項　３０２０　二行目{LF}あらすじ第十項　３０２０　三行目{LF}あらすじ第十項　３０２０　四行目{LF}あらすじ第十項　３０２０　五行目
+あらすじ第十一項　３０２０　一行目{LF}あらすじ第十一項　３０２０　二行目{LF}あらすじ第十一項　３０２０　三行目{LF}あらすじ第十一項　３０２０　四行目{LF}あらすじ第十一項　３０２０　五行目
+Mappa → Gioco{LF}Il temperamento di Zero impedisce al gruppo di{LF}ottenere informazioni utili, costringendoli{LF}invece a vagare per i boschi sperando{LF}di imbattersi in qualcosa di buono.
+Gioco{LF}Il gruppo avanza a fatica, combattendo tra{LF}alberi, edera e branchi di lupi per tutto{LF}il tempo. Cosa potrà mai attenderli{LF}alla fine di tutto questo?
+Cutscene{LF}Zero si ritrova improvvisamente faccia a faccia{LF}con il discepolo di Three, Octa. Con suo stupore,{LF}il vecchio si arrende sul posto e{LF}chiede di unirsi al gruppo.
+あらすじ第四項　３０３０　一行目{LF}あらすじ第四項　３０３０　二行目{LF}あらすじ第四項　３０３０　三行目{LF}あらすじ第四項　３０３０　四行目{LF}あらすじ第四項　３０３０　五行目
+あらすじ第五項　３０３０　一行目{LF}あらすじ第五項　３０３０　二行目{LF}あらすじ第五項　３０３０　三行目{LF}あらすじ第五項　３０３０　四行目{LF}あらすじ第五項　３０３０　五行目
+あらすじ第六項　３０３０　一行目{LF}あらすじ第六項　３０３０　二行目{LF}あらすじ第六項　３０３０　三行目{LF}あらすじ第六項　３０３０　四行目{LF}あらすじ第六項　３０３０　五行目
+あらすじ第七項　３０３０　一行目{LF}あらすじ第七項　３０３０　二行目{LF}あらすじ第七項　３０３０　三行目{LF}あらすじ第七項　３０３０　四行目{LF}あらすじ第七項　３０３０　五行目
+あらすじ第八項　３０３０　一行目{LF}あらすじ第八項　３０３０　二行目{LF}あらすじ第八項　３０３０　三行目{LF}あらすじ第八項　３０３０　四行目{LF}あらすじ第八項　３０３０　五行目
+あらすじ第九項　３０３０　一行目{LF}あらすじ第九項　３０３０　二行目{LF}あらすじ第九項　３０３０　三行目{LF}あらすじ第九項　３０３０　四行目{LF}あらすじ第九項　３０３０　五行目
+あらすじ第十項　３０３０　一行目{LF}あらすじ第十項　３０３０　二行目{LF}あらすじ第十項　３０３０　三行目{LF}あらすじ第十項　３０３０　四行目{LF}あらすじ第十項　３０３０　五行目
+あらすじ第十一項　３０３０　一行目{LF}あらすじ第十一項　３０３０　二行目{LF}あらすじ第十一項　３０３０　三行目{LF}あらすじ第十一項　３０３０　四行目{LF}あらすじ第十一項　３０３０　五行目
+Accampamento{LF}Dito è sospettoso del nuovo discepolo,{LF}ma Zero sembra non preoccuparsene. Octa{LF}ripaga la sua fiducia mostrandole la{LF}strada per il Forest Shrine di Three.
+Gioco{LF}Mentre Octa intrattiene il gruppo con racconti sulle{LF}attività ricreative di Three, Mikhail{LF}scompare ancora una volta. Ben presto, il gruppo{LF}scopre che Three ha preparato una trappola.
+Gioco{LF}Il gruppo combatte altri cubi mentre la voce di Three{LF}li tormenta con enigmi. Lo shock più grande{LF}di tutti, però, arriva quando Octa{LF}rivela di avere appena vent’anni. 
+Cutscene{LF}Octa guida il gruppo attraverso un cancello{LF}aperto verso il Santuario della Foresta oltre,{LF}mentre Mikhail si occupa di alcuni{LF}suoi affari urgenti.
+あらすじ第五項　３０４０　一行目{LF}あらすじ第五項　３０４０　二行目{LF}あらすじ第五項　３０４０　三行目{LF}あらすじ第五項　３０４０　四行目{LF}あらすじ第五項　３０４０　五行目
+あらすじ第六項　３０４０　一行目{LF}あらすじ第六項　３０４０　二行目{LF}あらすじ第六項　３０４０　三行目{LF}あらすじ第六項　３０４０　四行目{LF}あらすじ第六項　３０４０　五行目
+あらすじ第七項　３０４０　一行目{LF}あらすじ第七項　３０４０　二行目{LF}あらすじ第七項　３０４０　三行目{LF}あらすじ第七項　３０４０　四行目{LF}あらすじ第七項　３０４０　五行目
+あらすじ第八項　３０４０　一行目{LF}あらすじ第八項　３０４０　二行目{LF}あらすじ第八項　３０４０　三行目{LF}あらすじ第八項　３０４０　四行目{LF}あらすじ第八項　３０４０　五行目
+あらすじ第九項　３０４０　一行目{LF}あらすじ第九項　３０４０　二行目{LF}あらすじ第九項　３０４０　三行目{LF}あらすじ第九項　３０４０　四行目{LF}あらすじ第九項　３０４０　五行目
+あらすじ第十項　３０４０　一行目{LF}あらすじ第十項　３０４０　二行目{LF}あらすじ第十項　３０４０　三行目{LF}あらすじ第十項　３０４０　四行目{LF}あらすじ第十項　３０４０　五行目
+あらすじ第十一項　３０４０　一行目{LF}あらすじ第十一項　３０４０　二行目{LF}あらすじ第十一項　３０４０　三行目{LF}あらすじ第十一項　３０４０　四行目{LF}あらすじ第十一項　３０４０　五行目
+Mappa → Gioco{LF}Seguendo Octa, il gruppo si dirige verso{LF}il Santuario della Foresta di Three. Ma prima deve{LF}attraversare la Foresta Perduta,{LF}un luogo da cui pochi sono mai usciti vivi.
+Cutscene → Gioco{LF}Mikhail è così emozionato nel vedere il proprio{LF}riflesso in un fiume che pesta i piedi su{LF}un ponte e cade in acqua.
+Gioco{LF}Il gruppo lascia Mikhail a cavarsela da solo{LF}e prosegue, raggiungendo infine{LF}il Santuario della Foresta dove{LF}Three li sta aspettando.
+あらすじ第四項　３０５０　一行目{LF}あらすじ第四項　３０５０　二行目{LF}あらすじ第四項　３０５０　三行目{LF}あらすじ第四項　３０５０　四行目{LF}あらすじ第四項　３０５０　五行目
+あらすじ第五項　３０５０　一行目{LF}あらすじ第五項　３０５０　二行目{LF}あらすじ第五項　３０５０　三行目{LF}あらすじ第五項　３０５０　四行目{LF}あらすじ第五項　３０５０　五行目
+あらすじ第六項　３０５０　一行目{LF}あらすじ第六項　３０５０　二行目{LF}あらすじ第六項　３０５０　三行目{LF}あらすじ第六項　３０５０　四行目{LF}あらすじ第六項　３０５０　五行目
+あらすじ第七項　３０５０　一行目{LF}あらすじ第七項　３０５０　二行目{LF}あらすじ第七項　３０５０　三行目{LF}あらすじ第七項　３０５０　四行目{LF}あらすじ第七項　３０５０　五行目
+あらすじ第八項　３０５０　一行目{LF}あらすじ第八項　３０５０　二行目{LF}あらすじ第八項　３０５０　三行目{LF}あらすじ第八項　３０５０　四行目{LF}あらすじ第八項　３０５０　五行目
+あらすじ第九項　３０５０　一行目{LF}あらすじ第九項　３０５０　二行目{LF}あらすじ第九項　３０５０　三行目{LF}あらすじ第九項　３０５０　四行目{LF}あらすじ第九項　３０５０　五行目
+あらすじ第十項　３０５０　一行目{LF}あらすじ第十項　３０５０　二行目{LF}あらすじ第十項　３０５０　三行目{LF}あらすじ第十項　３０５０　四行目{LF}あらすじ第十項　３０５０　五行目
+あらすじ第十一項　３０５０　一行目{LF}あらすじ第十一項　３０５０　二行目{LF}あらすじ第十一項　３０５０　三行目{LF}あらすじ第十一項　３０５０　四行目{LF}あらすじ第十一項　３０５０　五行目
+Gioco{LF}Il gruppo scopre Mikhail intrappolato{LF}nell’edera mentre si fa strada verso il{LF}secondo piano del santuario.
+Cutscene → Gioco{LF}Dopo aver salvato Mikhail di nuovo, Three{LF}appare all’improvviso. Stranamente indifferente{LF}al tradimento di Octa, l’Intoner avverte il{LF}gruppo di fare attenzione all’ambiente circostante.
+Cutscene → Gioco{LF}Three usa i suoi poteri per prendere il controllo di{LF}Octa, costringendolo a evocare Armisael,{LF}un esercito di umani che lei ha trasformato in{LF}orribili macchine da guerra. 
+Cutscene{LF}Subito dopo la sconfitta dell’esercito di Armisael,{LF}un Mikhail fuori controllo ingoia Three intera.{LF}Prima che qualcuno possa agire, il discepolo di Two, Cent,{LF}appare e porta via il drago.
+あらすじ第五項　３０６０　一行目{LF}あらすじ第五項　３０６０　二行目{LF}あらすじ第五項　３０６０　三行目{LF}あらすじ第五項　３０６０　四行目{LF}あらすじ第五項　３０６０　五行目
+あらすじ第六項　３０６０　一行目{LF}あらすじ第六項　３０６０　二行目{LF}あらすじ第六項　３０６０　三行目{LF}あらすじ第六項　３０６０　四行目{LF}あらすじ第六項　３０６０　五行目
+あらすじ第七項　３０６０　一行目{LF}あらすじ第七項　３０６０　二行目{LF}あらすじ第七項　３０６０　三行目{LF}あらすじ第七項　３０６０　四行目{LF}あらすじ第七項　３０６０　五行目
+あらすじ第八項　３０６０　一行目{LF}あらすじ第八項　３０６０　二行目{LF}あらすじ第八項　３０６０　三行目{LF}あらすじ第八項　３０６０　四行目{LF}あらすじ第八項　３０６０　五行目
+あらすじ第九項　３０６０　一行目{LF}あらすじ第九項　３０６０　二行目{LF}あらすじ第九項　３０６０　三行目{LF}あらすじ第九項　３０６０　四行目{LF}あらすじ第九項　３０６０　五行目
+あらすじ第十項　３０６０　一行目{LF}あらすじ第十項　３０６０　二行目{LF}あらすじ第十項　３０６０　三行目{LF}あらすじ第十項　３０６０　四行目{LF}あらすじ第十項　３０６０　五行目
+あらすじ第十一項　３０６０　一行目{LF}あらすじ第十一項　３０６０　二行目{LF}あらすじ第十一項　３０６０　三行目{LF}あらすじ第十一項　３０６０　四行目{LF}あらすじ第十一項　３０６０　五行目
+Mappa → Accampamento{LF}Three non c’è più, ma il gruppo non può{LF}stare tranquillo a causa dello sconvolgente{LF}gesto di Mikhail e del successivo rapimento per{LF}mano di Cent.
+Gioco{LF}Il gruppo procede attraverso una regione di{LF}rovine coperte di sabbia. I pettegolezzi tra i{LF}soldati rivelano che Two al momento{LF}soffre di una qualche malattia.
+Gioco{LF}Combattendo sia il caldo sia branchi di{LF}lupi, il gruppo finalmente si imbatte in{LF}Mikhail. La riunione viene però interrotta{LF}dall’apparizione di un golem.
+Cutscene{LF}Cent appare davanti al gruppo e avverte{LF}Zero che Mikhail sarà la sua rovina.{LF}Poi se ne va con la stessa rapidità con cui è arrivato.
+あらすじ第五項　４０１０　一行目{LF}あらすじ第五項　４０１０　二行目{LF}あらすじ第五項　４０１０　三行目{LF}あらすじ第五項　４０１０　四行目{LF}あらすじ第五項　４０１０　五行目
+あらすじ第六項　４０１０　一行目{LF}あらすじ第六項　４０１０　二行目{LF}あらすじ第六項　４０１０　三行目{LF}あらすじ第六項　４０１０　四行目{LF}あらすじ第六項　４０１０　五行目
+あらすじ第七項　４０１０　一行目{LF}あらすじ第七項　４０１０　二行目{LF}あらすじ第七項　４０１０　三行目{LF}あらすじ第七項　４０１０　四行目{LF}あらすじ第七項　４０１０　五行目
+あらすじ第八項　４０１０　一行目{LF}あらすじ第八項　４０１０　二行目{LF}あらすじ第八項　４０１０　三行目{LF}あらすじ第八項　４０１０　四行目{LF}あらすじ第八項　４０１０　五行目
+あらすじ第九項　４０１０　一行目{LF}あらすじ第九項　４０１０　二行目{LF}あらすじ第九項　４０１０　三行目{LF}あらすじ第九項　４０１０　四行目{LF}あらすじ第九項　４０１０　五行目
+あらすじ第十項　４０１０　一行目{LF}あらすじ第十項　４０１０　二行目{LF}あらすじ第十項　４０１０　三行目{LF}あらすじ第十項　４０１０　四行目{LF}あらすじ第十項　４０１０　五行目
+あらすじ第十一項　４０１０　一行目{LF}あらすじ第十一項　４０１０　二行目{LF}あらすじ第十一項　４０１０　三行目{LF}あらすじ第十一項　４０１０　四行目{LF}あらすじ第十一項　４０１０　五行目
+Mappa → Accampamento{LF}Il gruppo decide di dare la caccia a Two{LF}e Cent per scoprire la verità dietro{LF}le sue parole. Si dirigono verso il Santuario delle{LF}Sabbie passando per rovine sotterranee.
+Gioco{LF}Il gruppo decima i soldati{LF}che presidiano le rovine, nonostante le suppliche di Decadus{LF}di non combattere in un luogo di tale{LF}profonda importanza storica.
+Gioco{LF}Una serie di pavimenti mobili blocca{LF}l’avanzata di Zero. ...Lei non la prende bene.
+Cutscene → Gioco{LF}I discepoli di Zero osservano con orrore{LF}un soldato nemico tagliarle il braccio,{LF}solo per vederla riattaccarselo subito{LF}e continuare a combattere. 
+Cutscene{LF}Anche se Decadus è preoccupato per la ferita{LF}della sua Intoner, Zero gli comunica che{LF}sembra non sentire più dolore. Con il suo{LF}obiettivo in vista, raddoppia gli sforzi.
+あらすじ第六項　４０２０　一行目{LF}あらすじ第六項　４０２０　二行目{LF}あらすじ第六項　４０２０　三行目{LF}あらすじ第六項　４０２０　四行目{LF}あらすじ第六項　４０２０　五行目
+あらすじ第七項　４０２０　一行目{LF}あらすじ第七項　４０２０　二行目{LF}あらすじ第七項　４０２０　三行目{LF}あらすじ第七項　４０２０　四行目{LF}あらすじ第七項　４０２０　五行目
+あらすじ第八項　４０２０　一行目{LF}あらすじ第八項　４０２０　二行目{LF}あらすじ第八項　４０２０　三行目{LF}あらすじ第八項　４０２０　四行目{LF}あらすじ第八項　４０２０　五行目
+あらすじ第九項　４０２０　一行目{LF}あらすじ第九項　４０２０　二行目{LF}あらすじ第九項　４０２０　三行目{LF}あらすじ第九項　４０２０　四行目{LF}あらすじ第九項　４０２０　五行目
+あらすじ第十項　４０２０　一行目{LF}あらすじ第十項　４０２０　二行目{LF}あらすじ第十項　４０２０　三行目{LF}あらすじ第十項　４０２０　四行目{LF}あらすじ第十項　４０２０　五行目
+あらすじ第十一項　４０２０　一行目{LF}あらすじ第十一項　４０２０　二行目{LF}あらすじ第十一項　４０２０　三行目{LF}あらすじ第十一項　４０２０　四行目{LF}あらすじ第十一項　４０２０　五行目
+Mappa → Gioco{LF}Il gruppo si ritrova bloccato{LF}dal calore generato dalla magia lungo la strada{LF}per il Santuario delle Sabbie. Sconfiggono{LF}gli stregoni responsabili e proseguono.
+Gioco{LF}Dopo una feroce battaglia con un centauro{LF}di fiamma, il gruppo riesce finalmente{LF}a entrare nel Santuario delle Sabbie.
+あらすじ第三項　４０３０　一行目{LF}あらすじ第三項　４０３０　二行目{LF}あらすじ第三項　４０３０　三行目{LF}あらすじ第三項　４０３０　四行目{LF}あらすじ第三項　４０３０　五行目
+あらすじ第四項　４０３０　一行目{LF}あらすじ第四項　４０３０　二行目{LF}あらすじ第四項　４０３０　三行目{LF}あらすじ第四項　４０３０　四行目{LF}あらすじ第四項　４０３０　五行目
+あらすじ第五項　４０３０　一行目{LF}あらすじ第五項　４０３０　二行目{LF}あらすじ第五項　４０３０　三行目{LF}あらすじ第五項　４０３０　四行目{LF}あらすじ第五項　４０３０　五行目
+あらすじ第六項　４０３０　一行目{LF}あらすじ第六項　４０３０　二行目{LF}あらすじ第六項　４０３０　三行目{LF}あらすじ第六項　４０３０　四行目{LF}あらすじ第六項　４０３０　五行目
+あらすじ第七項　４０３０　一行目{LF}あらすじ第七項　４０３０　二行目{LF}あらすじ第七項　４０３０　三行目{LF}あらすじ第七項　４０３０　四行目{LF}あらすじ第七項　４０３０　五行目
+あらすじ第八項　４０３０　一行目{LF}あらすじ第八項　４０３０　二行目{LF}あらすじ第八項　４０３０　三行目{LF}あらすじ第八項　４０３０　四行目{LF}あらすじ第八項　４０３０　五行目
+あらすじ第九項　４０３０　一行目{LF}あらすじ第九項　４０３０　二行目{LF}あらすじ第九項　４０３０　三行目{LF}あらすじ第九項　４０３０　四行目{LF}あらすじ第九項　４０３０　五行目

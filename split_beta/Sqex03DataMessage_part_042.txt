@@ -1,0 +1,106 @@
+Hai appena chiuso gli occhi?{#Name="Zero"}
+Quel raggio fa davvero paura, okay!?{#Name="Mikhail"}
+Idiota! Vuoi farci ammazzare!?{#Name="Zero"}
+Se lo fai un'altra volta, te li chiudo io{LF}gli occhi, per sempre!{#Name="Zero"}
+Aaaaaah!{#Name="Mikhail"}
+くそ！ちょろちょろ水に隠れやがって！{#Name="ゼロ"}
+ボスのくせにな！肝っ玉の小さいヤツだよ、{LF}まったく！{#Name="ゼロ"}
+きもったまって何？{#Name="ミハイル"}
+だから肝ってのが…{LF}…やめた！説明するのも面倒臭い{#Name="ゼロ"}
+えー。教えてよ！教えてよ！{#Name="ミハイル"}
+うるさい！余計なことはいいから狙いを定めろ！{#Name="ゼロ"}
+あー、何だろうな？きもったまって何だろうな？{#Name="ミハイル"}
+集中ッ！{#Name="ゼロ"}
+はい！{#Name="ミハイル"}
+それにしても{LF}コロシアムでボス戦なんてキメすぎだろ{#Name="ゼロ"}
+コロシアムって何？{#Name="ミハイル"}
+円形の闘技場のことだ{#Name="ゼロ"}
+えんけいのとうぎじょう？{#Name="ミハイル"}
+円形はまるいってこと。闘技場は戦う場所{#Name="ゼロ"}
+あっ、そうなんだ？本当だ！丸い！{#Name="ミハイル"}
+無知もたいがいにしろ。それでもドラゴンか？{#Name="ゼロ"}
+う、うん。ドラゴン、のはず。たぶん{#Name="ミハイル"}
+あ！でも、もしかしたら、おおきなネコかも{#Name="ミハイル"}
+ドラゴンです！{#Name="ゼロ"}
+そこだ、クソドラゴン！いけ！いいぞ！{#Name="ゼロ"}
+はぁはぁはぁはぁ{#Name="ミハイル"}
+やれる！キミならできる！{#Name="ゼロ"}
+ゼロもちょっとはがんばってよ！{#Name="ミハイル"}
+水に潜るなんてひきょうだよ！{#Name="ミハイル"}
+だらだら愚痴を言うんじゃない{#Name="ゼロ"}
+ぐちじゃないよ！くちで言ってるんだよ{#Name="ミハイル"}
+……馬鹿{#Name="ゼロ"}
+バカじゃないよ！バカじゃないよ！{#Name="ミハイル"}
+２回言うな！{#Name="ゼロ"}
+バカじゃないよ！バカじゃないよ！{LF}バカじゃないよー！{#Name="ミハイル"}
+そうきたか{#Name="ゼロ"}
+ひっくり返ったら、腹をねらえ！腹だ！{#Name="ゼロ"}
+うん。わかった。おなかだね{#Name="ミハイル"}
+みんな、おなかは弱いよね{#Name="ミハイル"}
+ぼくも悪いモノを食べたり緊張したりすると、{LF}おなか壊しちゃう{#Name="ミハイル"}
+ねえ、ゼロはどんな時におなか壊す？{#Name="ミハイル"}
+私は自分の腹の前にキミを壊したい{#Name="ゼロ"}
+ご、ごめんなさいッ{#Name="ミハイル"}
+{06}>{#Name=" "}
+{06}>{#Name="Five"}
+No... Il potere del mio canto...{#Name="Five"}
+No... Ti prego...!{#Name="Five"}
+{06}>{#Name="Five"}
+Zero, non devi per forza...{#Name="Mikhail"}
+{06}>{#Name="Zero"}
+Sta' zitto!{#Name="Zero"}
+{06}>{#Name="Zero"}
+Se vuoi uccidere una Intoner, devi proprio fare in modo—{#Name="Zero"}
+{06}>{#Name="Mikhail"}
+Eh?{#Name="Zero"}
+Whoa...{#Name="Mikhail"}
+È morta, è morta, è morta!{#Name="Dito"}
+Ti piaceva proprio farmi sgobbare fino all'osso, eh?{#Name="Dito"}
+Beh, il tuo piccolo discepolo non subirà più i tuoi abusi!{#Name="Dito"}
+{06}>{#Name=" "}
+{06}>{#Name="Mikhail"}
+Ora non sei più una Intoner! Non sei niente! Sei solo un grosso sacco di carne!{#Name="Dito"}
+"Ti amo, ti amo..." Ma cosa amavi? Mi fai schifo!{#Name="Dito"}
+Brutta... maledetta... stupida... egoista... ninfomane... figlia di... Uh...{#Name="Dito"}
+...Come si chiamava già? L'ho dimenticato.{#Name="Dito"}
+Sconfiggi questo pacchiano bastardo.{#Name="説明文"}
+I tuoi attacchi non arrivano sott'acqua...{#Name="Zero"}
+Non credo che il fuoco sia molto efficace nell'acqua.{#Name="Zero"}
+Usa gli artigli per tirarlo fuori dall'acqua!{#Name="Zero"}
+Da qui il fuoco è inutile.{LF}Usa gli artigli per trascinarlo fuori!{#Name="Zero"}
+Ora! Fallo a pezzi!{#Name="Zero"}
+Le mie palle di fuoco non funzionano!{#Name="Mikhail"}
+Ha una specie di strana barriera.{LF}Caricalo frontalmente e basta!{#Name="Zero"}
+È pericoloso attaccare subito dopo che riemerge!{#Name="Zero"}
+Ascolta, scemo! Aspetta che{LF}abbia un'apertura e poi attacca!{#Name="Zero"}
+Zero! Può respingere il mio fuoco! Può respingerlo!{#Name="Mikhail"}
+Merda. Così non funziona.{#Name="Zero"}
+Prova ad attaccarlo con gli artigli!{#Name="Zero"}
+テスト１７７{#Name="テスト"}
+テスト１７８{#Name="テスト"}
+テスト１７９{#Name="テスト"}
+テスト１８０{#Name="テスト"}
+テスト１８１{#Name="テスト"}
+テスト１８２{#Name="テスト"}
+テスト１８３{#Name="テスト"}
+テスト１８４{#Name="テスト"}
+テスト１８５{#Name="テスト"}
+テスト１８６{#Name="テスト"}
+テスト１８７{#Name="テスト"}
+テスト１８８{#Name="テスト"}
+テスト１８９{#Name="テスト"}
+テスト１９０{#Name="テスト"}
+Five
+Zero
+Mikhail
+Dito
+ディト
+ファイブ
+ゼロ
+ミハイル
+ 
+説明文
+テスト
+Sconfiggi gli Stregoni!{#Name="説明文"}
+Sconfiggi gli Imp!{#Name="説明文"}
+Sconfiggi gli Ogre della Sabbia!{#Name="説明文"}

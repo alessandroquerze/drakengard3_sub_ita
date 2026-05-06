@@ -193,13 +193,13 @@ A parasitical plant-shaped object that latches{LF}on to an Intoner. As the paras
 `ＴＩＰＳ_７９　　　　　　　　　　一行目{LF}ＴＩＰＳ_７９　　　　　　　　　　二行目{LF}ＴＩＰＳ_７９　　　　　　　　　　三行目{LF}ＴＩＰＳ_７９　　　　　　　　　　四行目{LF}ＴＩＰＳ_７９　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７９"}`
 ＴＩＰＳ_７９　　　　　　　　　　一行目{LF}ＴＩＰＳ_７９　　　　　　　　　　二行目{LF}ＴＩＰＳ_７９　　　　　　　　　　三行目{LF}ＴＩＰＳ_７９　　　　　　　　　　四行目{LF}ＴＩＰＳ_７９　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７９"}
 
-`Proteggendo:::`
+`Parata`
 Guarding
 
-`Parando:::`
+`Parata`
 Parrying
 
-`La mini mappa`
+`La mini-mappa`
 The Mini-map
 
 `Modalità Intoner`
@@ -211,7 +211,7 @@ Combo Attacks
 `Combo Aeree`
 Aerial Combos
 
-`Puntando`
+`Aggancio`
 Locking On
 
 `Il menu di pausa`

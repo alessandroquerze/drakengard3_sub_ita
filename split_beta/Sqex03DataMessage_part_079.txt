@@ -1,0 +1,106 @@
+Come ha fatto una bellezza come Five{LF}a ridursi in uno stato così triste?{#Name="Octa"}
+Immagino che la forza del fiore{LF}abbia riportato in vita il suo corpo.{#Name="Zero"}
+Ma nessuno dei due è riuscito a gestire l’altro,{LF}e quindi eccoci qui.{#Name="Zero"}
+Quella stupida bastarda doveva solo restare morta.{#Name="Zero"}
+Uno spettacolo davvero triste...{#Name="Octa"}
+Sembra soffrire... Sarei lieto{LF}di alleviarle il dolore col mio bastone dei miracoli!{#Name="Octa"}
+やめておけ。アイツは昔から快感のわからない女なんだ{#Name="ゼロ"}
+Tra tutte le sorelle, la presa del fiore{LF}su Zero è di gran lunga la più forte.{#Name="Octa"}
+Temo che anche lei verrà consumata...{#Name="Octa"}
+Hm? Che hai detto?{#Name="Zero"}
+...Niente, mia signora.{#Name="Octa"}
+Z-Zero... Bellissi...ma Zero...{#Name="Five"}
+{06}>{#Name="Five"}
+Ci vediamo all’inferno,{#Name="Zero"}
+Sorella.{#Name="163"}
+Eh? Aspetta, che diavolo è questo!?{#Name="Dito"}
+Hai evocato un angelo senza l’aiuto di un’Intoner.{#Name="Zero"}
+Dovrai pur pagarne il prezzo in qualche modo.{#Name="Zero"}
+Oh, andiamo! Non è giusto per niente!{#Name="Dito"}
+L’ho finalmente trovato!{#Name="Dito"}
+Ho finalmente trovato un mondo in cui posso vivere e che posso amare davvero!{#Name="Dito"}
+Zero, aspetta. No! No no no no no no no—{#Name="Dito"}
+Cent...{#Name="Zero"}
+Quindi è così che stanno le cose, eh?{#Name="Cent"}
+Onestamente non ne avevo idea.{#Name="Cent"}
+Dopotutto sono solo un idiota, giusto?{#Name="Cent"}
+Oh beh.{#Name="Cent"}
+Alla fine, non ha comunque senso vivere in un mondo senza Lady Two. Ora posso riposare.{#Name="Cent"}
+60{#Name="60"}
+Fatti strada in questa foresta maledetta.{#Name="説明文"}
+Mi servono rinforzi qui! Datemi suono e tempo!{#Name="Soldier D"}
+S-Suono? E tempo? Non capisco!{#Name="Soldier F"}
+Pare che abbiano ancora un controllo{LF}parziale di sé stessi...{#Name="Octa"}
+Aspetta. Non si rendono nemmeno conto di essere morti!?{#Name="Dito"}
+Ha ha ha! È così fantastico{LF}che non riesco a sopportarlo!{#Name="Dito"}
+{06}>{#Name="Five"}
+F...fe... Ferma...aaa...{#Name="Five"}
+Quel giorno ho mangiato la carne delle mele! La mia esplosione mi ha sfinito!{#Name="Soldier G"}
+Sconfiggi l’esercito di Galgaliel!{#Name="説明文"}
+Sconfiggi Five!{#Name="説明文"}
+Oh, andiamo. Si è curata da sola!?{#Name="Zero"}
+Faremmo meglio a occuparci prima di quei tizi.{#Name="Zero"}
+Dannazione! Questi tizi sono invincibili!?{#Name="Zero"}
+Quindi sono immortali finché Five è sveglia, eh?{#Name="Zero"}
+Soldato A
+Soldato B
+Soldato C
+Soldato D
+Soldato E
+Soldato F
+Soldato G
+307
+271
+91
+361
+Decadus
+Cent
+Dito
+Zero
+Five
+Octa
+ファイブ
+ゼロ
+163
+60
+説明文
+あちゃー{#Name="セント"}
+せっかく竜種を捕獲したのにぃぃいぃ{#Name="セント"}
+やっぱり私みたいに大局的にモノゴトを見られる人達ばっかりじゃないかぁあぁ{#Name="セント"}
+どうしても自分が出来る程度の事は人に期待しちゃうんだよなぁあぁあ{#Name="セント"}
+むしろ私レベルの人は逆に少ないと思った方がいいんだろうなあぁあぁ{#Name="セント"}
+期待しすぎちゃうのは良くない癖だなぁあぁあぁ{#Name="セント"}
+なんかムカツクんですけどぉ？{#Name="ディト"}
+トウの、使徒だな{#Name="ゼロ"}
+……{#Name="セント"}
+死んでもらおうか？{#Name="ゼロ"}
+これで……{#Name="セント"}
+状況が悪化した{#Name="セント"}
+そんな事も判らない、バカ共が{#Name="セント"}
+縁なき衆生とは……この事か{#Name="セント"}
+何を言って……{#Name="デカート"}
+ゼロ{#Name="セント"}
+いつか、その竜が貴様に災いをもたらすぞ{#Name="セント"}
+そうなってから後悔するなよ……裏切りのウタウタイ……{#Name="セント"}
+ゼロッ！{#Name="ミハイル"}
+昼寝には丁度いい時間だな！{#Name="ゼロ"}
+違うよ！つかまってるんだよ！つかまってるんだよ！{#Name="ミハイル"}
+わかってるさ{#Name="ゼロ"}
+ゼロ～！助けて～！{#Name="ミハイル"}
+ああ{#Name="ゼロ"}
+ちっ……ゴーレムか{#Name="ゼロ"}
+Arrivano guai!{#Name="Soldier A"}
+La personificazione del male è qui!{#Name="Soldier B"}
+Concedeteci la forza!{#Name="Soldier A"}
+Zero? Di già!?{#Name="Soldier C"}
+State all’erta o morirete!{#Name="Soldier D"}
+Informate la prima squadra che è arrivata!{#Name="Soldier F"}
+Lei, signore?{#Name="Soldier E"}
+Zero! Il fiore oscuro della morte!{#Name="Soldier F"}
+GYAAAH!{#Name="Soldier G"}
+Calmati! È solo una ferita superficiale!{#Name="Soldier F"}
+Carica! Caricaaaa!{#Name="Soldier A"}
+Resistete! Possiamo vincere se continuiamo così!{#Name="Soldier B"}
+Se cadiamo, cadiamo insieme!{#Name="Soldier C"}
+Arrrgh... Concedimi...potere...!{#Name="Soldier D"}
+Ti squarcerò quel culo demoniaco in due!{#Name="Soldier E"}

@@ -1,0 +1,105 @@
+La tua fede vacilla! La tua blasfemia sarà punita!{#Name="Soldier E"}
+Sì! La fede è tutto ciò che conta in questo mondo!{#Name="Soldier B"}
+Inchinati davanti a Lady Two! Implora il suo giusto perdono!{#Name="Soldier C"}
+Questo mondo è oltre ogni salvezza! Nessuno di noi può più salvarlo.{#Name="Soldier D"}
+Oh, Dio, sono morto... Mi uccideranno!{#Name="Soldier G"}
+Credi in Lady Two e lei ti resusciterà nell’abbondanza dell’aldilà!{#Name="Soldier D"}
+Credo in Lady Two, lo giuro! Ci credo, ci creeeedo!{#Name="Soldier G"}
+Quelli che devono ancora risvegliarsi sono sempre pronti a gemere e urlare. Che pena!{#Name="Soldier F"}
+Il vero mondo è immerso nella bellezza innocente di Lady Two!{#Name="Soldier F"}
+Se Two e One sono entrambe in città,{LF}mi farà risparmiare un po’ di tempo per ucciderle.{#Name="Zero"}
+Lascia che... Lascia che ti aiuti anch’io.{#Name="Mikhail"}
+Certo. Vola su e controlla più avanti, okay?{#Name="Zero"}
+C-Certo, Zero! Ci penso io!{#Name="Mikhail"}
+Aw, guardati mentre cerchi di tenerlo al sicuro.{#Name="Dito"}
+Sei proprio una tenerona, Z. Lo sai?{#Name="Dito"}
+Se Two e One sono entrambe in città,{LF}mi farà risparmiare un po’ di tempo per ucciderle.{#Name="Zero"}
+Il miracolo è ancora vivo! Credete in Lady Two!{#Name="Soldier A"}
+Se solo Zero si inchinasse alla saggezza divina di Lady Two!{#Name="Soldier C"}
+Lady Two è indistruttibile! Invincibile! Immortale!{#Name="Soldier F"}
+Fuoco! Fuuuuuoco!{#Name="Soldier E"}
+Si muovono troppo in fretta!{#Name="Soldier G"}
+Dov’è la vostra fede in Lady Two!?{LF}Lei ci proteggerà!{#Name="Soldier E"}
+Sono il 1597esimo uomo in fila per{LF}ricevere la salvezza di Lady Two!{#Name="Soldier D"}
+Chi sono questi tizi?{#Name="Zero"}
+Un fanatismo simile ricorda i sintomi{LF}d’astinenza di certi medicinali.{#Name="Octa"}
+Cosa, quindi sono dipendenti?{LF}Da cosa sono dipendenti?{#Name="Zero"}
+Dal suo canto, immagino.{#Name="Cent"}
+Ehi, Cent ha appena detto qualcosa di sensato!{LF}Fategli un applauso, gente!{#Name="Dito"}
+Con Lady Two sparita, anche il potere{LF}del suo canto svanisce.{#Name="Decadus"}
+Portando così al triste stato{LF}di quello che abbiamo davanti.{#Name="Decadus"}
+Stupido cane. Ti farò a pezzi!{#Name="Zero"}
+Oh, per dio! Non un altro!{#Name="Zero"}
+Temo che i nostri nemici abbiano individuato{LF}la debolezza di Lady Zero.{#Name="Decadus"}
+Debolezza?{#Name="Zero"}
+Il vostro disgusto nel compiere lo stesso{LF}compito ancora e ancora e ancora.{#Name="Decadus"}
+Chi te l’ha chiesto, maledetto storpio pervertito!:::{#Name="Zero"}
+Mi hai chiamato, Zero? Oh ragazzi, oh ragazzi, oh ragazzi!{#Name="Mikhail"}
+Non fare quella faccia felice. Fai solo quello{LF}per cui sei qui. ...E{LF}quando hai finito, riposati un po’.{#Name="Zero"}
+Grazie, Zero! Ce la metterò tutta, okay?{#Name="Mikhail"}
+Possiamo raggiungere Cathedral City{LF}da questo sentiero più avanti?{#Name="Cent"}
+Hmm...{#Name="Accord"}
+Draghi che regrediscono...{LF}Discepoli che abbandonano le loro Intoner...{#Name="Accord"}
+Una diramazione così strana merita uno studio molto attento.{#Name="Accord"}
+Ci sono parecchi non morti da queste parti...{#Name="Octa"}
+Probabilmente stanno riciclando i{LF}corpi dei soldati caduti.{#Name="Decadus"}
+Forse anche questo è un altro sintomo{LF}dell’assenza di Lady Two.{#Name="Octa"}
+説明文
+（リザーブ）
+Soldato A
+Soldato B
+Soldato C
+Soldato G
+Soldato F
+Soldato E
+Soldato D
+Zero
+Mikhail
+Dito
+Octa
+Cent
+Decadus
+Accord
+Cerca Three.{#Name=" "}
+Sconfiggi gli Ogre della sabbia!{#Name=" "}
+Sconfiggi i nemici che ti bloccano la strada!{#Name=" "}
+595{#Name="595"}
+60{#Name="60"}
+253{#Name="253"}
+307{#Name="307"}
+379{#Name="379"}
+487{#Name="487"}
+271{#Name="271"}
+433{#Name="433"}
+415{#Name="415"}
+109{#Name="109"}
+あのアコールなる女が言うには{#Name="オクタ"}
+649{#Name="649"}
+235{#Name="235"}
+60{#Name="60"}
+いざとなったら食べさせるさ{#Name="ゼロ"}
+私を{#Name="ゼロ"}
+181{#Name="181"}
+60{#Name="60"}
+127{#Name="127"}
+271{#Name="271"}
+325{#Name="325"}
+217{#Name="217"}
+307{#Name="307"}
+109{#Name="109"}
+Scommetterei che Lady Three si nasconde qui dentro.{#Name="Octa"}
+Perché?{#Name="Zero"}
+Le sono sempre piaciuti i posti bui come questo.{#Name="Octa"}
+Questo, e queste rovine sono l’unico rifugio qui vicino.{#Name="Decadus"}
+Giusto. Diamo un’occhiata.{#Name="Zero"}
+Non vi avvicinerete a Lady Three!{#Name="Soldier B"}
+Oh sì, invece!{#Name="Zero"}
+Resta saldo, soldato!{#Name="Soldier A"}
+Sissignore!{#Name="Soldier G"}
+Oh ho ho! Che coraggio sciocco!{#Name="Octa"}
+La nostra missione è proteggere Lady Three!{#Name="Soldier F"}
+Allora ti suggerisco di trovarti un altro lavoro!{#Name="Decadus"}
+どきなさい{#Name="デカート"}
+どかない！　スリイ様をお守りするのが我らの仕事だッ{#Name="兵士F"}
+Allora ti suggerisco di trovarti un altro lavoro!{#Name="Decadus"}
+Ughh! Mi sto stancando di queste teste di cazzo!{#Name="Zero"}

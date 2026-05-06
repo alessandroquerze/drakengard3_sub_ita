@@ -1,0 +1,106 @@
+Giuro su tutto ciò che è sacro,{LF}ucciderò quell'uomo.{#Name="Dito"}
+*Anf, anf...*{#Name="Zero"}
+State bene, mia signora? Sembrate affaticata.{#Name="Decadus"}
+Lascia perdere. Sto bene.{#Name="Zero"}
+Hmm... Scommetto che la magia dentro{LF}il vostro fiore si sta facendo più forte.{#Name="Octa"}
+Se dovessi tirare a indovinare, direi che{LF}il fiore sta assorbendo la vostra—{#Name="Octa"}
+Andiamo!{#Name="Zero"}
+Lady Zero riesce a nasconderlo bene...{#Name="Octa"}
+Ma c'è qualcosa di marcio in quel suo fiore.{#Name="Octa"}
+Non è marcio! È bello come l'alba!{#Name="Cent"}
+Oh oh! Hai frainteso.{LF}Intendo solo che è...sospetto.{#Name="Octa"}
+Forse c'è più di quanto{LF}appaia a prima vista, mmm?{#Name="Octa"}
+Oooh! Giiusto. Ora ho capito.{#Name="Cent"}
+Davvero?{#Name="Octa"}
+Ah ah ah! Certo!{#Name="Cent"}
+È preoccupata che il suo piccolo accessorio{LF}passi di moda!{#Name="Cent"}
+Ehm...giusto. {#Name="Octa"}
+Questo viaggio si sta rivelando{LF}più difficile di quanto mi aspettassi.{#Name="Decadus"}
+Sul serio? E tu cosa ti aspettavi esattamente?{#Name="Dito"}
+Stai viaggiando con ZERO!{LF}È come una macchina per uccidere.{#Name="Dito"}
+In effetti è stato un massacro{LF}dopo l'altro... Ungh...{#Name="Decadus"}
+Calmati lì sotto, tigre.{#Name="Dito"}
+Non era un gemito di piacere!{#Name="Decadus"}
+Cosa farà Lady Zero quando{LF}le Intoner non ci saranno più?{#Name="Decadus"}
+E io che ne so? E perché dovrebbe importarmene?{#Name="Dito"}
+Per ora c'è un sacco di gente da ammazzare,{LF}ed è tutto ciò che mi serve.{#Name="Dito"}
+Non sarai perdonata, Zero!{#Name="Soldier A"}
+Tutto ciò che è accaduto alla nostra povera Lady Four{LF}è colpa tua, demone!{#Name="Soldier B"}
+Servirò Lady Four, qualunque cosa{LF}le sia accaduta!{#Name="Soldier C"}
+Maledizione! La nostra Intoner pura e immacolata non esiste più!{#Name="Soldier G"}
+Restate saldi! Tocca a noi salvare{LF}Lady Four dalla strada che ha smarrito!{#Name="Soldier E"}
+Four è più avanti. Andiamo.{#Name="Zero"}
+Divergenza: Diramazione D{#Name="127"}
+Una sola decisione può cambiare tutto.{#Name="235"}
+Quindi cosa significano le decisioni di Zero per questo mondo?{#Name="253"}
+Porteranno salvezza? O distruzione?{#Name="127"}
+Resta un' ultima Diramazione da seguire,{#Name="145"}
+e comincia nella Terra dei Monti.{#Name="145"}
+説明文
+（リザーブ）
+Soldato A
+Soldato B
+Soldato C
+Soldato D
+Soldato E
+Soldato F
+Soldato G
+兵士Ｆ
+兵士Ｂ
+Zero
+Decadus
+Dito
+Octa
+Cent
+127
+235
+253
+145
+Zero!{#Name="Four"}
+...Four.{#Name="Zero"}
+Oh, dolce Zero...{#Name="Four"}
+Ho capito una cosa.{#Name="Four"}
+Non dobbiamo avere paura di questo mondo.{#Name="Four"}
+Perché quando l'avrò distrutto...non ci sarà più un mondo di cui avere paura!{#Name="Four"}
+{06}>{#Name="Four"}
+Il fiore l'ha posseduta.{#Name="Zero"}
+Questo intero mondo canterà per me!{#Name="Four"}
+Zophiel, vieni a me!{#Name="Four"}
+Un drago!?{#Name="Zero"}
+Quello è... Quello è di Lady One...{#Name="Octa"}
+No, è diverso.{#Name="Zero"}
+Come ha fatto Four a evocare un drago demone!?{#Name="Zero"}
+Le Intoner di solito non possono farlo?{#Name="Mikhail"}
+No, non possono. Non senza perdere la testa.{#Name="Zero"}
+One era l'unica sorella con{LF}il potere necessario per riuscirci.{#Name="Zero"}
+Ma tu puoi chiamare me, Zero! E tu stai bene!{#Name="Mikhail"}
+O forse eri già fuori di testa fin dall'inizio?{#Name="Mikhail"}
+Già...{#Name="Zero"}
+No, scemo!{#Name="Zero"}
+Tu non sei un demone.{#Name="Zero"}
+E poi io sono...speciale, chiaro? Sono diversa.{#Name="Zero"}
+Vergogna, sorella mia! Vergogna!{#Name="Four"}
+Guardati, uccidi i tuoi{LF}simili per reclamare i loro poteri!{#Name="Four"}
+Non voglio il tuo potere, sorellina.{#Name="Zero"}
+Ma ti ucciderò. Tutte quante.{LF}...Mi spiace.{#Name="Zero"}
+Non ti dispiace. Oh, non ti dispiace affatto.{#Name="Four"}
+Ah ah ah ah ah ah ah! Vuoi uccidere ME?{#Name="Four"}
+Ah ah! Hi hi hi hi ah ah ah!{#Name="Four"}
+Ti ricordi, Zero? Ti ricordi{LF}di quando ti imitavo sempre?{#Name="Four"}
+I tuoi vestiti, i tuoi capelli, il tuo trucco...{LF}Tutto! Hi hi!{#Name="Four"}
+Per niente. Anzi, sono abbastanza sicura{LF}che non sia mai successo.{#Name="Zero"}
+Quindi ora ti imiterò di nuovo!{#Name="Four"}
+Se tu sarai un'assassina di Intoner...{LF}allora anch'io sarò un'assassina di Intoner!{#Name="Four"}
+Allora finalmente il mondo sarà silenzioso.{#Name="Four"}
+Shhh... Non un fiato da te, mondo. Hi hi hi!{#Name="Four"}
+Immagina, Zero... Tu e io in un mondo silenzioso.{LF}Un mondo in cui possiamo giocare a nascondino!{#Name="Four"}
+Ti sei già nascosta, Zero? Sì?{#Name="Four"}
+Perché pronta o no...sto arrivandooooo!{#Name="Four"}
+Zerooo! Zerooo?{#Name="Four"}
+Zeeerooooooooo!{#Name="Four"}
+Dove seiiiiii, sorellaaaaaa miaaaaa!?{#Name="Four"}
+Zeeerooooooooo!{#Name="Four"}
+Hi hi hi hi ah ah ah ah aaaaaa!{#Name="Four"}
+Pronta per il prossimo gioco? Bene!{LF}Simon dice...combatti!{#Name="Four"}
+Simon dice...strappati le budella! Dai, fallo!{#Name="Four"}
+Ora prova ad affrontarmi!{LF}...Ah! Non ho detto Simon dice!{#Name="Four"}

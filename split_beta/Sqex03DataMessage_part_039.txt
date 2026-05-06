@@ -23,7 +23,7 @@ Dev'essere bello vivere vicino al mare.{LF}Pensa a tutto quel pesce squisito!{#N
 Ma che diavolo? Dov'è il santuario?{#Name="Zero"}
 163{#Name="163"}
 361{#Name="361"}
-Dannazione. Credo che ci abbiano fregati.{#Name="Zero"}
+Cazzo. Credo che ci abbiano fregati.{#Name="Zero"}
 ……嬉しそうだな{#Name="ゼロ"}
 だって、戦わなくてもよくなったもん{#Name="ミハイル"}
 289{#Name="289"}
@@ -58,14 +58,14 @@ Qualcosa del genere.{#Name="Zero"}
 ダミー
 Zero
 説明文
-Soldier G
-Soldier A
-Soldier B
-Soldier E
-Soldier C
-Soldier D
-Soldier F
-Soldiers C/D
+Soldato G
+Soldato A
+Soldato B
+Soldato E
+Soldato C
+Soldato D
+Soldato F
+Soldatos C/D
 兵士C
 Mikhail
 163
@@ -78,8 +78,8 @@ Mikhail
 199
 Sconfiggi i soldati nemici!{#Name="説明文"}
 Distruggi tutti i cannoni!{#Name="説明文"}
-Dirigiti al Shrine of Seas.{#Name="説明文"}
-Distruggi la Battleship!{#Name="説明文"}
+Dirigiti al Santuario dei Mari.{#Name="説明文"}
+Distruggi la Nave da Battaglia!{#Name="説明文"}
 Stai bene, Zero?{#Name="Mikhail"}
 Sì, sto bene.{#Name="Zero"}
 Sono solo questi vermi di soldati a farmi incazzare.{#Name="Zero"}

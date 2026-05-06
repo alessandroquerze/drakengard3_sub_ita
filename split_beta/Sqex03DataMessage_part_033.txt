@@ -76,15 +76,15 @@ Nucleo redentivo
 クエスト用メダル１９
 クエスト用メダル２０
 クエスト用メダル２１
-Pietra verde acqua
-Pietra rosa
-Pietra focaia
-Pietra d’ambra
-Pietra del cibo
-Pietra del movimento
-Pietra fluttuante
+Pietra Acquamarina
+Pietra Rosa
+Pietra Focaia
+Pietra d’Ambra
+Pietra del Cibo
+Pietra del Movimento
+Pietra Fluttuante
 Magnetite
-Pietra cometa
+Pietra Cometa
 Meteorite
 クエスト用宝石１１
 クエスト用宝石１２
@@ -97,10 +97,10 @@ Meteorite
 クエスト用宝石１９
 クエスト用宝石２０
 クエスト用宝石２１
-Libro della speranza
-Libro dell’ambizione
-Libro della reticenza
-Libro dello stoicismo
-Libro della santità
-Libro del mistero
-Libro della purezza
+Libro della Speranza
+Libro dell’Ambizione
+Libro della Reticenza
+Libro dello Stoicismo
+Libro della Santità
+Libro del Mistero
+Libro della Purezza

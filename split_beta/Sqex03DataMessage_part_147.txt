@@ -1,0 +1,105 @@
+Stuff544(***********. ************* INC.)
+Stuff545(***********. ************* INC.)
+Stuff546(***********. ************* INC.)
+Stuff547(***********. ************* INC.)
+Stuff548(***********. ************* INC.)
+Stuff549(***********. ************* INC.)
+Stuff550(***********. ************* INC.)
+ストーリー００１０
+ストーリー００２０
+ストーリー１０１０
+ストーリー１０２０
+ストーリー１０３０
+ストーリー１０４０
+ストーリー２０１０
+ストーリー２０２０
+ストーリー２０３０
+ストーリー２０４０
+ストーリー２０５０
+ストーリー２０６０
+ストーリー３０１０
+ストーリー３０２０
+ストーリー３０３０
+ストーリー３０４０
+ストーリー３０５０
+ストーリー３０６０
+ストーリー４０１０
+ストーリー４０２０
+ストーリー４０３０
+ストーリー４０４０
+ストーリー５０１０
+ストーリー５０２０
+ストーリー５０３０
+ストーリー５０４０
+ストーリー３２１０
+ストーリー３２２０
+ストーリー３２３０
+ストーリー３２４０
+ストーリー３２５０
+ストーリー４１１０
+ストーリー４１２０
+ストーリー４１３０
+ストーリー５１１０
+ストーリー５１２０
+ストーリー２３１０
+ストーリー２３２０
+ストーリー３３２０
+ストーリー４３１０
+ストーリー４３２０
+ストーリー１３１０
+ストーリー５３１０
+ストーリー５３２０
+サブルート１４１０
+サブルート２４１０
+サブルート４５１０
+Nuova Partita
+Continua
+Impostazioni
+Archivio
+Cambia Costumi/Musica
+Premi il pulsante START
+Seleziona un file di registrazione da usare.
+Elimina File di Registrazione
+Eliminare questo file di registrazione?
+Inizia una nuova campagna.
+Continua una campagna in corso.
+Regola varie impostazioni di gioco.
+Visualizza le armi e i personaggi che appaiono nella storia.
+Cambia il costume di Zero, l’aspetto di Mikhail o la musica di sottofondo.
+Controllo dei dati attuali.{LF}Non spegnere il sistema PlayStation®3.
+Registrazione {04}
+Nuova Partita
+Tutti i progressi non salvati andranno persi.{LF}Tornare alla schermata del titolo?
+Eliminazione del file di registrazione.{LF}Non spegnere il sistema PlayStation®3.
+Sono stati caricati dati di salvataggio creati da un altro utente.{LF}Questi dati di salvataggio non possono essere usati.{LF}Sovrascrivere questi dati e creare nuovi dati di salvataggio?
+Nessun dato di salvataggio attuale trovato.{LF}Il sistema creerà nuovi dati di salvataggio.
+Creazione di nuovi dati di salvataggio.{LF}Non spegnere il sistema PlayStation®3.
+Nuovi dati di salvataggio creati.
+Sovrascrittura dei dati di salvataggio.{LF}Non spegnere il sistema PlayStation®3.
+Controllo dei contenuti scaricabili validi.{LF}Non spegnere il sistema PlayStation®3.
+{06}>
+{06}>
+{06}>
+Comandi: Schivata
+Premi {01}{0B} per schivare nella direzione in cui sei rivolto.{LF}Usalo mentre hai agganciato un bersaglio per aggirare rapidamente i nemici.
+Comandi: Cambio Armi
+Premi {01}{09} o {01}{0C} per aprire il menu armi, poi premi{LF}il pulsante corrispondente all’arma che vuoi usare.
+Armi di Zero: Lance
+Le lance non solo sono potenti e hanno una lunga portata,{LF}ma possono anche essere usate per sfondare la guardia nemica.
+Comandi: Guardia
+Premi {01}{02} per parare gli attacchi nemici. La guardia consuma stamina;{LF}se la Barra Stamina arriva a 0, la tua guardia verrà spezzata.
+Armi di Zero: Chakram
+I chakram sono armi a lunga distanza efficaci{LF}contro i nemici in volo e gli avversari lontani.
+Comandi: Modalità Intoner
+Premi {01}{0A} e {01}{0D} contemporaneamente per attivare la Modalità Intoner.{LF}Premili di nuovo per terminare la Modalità Intoner.
+エネミー / 盾兵
+盾兵は、{01}{04}によるスキル攻撃によって、{LF}盾を破壊する事ができます。
+Forzieri del Tesoro
+Attacca un forziere per rivelarne il contenuto.{LF}Controlla la schermata dei risultati alla fine dello stage per maggiori informazioni.
+ミハイルの操作２
+ジャンプ中に{01}{01}で、飛翔モードとなります。{LF}{01}{02}で、モードを解除して地上に降りることができます。
+Comandi: Azioni Base
+Usa la levetta sinistra per muovere il reticolo di mira.{LF}Premi {01}{03} per sputare fuoco nel punto mirato.
+Comandi: Aggancio Multiplo
+Tieni premuto {01}{03} e usa la levetta sinistra per agganciare più nemici.{LF}Rilascia {01}{03} per attaccare tutti i bersagli agganciati insieme.
+Comandi: Rotolata

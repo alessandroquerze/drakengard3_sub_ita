@@ -1,0 +1,105 @@
+Galgaliel
+Galgaliel
+Galgaliel
+Ezrael
+Raphael
+Abdiel
+Abdiel
+Abdiel
+Grossi granchi succosi
+Piccoli granchi succosi
+Michael
+Aeronavi
+Barche volanti
+Navi pirata degli elfi malvagi
+-
+One
+One
+Two
+Three
+Four
+Five
+ゼロ最終
+Cent
+Statue di Three
+バリケード小
+バリケード中
+バリケード大
+バリケード大 2
+Cannoni
+Cannoni pesanti
+Ipercannoni
+戦艦大砲台
+戦艦長距離大砲台
+ハイパー砲台透明
+ハイパー砲台 (アルマロス周囲)
+ハイパー砲台 (アルマロス上部)
+大砲台(4020)
+浮遊石S
+ガーゴイルキューブ（OBJ）
+壊せる人面木
+壊せる蔦柱
+壊せる木0
+壊せる木1
+壊せる蔦壁小
+壊せる蔦壁大
+引っ込む蔦
+Mezzi da sbarco
+Navi da guerra
+木汎用
+ZH00 ゼロ家柱
+アイテムボックス（木箱）
+ワイバーンの岩
+宝箱
+爆弾（クエスト用）
+Forzieri metallici
+Cannoni
+Ipercannoni
+Navi da guerra
+Navi da guerra
+Soldati
+Torri meridionali
+Torri orientali
+Torri occidentali
+Torri settentrionali
+Soldati
+Soldati
+Ogre potenziati
+Imp potenziati
+Cerberus potenziati
+Soldatesse
+Attivo
+Disattivo
+Max
+Min
+Impostazioni controller
+Impostazioni video
+Impostazioni audio
+カメラ操作
+画面表示
+Ripristina impostazioni predefinite
+Regola le impostazioni relative al controller.
+Regola le impostazioni relative alla schermata di gioco.
+Regola le impostazioni relative al volume audio.
+カメラの操作方式について設定します
+画面の表示物について設定します
+Ripristina tutte le impostazioni alla configurazione predefinita.
+通常攻撃
+固有攻撃
+ジャンプ
+回避ステップ
+ロックオン
+武器チェンジ
+魔法
+籠手チェンジ
+ロックオン方式
+切り替えタイプ
+ホールドタイプ
+Comandi battaglia aerea
+Normale
+Invertito
+Luminosità
+Volume musica
+Volume effetti
+Volume voci
+音質

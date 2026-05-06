@@ -1,0 +1,106 @@
+217{#Name="ゼロ"}
+Se sono io la singolarità di cui parlava Accord,{#Name="Zero"}
+allora forse sono io quella che sta portando questo mondo alla rovina.{#Name="Zero"}
+163{#Name="ゼロ"}
+Credo sia ora di parlare con Accord faccia a faccia.{#Name="Zero"}
+379{#Name="アコール"}
+361{#Name="アコール"}
+289{#Name="アコール"}
+469{#Name="アコール"}
+523{#Name="アコール"}
+Beeene, non è proprio una bella accoglienza?{#Name="Zero"}
+Questa terra è precipitata nel caos dopo la morte di Lady Five.{#Name="Decadus"}
+Eppure mi sorprende vedere tanta resistenza.{#Name="Decadus"}
+Zero! Lascia che lo bruci, così potrai passare!{#Name="Mikhail"}
+Sembra che siamo arrivati...{#Name="Zero"}
+Finire la ricerca e lasciare la casa?{#Name=" "}
+Se Accord dice la verità su questa storia delle "diramazioni"...{#Name="Zero"}
+Forse esiste un mondo in cui il fiore non compare.{#Name="Zero"}
+Dev'esserci un indizio o qualcosa che possa condurmi lì...{#Name="Zero"}
+Il braccio che ho perso contro One...{#Name="Zero"}
+Se è stato allora che si è creata la ramificazione, è già troppo tardi.{#Name="Zero"}
+181{#Name="ゼロ"}
+Potrebbe davvero esistere un mondo senza questo fiore?{#Name="Zero"}
+Mi chiedo come sia l'altra me. O come siano le mie sorelle.{LF}...Sempre che io abbia davvero delle sorelle.{#Name="Zero"}
+Bah, inutile starci a pensare.{#Name="Zero"}
+127{#Name="ゼロ"}
+Medicina...{#Name="Zero"}
+Sono riuscita a sopravvivere, ma a quale prezzo?{#Name="Zero"}
+Il mio corpo ora è maledetto, e questa stupida cosa{LF}non mi lascia nemmeno morire.{#Name="Zero"}
+Tutti quelli che mi chiamano Intoner maledetta{LF}hanno più ragione di quanto immaginino.{#Name="Zero"}
+217{#Name="ゼロ"}
+Se sono io la singolarità di cui parlava Accord,{#Name="Zero"}
+allora forse sono io quella che sta portando questo mondo alla rovina.{#Name="Zero"}
+Bah, inutile starci a pensare.{#Name="Zero"}
+Credo sia ora di parlare con Accord faccia a faccia.{#Name="Zero"}
+Quindiii... se questa è la fine di questa Diramazione, allora... Aspetta, cosa?{#Name="アコール"}
+Oh cielo, non avrò mica perso una registrazione per sbaglio?{#Name="アコール"}
+E cosa è successo alle diramazioni tra A e C?{#Name="アコール"}
+Ugh. Se faccio un casino, finirò in un guaio e-nor-me...{#Name="Accord"}
+Okay, respira e basta.{LF}Tanto per cominciare, controlliamo la registrazione M1410_E0002_FL...{#Name="Accord"}
+Soldato B
+Soldato C
+Soldato A
+Soldato D
+Soldato E
+Soldato F
+Soldato G
+Accord
+Zero
+セント
+オクタ
+ディト
+デカート
+Octa
+Decadus
+Dito
+Mikhail
+ゼロ
+Cent
+Dito{0A}Cent{0A}Octa{0A}Decadus
+説明文
+アコール
+ 
+ゼロッ！先に渡るための橋が落ちてるよ！{#Name="ミハイル"}
+チッ……ミハイルは先に行け！私は他の道を探してみる！{#Name="ゼロ"}
+ドラゴンだ！ゼロがっ……ゼロが攻めてきたぞ！{#Name="敵兵Ａ"}
+総員！持ち場につけっ！{#Name="敵兵Ｂ"}
+ここから……行けそうだな{#Name="ゼロ"}
+ゼロだ！ゼロが来たぞっ！{#Name="敵兵Ａ"}
+フォウ様の為にも！ここで食い止める！{#Name="敵兵Ｂ"}
+殺せ！裏切り者のゼロを殺すんだ！{#Name="敵兵Ａ"}
+フォウ様！私たちに力を……っ！{#Name="敵兵Ｂ"}
+{06}>{#Name="Zero"}
+Hmph.{#Name="Zero"}
+Zero!{#Name="Mikhail"}
+Eh?{#Name="Zero"}
+{06}>{#Name="Zero"}
+{06}>{#Name="Zero"}
+{06}>{#Name="Zero"}
+Zero! Stai bene!?{#Name="Mikhail"}
+{06}>{#Name="Zero"}
+{06}>{#Name="Zero"}
+Porca puttana...{#Name="Dito"}
+Quindi... è così che si rigenera un'Intoner...?{#Name="Dito"}
+Non può finire... finché non saranno tutte morte.{#Name="Zero"}
+Non può finire.{#Name="Zero"}
+Zero...{#Name="Mikhail"}
+Sfonda le difese nemiche.{#Name="説明文"}
+Sconfiggi i soldati nemici!{#Name="説明文"}
+Sconfiggi il Cerbero!{#Name="説明文"}
+Sconfiggi il Cerbero!{#Name="説明文"}
+È qui! L'Intoner demoniaca è qui!{#Name="Soldier C"}
+Miseria. Sapevo che sarebbe venuta. Avremmo dovuto saperlo!{#Name="Soldier D"}
+Drago!{#Name="Soldier A"}
+Un'Intoner in groppa a un drago? Dev'essere la fine del mondo!{#Name="Soldier F"}
+Un'Intoner in groppa a un drago? {LF}Dev'essere la fine del mondo!{#Name="兵士B"}
+Non potresti mai capire cosa significhi Lady Four per noi!{#Name="Soldier C"}
+虫ならまだいいんじゃないか？{#Name="兵士B"}
+Dobbiamo fare tutto il possibile qui!{#Name="Soldier G"}
+Già, finché il drago non ci spiaccica come budino...{#Name="Soldier E"}
+Lady Four è sotto assedio!{#Name="Soldier G"}
+Che cosa possiamo mai fare...?{#Name="Soldier F"}
+不憫なウタヒメ様だよな{#Name="兵士B"}
+Wow, i draghi sono ENORMI!{#Name="Soldier D"}
+Attenti alla coda! Vi ucciderà con un solo colpo!{#Name="Soldier C"}
+Risparmiate il fiato! Eccolo che arriva!{#Name="Soldier A"}

@@ -1,0 +1,106 @@
+La prima anomalia si verificò quando Zero incontrò il vecchio noto come Octa...{#Name="487"}
+E la foresta in cui avrebbero dovuto entrare si manifestò in una forma diversa...{#Name="433"}
+M3210_E0020_QV: Inizio registrazione{#Name="361"}
+Vado a controllare le cose dall’alto, okay?{LF}Controllerò fortissimo!{#Name="Mikhail"}
+Sì, fa’ pure.{#Name="Zero"}
+遠距離攻撃をするヤツは全員腐ったナマコのカスだ{#Name="ゼロ"}
+説明文
+（リザーブ）
+Dito
+Decadus
+Cent
+Octa
+Zero
+Mikhail
+Three
+Soldato A
+Soldato B
+Soldato C
+Soldato D
+Soldato E
+Soldato F
+Soldato G
+253
+127
+217
+397
+541
+433
+487
+361
+ゼロ
+Fatti strada attraverso questa foresta inquietante.{#Name="説明文"}
+Sconfiggi i Capitani Lanceri!{#Name="説明文"}
+Sconfiggi i non morti!{#Name="説明文"}
+Sconfiggi gli Arci Titani!{#Name="説明文"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+Zero! Ehi! Ehi, Zero!{#Name="Mikhail"}
+*Sigh* Senti, perché non prendi il volo{LF}e cerchi One e Three, okay?{#Name="Zero"}
+Awww! Perché? Non ti piace stare con me?{#Name="Mikhail"}
+È perché puzzo? È per quello?{#Name="Mikhail"}
+Cosa? No! Io...voglio solo vederti spiegare le{LF}ali e solcare i cieli! ...E roba così.{#Name="Zero"}
+Oh, davvero? Wow! Okay, ci penso io!{LF}Guarda, va bene? Guarda!{#Name="Mikhail"}
+Hmm... Però, questa cosa è strana...{#Name="Octa"}
+Cosa? Ti è cresciuta una terza palla o roba simile?{#Name="Zero"}
+Magari! Ma no, mi riferisco a Lady One.{LF}Si diceva fosse a Cathedral City.{LF}Perché mai dovrebbe venire qui?{#Name="Octa"}
+Non lo so, e non mi interessa.{LF}Lasciamo pensare i cervelloni.{#Name="Zero"}
+Ugh, di nuovo? Questi cretini sono dannatamente insopportabili!{#Name="Zero"}
+Da che pulpito...{#Name="Dito"}
+Come hai detto!?{#Name="Zero"}
+Scherzavo! Scherzavo! Hoooooo...{#Name="Dito"}
+Eh? Aspetta...eh? Zero?{#Name="Mikhail"}
+Cosa? Smettila di blaterare come un idiota{LF}e dimmi cosa vuoi.{#Name="Zero"}
+Zero!? Zeeero?{#Name="Mikhail"}
+COSA!? Sei sordo o solo stupido!?{#Name="Zero"}
+Ehilaaaaaa? Zero? Non ti sento!{#Name="Mikhail"}
+Non so più dove sei, Zero!{#Name="Mikhail"}
+...Aspetta, cosa?{#Name="Zero"}
+Forse questa foresta sta interferendo{LF}con la sua capacità di percepirti...{#Name="Octa"}
+ゼロ様。私、すごぉおいコト、{LF}わかっちゃったんですけどぉ{#Name="セント"}
+まっ、こんなこと、{LF}私くらいの者しかひらめけないと思いますけどぉお{#Name="セント"}
+前置きはいいよ。何？{#Name="ゼロ"}
+くふふっ。ここはですね、宝箱を取るとォ……{#Name="セント"}
+なんとっ、木の葉が１枚落ちるんですよぉおお{#Name="セント"}
+違う。宝箱を取ると、アンデッドが出てくるんだ{#Name="ディト"}
+たしかにさっきから……{#Name="デカート"}
+私も気づいておりました{#Name="オクタ"}
+……わ、私もぉお気づいてたしぃい{#Name="セント"}
+つまり、コイツらは単体だと{LF}引きの弱いバーターってことか。雑魚がッ！{#Name="ゼロ"}
+{06}>{#Name="Zero"}
+Pensavate...{#Name="Zero"}
+Che questo mi avrebbe uccisa?{#Name="Zero"}
+BEH, RIPENSATECI!{#Name="Zero"}
+Perbacco... Quindi è così che si rigenerano...{#Name="Octa"}
+{06}>{#Name="Zero"}
+Zero!{#Name="Mikhail"}
+Zero? Zero, che è successo!? Stai bene?{#Name="Mikhail"}
+Quindi? Il grosso scemo{LF}è riuscito a sentire il dolore di Zero?{#Name="Dito"}
+Che legame intenso...{#Name="Decadus"}
+Ehi, ragazzi? Questa è la nostra occasione.{#Name="Dito"}
+La nostra occasione per cosa?{#Name="Octa"}
+Uh, se non ve ne foste accorti, Zero al momento{LF}è un po’ bloccata. Non può usare{LF}i suoi poteri assurdi o quella roba lì.{#Name="Dito"}
+Questa è la nostra occasione per levarci dalle palle!{#Name="Dito"}
+Beh...{#Name="Decadus"}
+È una possibilità...{#Name="Octa"}
+Mmm... Suppongo che potrebbe funzionare?{#Name="Cent"}
+Supponete male, stronzi!{#Name="Zero"}
+Dove stai andando, Mikhail?{LF}Lady Zero ha bisogno di te!{#Name="Decadus"}
+Scappi a pisciarti addosso, eh?{#Name="Dito"}
+Non sto scappando! E non mi sto pisciando addosso,{LF}neanche! Non ancora, almeno...{#Name="Mikhail"}
+Stai bene!?{#Name="Mikhail"}
+Sbrigati e tiralo fuori!{#Name="Zero"}
+{06}>{#Name="Zero"}
+QUESTO sì che è uno spettacolo pietoso!{#Name="Dito"}
+Hai detto qualcosa?{#Name="Zero"}
+Chi, io? N-No! Proprio niente!{#Name="Dito"}
+È Zero! È qui! La traditrice è qui!{#Name="Soldier B"}
+Proteggici, Lady Three! Ti prego!{#Name="Soldier C"}
+C’è qualcosa di strano in questa foresta.{#Name="Soldier G"}
+E chi se ne importa? Uccidila!{#Name="Soldier E"}
+Se continua così... Lady Three... Uuurgh...{#Name="Soldier F"}
+Alzati, vecchio!{#Name="Soldier A"}

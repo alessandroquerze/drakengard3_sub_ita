@@ -1,4 +1,4 @@
-No... Dannazione, no!{#Name="Soldier B"}
+No... Miseria, no!{#Name="Soldier B"}
 Ugh. È troppo forte!{#Name="Soldier A"}
 Di questo passo, raggiungerà presto le Intoner!{#Name="Soldier G"}
 Mai. Dobbiamo proteggerle a costo della vita!{#Name="Soldier A"}
@@ -16,7 +16,7 @@ Mi... mi avevano detto che le Intoner{LF}dovevano essere pacifiche!{#Name="Soldi
 Che razza di stronzate vi insegnano{LF}di questi tempi?{#Name="Zero"}
 Chiamate un medico! Questa Intoner pazza ci ucciderà tutti!{#Name="Soldier C"}
 Certo, perché no? Non ho ancora ucciso nessun medico.{#Name="Zero"}
-Toglitevi di mezzo, dannazione!{#Name="Zero"}
+Toglitevi di mezzo, maledetti!{#Name="Zero"}
 Calmati, Zero. La rabbia rallenterà soltanto la tua spada.{#Name="Michael"}
 Lo so, è solo che... Ah, lascia perdere!{#Name="Zero"}
 Michael! Falli fuori!{#Name="Zero"}
@@ -67,20 +67,20 @@ Oh merda, è qui! Ritirata! Ritiraataa!{#Name="Soldier D"}
 Via di mezzo!{#Name="Soldier C"}
 Com'è... com'è potuto succedere...?{#Name="Soldier D"}
 Aspettate, mie amate sorelle.{LF}Sto venendo a uccidervi tutte.{#Name="Zero"}
-Sconfiggi il Titan!{#Name=" "}
+Sconfiggi il Titano!{#Name=" "}
 Trova e sconfiggi le tue sorelle alla Cattedrale.{#Name=" "}
-Old Man
+Vecchio
 Zero
-Soldier A
-Soldier C
+Soldato A
+Soldato C
 ゼロ
 Michael
 343
-Soldier F
-Soldier B
-Soldier E
-Soldier D
-Soldier G
+Soldato F
+Soldato B
+Soldato E
+Soldato D
+Soldato G
  
 È passato molto tempo, Zero.{#Name="One"}
 Davvero? Non me n'ero accorta.{#Name="Zero"}
@@ -92,7 +92,7 @@ Ehi, è Zero! Ehi, Zeeerooo!{#Name="Two"}
 Zero, questa lotta è inutile!{LF}Devi fermarti! Siamo sorelle!{#Name="Four"}
 Oh, non fare tanto la pudica, Four.{LF}Una bella zuffa tra donne mi eccita da morire...{#Name="Five"}
  {#Name="ファイブ"}
-Wow, certo che sono popolare da queste parti...{#Name="Zero"}
+Wow, certo che sono proprio ben voluta da queste parti...{#Name="Zero"}
 Basta parlare, Zero.{#Name="One"}
 Questa è la fine.{#Name="One"}
 Ehi, Zero, indovina un po'?{LF}Il mese prossimo parto per un viaggio!{#Name="Two"}

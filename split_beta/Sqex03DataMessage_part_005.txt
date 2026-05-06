@@ -1,6 +1,6 @@
 Ci deve essere un indizio o qualcosa che possa condurmi lì...{#Name="Zero"}
 Il braccio che ho perso contro One...{#Name="Zero"}
-Se è stato allora che si è verificata la diramazione, è già troppo tardi.{#Name="Zero"}
+Se è stato allora che si è verificata la Diramazione, è già troppo tardi.{#Name="Zero"}
 ワンへの借りは、返す{#Name="ゼロ"}
 Potrebbe esistere davvero un mondo senza questo fiore?{#Name="Zero"}
 Mi chiedo come sono io laggiù. O come sono le mie sorelle.{LF}...sempre che io ABBIA sorelle?{#Name="Zero"}
@@ -17,10 +17,10 @@ Bah, inutile rimuginarci sopra.{#Name="Zero"}
 Credo sia ora di parlare con Accord faccia a faccia.{#Name="Zero"}
 20 aprile, anno 1000 d.C.{#Name="Accord"}
 La Terra dei Mari.{#Name="Accord"}
-Allooora... se questa è la fine di questa diramazione, allora... Aspetta, cosa?{#Name="Accord"}
+Allooora... se questa è la fine di questa Diramazione, allora... Aspetta, cosa?{#Name="Accord"}
 Oh, cielo, non avrò mica perso per sbaglio una registrazione, vero?{#Name="Accord"}
 E che fine hanno fatto le diramazioni tra A e C?{#Name="Accord"}
-Ugh. Se combino un disastro, finirò in un guaio enorme...{#Name="Accord"}
+Ugh. Se faccio un casino, finirò in un guaio e-nor-me...{#Name="Accord"}
 Okay, respira e basta.{LF}Tanto per cominciare, controlliamo la registrazione M1410_E0002_FL...{#Name="Accord"}
  
 Dito
@@ -55,7 +55,7 @@ Non di nuovo.{#Name="Zero"}
 È solo che... mi è dispiaciuto molto per Five, capisci?{#Name="Mikhail"}
 Stava piangendo. Piangeva tantissimo,{LF}e tu l'hai uccisa lo stesso.{#Name="Mikhail"}
 Sai che era solo una recita, vero?{#Name="Zero"}
-Sì, fidati: se c'era una cosa in cui Five era brava,{LF}era fingere.{#Name="Dito"}
+Sì, fidati- se c'era una cosa in cui Five era brava,{LF}era fingere.{#Name="Dito"}
 Beh, a me non piace. Penso ancora che dovresti smettere di uccidere le tue sorelle!{#Name="Mikhail"}
 Uh-huh.{#Name="Zero"}
 La famiglia è famiglia. Dovreste andare d'accordo.{#Name="Mikhail"}

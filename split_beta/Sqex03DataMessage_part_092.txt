@@ -1,0 +1,105 @@
+説明文
+379
+109
+271
+307
+オクタ
+127
+595
+523
+91
+199
+60
+235
+ 
+目的文
+Distruggi tutte le torri.{#Name="説明文"}
+Torre meridionale distrutta!{#Name="説明文"}
+Torre orientale distrutta!{#Name="説明文"}
+Torre occidentale distrutta!{#Name="説明文"}
+Torre settentrionale distrutta!{#Name="説明文"}
+Tutte le torri distrutte!{#Name="説明文"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+Nemico in vista! Tutte le squadre in posizione!{#Name="Soldier A"}
+Quello non è un miraggio, idioti! È lei! L’Intoner demoniaca!{#Name="Soldier B"}
+Dannazione! Questa sabbia continua a finirmi negli occhi!{#Name="Soldier C"}
+砂埃でよく見えないぞ！{#Name="兵士D"}
+3a squadra annientata!{#Name="Soldier E"}
+Scappate sulle colline! Non possiamo resistere contro una vera Intoner, santo Dio!{#Name="Soldier F"}
+Richiedo supporto dalla retroguardia!{#Name="Soldier G"}
+No, impossibile... È davvero lei!?{#Name="Soldier A"}
+Capitano, giù!{#Name="Soldier C"}
+È troppo pericoloso qui! Muoviti!{#Name="Soldier D"}
+Attaccate! Attaccate! Nessuna ritirata!{#Name="Soldier B"}
+Che le anime dei nostri grandi eroi ci guidino!{#Name="Soldier E"}
+Gah! I miei occhi!{#Name="Soldier G"}
+Questa è la patria dei nostri antenati. Non dobbiamo vacillare qui!{#Name="Soldier F"}
+Questa è la patria dei nostri antenati. Non dobbiamo vacillare qui!{#Name="Soldier F"}
+Quella dannata Intoner contorta!{#Name="Soldier C"}
+俺達の超絶秘技を見せてやるッ！{#Name="兵士Ｄ"}
+Andiamo!{#Name="Soldier A"}
+Restate vicini al capitano e seguitemi!{#Name="Soldier B"}
+Tieni la testa bassa prima che te la tagli via!{#Name="Soldier E"}
+*Anf, anf, anf...* No! Non voglio morire!{#Name="Soldier G"}
+È Zero! Uccidetela! Uccidete il demonio!{#Name="Soldier C"}
+Fate a pezzi la malvagia Intoner!{#Name="Soldier D"}
+Per me è finita... Ma cadrò combattendo!{#Name="Soldier F"}
+Sono con te!{#Name="Soldier G"}
+Ci siamo!{#Name="Soldier B"}
+Sarà anche un’Intoner, ma può comunque morire!{#Name="Soldier A"}
+Abbiamo uomini a terra qui!{#Name="Soldier E"}
+Argh... Dannazione!{#Name="Soldier G"}
+Se muoio qui...ti prego...porta questo a mia sorella...{#Name="Soldier C"}
+Portaglielo tu stesso, idiota! Non moriremo qui!{#Name="Soldier D"}
+指輪だよ。アイツ、もうすぐ結婚するんだッ{#Name="兵士Ｃ"}
+Portaglielo tu stesso, idiota! Non moriremo qui!{#Name="Soldier D"}
+Affronterò io l’Intoner!{#Name="Soldier G"}
+Ehi! Non farti ammazzare!{#Name="Soldier F"}
+16 aprile dell’anno 1000 d.C.{#Name="Accord"}
+La Terra delle Sabbie.{#Name="Accord"}
+È questo che sta interferendo{LF}con la nostra connesione mentale?{#Name="Zero"}
+La magia di quelle quattro torri sta{LF}rendendo l’interferenza più forte!{#Name="Mikhail"}
+Immagino che non abbiamo scelta se non distruggerle tutte.{#Name="Zero"}
+Non preoccuparti. Possiamo farcela, Zero!{#Name="Mikhail"}
+343{#Name="343"}
+Che stanno combinando i tuoi discepoli?{#Name="Mikhail"}
+Non ne ho idea. Li ho lasciati andare. Ora sono inutili.{#Name="Zero"}
+...È davvero cattivo, Zero.{#Name="Mikhail"}
+Che vuoi? Sarebbero comunque troppo pesanti{LF}per te.{#Name="Zero"}
+E poi, sai come sono fatti.{#Name="Zero"}
+Probabilmente sono in giro a cacciare cibo pigramente,{LF}senza fregarsene di noi.{#Name="Zero"}
+A caccia, eh? Mi chiedo se riporteranno{LF}il mio preferito!?{#Name="Mikhail"}
+Tu mangi carne marcia, scemo.{LF}Non hai un preferito.{#Name="Zero"}
+Cosa!? Sei cattiva!{LF}Certo che ho dei preferiti, Zero!{#Name="Mikhail"}
+Oh, davvero? Tipo cosa?{#Name="Zero"}
+Tiiiipo...carne marcia?{LF}E...ehm...carne quasi-marcia?{#Name="Mikhail"}
+Pffft.{#Name="Zero"}
+Sono un bravo drago, Zero!{LF}Non sono schizzinoso!{#Name="Mikhail"}
+Il tuo palato dev’essere parecchio sballato{LF}per apprezzare la carne marcia come fai tu.{#Name="Zero"}
+Il mio palato? Ehi, che cos’ha che non va il mio palato!?{#Name="Mikhail"}
+Non ti piace il mio palato, Zero?{#Name="Mikhail"}
+Beh, non sei esattamente un buongustaio.{#Name="Zero"}
+Cos’è un buongustaio?{#Name="Mikhail"}
+Ehm... Beh, uno come Michael, immagino.{#Name="Zero"}
+Michael era un buongustaio con un buon palato?{LF}In che senso?{#Name="Mikhail"}
+Era...esigente. Si arrabbiava{LF}ogni volta che gli cambiavo dieta.{#Name="Zero"}
+Wow...{#Name="Mikhail"}
+E mangiava solo cibo perfettamente fresco.{#Name="Zero"}
+Se era troppo maturo? Anche solo un po’? Niente da fare.{#Name="Zero"}
+Anche se aveva fame?{#Name="Mikhail"}
+Oh sì. Restava giorni senza mangiare, se necessario.{#Name="Zero"}
+Wow! Grandioso!{#Name="Mikhail"}
+Fidati. Grandioso non è la{LF}parola che stai cercando.{#Name="Zero"}
+Dev’essere davvero difficile preparare{LF}da mangiare per un buongustaio, eh?{#Name="Mikhail"}
+Heh. Non ne hai idea. Se a Michael non piaceva{LF}qualcosa, si assicurava di farmelo sapere.{#Name="Zero"}
+Ma almeno mi ha aiutata a diventare una cuoca migliore.{#Name="Zero"}
+Quindi ora sei brava? Sei la cuoca migliore di sempre?{#Name="Mikhail"}
+Che te ne importa? Tu mangi carne marcia, ricordi?{#Name="Zero"}
+Non ha nemmeno senso provarci con te.{#Name="Zero"}
+Aww, sei cattiva!{#Name="Mikhail"}
+Ehi, raccontami ancora di Michael!{LF}Ti prego, ti prego, ti preeeego? Voglio saperne di più!{#Name="Mikhail"}
+Io... Ho dimenticato il resto.{#Name="Zero"}
+Awwwww!{#Name="Mikhail"}

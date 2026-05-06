@@ -31,13 +31,13 @@ Vendicati delle tue sorelle.{#Name=" "}
 Sconfiggi i soldati nemici!{#Name=" "}
 ダミー
 Mikhail
-Soldier B
-Soldier A
-Soldier G
-Soldier E
-Soldier C
-Soldier D
-Soldier F
+Soldato B
+Soldato A
+Soldato G
+Soldato E
+Soldato C
+Soldato D
+Soldato F
 Zero
 ゼロ
 199

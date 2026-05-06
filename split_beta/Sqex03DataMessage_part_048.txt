@@ -1,0 +1,106 @@
+Questo bastardo non vuole arrendersi!{#Name="Zero"}
+Che diavolo ha questo cagnaccio!?{#Name="Zero"}
+Certi cani proprio non sanno quando mollare.{#Name="Dito"}
+Prendilo, Zero! Prendi quel... Cer-bava!{#Name="Mikhail"}
+È Cerberus, idiota!{#Name="Zero"}
+Già, idiota. Sta' attento.{#Name="Dito"}
+Prendi quel Cer... bavoso... Ehm, quel Cer... brutus... Aspetta!{#Name="Mikhail"}
+連携しっかり！{#Name="ゼロ"}
+はいっ！{#Name="ミハイル"}
+無理っしょ。これだけ気持ちがバラバラなのに{#Name="ディト"}
+後で殴られたくなかったら、連携しっかり！{#Name="ゼロ"}
+はいっ！{#Name="ディト・ミハイル"}
+Ugh, guarda quella cosa schifosa,{LF}che lotta per restare viva...{#Name="Dito"}
+Non c'è niente di peggio di un povero idiota{LF}che non sa quanto è brutto!{#Name="Dito"}
+Ha ha! Ti rimetto al posto che ti spetta!{#Name="Dito"}
+Hmph.{#Name="Zero"}
+Zero!{#Name="Mikhail"}
+Hmm?{#Name="Zero"}
+{06}>{#Name="Zero"}
+Zero! Stai bene!?{#Name="Mikhail"}
+{06}>{#Name="Zero"}
+{06}>{#Name="Zero"}
+Porca puttana...{#Name="Dito"}
+Quindi... è così che si rigenera un'Intoner...?{#Name="Dito"}
+Non finirà... finché non saranno tutte morte.{#Name="Zero"}
+Non può finire.{#Name="Zero"}
+Zero...{#Name="Mikhail"}
+敵残り 6 体！{#Name="説明文"}
+È Zero! Zero è venuta a ucciderci!{#Name="Soldier G"}
+Smettila di farti prendere dal panico e mettiti in posizione difensiva!{#Name="Soldier F"}
+Dopo aver sconfitto Five nella Terra dei Mari,{#Name="Accord"}
+Zero prese con sé Dito, il discepolo di sua sorella, e partì verso la sua prossima destinazione.{#Name="Accord"}
+La Terra dei Monti...{#Name="Accord"}
+Dimora di un'impenetrabile cittadella alpina{#Name="Accord"}
+governata dalla casta Intoner conosciuta come Four.{#Name="Accord"}
+È Zero!{#Name="Soldier C"}
+A tutte le truppe, posizioni difensive!{#Name="Soldier D"}
+La tua invasione finisce qui, demone!{#Name="Soldier A"}
+Beh, questa sì che è fiducia in sè stessi.{#Name="Zero"}
+Miseria! È troppo forte!{#Name="Soldier F"}
+Tenete la posizione! Difendete Lady Four a ogni costo!{#Name="Soldier C"}
+Urrrgh...{#Name="Soldier G"}
+Resisti, Zero! Ti aiuto io! Ti aiuto assolutamente io!{#Name="Mikhail"}
+Fa quasi impressione quanto siano deboli questi tipi.{#Name="Dito"}
+È perché Zero è con noi!{#Name="Mikhail"}
+Lei rende TUTTO impressionante!{#Name="Mikhail"}
+Che la luce risplenda sulla nostra icona impeccabile, Lady Four!{#Name="Soldier C"}
+ミハイル
+ゼロ
+敵兵Ａ
+敵兵Ｂ
+Zero
+Mikhail
+Dito
+説明文
+Soldato C
+Soldato D
+Soldato A
+Soldato F
+兵士B
+Soldato G
+Soldato E
+兵士C
+兵士D
+Soldato B
+兵士E
+兵士A
+ディト
+兵士G
+兵士F
+ディト・ミハイル
+Accord
+Dirigiti verso la fortezza di Four.{#Name="説明文"}
+Sconfiggi i soldati nemici!{#Name="説明文"}
+Sconfiggi gli Ogre!{#Name="説明文"}
+Sconfiggi i Gigas!{#Name="説明文"}
+Sconfiggi i soldati nemici!{#Name="説明文"}
+a{#Name="a"}
+a{#Name="a"}
+a{#Name="a"}
+a{#Name="a"}
+a{#Name="a"}
+Forza! Non mollate! Caricate il prossimo colpo!{#Name="Soldier A"}
+L-Le mani mi tremano... Qualcuno mi sostituisca!{#Name="Soldier F"}
+Aiuto... Aiutami, Madre...{#Name="Soldier G"}
+Zero si avvicina! Tutti, sguainate le spade!{#Name="Soldier A"}
+Come possiamo sperare di resistere a un'Intoner?{#Name="Soldier E"}
+Potrai pensarci quanto vuoi quando sarà morta!{#Name="Soldier B"}
+Caricaaa!{#Name="Soldier C"}
+Moriremo tutti...{#Name="Soldier D"}
+Aaaugh! Il fiore! Toglietemelo di dosso! Aaaargh!{#Name="Soldier G"}
+È impazzito...{#Name="Soldier F"}
+Ci stanno ancora colpendo! Rispondete al fuoco!{#Name="Soldier B"}
+Ngh! Così forte! E veloce!{#Name="Soldier C"}
+Hai visto l'occhio di Zero?{#Name="Soldier F"}
+Visto? Come potevo non vederlo?{#Name="Soldier A"}
+Quella non è un'Intoner. È un mostro!{#Name="Soldier F"}
+Forza! Fuoco! Fuoco ORA!{#Name="Soldier B"}
+Sprecheremmo solo munizioni!{#Name="Soldier E"}
+Sta' zitto, codardo! Non lo sapremo finché non ci proviamo!{#Name="Soldier B"}
+Non mi faccio dare del codardo da uno che si è appena pisciato addosso dalla paura!{#Name="Soldier E"}
+Di questo passo, la grande nazione di Lady Four sarà ridotta in macerie!{#Name="Soldier C"}
+Dannato idiota! Apri gli occhi! Non arrenderti!{#Name="Soldier B"}
+No, aprili TU gli occhi! Moriremo tutti qui!{#Name="Soldier D"}
+あんたこそ目覚まして、現実見ろよ{#Name="兵士D"}
+Oggi il sangue scorre...{#Name="Soldier G"}

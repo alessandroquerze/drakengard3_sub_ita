@@ -1,0 +1,105 @@
+163{#Name="163"}
+343{#Name="343"}
+271{#Name="271"}
+フォウのいる要塞を目指せ！{#Name="説明文"}
+砦にある全ての砲台を破壊せよ！{#Name="説明文"}
+巨大砲台が現れた！{#Name="説明文"}
+ギガース兵と増援兵団が現れた！{#Name="説明文"}
+全てのオーガ兵を倒せ！{#Name="説明文"}
+ギガース兵を倒せ！{#Name="説明文"}
+兵士たちを殲滅せよ！{#Name="説明文"}
+目標達成 ： 全ての砲台を破壊した！{#Name="説明文"}
+目標達成 ： 巨大砲台を破壊した！{#Name="説明文"}
+60
+73
+253
+325
+379
+307
+181
+541
+271
+127
+361
+ディト
+オクタ
+セント
+デカート
+289
+109
+433
+235
+91
+415
+343
+397
+163
+217
+145
+451
+523
+199
+469
+505
+739
+559
+487
+595
+667
+631
+577
+649
+説明文
+Missione Completata!{#Name="Explanation"}
+Missione Fallita...{#Name="Explanation"}
+Bonus Oro Triplo ottenuto!{#Name="Explanation"}
+Bonus Oro Doppio ottenuto!{#Name="Explanation"}
+Hai raccolto un po’ d’oro.{#Name="Explanation"}
+Hai raccolto una discreta quantità d’oro.{#Name="Explanation"}
+Hai raccolto molto oro!{#Name="Explanation"}
+Hai raccolto tutto l’oro!{#Name="Explanation"}
+Hai preso un po’ d’oro.{#Name="Explanation"}
+Hai preso una discreta quantità d’oro.{#Name="Explanation"}
+Hai preso molto oro!{#Name="Explanation"}
+Tempo scaduto!{#Name="Explanation"}
+Soldato Dorato in arrivo.{LF}Sconfiggilo per ottenere un bonus moltiplicatore d’oro!{#Name="Explanation"}
+Altri rinforzi di Soldati Dorati.{LF}Ottieni un bonus moltiplicatore d’oro per ciascuno sconfitto!{#Name="Explanation"}
+Bonus Moltiplicatore d’Oro ottenuto!{#Name="Explanation"}
+Tutto l’oro guadagnato è andato perduto...{#Name="Explanation"}
+Tutti i Soldati Dorati sono stati sconfitti!{#Name="Explanation"}
+Spillerò a questi idioti tutto quello che hanno!{#Name="Zero"}
+Quei tesori sono miei!{#Name="Zero"}
+Posso scatenarmi E guadagnare soldi?{LF}Che altro può chiedere una ragazza?{#Name="Zero"}
+Ehi, finché è divertente E redditizio...{#Name="Zero"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Raccogli denaro e dirigiti verso l’obiettivo.{#Name="Explanation"}
+Se raggiungi l’obiettivo dopo aver raccolto tutto il denaro, otterrai un bonus triplo!{#Name="Explanation"}
+Se non raggiungi l’obiettivo, il denaro che hai raccolto verrà magicamente trasformato in cenere.{#Name="Explanation"}

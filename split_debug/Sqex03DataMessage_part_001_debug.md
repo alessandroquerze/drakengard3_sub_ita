@@ -148,7 +148,7 @@ Campaign
 `Missioni scaricabili`
 Download Missions
 
-`Database`
+`Archivio`
 Database
 
 `Flusso della storia`

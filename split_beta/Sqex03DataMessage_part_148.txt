@@ -1,0 +1,105 @@
+Premi {01}{0B} o {01}{02} per eseguire una rotolata evasiva che ti protegge{LF}dagli attacchi. Usala con la levetta sinistra per muoverti più rapidamente.
+Armi di Zero: Bracciali da Combattimento
+I bracciali da combattimento sono ideali per accumulare combo{LF}contro singoli nemici negli spazi stretti.
+操作 / 回り込み動作
+ロックオンした状態で左右ステップを行うと、{LF}敵の背後に回り込めます。
+エネミー / 小砲台兵
+大砲から発射される弾丸は、{LF}着弾カーソルの位置に落下します。
+ゼロの武器 / 剣
+剣は俊敏さと一定範囲に対する攻撃に優れた武器です。{LF}大勢に囲まれたときにその威力を発揮します。
+エネミー / アンデッド
+相手の攻撃を無効化する盾を装備しています。{LF}確実にとどめを刺さない限り、何度でも蘇ります。
+エネミー / ウルフ
+俊敏な動きと跳躍をいかしたリーチのある攻撃が得意です。{LF}リーダーウルフを中心に群れで行動します。
+戦輪の特徴 / チャージ攻撃
+{01}{03}、{01}{04}を長押しすることでチャージ攻撃ができます。{LF}{01}{04}では、技自体も強化されます。
+エネミー / スピリット
+周囲の敵兵に憑依することができる特殊なエネミーです。{LF}憑依された相手は瞬間的に攻撃力・防御力が上昇します。
+エネミー / 戦艦砲台
+大砲から発射される弾丸は、{LF}着弾カーソルの位置に落下します。
+Comandi: Azioni Base
+Mentre voli, perderai gradualmente quota. Premi {01}{01} per battere{LF}le ali e salire. Premi {01}{03} per lanciare un attacco di soffio.
+エネミー / 弓兵
+長距離攻撃を得意とする兵士です。{LF}打たれ弱く、接近戦を苦手とします。
+Comandi: Attacchi Caricati
+Premi {01}{04} mentre voli per eseguire un potente{LF}attacco caricato che consuma stamina.
+ミハイルの操作 / ロックオン
+{01}{08}で、敵をロックオンできます。{LF}狙いの敵を中心に移動し、攻撃できるようになります。
+エネミー / トロル
+動きは緩慢ですが、獲物を狙う攻撃は素早いエネミーです。{LF}痛みに鈍く、ダメージを受けても怯みにくい体質です。
+エネミー / インプ
+地上と上空を自由に行き来する飛行型エネミーです。{LF}誘導弾と上空からの素早い突進攻撃が得意です。
+操作 / 移動
+左スティックで、プレイヤーを操作します。
+操作 / カメラ
+右アナログスティックで、カメラを操作します。
+Comandi: Navigazione
+Premi {01}{0D} per visualizzare una freccia di navigazione che{LF}punterà nella direzione del prossimo obiettivo.
+Comandi: Mini-mappa
+Usa la mini-mappa in alto a destra dello schermo per controllare{LF}l’ambiente circostante. Premi {01}{0A} per cambiare il livello di zoom.
+操作 / 通常攻撃
+{01}{03}ボタンを押すと通常攻撃を行います。{LF}連打することで攻撃が変化します。
+Comandi: Aggancio
+Premi {01}{08} per agganciare un nemico; premilo di nuovo per annullare.{LF}Usa la levetta destra per passare da un bersaglio all’altro.
+Comandi: Attacchi Stamina
+Premi {01}{04} per eseguire un attacco stamina, una mossa potente{LF}che consuma energia dalla Barra Stamina.
+Barra del Sangue
+La Barra del Sangue si riempie quando sconfiggi i nemici e subisci danni;{LF}quando raggiunge un certo livello, puoi attivare la Modalità Intoner.
+操作 / ウタウタイ
+ウタウタイ
+操作 / ジャンプ斬り
+ジャンプ斬り
+エネミー / 槍兵
+エネミー / 槍兵のチュートリアル
+Comandi: Soffio di Fuoco
+Premi {01}{04} mentre sei a terra per sputare fuoco,{LF}scatenando un potente attacco che consuma stamina.
+Comandi: Parata
+Para appena prima che un attacco colpisca, e potrai contrattaccare con{LF}un tuo potente attacco senza consumare stamina.
+エネミー / 小盾兵
+エネミー / 小盾兵のチュートリアル
+使徒アビリティ / ディト
+使徒アビリティ / ディトのチュートリアル
+Linee di Caduta
+Cadi da una sporgenza oltre la linea di caduta,{LF}e subirai danni venendo riportato in cima.
+操作 / 武器チェンジ攻撃
+操作 / 武器チェンジ攻撃のチュートリアル
+エネミー / オーガ
+エネミー / オーガのチュートリアル
+エネミー / スピリット
+エネミー / スピリットのチュートリアル
+使徒アビリティ / デカート
+使徒アビリティ / デカートのチュートリアル
+使徒アビリティ / オクタ
+使徒アビリティ / オクタのチュートリアル
+Comandi: Aggancio Multiplo Chakram
+Tieni premuto {01}{04} e usa la levetta sinistra per agganciare più nemici.{LF}Rilascia {01}{04} per attaccare tutti i bersagli agganciati insieme.
+エネミー / 騎馬兵
+エネミー / 騎馬兵のチュートリアル
+エネミー / 魔導士
+エネミー / 魔導士のチュートリアル
+Danni Solari
+Se entri nella luce solare potenziata dalla magia, subirai danni.{LF}Ritirati nelle zone d’ombra per recuperare salute.
+使徒アビリティ / セント
+使徒アビリティ / セントのチュートリアル
+宝箱
+宝箱のチュートリアル
+Negozio di Armi: Acquisto e Potenziamento
+Fai scorta di oggetti e acquista o potenzia armi{LF}tra una missione e l’altra usando oro e materiali base.
+ショップ / 強化
+ショップ / 強化のチュートリアル
+Comandi: Cerchi di Evocazione
+Entra in un cerchio di evocazione e premi {01}{02} per chiamare Mikhail{LF}sul campo di battaglia, così che attacchi secondo la situazione.
+Barra del Sangue
+La Barra del Sangue si riempie quando sconfiggi i nemici e subisci danni;{LF}quando raggiunge un certo livello, puoi attivare la Modalità Intoner.
+Comandi: Modalità Intoner (In Sella)
+Premi {01}{0A} e {01}{0D} contemporaneamente per attivare la Modalità Intoner.{LF}Premili di nuovo per terminare la Modalità Intoner.
+Danni da Freddo
+Il freddo potenziato dalla magia ti farà subire danni.{LF}Scaldati vicino a un fuoco per recuperare salute.
+Richieste di Accord: Razzie di Oggetti
+Certi nemici porteranno oggetti speciali in combattimento;{LF}sconfiggili e recupera gli oggetti per completare la richiesta.
+Richieste di Accord: Razzie di Oggetti
+Raccogli tutti gli oggetti richiesti per ottenere una ricompensa da Accord,{LF}incluso uno speciale bonus di completamento valido solo la prima volta.
+Uso delle Bombe
+Alcuni soldati portano bombe letali che cadono e si innescano{LF}quando vengono sconfitti. Usale a tuo vantaggio!
+Bombe e Non Morti
+A quanto pare, i non morti sono deboli contro gli esplosivi.{LF}Se una bomba dovesse esplodere nelle vicinanze...

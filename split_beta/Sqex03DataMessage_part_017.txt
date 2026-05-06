@@ -51,7 +51,7 @@ Personaggi
 Armi
 Visualizza informazioni dettagliate sul personaggio.
 Visualizza storie delle armi e altre informazioni sulle armi.
-Database
+Archivio
 {04}
 ? ? ?
 Spade

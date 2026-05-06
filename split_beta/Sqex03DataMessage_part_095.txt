@@ -1,0 +1,105 @@
+Soldato G
+Soldato F
+Mikhail
+Zero
+兵士Ａ
+Cent
+541
+ディト
+Dito
+兵士Ｆ
+兵士Ｇ
+兵士Ｂ
+兵士Ｃ
+兵士Ｄ
+ゼロ
+オクタ
+デカート
+セント
+Octa
+Decadus
+ここまでだ{#Name="ゼロ"}
+今、なんと？{#Name="オクタ"}
+お前達はここまででいい{#Name="ゼロ"}
+ここから先は私だけで行く{#Name="ゼロ"}
+そんな……我々の事をお気遣いでしたら{#Name="デカート"}
+違う{#Name="ゼロ"}
+お前達使徒は、ウタウタイの力が無ければ人の形を維持出来ない{#Name="ゼロ"}
+いずれ、消えてしまうんだ{#Name="ゼロ"}
+だからその前に{#Name="ゼロ"}
+元の姿に戻れ{#Name="ゼロ"}
+さよなら{#Name="ゼロ"}
+楽しかったよ……{#Name="ゼロ"}
+Dirigiti alla Cattedrale.{#Name="説明文"}
+Sconfiggi gli Imp!{#Name="説明文"}
+Sconfiggi il Cerbero grigio!{#Name="説明文"}
+Mi arrendo... È troppo forte per noi... Non la batteremo mai...{#Name="Soldier G"}
+Non azzardarti a fare il codardo!{#Name="Soldier B"}
+È ora di un attacco su vasta scala!{#Name="Soldier A"}
+Alla fine siamo arrivati a questo...{#Name="Soldier E"}
+Com’è riuscita ad avanzare fin qui?{#Name="Soldier C"}
+È un’Intoner! Le Intoner fanno sul serio, amico!{#Name="Soldier D"}
+La ritirata non è un’opzione! Perché diavolo pensate che siamo qui!?{#Name="Soldier F"}
+Ha ragione! Combattiamo fino alla fine! Per Lady One!{#Name="Soldier G"}
+Dobbiamo diventare uno scudo per la nostra Signora!{#Name="Soldier A"}
+È l’unico modo per ripagare la nostra salvatrice!{#Name="Soldier A"}
+それが、我々を救ってくださったワン様への…恩返しだ{#Name="兵士Ａ"}
+Zero! Demone abominevole!{#Name="Soldier B"}
+まさに、忌まわしき災い！{#Name="兵士Ｂ"}
+Coraggio, gente!{#Name="Soldier C"}
+Coraggio? Stiamo per MORIRE!{#Name="Soldier D"}
+Allora affronta la morte con cuore saldo!{#Name="Soldier C"}
+State indietro. Sarò io il vostro scudo!{#Name="Soldier F"}
+S-Sei sicuro?{#Name="Soldier G"}
+I soldati veterani devono essere fari di speranza per i giovani. Ora dietro di me!{#Name="Soldier F"}
+E vi prego...salvate Lady One per me. Per tutti noi.{#Name="Soldier F"}
+È il momento, uomini! Date tutto!{#Name="Soldier A"}
+Capitano! I nostri numeri sono—{#Name="Soldier C"}
+I nostri numeri vanno benissimo! Ora combatteteee!{#Name="Soldier A"}
+了解！{#Name="兵士Ｃ"}
+ヤツら全員狂ってます！{#Name="兵士Ｇ"}
+戦場とは、そういうヤツらと向き合う場所さ{#Name="兵士Ｅ"}
+No... Noooooo!{#Name="Soldier G"}
+Continuate a muovervi!{#Name="Soldier E"}
+Supporto posteriore!{#Name="Soldier B"}
+Ricevuto! Richiedo rinforzi ora!{#Name="Soldier D"}
+D-Dannazione! Non arretrate! Non arre...trate...{#Name="Soldier A"}
+Capitano!{#Name="Soldier E"}
+Continuate a muovervi!{#Name="Soldier F"}
+Signore! Non abbiamo più dove andare!{#Name="Soldier G"}
+Li stiamo almeno ferendo!?{#Name="Soldier C"}
+Ormai dobbiamo aver fatto QUALCHE danno!{LF}...Giusto!?{#Name="Soldier D"}
+Avremmo dovuto saperlo che semplici umani{LF}non potevano combattere un’Intoner...{#Name="Soldier C"}
+Beh, ormai ci siamo messi nei guai, quindi continuate a combattere!{#Name="Soldier D"}
+Forza, muovetevi! Dannazione, stupide gambe, MUOVETEVI!{#Name="Soldier B"}
+Che rottura! Non possiamo semplicemente uccidere tutti{LF}e levarci dalle palle una buona volta?{#Name="Dito"}
+Sono sicuro che lo si capisca dal mio volto,{LF}ma sono quello che si potrebbe definire...delicato.{#Name="Cent"}
+Beh, è stata una lunga battaglia.{LF}State iniziando a rallentare?{#Name="Octa"}
+Cielo, no! Non scambiare la mia{LF}disinvoltura rilassata per pigrizia, mmm?{#Name="Cent"}
+ {#Name="セント"}
+Dobbiamo tenere Lady Zero al sicuro!{#Name="Decadus"}
+Sono abbastanza sicuro che "Lady Zero" sappia{LF}badare al proprio culo benissimo.{#Name="Dito"}
+Diavolo, semmai dovrebbe essere lei a proteggere NOI!{#Name="Dito"}
+どっちかっつーと、{LF}こっちがゼロに守ってもらいたいくらいだ{#Name="ディト"}
+Non dire certe cose!{LF}Dobbiamo dare tutto per la nostra Intoner!{#Name="Decadus"}
+Percepisco il respiro putrido di{LF}soldati tremanti di paura.{#Name="Decadus"}
+Momento curiosità! Sapevate che il sedici percento{LF}del respiro umano è composto da sostanze nocive?{#Name="Cent"}
+Io... No, non l’ho mai sentito.{#Name="Decadus"}
+Non credo proprio. È la prima volta{LF}che lo sento anch’io.{#Name="Cent"}
+Com’è che finisco sempre a combattere{LF}di nuovo queste stupide battaglie?{#Name="Dito"}
+Oh ho ho! Tutto per Lady Zero, ovviamente.{#Name="Octa"}
+La semplice verità è che siamo tutti completamente{LF}indifesi davanti al suo fascino...{#Name="Octa"}
+Mi prendi per il culo...{#Name="Dito"}
+*Anf, anf...*{#Name="Zero"}
+Zero, stai bene? La forza del{LF}fiore sta diventando più forte!{#Name="Mikhail"}
+Continua...ad andare...{#Name="Zero"}
+Ma...{#Name="Mikhail"}
+Chiudi il becco e continua ad andare, qualunque cosa accada!{LF}Mi hai sentito!?{#Name="Zero"}
+Cane marcio... Ti ammazzo!{LF}E poi ti ammazzo di nuovo!{#Name="Dito"}
+Nonostante tutta la tua spacconeria antisociale,{LF}Dito, vedo che stai ancora combattendo con impegno.{#Name="Decadus"}
+Eh, già che sono qui, tanto vale dare una mano{LF}a Z.{#Name="Dito"}
+Vedi, Dito? Il potere della vera{LF}amicizia conquista tutto!{#Name="Decadus"}
+Sì, sì. Non farti diventare le mutande {LF}un groviglio per questo. Mi stai inquietando.{#Name="Dito"}
+Cielo. Che cosa mai dovremmo fare ora?{#Name="Cent"}
+Io seguirò Lady Zero fino ai confini della terra.{#Name="Octa"}
+E se muori?{#Name="Cent"}

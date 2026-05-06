@@ -33,14 +33,14 @@ Libro della Disciplina
 クエスト用服１９
 クエスト用服２０
 クエスト用服２１
-Corno di bue
-Corno di unicorno
-Artiglio di falco
-Artiglio d’aquila
-Pungiglione di rospo
-Zanna di vipera
-Fossile d’osso
-Fossile vegetale
+Corno di Bue
+Corno di Unicorno
+Artiglio di Falco
+Artiglio d’Aquila
+Pungiglione di Rospo
+Zanna di Vipera
+Fossile d’Osso
+Fossile Vegetale
 Manufatto del Vecchio Mondo
 Frammento del Vecchio Mondo
 クエスト用武器１１
@@ -75,7 +75,7 @@ Zero! Vai! Sconfiggi le tue sorelle!{#Name="Michael"}
 {06}>{#Name="Zero"}
 No! Non hai la forza per farlo!{#Name="Zero"}
 Questi fantocci non sono all’altezza di un drago!{#Name="Michael"}
-Bene. Basta che tu non mi muoia addosso.{#Name="Zero"}
+Bene. Basta che tu non muoia ora.{#Name="Zero"}
 Addio, sciocca...{#Name="Michael"}
 Tutti voi...{#Name="Zero"}
 Donne, bambini, anziani... Non importa.{LF}Se vi mettete sulla mia strada, morirete.{#Name="Zero"}

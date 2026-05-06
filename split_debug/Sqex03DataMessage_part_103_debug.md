@@ -310,7 +310,7 @@ Your chain (hit) count will rise as you strike foes{LF}in rapid succession. Once
 `Entra in un cerchio di evocazione e premi {01}{02} per chiamare il tuo{LF}drago a combattere al tuo fianco. Attaccherà{LF}in vari modi a seconda della situazione.{#Name="Summon Circles"}`
 Enter a summon circle and press {01}{02} to call your{LF}dragon to fight alongside you. He will attack{LF}in various ways depending on the situation.{#Name="Summon Circles"}
 
-`Visita il Database dal Menu Principale{LF}per visualizzare le Storie delle Armi. Ogni volta che{LF}potenzi un’arma e ne aumenti il livello,{LF}svelerai un’altra parte della sua storia.{#Name="Weapon Stories"}`
+`Visita l'Archivio dal Menu Principale{LF}per visualizzare le Storie delle Armi. Ogni volta che{LF}potenzi un’arma e ne aumenti il livello,{LF}svelerai un’altra parte della sua storia.{#Name="Weapon Stories"}`
 Visit the Database from the Main Menu{LF}to view Weapon Stories. Each time you{LF}upgrade a weapon and raise its level,{LF}you'll reveal more of its story.{#Name="Weapon Stories"}
 
 

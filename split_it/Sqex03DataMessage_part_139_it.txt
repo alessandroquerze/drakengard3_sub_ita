@@ -1,0 +1,105 @@
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi gli Eagle Talon nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti gli Eagle Talon raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi i Viper Fang nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti i Viper Fang raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi i Plant Fossil nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti i Plant Fossil raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi gli Old-World Shard nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti gli Old-World Shard raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi i Book of Ambition nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti i Book of Ambition raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi i Book of Stoicism nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti i Book of Stoicism raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi i Book of Mystery nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti i Book of Mystery raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi i Book of Innocence nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti i Book of Innocence raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Prendi i Book of Discipline nascosti nei Forzieri d’Acciaio!{#Name="Explanation"}
+Tutti i Book of Discipline raccolti!{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+予備{#Name="Explanation"}
+Spiegazione
+Zero
+Condizioni Completamento Quest
+クエストクリア条件を表示　　１０１０＿１
+Ottieni 7 Tealstone.{LF}Puoi combattere solo con le spade.
+Ottieni 8 Ox Horn.{LF}Puoi combattere solo con le spade.
+Ottieni 9 Book of Hope.
+クエストクリア条件を表示　　１０２０＿１
+Ottieni 3 Pinkstone.{LF}Puoi combattere solo con le spade.
+Ottieni 3 Unicorn Horn.{LF}Puoi combattere solo con le spade.
+Ottieni 3 Book of Ambition.
+Raccogli quanto più oro possibile prima{LF}che il tempo scada.
+クエストクリア条件を表示　　１０３０＿２
+クエストクリア条件を表示　　１０４０＿１
+クエストクリア条件を表示　　１０４０＿２
+Torna vivo dal Survival Match.
+Torna vivo dal Survival Match.
+Torna vivo dal Survival Match.
+Torna vivo dal Survival Match.
+クエストクリア条件を表示　　２０１０＿１
+クエストクリア条件を表示　　２０１０＿２
+クエストクリア条件を表示　　２０２０＿１
+Ottieni 7 Flintstone.{LF}Puoi combattere solo con le lance.
+Ottieni 8 Hawk Talon.{LF}Puoi combattere solo con le lance.
+Ottieni 9 Book of Reticence.
+クエストクリア条件を表示　　２０３０＿１
+クエストクリア条件を表示　　２０３０＿２
+Raccogli quanto più oro possibile prima{LF}che il tempo scada.
+クエストクリア条件を表示　　２０４０＿２
+クエストクリア条件を表示　　２０５０＿１
+Ottieni 3 Amberstone.{LF}Puoi combattere solo con le lance.
+Ottieni 3 Eagle Talon.{LF}Puoi combattere solo con le lance.
+Ottieni 3 Book of Stoicism.
+クエストクリア条件を表示　　２０６０＿１
+クエストクリア条件を表示　　２０６０＿２
+クエストクリア条件を表示　　３０１０＿１
+Ottieni 3 Movestone.{LF}Puoi combattere solo con i Bracciali da Combattimento.
+Ottieni 3 Viper Fang.{LF}Puoi combattere solo con i Bracciali da Combattimento.
+Ottieni 3 Book of Mystery.
+クエストクリア条件を表示　　３０２０＿１
+クエストクリア条件を表示　　３０２０＿２
+Raccogli quanto più oro possibile prima{LF}che il tempo scada.
+クエストクリア条件を表示　　３０３０＿２
+クエストクリア条件を表示　　３０４０＿１
+クエストクリア条件を表示　　３０４０＿２
+クエストクリア条件を表示　　３０５０＿１
+Ottieni 7 Foodstone.{LF}Puoi combattere solo con i Bracciali da Combattimento.
+Ottieni 8 Toad Stinger.{LF}Puoi combattere solo con i Bracciali da Combattimento.
+Ottieni 9 Book of Sanctity.
+クエストクリア条件を表示　　３０６０＿１
+クエストクリア条件を表示　　３０６０＿２
+クエストクリア条件を表示　　４０１０＿１
+Ottieni 7 Floatstone.{LF}Puoi combattere solo con i chakram.
+Ottieni 8 Bone Fossil.{LF}Puoi combattere solo con i chakram.
+Ottieni 9 Book of Purity.
+クエストクリア条件を表示　　４０２０＿１
+Ottieni 3 Magnetite Stone.{LF}Puoi combattere solo con i chakram.
+Ottieni 3 Plant Fossil.{LF}Puoi combattere solo con i chakram.

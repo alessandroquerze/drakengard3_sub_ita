@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from pathlib import Path
 
-SPLIT_IT_DIR = Path('split_en_beta')
+SPLIT_IT_DIR = Path('split_beta')
 MERGED_IT = Path('Sqex03DataMessage_it.txt')
 
 

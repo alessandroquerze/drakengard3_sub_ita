@@ -3,7 +3,7 @@ KA-BOOM! Ce l'abbiamo fatta! Intoner abbattuta! Intoner abbattuta!{LF}Avete vist
 Lady Three sarà felicissima!{#Name="Soldier A"}
 Woo-hoo! Sì, baby, SÌ! Ha ha ha ha!{#Name="Soldier A"}
 Dopo tutta la fatica che ho fatto per procurarmi quella stramaledetta aeronave...{#Name="Zero"}
-Vi farò a pezzi fino all'ultimo bastardo!{#Name="Zero"}
+Vi affetterò tutti quanti fino all'ultimo bastardo!{#Name="Zero"}
 Dopo aver assassinato Four,{#Name="Accord"}
 Zero volò verso la sua prossima destinazione: la Terra delle Foreste.{#Name="Accord"}
 Era un luogo intriso di follia, e la dimora di sua sorella, Three...{#Name="Accord"}
@@ -13,8 +13,8 @@ Mikhail
 Decadus
 ミハイル
  
-Soldier A
-Soldier B
+Soldato A
+Soldato B
 Accord
 Ehi, uh, sei sicura che siamo al sicuro con quel vecchio Occhi da Insetto laggiù?{#Name="Dito"}
 Siamo ancora nel territorio di Three, sai?{LF}Potrebbe pugnalarci alle spalle praticamente in qualsiasi momento.{#Name="Dito"}

@@ -1,0 +1,105 @@
+Bene. Uccidiamolo e andiamo avanti!{#Name="Zero"}
+Finalmente... il Santuario delle Sabbie.{#Name="Zero"}
+Dopo aver decimato la base nemica,{#Name="Accord"}
+Zero scoprì dei documenti che indicavano la posizione del Santuario delle Sabbie.{#Name="Accord"}
+Ma il sentiero che l’avrebbe condotta lì era{LF}un inferno rovente che puniva ogni intruso...{#Name="Accord"}
+Restate all’ombra per recuperare le forze!{#Name="Decadus"}
+暑すぎる！　クソ！　死ね！{#Name="ゼロ"}
+このクソみたいな魔法を出したクソには、{LF}クソみたいに死んでもらうからな……{#Name="ゼロ"}
+イチイチイチイチ面倒な事しやがって……{#Name="ゼロ"}
+またか……{#Name="ゼロ"}
+説明文
+（リザーブ）
+Zero
+Octa
+Dito
+Decadus
+デカート
+Accord
+ゼロ
+Amici! Benvenuti!{#Name="Cent"}
+......{#Name="Zero"}
+Two.{#Name="Zero"}
+......{#Name="Two"}
+Lady Two è un tantino esausta al momento.{#Name="Cent"}
+Io, ehm... Heh heh heh. Beh, che posso dire?{#Name="Cent"}
+Immagino che i miei doni fisici parlino da soli.{#Name="Cent"}
+Sai, in realtà cerco di assicurarmi che anche lei apprezzi i nostri piccoli incontri proprio come—{#Name="Cent"}
+TWO!{#Name="Zero"}
+Lady Two è persa nei suoi sogni in questo momento.{#Name="Cent"}
+Forse potresti provare a non interrompere.{#Name="Cent"}
+...La sua mente è andata, vero?{#Name="Zero"}
+Non era completamente sviluppata.{#Name="Zero"}
+Il suo corpo non riusciva a reggere il potere del suo canto.{#Name="Zero"}
+Consegnamela. Metterò fine alla sua sofferenza.{#Name="Zero"}
+Eeeeccoo, temo di non poterlo fare.{#Name="Cent"}
+Hai idea di cosa stai facendo?{#Name="Zero"}
+Beh, certo che no! Duh!{#Name="Cent"}
+Voglio dire, guarda- dopotutto sono solo un vecchio discepolo idiota.{#Name="Cent"}
+È piuttosto semplice, davvero. Tutto ciò che faccio è tenere la {LF}testa bassa e seguire gli ordini.{#Name="Cent"}
+A proposito, lei mi ha ordinato di ucciderti, quindi...{#Name="Cent"}
+Sei davvero un idiota.{#Name="Zero"}
+{06}>{#Name="Zero"}
+D’accordo, mia signora. Apra bene e dica "aaaaaah..."{#Name="Cent"}
+Aaaaaahh...{#Name="Two"}
+Sì! Perfetto! Proprio così, continui!{#Name="Cent"}
+Ecco il secondo canto:{#Name="Cent"}
+Grande Pugno dell’Antichità!{#Name="Cent"}
+Le tempeste di vento sanguigno che squarciano il destino...{#Name="Cent"}
+La mano d’acciaio che ha giurato fedeltà...{#Name="Cent"}
+Attraversa gli innumerevoli sciami di morti contorti!{#Name="Cent"}
+Io, Cent, ti evoco nel mio nome...{#Name="Cent"}
+Egregori, danza!{#Name="Cent"}
+91{#Name="91"}
+{06}>{#Name="Mikhail"}
+{06}>{#Name="Mikhail"}
+Mich...ael...{#Name="Two"}
+{06}>{#Name="Zero"}
+{06}>{#Name="Mikhail"}
+{06}>{#Name="Mikhail"}
+{06}>{#Name="Mikhail"}
+Tu...ti sei evoluto...di nuovo.{#Name="Zero"}
+......{#Name="Zero"}
+Huh. Immagino che sia finita.{#Name="Cent"}
+Beh! Un uomo astuto e affascinante come me sa quando è sconfitto.{#Name="Cent"}
+Suppongo che da questo momento in poi...servirò voi, Lady Zero.{#Name="Cent"}
+Non seguirai Two nella tomba?{#Name="Zero"}
+Cielo, no!{#Name="Cent"}
+Voglio solo servire un’Intoner. Non mi importa davvero quale.{#Name="Cent"}
+Dopotutto...sono solo un grande idiota, giusto?{#Name="Cent"}
+Nemico avvistato! Tutti gli uomini, in posizione!{#Name="Soldier A"}
+Dobbiamo tenere al sicuro la nostra amata Lady Two!{#Name="Soldier B"}
+Non ritiratevi! Mai ritirarsi!{#Name="Soldier F"}
+È Zero, il cigno nero della menzogna!{#Name="Soldier C"}
+Si pentirà del giorno in cui ha sfidato Lady Two!{#Name="Soldier D"}
+Nooo! Ho paura! Toglietemi dalla prima linea!{#Name="Soldier G"}
+Resisti! Se moriamo, moriamo insieme!{#Name="Soldier E"}
+Mantenete la posizione! Siamo l’ultima avanguardia di Lady Two!{#Name="Soldier B"}
+Sì! È ora di mostrarle il nostro invincibile pugno di ferro!{#Name="Soldier A"}
+Per dio. Doveva proprio evocare{LF}queste cose con la testa da zucca.{#Name="Zero"}
+Oh? Ma Lady Two pensa che siano molto{LF}più utili delle semplici vecchie zucche.{#Name="Cent"}
+Oh, momento curiosità! Sapete perché alcune{LF}zucche sono strette al centro?{#Name="Cent"}
+Così possono ridistribuire i nutrienti{LF}a metà del frutto!{#Name="Cent"}
+È SCIENZA! Wah-chaaa!{#Name="Cent"}
+Smettila di fingere di sapere{LF}di cosa stai parlando, idiota!{#Name="Zero"}
+Idiota? Mmm, beh. Scortese.{#Name="Cent"}
+Ora, io sono un uomo dal cuore gentile, quindi{LF}di solito sono disposto a perdonare simili insulti...{#Name="Cent"}
+Ma quello era davvero fuori luogo.{LF}Non è vero, Lady Two?{#Name="Cent"}
+Un idiota è un idiota.{#Name="Zero"}
+E Two ha perso l’anima perché{LF}ha creduto a tutte le stronzate idiote che sputavi.{#Name="Zero"}
+Questo la rende la più grande idiota di tutti. {#Name="Zero"}
+BASTA! SMETTERAI di sminuire{LF}la mia signora IMMEDIATAMENTE!{#Name="Cent"}
+Combatterne due insieme è dura.{#Name="Zero"}
+Forse invece possiamo essere tutti amici!{#Name="Mikhail"}
+Ne dubito.{#Name="Zero"}
+トウ様、おいたわしや……。あの様子では、まぐわいを楽しむどころではありませんな{#Name="オクタ"}
+かもね！{#Name="ゼロ"}
+ここは一つ、私めが新たな境地を切り拓いて見せましょうぞ{#Name="オクタ"}
+トウとヤるのは勝手だが、ヤる前にこいつらを倒していけよ{#Name="ゼロ"}
+あとちょっとですね、ゼロ！{#Name="ディト"}
+ああ。一気にいくぞ！！{#Name="ゼロ"}
+Bene! SCHIACCIALO!{#Name="Zero"}
+ゼロ様、お見事！{#Name="オクタ"}
+お世辞を言ってるヒマがあったら、{LF}一体でも多く倒せ！{#Name="ゼロ"}
+È davvero buio qui, eh?{#Name="Mikhail"}
+Già.{#Name="Zero"}

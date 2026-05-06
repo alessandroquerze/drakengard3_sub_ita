@@ -1,0 +1,105 @@
+Questa potrebbe non essere la migliore linea d'azione ...{#Name="Octa"}
+Rilassati. Ce la faccio.{#Name="Zero"}
+Vi prego di ripensarci, mia signora.{LF}Nessuno vi giudicherebbe.{#Name="Decadus"}
+Basta!{#Name="Zero"}
+Ho detto che ce la faccio! Per che razza di{LF}idiota mi avete preso!?{#Name="Zero"}
+Guardate e imparate, idioti!{#Name="Zero"}
+...Non dire una parola.{#Name="Zero"}
+Oh, non avevo intenzione.{#Name="Dito"}
+Nessun "te l’avevo detto"...{LF}Nessun "guarda quanto sei stupida"...{#Name="Dito"}
+No! Bocca cucita.{#Name="Dito"}
+Ti strapperò le labbra se non le chiudi.{#Name="Zero"}
+Finalmente! Questo è più il mio stile.{#Name="Zero"}
+Tutto quel saltellare in giro mi stava facendo impazzire.{#Name="Zero"}
+Sono molto più brava a fare a pezzi la gente. {#Name="Zero"}
+なるほど、性に合ってますな。たしかに{#Name="オクタ"}
+La città è la fortezza di Lady Two!{LF}Va protetta a ogni costo!{#Name="Soldier B"}
+Hee hee hee hee hee! Lady Two... La vedo!{#Name="Soldier G"}
+Riprenditi! Stai avendo allucinazioni!{#Name="Soldier F"}
+Agli impuri non deve mai essere permesso{LF}di mettere piede a Cathedral City!{#Name="Soldier A"}
+Infatti! Come osa Zero mettersi{LF}sullo stesso piano di Lady Two!{#Name="Soldier E"}
+Finché Lady Two sarà lì per me,{LF}non desidero nient’altro!{#Name="Soldier C"}
+Inchinati davanti a Lady Two, falsa Intoner!{#Name="Soldier D"}
+Combattete per Lady Two!{LF}La nostra guida è la salvatrice di tutta l’umanità!{#Name="Soldier A"}
+Tu! Dov’è il tuo equipaggiamento?{#Name="Soldier F"}
+Non temete! Lady Two è la mia spada!{LF}Lady Two è il mio scudo!{#Name="Soldier G"}
+I venti di Lady Two soffieranno{LF}come un giusto uragano!{#Name="Soldier G"}
+Questi tizi sono fottutamente strani.{#Name="Zero"}
+L’hai detto.{#Name="Cent"}
+Certo, chi sono io per parlare? Guarda con chi giro.{#Name="Zero"}
+Tenete il vostro equipaggiamento, uomini! Restate in formazione!{#Name="Soldier B"}
+Uomo a terra! Uomo a terra qui!{#Name="Soldier C"}
+Il momento del giudizio è arrivato!{LF}Lady Two vede e sa tutto!{#Name="Soldier E"}
+Attenti! Soldato ferito qui!{#Name="Soldier C"}
+Okay. Questo è un po’ inquietante.{#Name="Zero"}
+Sì. Si stanno trasformando in un branco di fanatici.{#Name="Dito"}
+Le credenze di una persona possono spesso{LF}spingerla oltre il limite.{#Name="Octa"}
+Questi nemici sono piuttosto ostinati, hmm?{LF}Dobbiamo sbrigarci.{#Name="Octa"}
+Vorrei poter bruciare queste rovine{LF}e tutti quelli all'dentro.{#Name="Zero"}
+Oh ho ho! Sempre così impulsiva...{#Name="Octa"}
+Tuttavia, capisco. Devi essere{LF}preoccupata per il tuo drago.{#Name="Octa"}
+Per niente!{#Name="Zero"}
+ここにもオカシイ奴がいたか{#Name="ゼロ"}
+トウは居なかったな……{#Name=" "}
+Quello è il percorso per l’uscita?{#Name="Zero"}
+Suppongo che questo significhi che Lady Two{LF}non sia mai stata qui.{#Name="Decadus"}
+Eppure abbiamo sentito i soldati parlare{LF}molte volte di Cathedral City.{#Name="Octa"}
+Cathedral City... Dev’essere lì che si trova One.{#Name="Zero"}
+469{#Name="469"}
+577{#Name="577"}
+Allora dirigiamoci a Cathedral City.{#Name="Zero"}
+説明文
+（リザーブ）
+Soldato A
+Soldato F
+Soldato B
+Soldato C
+Soldato D
+Soldato E
+595
+Soldato G
+Zero
+Dito
+Decadus
+Cent
+Octa
+オクタ
+ゼロ
+ 
+469
+577
+Attraversa le rovine del deserto.{#Name="説明文"}
+Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}
+Sconfiggi l’Ogre!{#Name="説明文"}
+Sconfiggi il Cerbero di Fiamme!{#Name="説明文"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+Lady Two è con tutti noi!{#Name="Soldier A"}
+Va tutto bene! Andrà tutto bene!{#Name="Soldier A"}
+Lady Two è l’unica vera creatrice! Anche se il mondo finirà, noi sopravvivremo! {#Name="Soldier B"}
+Infatti! Qualsiasi mondo che resista a Lady Two deve essere fatto a pezzi!{#Name="Soldier C"}
+N-No... NO! Non voglio morire!{#Name="Soldier G"}
+Non morirai, figlio mio.{#Name="Soldier F"}
+Sarai il fondamento su cui Lady Two costruirà un mondo migliore!{#Name="Soldier F"}
+No! Risparmiami! Lasciami andare! Ti pregoooo!{#Name="Soldier G"}
+Ecco... Continuaaaa a sorridere... Ormai è quasi finita...{#Name="Soldier F"}
+Eccola! Il demonio putrido che chiamano Zero!{#Name="Soldier E"}
+Ci offriamo a Lady Two!{#Name="Soldier D"}
+L’offerta deve essere compiuta!{#Name="Soldier C"}
+Presto, molto presto, tutti su questo mondo saranno giudicati!{#Name="Soldier B"}
+Cosa posso fare per Lady Two?{#Name="Soldier C"}
+Cosa dovrei fare!? Qualcuno! Vi prego, ditemelo!{#Name="Soldier C"}
+Gloria a Lady Two! Gloria a Lady Twoooo!{#Name="Soldier D"}
+Gloria alla nostra Signora! Gloria alla nostra Signora!{#Name="Soldier B"}
+Il giorno del giudizio è vicino! Risorgeremo e raggiungeremo una dimensione superiore!{#Name="Soldier E"}
+Lady Two è la santa trinità! Madre, moglie e figlia dell’umanità!{#Name="Soldier F"}
+Strappate il fiore marcio dal volto della falsa Intoner!{#Name="Soldier G"}
+Quel bocciolo è un affronto a Lady Two!{#Name="Soldier G"}
+Abbiamo bevuto dal calice dell’acqua santa! Siamo invincibili!{#Name="Soldier A"}
+Sììì!{#Name="Soldier B"}
+L’acqua santa di Lady Two è dentro di noi!{#Name="Soldier F"}
+Lady Two è una sorgente di rettitudine! La sua divinità può evocare miracoli!{#Name="Soldier F"}

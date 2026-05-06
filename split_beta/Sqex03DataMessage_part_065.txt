@@ -1,0 +1,106 @@
+テスト１６９{#Name="テスト"}
+テスト１７０{#Name="テスト"}
+テスト１７１{#Name="テスト"}
+テスト１７２{#Name="テスト"}
+テスト１７３{#Name="テスト"}
+テスト１７４{#Name="テスト"}
+テスト１７５{#Name="テスト"}
+テスト１７６{#Name="テスト"}
+テスト１７７{#Name="テスト"}
+テスト１７８{#Name="テスト"}
+テスト１７９{#Name="テスト"}
+テスト１８０{#Name="テスト"}
+テスト１８１{#Name="テスト"}
+テスト１８２{#Name="テスト"}
+テスト１８３{#Name="テスト"}
+テスト１８４{#Name="テスト"}
+テスト１８５{#Name="テスト"}
+テスト１８６{#Name="テスト"}
+テスト１８７{#Name="テスト"}
+テスト１８８{#Name="テスト"}
+テスト１８９{#Name="テスト"}
+テスト１９０{#Name="テスト"}
+説明文
+Soldato A
+Soldato B
+Soldato D
+Soldato C
+Soldato E
+Soldato G
+Soldato F
+Fata
+Zero
+Dito
+Decadus
+Mikhail
+ミハイル
+Re Fata
+テスト
+・ゼロがいきなりミハイルに騎乗しているので、その説明。{#Name="ゼロ"}
+予備{#Name="ゼロ"}
+予備{#Name="ゼロ"}
+・ゼロがいきなりミハイルに騎乗しているので、その説明。{#Name="ゼロ"}
+・人面木があるのでその説明。{#Name="ゼロ"}
+予備{#Name="ゼロ"}
+・大きな樹のウロをパンアップし、「ここから出る」という示唆を。{#Name="ゼロ"}
+予備{#Name="ゼロ"}
+予備{#Name="ゼロ"}
+・蔦に覆われた橋などを通過。{#Name="ゼロ"}
+予備{#Name="ゼロ"}
+予備{#Name="ゼロ"}
+※蔦を破壊しながら進行。{#Name="ゼロ"}
+予備{#Name="ゼロ"}
+予備{#Name="ゼロ"}
+・最後の砲台エリアに閉じ込められる。{#Name="ゼロ"}
+予備{#Name="ゼロ"}
+予備{#Name="ゼロ"}
+・砲台エリアでの戦闘。{#Name="ゼロ"}
+予備{#Name="ゼロ"}
+予備{#Name="ゼロ"}
+Il mio nome è Octa.{#Name="Octa"}
+Sono il discepolo di Lady Three, signora dei boschi.{#Name="Octa"}
+Davvero?{#Name="Zero"}
+Davvero gentile da parte tua venire da me.{#Name="Zero"}
+Quelle maledette fate cominciavano a farmi girare le palle.{#Name="Zero"}
+Bene, nonnetto, sei pronto a farti schiacciare?{#Name="Zero"}
+{06}>{#Name="Octa"}
+Se solo sapessi quale sorpresa ho IN SERBO per TE!{#Name="Octa"}
+...Mi arrendo.{#Name="Octa"}
+Tu cosa?{#Name="Zero"}
+Mi arrendo.{#Name="Octa"}
+Sono venuto qui perché voglio unirmi alla tua causa.{#Name="Octa"}
+Ehi! Ragazzi, è fantastico!{#Name="Mikhail"}
+Se vuole essere nostro amico, non dobbiamo combattere né niente!{#Name="Mikhail"}
+Ben detto, mio amico alato.{#Name="Octa"}
+Uh...certo. Come ti pare.{#Name="Zero"}
+ゼロ！　これより上に飛ぶのは危険だよ！{#Name="ミハイル"}
+さっきの砲弾がまた飛んできちゃう！{#Name="ミハイル"}
+Sconfiggi i Lupi Alfa!{#Name="説明文"}
+Sconfiggi i Cerberi!{#Name="説明文"}
+Sconfiggi i nemici che ti sbarrano la strada!{#Name="説明文"}
+Sconfiggi i Gigas non morti!{#Name="説明文"}
+予備{#Name="説明文"}
+Addentrati nella foresta.{#Name="説明文"}
+Argh! Zero è arrivata fin qui!?{#Name="Soldier C"}
+No! NOOOO! ...Aspetta, qual è Zero?{#Name="Soldier D"}
+Quella tipa inquietante con i capelli, idiota! Ma che cazzo?{#Name="Soldier C"}
+Uomini! Il nostro nemico è un’Intoner! Rompete la formazione e datele tutto quello che avete!{#Name="Soldier A"}
+Ricevuto, signore! Prendetela!{#Name="Soldier B"}
+Dov’è Lady Three?{#Name="Soldier E"}
+Al sicuro con Octa, spero!{#Name="Soldier F"}
+Allora dobbiamo proteggerli entrambi!{#Name="Soldier E"}
+È inutile! Non riusciamo nemmeno a scalfirli!{#Name="Soldier G"}
+Tira fuori la testa dal culo e continua a combattere!{#Name="Soldier B"}
+Quindi adesso dobbiamo cercare a piedi in tutta questa{LF}dannata foresta questo stupido santuario?{#Name="Dito"}
+Taci. E ringrazia di avere ancora dei piedi con cui cercare.{#Name="Zero"}
+まだかな？　まだかな？{#Name="ミハイル"}
+まだみたいだな。このままぶっ壊しながら進めば、そのうち着くよ{#Name="ゼロ"}
+それが大変から聞いてるの！{#Name="ミハイル"}
+Oh, ciao! ...Eh? Oh, mi sono sbagliato!{#Name="Mikhail"}
+Che stai blaterando, scemo?{#Name="Zero"}
+Eheh! Alcuni di questi alberi{LF}sembrano avere una faccia!{#Name="Mikhail"}
+Alberi con la faccia.{#Name="Zero"}
+Sì! Ne ho salutato uno perché pensavo{LF}che mi stesse sorridendo! Divertente, eh?{#Name="Mikhail"}
+L’unica cosa divertente è quanto sei stupido.{#Name="Zero"}
+ゼロ！あぶないよ！{#Name="ミハイル"}
+何が？{#Name="ゼロ"}

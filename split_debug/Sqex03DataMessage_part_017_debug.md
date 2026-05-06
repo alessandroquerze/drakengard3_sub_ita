@@ -157,7 +157,7 @@ View detailed character information.
 `Visualizza storie delle armi e altre informazioni sulle armi.`
 View weapon stories and other weapon information.
 
-`Database`
+`Archivio`
 Database
 
 `{04}`

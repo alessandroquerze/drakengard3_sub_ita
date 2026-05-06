@@ -1,0 +1,105 @@
+Un grande chakram riccamente decorato.
+Un chakram che si dice incarni la via{LF}degli dei.
+Un chakram che si dice incarni la via{LF}degli dei.
+Un chakram che si dice incarni la via{LF}degli dei.
+Un chakram che si dice incarni la via{LF}degli dei.
+Un chakram compatto modellato sulle{LF}piume dell’uccello Vidofnir.
+Un chakram compatto modellato sulle{LF}piume dell’uccello Vidofnir.
+Un chakram compatto modellato sulle{LF}piume dell’uccello Vidofnir.
+Un chakram compatto modellato sulle{LF}piume dell’uccello Vidofnir.
+Un chakram ispirato al vento sollevato da{LF}un cavallo celeste che attraversa i cieli.
+Un chakram ispirato al vento sollevato da{LF}un cavallo celeste che attraversa i cieli.
+Un chakram ispirato al vento sollevato da{LF}un cavallo celeste che attraversa i cieli.
+Un chakram ispirato al vento sollevato da{LF}un cavallo celeste che attraversa i cieli.
+Un grande chakram con molte punte{LF}pensato per disorientare i nemici.
+Un grande chakram con molte punte{LF}pensato per disorientare i nemici.
+Un grande chakram con molte punte{LF}pensato per disorientare i nemici.
+Un grande chakram con molte punte{LF}pensato per disorientare i nemici.
+Un chakram lasciato dal{LF}Holy Emperor. Efficace contro i non morti.
+Un chakram lasciato dal{LF}Holy Emperor. Efficace contro i non morti.
+Un chakram lasciato dal{LF}Holy Emperor. Efficace contro i non morti.
+Un chakram lasciato dal{LF}Holy Emperor. Efficace contro i non morti.
+-
+-
+-
+-
+-
+-
+-
+-
+Dal momento in cui nacqui, non c’era nulla.{LF}È così che finii per portare il nome Zero.{#Name="Zero's Blade Lv. 1"}
+Provai e fallii a trovare un valore nella mia vita.{LF}Persino la religione mi deluse, perché avrei preferito{LF}combattere e uccidere un dio piuttosto che pregarlo.{#Name="Zero's Blade Lv. 2"}
+Toglievo vite e non provavo nulla. Uccidevo senza rimorso.{LF}Giusto? Sbagliato? Peccato? Redenzione? Non riuscivo nemmeno{LF}a trovare l’energia per importarmene.{#Name="Zero's Blade Lv. 3"}
+Come una bambina, aspettavo e speravo. Speravo nel momento{LF}in cui questo triste guscio di vita sarebbe finalmente finito.{#Name="Zero's Blade Lv. 4"}
+Commisе un crimine. La carestia infuriava, le tasse aumentavano senza{LF}pietà, e i suoi genitori sparirono. Presto i suoi fratelli divennero{LF}scavati dalla fame, e per loro lui agì.{#Name="Sinful Scream Lv. 1"}
+Commisе un crimine. Divise il latte e il pane rubati{LF}con i suoi cinque fratellini, senza tenerne nulla per sé.{LF}Si limitò invece a guardarli divorare quel bottino.{#Name="Sinful Scream Lv. 2"}
+Commisе un crimine. Quando i ricchi mercanti lo trovarono,{LF}non gli fu concesso morire per il suo peccato. Quell’onore toccò ai suoi{LF}fratelli, perché solo loro avevano consumato la merce rubata.{#Name="Sinful Scream Lv. 3"}
+Commisе un crimine. I corpi martoriati dei suoi fratelli giacevano{LF}in strada. Li fissò, si strofinò le piaghe aperte lasciate{LF}dalla sua fustigazione pubblica, ed emise un singhiozzo senza voce.{#Name="Sinful Scream Lv. 4"}
+Un visitatore? Ah, sì. Vieni dunque ad ascoltare il canto. La locandiera{LF}e sua figlia ti accoglieranno calorosamente. Il loro cibo e le loro bevande{LF}non hanno eguali, e la ragazza è una gioia per gli occhi.{#Name="Eternal Voice Lv. 1"}
+Il canto della ragazza è la cosa migliore del posto. Basta{LF}un solo ascolto per scacciare ogni tuo tormento. Sapevi{LF}che ha una sorella? Ah, se solo cantassero in duetto...{#Name="Eternal Voice Lv. 2"}
+Bentornato, viaggiatore! È passato un po’. Sei venuto a vedere di nuovo{LF}le ragazze? Di certo ti piacciono molto! Sono passati decenni{LF}da quando te ne parlai per la prima volta, eppure eccoti di nuovo qui.{#Name="Eternal Voice Lv. 3"}
+Che dici, viaggiatore? Ti chiedi perché le ragazze non invecchino mai?{LF}Ha ha ha! Sono le figlie delle ragazze che conoscevi un tempo!{LF}Non avrai davvero pensato che fossero immortali! ...Vero?{#Name="Eternal Voice Lv. 4"}
+Il principe che servo era destinato a guidare la nostra nazione.{LF}Ma ahimè, eravamo stati quasi distrutti in una guerra ingiusta;{LF}traditi dall’interno e lasciati ad appassire e morire.{#Name="Ceremonial Blade Lv. 1"}
+Il principe che servo crebbe diventando un giovane forte e affascinante.{LF}Dopo molte fatiche estenuanti, ricostruì la nostra terra e ne divenne{LF}il re. Era una terra meravigliosa, davvero meravigliosa.{#Name="Ceremonial Blade Lv. 2"}
+Ma quella terra è scomparsa da tempo. Non la troverai su nessuna mappa.{LF}E il mio re cadde quando la sua nazione fu sconfitta.{#Name="Ceremonial Blade Lv. 3"}
+Il mio re tenne sempre vicina questa lama cerimoniale. E fino alla{LF}fine, non sospettò mai di me. Resta un mio rimpianto.{LF}...Ah, ma non importa. Ormai è solo una piccola storia sciocca.{#Name="Ceremonial Blade Lv. 4"}
+Un tempo c’era una landa infernale coperta da cieli{LF}tuonanti. Passò di mano innumerevoli volte, e il suo popolo era{LF}tormentato da una fame infinita e da fulmini spietati.{#Name="Thunder Lord Lv. 1"}
+Un giorno, un giovane barone valoroso giurò di conquistare la terra{LF}e trasformarla in un luogo d’abbondanza. Pochi dei suoi esausti{LF}sudditi gli credettero. Alcuni risero persino apertamente.{#Name="Thunder Lord Lv. 2"}
+Il barone fece forgiare una splendida spada d’argento, poi ordinò a un{LF}gruppo di vergini di pregare per tre giorni e tre notti. In cima a un colle,{LF}sollevò la spada in alto, poi la conficcò nel terreno.{#Name="Thunder Lord Lv. 3"}
+Dopo una notte tempestosa, i cieli si schiarirono. Il giovane barone era{LF}scomparso, e sul colle si ergeva un albero da frutto con la spada d’argento{LF}intrecciata tra i rami. Ancora oggi rimbomba.{#Name="Thunder Lord Lv. 4"}
+Un tempo c’erano tre giovani ragazze. Sebbene vivessero in un’{LF}epoca in cui i matrimoni combinati erano la norma, giurarono{LF}l’una all’altra che avrebbero sempre protetto la propria castità.{#Name="Virginal Sin Lv. 1"}
+Una ragazza tagliò i suoi splendidi capelli biondi e comandò{LF}un battaglione al posto del fratello morto. Morì di una nobile{LF}morte, con il suo amato servitore al fianco.{#Name="Virginal Sin Lv. 2"}
+Una ragazza, bruna e avida lettrice di libri, amava{LF}un uomo di una famiglia povera. Sapendo che il loro amore non avrebbe{LF}mai potuto esistere, i due si gettarono in mare.{#Name="Virginal Sin Lv. 3"}
+L’ultima ragazza, una bellezza dai capelli color lino, non seppe mai che le sue{LF}amiche avevano infranto i voti di castità. Rimase{LF}vergine per tutta la vita, morendo infine di vecchiaia.{#Name="Virginal Sin Lv. 4"}
+All’inizio gli abitanti del villaggio diffidarono dello strano nuovo missionario,{LF}ma presto le sue parole affascinanti e il suo bel sorriso{LF}li conquistarono, e lo accolsero a braccia aperte.{#Name="Saintly Brimstone Lv. 1"}
+La bellezza era potere nel villaggio. I belli erano sovrani,{LF}mentre i brutti soffrivano come schiavi. Presto, gli sfregiati e{LF}i deformi del villaggio implorarono l’aiuto del missionario.{#Name="Saintly Brimstone Lv. 2"}
+Sorridendo, il missionario sollevò una mano. In un lampo, i brutti{LF}abitanti del villaggio furono trasformati, i loro volti tutti identici{LF}al suo. Eppure, la sua opera non era completa...{#Name="Saintly Brimstone Lv. 3"}
+Presto, ogni uomo, donna e bambino ebbe l’aspetto del missionario,{LF}fino al sorriso. Non piangevano più né si arrabbiavano,{LF}lasciando al villaggio solo sorrisi cupi e vuoti.{#Name="Saintly Brimstone Lv. 4"}
+Il mio corpo maledetto sanguina una volta al mese, puntuale come un orologio.{LF}Sono magra, debole e più brutta della maggior parte. Sono, in una parola,{LF}diversa—e la gente non accoglie bene ciò che è tale.{#Name="Bloodletter Lv. 1"}
+Troppo debole per lavorare, un mero guscio inutile, passo i miei giorni in{LF}uno scantinato aspettando gli abusi che so arriveranno di certo.{LF}...Nei miei sogni, il mio corpo non sanguina più.{#Name="Bloodletter Lv. 2"}
+Mi sento male. Male. Malata e nauseata. Nel mio sogno, l’uomo{LF}che mi abusa appare di nuovo. Ma questa volta, afferro l’{LF}arma che ha usato a lungo per tormentarmi. {#Name="Bloodletter Lv. 3"}
+Nel sogno, lo colpisco ancora e ancora. E poi vedo,{LF}per la primissima volta, che non sono l’unica a sanguinare.{LF}Sono umana. Proprio come lui. E questo mi fa sorridere.{#Name="Bloodletter Lv. 4"}
+Uno degli abitanti del villaggio era un bugiardo compulsivo. Brandiva una{LF}spada con noncuranza, vantandosi delle sue imprese{LF}ammazza-demoni. Presto perse la fiducia di tutti i suoi pari.{#Name="False Pact Lv. 1"}
+Un giorno, arrivò un viaggiatore chiedendo la strada per un covo di{LF}demoni. Gli abitanti tacquero, ma il grande bugiardo parlò.{LF}"Non temere!" disse. "Ti condurrò alla tana dei demoni!"{#Name="False Pact Lv. 2"}
+L’uomo mentì e mentì, e ogni volta che il viaggiatore gli credette,{LF}si persero ancora di più. Ma quando il bugiardo mostrò infine{LF}la vera strada, fu costretto a salvare il viaggiatore dal demone.{#Name="False Pact Lv. 3"}
+"Finalmente ho detto la verità," disse il bugiardo morente, "e ora devo{LF}pagarne il prezzo." Il viaggiatore uccise il demone, divenne un eroe,{LF}e da allora porta con sé la spada del nuovo amico.{#Name="False Pact Lv. 4"}
+ferroferroferroferroferroferroferroferroferroferroferro{LF}Il ferro fu battuto fino a prendere forma. Rimase solo in battaglia.{LF}ferroferroferroferroferroferroferroferroferroferroferro{#Name="Broken Iron Lv. 1"}
+uccidiuccidiuccidiuccidiuccidiuccidiuccidiuccidiuccidiuccidi{LF}Il ferro uccideva senza freno. Quella era la sua ragione d’esistere.{LF}uccidiuccidiuccidiuccidiuccidiuccidiuccidiuccidiuccidiuccidi{#Name="Broken Iron Lv. 2"}
+carnecarnecarnecarnecarnecarnecarnecarnecarnecarne{LF}Il ferro prese innumerevoli vite per realizzare il proprio sogno.{LF}carnecarnecarnecarnecarnecarnecarnecarnecarnecarne{#Name="Broken Iron Lv. 3"}
+sanguesanguesanguesanguesanguesanguesanguesanguesangue{LF}Il ferro versò lacrime di sangue, perché non poteva tornare umano.{LF}sanguesanguesanguesanguesanguesanguesanguesanguesangue{#Name="Broken Iron Lv. 4"}
+La bellezza è solo superficiale.{LF}I cuori distorti al suo interno restano invisibili.{#Name="Gaia's Flame Lv. 1"}
+Desidero la fortuna dell’uomo.{LF}Disprezzo gli insetti ostinati.{#Name="Gaia's Flame Lv. 2"}
+Una fiamma illumina la notte.{LF}Ma porta solo tenebre stigie.{#Name="Gaia's Flame Lv. 3"}
+Bruciare è prova di stregoneria.{LF}E io sono colei che accende il fuoco.{#Name="Gaia's Flame Lv. 4"}
+La spada di marmo fu infusa dell’anima{LF}ardente del fabbro. Bramava un padrone assetato di sangue.{LF}Che anelasse alla battaglia. Che avesse fame di guerra.{#Name="Moonfire Lv. 1"}
+Ma il suo filo di rasoio emanava un calore bruciante, sufficiente{LF}a ridurre in cenere qualunque valoroso guerriero la impugnasse.{#Name="Moonfire Lv. 2"}
+La spada attese un’anima forte che domasse il suo cuore{LF}ribollente. Attese il guerriero che avrebbe lasciato il sangue{LF}scorrere lungo la sua lama.{#Name="Moonfire Lv. 3"}
+Anche mentre prendeva le vite di coloro che cercava, la spada{LF}attese. Attese un ricettacolo per la sua anima, e l’eternità{LF}si distese davanti a lei come un gelido abbraccio.{#Name="Moonfire Lv. 4"}
+Un giorno, un giovane ragazzo incontrò un cavallo bianco dagli occhi{LF}blu accanto a una sorgente in una foresta rigogliosa. Ogni giorno che passava{LF}davanti all’animale, si fermava a curarne la zampa ferita.{#Name="Skyward Thunder Lv. 1"}
+Il quinto giorno, il cavallo permise al ragazzo di toccare il suo{LF}splendido manto bianco. Il decimo giorno, i suoi occhi blu profondi{LF}rivelarono una fiducia conquistata a fatica. Poco dopo, il cavallo svanì.{#Name="Skyward Thunder Lv. 2"}
+Il ragazzo pensò che la zampa fosse guarita, e rimpianse di aver perso{LF}l’occasione di cavalcare il destriero. Passarono decenni. Il ragazzo, ormai un{LF}vecchio avvizzito, raccontò ai nipoti del cavallo bianco.{#Name="Skyward Thunder Lv. 3"}
+Proprio mentre l’uomo parlava del cavallo, un tuono rimbombò dal{LF}cielo e lui svanì. Alcuni dicono di aver visto un uomo su un{LF}cavallo bianco tra i fulmini, lanciato verso i cieli.{#Name="Skyward Thunder Lv. 4"}
+Sul serio? Non sai nemmeno usare questa spada?{LF}Questo è proprio patetico. Non potrebbe essere più facile.{LF}Perfino il sottoscritto riesce a farla roteare!{#Name="Cries and Whispers Lv. 1"}
+Un discepolo del mio livello ha più della semplice forza, sai.{LF}Ha abbastanza bellezza ammaliante da far svenire i nemici.{LF}Sembra che funzioni anche su di te! Ah!{#Name="Cries and Whispers Lv. 2"}
+Il denaro fa davvero girare il mondo, no?{LF}Dovrei saperlo, vista l’enorme fortuna che comando.{LF}...Non che mi lascino ancora usarla. Il cielo sa perché.{#Name="Cries and Whispers Lv. 3"}
+Hm? C’è forse qualcosa di più importante nella vita della bellezza,{LF}della forza e del denaro...? Ah! Che burlone che sei!{LF}Voglio dire, c’è davvero bisogno di chiederlo?{#Name="Cries and Whispers Lv. 4"}
+La torre incombeva, la sua muratura bianca priva di una sola{LF}crepa o fenditura. Dentro, una ragazza viveva sola. Poiché nessuno dei{LF}suoi servitori le parlava, lei non sapeva nulla del linguaggio.{#Name="Once a Woman Lv. 1"}
+Per tutta la prigionia, i servitori della ragazza si rifiutarono di{LF}riconoscere la sua esistenza. Ma gli abitanti locali sapevano di lei,{LF}e quando una grande carestia colpì la terra, agirono.{#Name="Once a Woman Lv. 2"}
+Gli abitanti uccisero ogni singolo servitore mentre salivano sulla{LF}torre. "Maledetta sgualdrina!" gridavano. "È colpa tua!"{LF}Ma la ragazza non riusciva a comprendere le parole. {#Name="Once a Woman Lv. 3"}
+La ragazza fu felicissima di essere finalmente esposta all’emozione,{LF}persino a quella della rabbia. Un sorriso le apparve sul volto mentre la spada colpiva{LF}nel segno, assicurandole il posto di offerta agli dèi del villaggio.{#Name="Once a Woman Lv. 4"}
+Il caldo respiro del verde concedeva fortuna a tutti.{LF}Il flusso azzurro splendente dava benedizioni a tutti.{LF}I fiori sbocciavano. La vita pullulava. Era una terra di promessa.{#Name="Imperial Fang Lv. 1"}
+Innumerevoli grandi forze combatterono per la terra, turbando{LF}e calpestando le sue ricchezze. Presto, montagne di cadaveri{LF}mutilati sostituirono le benedizioni di giorni precedenti e migliori.{#Name="Imperial Fang Lv. 2"}
+Il tempo passò. Gli alberi crebbero sui corpi, e presto le grida{LF}di guerra furono sostituite dal dolce mormorio dei ruscelli. Solo una{LF}spada solitaria piantata nel terreno parlava del terribile passato.{#Name="Imperial Fang Lv. 3"}
+Il giovane re estrasse la spada dalla terra. "Rivendico questa{LF}splendida terra come mia!" disse. Il ciclo ricomincerà?{LF}...Ahimè, devo riservare quella storia a un’altra volta.{#Name="Imperial Fang Lv. 4"}
+Ah! Avete occhio per la qualità, signore. Questa spada proviene da{LF}una terra lontana. Conoscete il racconto? Un giovane uccise una bestia{LF}orrenda, e divenne così rinomato che il re impazzì d’invidia.{#Name="Feral King's Wildblade Lv. 1"}
+Il re lo mandò in una missione impossibile, e il giovane{LF}cadde per mano degli stessi mostri che avrebbe dovuto uccidere. Sua sorella{LF}implorò per avere i suoi resti, ma tutto ciò che ricevette fu la sua spada.{#Name="Feral King's Wildblade Lv. 2"}
+La sorella divenne l’amante del re, e usò la{LF}spada per assassinarlo prima di rivolgerla contro se stessa. E ora{LF}la lama viene usata per vendicarsi su... Signore? State bene?{#Name="Feral King's Wildblade Lv. 3"}
+Che ci fate con quella spada in mano? ...Vendetta, dite?{LF}M-Ma io sono solo un mercante d’armi! La mia spada non ha ucciso{LF}la vostra famiglia! È solo una lama! Solo una... No! Fermatevi! Asp—{#Name="Feral King's Wildblade Lv. 4"}
+Perché ho perso mio figlio?{LF}Perché mio figlio doveva morire?{LF}Perché devo sopportare questa punizione?{#Name="Mourning Thorn Lv. 1"}
+Tutti gli altri bambini sono sopravvissuti. Perché il mio è morto?{LF}Anche i loro sarebbero dovuti morire! Tutti, fino all’ultimo!{LF}...No. Non devo pensare così. Sono tutti preziosi.{#Name="Mourning Thorn Lv. 2"}
+Dobbiamo proteggere mio figlio perduto, e anche tutti gli altri.{LF}Ma questo mondo è caos e conflitto. Come possiamo sperare di{LF}salvaguardare i bambini? I preziosi, preziosi bambini.{#Name="Mourning Thorn Lv. 3"}
+Per proteggerli, devo unirmi a loro. Ma sono così tanti.{LF}Aspetta. Lo so. Devo masticarli. Masticarli tutti.{LF}Aprire la bocca e masticare tutti i bei baaambiiiiniiii...{#Name="Mourning Thorn Lv. 4"}
+-{#Name="剣180"}
+-{#Name="剣181"}
+-{#Name="剣182"}
+-{#Name="剣183"}
