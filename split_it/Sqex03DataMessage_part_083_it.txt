@@ -1,0 +1,105 @@
+テスト１５７{#Name="テスト"}
+テスト１５８{#Name="テスト"}
+テスト１５９{#Name="テスト"}
+テスト１６０{#Name="テスト"}
+テスト１６１{#Name="テスト"}
+テスト１６２{#Name="テスト"}
+テスト１６３{#Name="テスト"}
+テスト１６４{#Name="テスト"}
+テスト１６５{#Name="テスト"}
+テスト１６６{#Name="テスト"}
+テスト１６７{#Name="テスト"}
+テスト１６８{#Name="テスト"}
+テスト１６９{#Name="テスト"}
+テスト１７０{#Name="テスト"}
+テスト１７１{#Name="テスト"}
+テスト１７２{#Name="テスト"}
+テスト１７３{#Name="テスト"}
+テスト１７４{#Name="テスト"}
+テスト１７５{#Name="テスト"}
+テスト１７６{#Name="テスト"}
+テスト１７７{#Name="テスト"}
+テスト１７８{#Name="テスト"}
+テスト１７９{#Name="テスト"}
+テスト１８０{#Name="テスト"}
+テスト１８１{#Name="テスト"}
+テスト１８２{#Name="テスト"}
+テスト１８３{#Name="テスト"}
+テスト１８４{#Name="テスト"}
+テスト１８５{#Name="テスト"}
+テスト１８６{#Name="テスト"}
+テスト１８７{#Name="テスト"}
+テスト１８８{#Name="テスト"}
+テスト１８９{#Name="テスト"}
+テスト１９０{#Name="テスト"}
+Decadus
+Dito
+Zero
+説明文
+Soldier A
+Soldier F
+Soldier B
+Soldier C
+Soldier D
+Soldier E
+Soldier G
+Octa
+兵士
+Accord
+テスト
+Attraversa il deserto rovente.{#Name="説明文"}
+Sconfiggi i maghi!{#Name="説明文"}
+Sconfiggi il centauro di fuoco!{#Name="説明文"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+Ugh! Questo caldo mi sta uccidendo.{#Name="Zero"}
+La luce del sole si riflette sulla sabbia,{LF}facendolo sembrare ancora più caldo.{#Name="Octa"}
+Forse togliervi i vestiti{LF}vi darebbe un po’ di sollievo?{#Name="Octa"}
+Forza! A me non dispiace!{LF}Toglieteli pure qui!{#Name="Octa"}
+Sta’ zitto. Mi stai facendo venire ancora più caldo.{#Name="Zero"}
+Grrr! Che diavolo? Mi sembra di andare a fuoco!{#Name="Dito"}
+La luce del sole sembra essersi improvvisamente intensificata.{#Name="Decadus"}
+Non possiamo fare niente?{LF}Mi sta risucchiando la vita.{#Name="Dito"}
+Non è un caso. C’è qualcosa{LF}di strano qui.{#Name="Zero"}
+Forse i nostri nemici stanno usando la magia{LF}per amplificare i raggi del sole.{#Name="Decadus"}
+Eccoci di nuovo con la magia.{LF}Davvero fottutamente comodo!{#Name="Zero"}
+Scommetto che potrebbe esserci un mago{LF}che lancia incantesimi qui vicino.{#Name="Octa"}
+Nascosto come una piccola puttana, eh? Tipico.{#Name="Dito"}
+Gli aprirò un nuovo buco del culo! E poi un terzo!{#Name="Zero"}
+Ha ha ha! Questa è la mia Z!{#Name="Dito"}
+Questa luce solare odiosa è qualcosa di tremendo.{LF}Basterebbe a far ammosciare persino me!{#Name="Octa"}
+Faremmo meglio a restare all’ombra per conservare le energie.{#Name="Decadus"}
+Che c’è? Non dovresti{LF}lamentarti di qualcosa?{#Name="Zero"}
+Troppo caldo. Non riesco a parlare.{#Name="Dito"}
+Forse una storia aiuterebbe!{LF}Lasciate che vi racconti di quella volta in un bordello{LF}con un cactus e tre splendide volpine...{#Name="Octa"}
+Basta. Peggiora le cose.{#Name="Dito"}
+La luce del sole non vi dà fastidio, mia signora?{#Name="Decadus"}
+Ci vuole più di un po’ di sole per farmi male. {#Name="Zero"}
+Tuttavia, vi prego di non esagerare.{LF}Meglio restare all’ombra.{#Name="Decadus"}
+Dannazione, tutto questo nascondersi all’ombra{LF}sta iniziando davvero a farmi incazzare!{#Name="Zero"}
+Non è che abbiamo scelta.{LF}Questo sole ammazza i discepoli!{#Name="Dito"}
+Non siamo tutti invincibili come te, ricordi?{#Name="Dito"}
+Beh, mi fa comunque incazzare.{#Name="Zero"}
+Lady Zero, guardate dove mettete i piedi.{#Name="Octa"}
+Nnngh! Ci sta mettendo un’eternità!{LF}Quanto è grande quest’area!?{#Name="Zero"}
+Ho ho. Viaggiare è come il dolce amore: un viaggio{LF}terribilmente lungo per un climax fin troppo breve!{#Name="Octa"}
+Smettila di provare a fare il profondo, Octa.{LF}Non ti si addice.{#Name="Zero"}
+*Anf, anf...*{#Name="Decadus"}
+In difficoltà, Decadus?{#Name="Dito"}
+Nnngh... In effetti, sì... Ma...{LF}affronterò qualunque prova per la mia signora.{#Name="Decadus"}
+ {#Name="デカート"}
+Sicuro che sia per lei? Sembri terribilmente eccitato.{#Name="Dito"}
+Sono questi stronzi che hanno evocato{LF}quella luce solare. Uccideteli!{#Name="Zero"}
+Oh ho ho! Faremmo meglio a stare attenti.{LF}Vedo un altro sole evocato laggiù!{#Name="Octa"}
+Oh, meraviglioso.{#Name="Zero"}
+Credo che sto per impazzire.{#Name="Zero"}
+Fantastico. Ora abbiamo un gigantesco uomo-cavallo fiammeggiante.{#Name="Zero"}
+Non mi dà fastidio nessuna di quelle parole{LF}presa da sola, ma insieme...{#Name="Dito"}
+Dov’è il santuario?{#Name="Zero"}
+Immagino più avanti.{LF}Ma prima occupiamoci di questo nemico.{#Name="Octa"}
+Si sta indebolendo.{#Name="Decadus"}

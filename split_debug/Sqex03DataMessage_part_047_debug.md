@@ -304,7 +304,7 @@ Nah. She says I stink.{LF}Plus, I might roll over and smoosh her.{#Name="Mikhail
 `Ha ha ha! Cavolo, questa è bella.{#Name="Dito"}`
 Ha ha ha! Man, that's rich.{#Name="Dito"}
 
-`Beh, facciamo così: tu stai lontano da{LF}noi stanotte, d'accordo? A Z ci penso io.{#Name="Dito"}`
+`Beh, facciamo così- tu stai lontano da{LF}noi stanotte, d'accordo? A Z ci penso io.{#Name="Dito"}`
 Well, tell you what—you just stay away from{LF}us tonight, all right? I'll take care of Z.{#Name="Dito"}
 
 `Okay! Cerca di non schiacciarla.{#Name="Mikhail"}`

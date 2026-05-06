@@ -16,7 +16,7 @@ Right then. Off we go.{#Name="Zero"}
 `Dopo aver ucciso Four,{#Name="199"}`
 After murdering Four,{#Name="199"}
 
-`Zero volò verso la sua prossima destinazione: la Terra delle Foreste.{#Name="289"}`
+`Zero volò verso la sua prossima destinazione- la Terra delle Foreste.{#Name="289"}`
 Zero flew off to her next destination—the Land of Forests.{#Name="289"}
 
 `Era un luogo intriso di follia, nonché la casa di sua sorella, Three...{#Name="433"}`

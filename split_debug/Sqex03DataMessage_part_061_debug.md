@@ -130,7 +130,7 @@ I'll kill you! I swear I'll kill you!{#Name="Soldier C"}
 `Bene, adesso... abbiamo questa registrazione della Diramazione B.{#Name="Accord"}`
 All right, next up...we've got this recording from Branch B.{#Name="Accord"}
 
-`No, non quella: quella è la Diramazione C!{#Name="Accord"}`
+`No, non quella- quella è la Diramazione C!{#Name="Accord"}`
 No, not that one—that's Branch C!{#Name="Accord"}
 
 `E QUELLA è la Diramazione A! Andiamo!{#Name="Accord"}`

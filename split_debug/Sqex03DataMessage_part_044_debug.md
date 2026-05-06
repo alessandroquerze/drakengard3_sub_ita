@@ -223,7 +223,7 @@ Lemme guess. You're here to give me some grim warning?{#Name="Zero"}
 `Già!{#Name="Accord"}`
 Yep!{#Name="Accord"}
 
-`Allo stato attuale, non importa quale{LF}ramificazione seguirai: finirà tutto in disastro.{#Name="Accord"}`
+`Allo stato attuale, non importa quale{LF}ramificazione seguirai- finirà tutto in disastro.{#Name="Accord"}`
 As things stand now, it doesn't matter what{LF}branch you go down—it all ends in disaster.{#Name="Accord"}
 
 `Pensavo fosse meglio avvisarti.{#Name="Accord"}`

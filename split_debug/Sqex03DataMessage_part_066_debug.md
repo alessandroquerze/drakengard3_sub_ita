@@ -262,7 +262,7 @@ Hey, yeah... Yeah! That MUST be it!{#Name="Soldier C"}
 `Merda! Sono ferito!{#Name="Soldier E"}`
 Shit! I'm wounded!{#Name="Soldier E"}
 
-`Va tutto bene: tieni, ti sorreggo io. Andrà tutto bene! Dobbiamo continuare a combattere!{#Name="Soldier G"}`
+`Va tutto bene- tieni, ti sorreggo io. Andrà tutto bene! Dobbiamo continuare a combattere!{#Name="Soldier G"}`
 It's all right—here, I'll prop you up. You're gonna be okay! We have to keep fighting!{#Name="Soldier G"}
 
 `Non arrenderti! Se lo fai, sarà finita per tutti!{#Name="Soldier F"}`

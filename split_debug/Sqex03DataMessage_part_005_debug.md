@@ -169,7 +169,7 @@ She was crying. She was crying a lot,{LF}and you killed her anyway.{#Name="Mikha
 `Sai che era solo una recita, vero?{#Name="Zero"}`
 You know that was just an act, right?{#Name="Zero"}
 
-`Sì, fidati: se c'era una cosa in cui Five era brava,{LF}era fingere.{#Name="Dito"}`
+`Sì, fidati- se c'era una cosa in cui Five era brava,{LF}era fingere.{#Name="Dito"}`
 Yeah, trust me—if there's one thing Five was good at,{LF}it was faking.{#Name="Dito"}
 
 `Beh, a me non piace. Penso ancora che dovresti smettere di uccidere le tue sorelle!{#Name="Mikhail"}`
