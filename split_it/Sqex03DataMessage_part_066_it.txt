@@ -1,0 +1,106 @@
+飛空艇を撃ったような大砲がいっぱいあるから{#Name="ミハイル"}
+あんまり高く飛んじゃうと、ドカーンってやられちゃうよ！{#Name="ミハイル"}
+Uuungh...{#Name="Zero"}
+Zero! Che c'è? Stai bene? Ti sei fatta male?{#Name="Mikhail"}
+No, sto sospirando. Questa roba è una gran rottura di palle.{#Name="Zero"}
+Ugh. Mi sa che non abbiamo scelta: dobbiamo{LF}far fuori questi tizi.{#Name="Zero"}
+Lasciateli a me! Per quanto un nemico possa frustarmi{LF}e prendermi a calci, porto sempre a termine la missione!{#Name="Decadus"}
+Eh, già... Ma non è proprio questo il punto?{LF}Che ti piace essere frustato e preso a calci?{#Name="Dito"}
+Zero, guarda! Guarda! Ora possiamo passare dentro quell'albero!{#Name="Mikhail"}
+...Possiamo?{#Name="Zero"}
+Uh, beh, sì, cioè... No?{#Name="Mikhail"}
+Tu non ci passi in quel buco minuscolo, idiota.{#Name="Zero"}
+Awwwwww!{#Name="Mikhail"}
+Questa foresta è... inquietante. {#Name="Decadus"}
+Ehi, bestione, ti sei già spaventato?{#Name="Dito"}
+Non sono spaventato! Non sono affatto spaventato!{#Name="Mikhail"}
+Buh!{#Name="Zero"}
+AAAAAAAAAAAAH!{#Name="Mikhail"}
+Bel colpo, Z.{LF}Mi sa che se l'è fatta addosso.{#Name="Dito"}
+Non è colpa mia! È stata cattiva con me!{LF}È stata cattiva!{#Name="Mikhail"}
+Urrrnnngghhh...{#Name="Decadus"}
+Davvero? Ti eccita anche QUESTO?{#Name="Dito"}
+Porca miseria. Che cos'è, uno zoo del cazzo?{LF}Non ho tempo per queste stronzate!{#Name="Zero"}
+Che fretta c'è? Li faremo a pezzi abbastanza presto.{#Name="Dito"}
+289{#Name="289"}
+649{#Name="649"}
+ {#Name="ディト"}
+Siamo di nuovo rinchiusi!{#Name="Mikhail"}
+Eh eh eh eh eh...{#Name="Zero"}
+Lady Zero? Perché state ridendo?{#Name="Decadus"}
+Oh-oh. Credo che sia impazzita del tutto.{#Name="Dito"}
+199{#Name="199"}
+Um, ragazzi? Forse dovremmo stare lontani{LF}da Zero per un po'...{#Name="Mikhail"}
+Questa cosa comincia davvero a farmi incazzare.{LF}Voglio solo uccidere mia sorella e farla finita!{#Name="Zero"}
+Su col morale. L'attesa è metà del divertimento di un omicidio!{LF}Ah ah!{#Name="Dito"}
+L'impazienza di Zero le impedì di apprendere qualsiasi cosa dalle faerie.{#Name="Accord"}
+Così, il gruppo fu costretto a vagare nella Land of Forests in cerca di Three.{#Name="Accord"}
+Senza sapere che un discepolo dalla potenza spaventosa li attendeva in agguato...{#Name="Accord"}
+Non salire più in alto di così!{#Name="Zero"}
+Vuoi che vada contro il cannone?{#Name="Mikhail"}
+テスト１１８{#Name="テスト"}
+テスト１１９{#Name="テスト"}
+テスト１２０{#Name="テスト"}
+テスト１２１{#Name="テスト"}
+テスト１２２{#Name="テスト"}
+テスト１２３{#Name="テスト"}
+テスト１２４{#Name="テスト"}
+テスト１２５{#Name="テスト"}
+テスト１２６{#Name="テスト"}
+テスト１２７{#Name="テスト"}
+テスト１２８{#Name="テスト"}
+ゼロ
+Octa
+Zero
+Mikhail
+ミハイル
+説明文
+Soldier C
+Soldier D
+Soldier A
+Soldier B
+Soldier E
+Soldier F
+Soldier G
+Dito
+Decadus
+289
+649
+ディト
+199
+Accord
+テスト
+Avanza in questa foresta misteriosa.{#Name="説明文"}
+Sconfiggi i soldati nemici!{#Name="説明文"}
+ガーゴイルキューブを門にはめろ！{#Name="説明文"}
+ガーゴイルキューブ４体を門にはめろ！{#Name="説明文"}
+ガーゴイルキューブ６体を門にはめろ！{#Name="説明文"}
+ガーゴイルキューブ８体を門にはめろ！{#Name="説明文"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+Allarme! Allarme! Octa si è unito al nemico!{#Name="Soldier A"}
+Un discepolo che tradisce la propria Intoner? Impensabile!{#Name="Soldier B"}
+È vero? Octa è nostro nemico, ora?{#Name="Soldier C"}
+Dev'esserci un motivo! Forse in realtà è un doppiogiochista.{#Name="Soldier D"}
+Ehi, già... Già! DEVE essere così!{#Name="Soldier C"}
+Merda! Sono ferito!{#Name="Soldier E"}
+Va tutto bene: tieni, ti sorreggo io. Andrà tutto bene! Dobbiamo continuare a combattere!{#Name="Soldier G"}
+Non arrenderti! Se lo fai, sarà davvero finita!{#Name="Soldier F"}
+Per abbattere una Intoner maledetta serve uno spirito coraggioso. Datele tutto quello che avete!{#Name="Soldier B"}
+È senza speranza. Non possiamo vincere. Persino Octa ha abbandonato il suo posto!{#Name="Soldier G"}
+Lascia perdere Octa! Tu sei ancora qui, no? Ora torna in formazione!{#Name="Soldier C"}
+Quindi Three sembra un bel po' fuori di testa.{#Name="Dito"}
+Oh oh oh. Non proprio fuori di testa,{LF}più semplicemente... strana.{#Name="Octa"}
+Vero, è imprevedibile e armata di forbici{LF}giganti. Ma quando si eccita... grrr!{#Name="Octa"}
+Eh. Sembra una tipa impegnativa.{#Name="Dito"}
+Oh sì. Però la sua mente è affilata.{LF}Quasi quanto le sue lame! Oh oh oh!{#Name="Octa"}
+Ehi, avete visto di recente il coso... come-si-chiama?{#Name="Zero"}
+Presumo intendiate Mikhail?{LF}No, non l'ho visto.{#Name="Decadus"}
+Volete che torni indietro{LF}a cercarlo, mia signora?{#Name="Decadus"}
+No. Fallo una volta e poi se lo aspetterà sempre.{LF}Quell'idiota probabilmente si è solo perso di nuovo.{#Name="Zero"}
+ミハイル知らない？お子ちゃまドラゴンなんだけど{#Name="ディト"}
+さあ？さすがのオクタも、ドラゴンとヤッたことはありませぬ{#Name="オクタ"}
+ヤッたかどうかは聞いてないよ{#Name="ディト"}
+ヤッたことのないモノのことは、３歩歩くと忘れます。ほっほっほ{#Name="オクタ"}

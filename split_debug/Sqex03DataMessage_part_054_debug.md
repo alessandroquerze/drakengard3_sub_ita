@@ -169,7 +169,7 @@ Mikhail
 `テスト`
 テスト
 
-`Sconfiggi il Cerberus!{#Name="説明文"}`
+`Sconfiggi il Cerbero!{#Name="説明文"}`
 Defeat the Cerberus!{#Name="説明文"}
 
 `Sconfiggi il Titano!{#Name="説明文"}`

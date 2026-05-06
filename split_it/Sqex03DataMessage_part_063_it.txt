@@ -1,0 +1,106 @@
+Non ti vergogni a farti vedere in pubblico?{#Name="Faerie"}
+"Oh, buuuh! Abbiamo perso il nostro drago! Non sappiamo dov'è!"{#Name="Faerie"}
+Eppure è lì che vi aspetta nella Valle delle Faerie, poco più avanti!{#Name="Faerie"}
+Beh, divertitevi a perdervi come un branco di stupi—{#Name="Faerie"}
+Bene. Andiamo.{#Name="Zero"}
+Dopo aver ucciso Four,{#Name="199"}
+Zero volò verso la sua prossima destinazione: la Land of Forests.{#Name="289"}
+Era un luogo intriso di follia, nonché la casa di sua sorella, Three...{#Name="433"}
+Bene, è un nuovo giorno, abbiamo una nuova nave—{LF}è ora di salpare e conquistare il mondo!{#Name="Zero"}
+Ce l'abbiamo fatta! L'abbiamo presa!{#Name="Soldier A"}
+Abbiamo abbattuto il demone!{#Name="Soldier B"}
+KA-BOOM! Ce l'abbiamo fatta! Intoner a terra! Intoner a terra!{LF}Avete visto? L'ho colpita proprio nel—{#Name="Soldier B"}
+Lady Three sarà felicissima!{#Name="Soldier A"}
+Woo-hoo! Sì, bella, SÌ! Ha ha ha ha!{#Name="Soldier A"}
+Dopo tutta la fatica che ho fatto per procurarmi quella dannata aeronave...{#Name="Zero"}
+Vi farò a fette fino all'ultimo, brutti stronzi!{#Name="Zero"}
+説明文
+Soldier A
+Soldier B
+Soldier F
+Soldier E
+Soldier G
+Soldier D
+379
+Soldier C
+Zero
+Dito
+Decadus
+253
+ゼロ
+ディト
+235
+271
+415
+109
+217
+361
+Faerie
+199
+289
+433
+Sfondare le difese nemiche.{#Name="説明文"}
+Sconfiggi i Troll!{#Name="説明文"}
+Sconfiggi gli Spirits!{#Name="説明文"}
+Taglia l'edera e libera Mikhail!{#Name="説明文"}
+テスト1{#Name="説明文"}
+テスト2{#Name="説明文"}
+テスト3{#Name="説明文"}
+È Zero! Zero la dannata!{#Name="Soldier A"}
+Tutti ai posti! Non ritiratevi!{#Name="Soldier B"}
+Lady Three deve restare al sicuro!{#Name="Soldier D"}
+Mi ha creato per servirla, e servirla farò!{#Name="Soldier C"}
+È questa l'Intoner maledetta? Combatte come un'indemoniata!{#Name="Soldier E"}
+Aiuto! Aiuto! Aiutateeemiii!{#Name="Soldier G"}
+Calmati!{#Name="Soldier F"}
+La foresta è casa nostra! Zero deve essere fermata!{#Name="Soldier A"}
+Yaaaaaah!{#Name="Soldier G"}
+Nascondete i feriti tra i cespugli!{#Name="Soldier B"}
+Sbrigatevi, prima che ci faccia a pezzi!{#Name="Soldier C"}
+Nnnnngh! Ahi! Ahi, ahi, ahiiii!{#Name="Soldier D"}
+Dobbiamo nasconderci!{#Name="Soldier G"}
+No! Io resisto qui!{#Name="Soldier F"}
+Morirai QUI se non scappi!{#Name="Soldier G"}
+Ho vissuto abbastanza. Se devo morire, morirò per Lady Three!{#Name="Soldier F"}
+Caricaaa!{#Name="Soldier C"}
+Sììììì!{#Name="Soldier D"}
+V-Vai avanti tu!{#Name="Soldier C"}
+Cosa? Neanche per sogno! Vai avanti TU!{#Name="Soldier D"}
+L'ho detto prima io!{#Name="Soldier C"}
+Non scappare, codardo! Resta e combatti!{#Name="Soldier B"}
+Stai scherzando? A che serve!?{#Name="Soldier E"}
+Ci servono più uomini! Altrimenti Zero ci spazzerà via!{#Name="Soldier B"}
+Nemmeno tutti gli uomini del mondo basterebbero a impedirlo! Io voglio vivere!{#Name="Soldier E"}
+Sta' zitto, dannato idiota! Combatti per Lady Three!{#Name="Soldier B"}
+Non rompete la formazione!{#Name="Soldier A"}
+Ci siamo quasi!{#Name="Soldier B"}
+Seconda squadra, radunarsi!{#Name="Soldier C"}
+Merda! Sono passati oltre!{#Name="Soldier D"}
+Dobbiamo farcela!{#Name="Soldier E"}
+Lady Three è con noi!{#Name="Soldier F"}
+Aiuto! Aiutatemi!{#Name="Soldier G"}
+{06}>{#Name="Faerie"}
+Chi sei?{#Name="Zero"}
+Chi, io? Sono una faerie! Una faerie saggia e bellissima!{#Name="Faerie"}
+Hai visto un drago brutto e puzzolente da queste parti?{#Name="Zero"}
+Brutto? Ma sono brutti tutti quelli che non sono faerie!{#Name="Faerie"}
+...Lo hai visto o no?{#Name="Zero"}
+Certo che sì! Quello stupido drago è finito in un grosso, stupido guaio{LF}poco più avanti.{#Name="Faerie"}
+E mamma mia, quanto è stupido! È così stupido{LF}che non troverebbe la sua coda nemmeno con quattro zampe e una mappa!{#Name="Faerie"}
+Giusto. Ho capito. Stupido. Come te.{#Name="Zero"}
+Sì, stupido! Proprio come... Ehi! Fottiti, signora!{LF}Piccola Intoner pervertita e puttanella! Va' all'inferno!{LF}Mi hai sentito!? Va' all'inferno e MUORI!{#Name="Faerie"}
+Hum de dum de doooooo...{#Name="Faerie"}
+Beh, guarda un po'! Buooongiorno,{LF}idioti senza cervello e lenti di comprendonio!{#Name="Faerie"}
+Ancora? Da dove spuntano questi parassiti?{#Name="Dito"}
+Ehi! Belloccio! Diventerai davvero orrendo quando{LF}crescerai. Perché non ti ammazzi subito{LF}e ci risparmi la fatica di guardarti?{#Name="Faerie"}
+Ehi!{#Name="Dito"}
+Dito, lascia perdere. Non merita il nostro tempo.{#Name="Decadus"}
+E tu! Signora col fiore! Bel completino! Era un{LF}regalo di compleanno del tuo pappone, o cosa?{#Name="Faerie"}
+Altro che voglia di attenzioni, accidenti!{LF}Immagino abbia senso che una perdente insicura come{LF}te cerchi di compensare vestendosi così.{#Name="Faerie"}
+Okay, adesso basta, sacco di merda!{#Name="Zero"}
+Lady Zero, vi prego, calmatevi!{LF}Così non otterremo nulla!{#Name="Decadus"}
+Ooo! Guardate il grande pervertito che cerca di fare la voce{LF}della ragione! Sappiamo tutti che fingi di amare il sadomaso{LF}perché in realtà a letto fai pena.{#Name="Faerie"}
+Nnngh...{#Name="Decadus"}
+Hee hee! Povero bimbo brutto e pervertito...{LF}Ti ho fatto piangere? Allora ho vinto io!{#Name="Faerie"}
+Giuro che quando avremo finito qui,{LF}brucerò questa dannata foresta fino al suolo.{#Name="Dito"}
+Zero! Aiutami! Aiutamiii!{#Name="Mikhail"}

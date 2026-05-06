@@ -1,0 +1,106 @@
+Zero si sta dirigendo verso la Land of Forests.{#Name="217"}
+No! Lei... Lei è già qui!?{#Name="Soldier A"}
+説明文
+（リザーブ）
+Soldier B
+Soldier C
+Soldier D
+Soldier E
+Soldier F
+Soldier G
+Soldier A
+199
+397
+兵士Ｆ
+523
+379
+145
+163
+307
+Mikhail
+Zero
+Dito
+Decadus
+兵士Ｂ
+兵士Ａ
+兵士Ｄ
+兵士Ｅ
+ディト
+Octa
+127
+253
+217
+Ancora, ancora, ancora! Dammene un altro piatto, Madre!{#Name="Soldier A"}
+Dammi anche il verde e il rosso. Ti prego! Ti prego!{#Name="Soldier B"}
+Indecente, illuminante, miope, presbite, indecente, illuminante, miope, presbite...{#Name="Soldier C"}
+Sono ferito. Le mie ossa! Le mie ossa! Eeee hee hee hee!{#Name="Soldier D"}
+Destra, destra, poi sinistra. Ora, attaccate!{#Name="Soldier E"}
+Fallo! Fallo! Fallo! Fallo! Fallo!{#Name="Soldier F"}
+Quel giorno ho mangiato la {25B2}carne{25BC} dei {25B2}morti{25BC}! La mia {25B2}erezione{25BC} mi ha sfinito!{#Name="Soldier G"}
+Squadrone, avanti!{#Name="Soldier A"}
+Avanti! Avanti!{#Name="Soldier B"}
+Avanti! Avanti! Avanti!{#Name="Soldier C"}
+Dammi un braccio, idiota!{#Name="Soldier B"}
+307{#Name="307"}
+Sono ferito! Piacere di conoscerti!{#Name="Soldier C"}
+Anche per me, mio ferito amico!{#Name="Soldier D"}
+Acqua... Qualcuno mi dia dell’acqua!{#Name="Soldier F"}
+Tu... Prendi questo...!{#Name="Soldier B"}
+Vedo una graziosa capanna nella foresta!{#Name="Soldier E"}
+E dentro quella capanna c’è un enorme uomo-pesca-lucertola!{#Name="Soldier G"}
+Un uomo-pesca-lucertola, dici? Sono i peggiori! Aaaargh!{#Name="Soldier A"}
+Mi manca...mia Madre...{#Name="Soldier G"}
+Quando...questa battaglia sarà finita...finalmente ti vedrò...{#Name="Soldier C"}
+Quando vedrò Madre... Le farò preparare...la sua zuppa bianca per me!{#Name="Soldier G"}
+E una bistecca bianca...e anche un po’ di insalata bianca!{#Name="Soldier G"}
+Bianco! Bianco! ...Nero? ...No, bianco!{#Name="Soldier G"}
+271{#Name="271"}
+Zero è qui! Vola...come una farfalla!{#Name="Soldier F"}
+Quella cosa è Zero!?{#Name="Soldier A"}
+No... È un fiore!{#Name="Soldier F"}
+Non scappate!{#Name="Soldier B"}
+Non scappate!{#Name="Soldier B"}
+Eh? È Zero! Il fiore nato dall’uovo...{#Name="Soldier D"}
+91{#Name="91"}
+361{#Name="361"}
+Questa foresta è terrificante. Nessuna persona sana{LF}potrebbe mai vivere qui.{#Name="Decadus"}
+Mmm? A me non dispiace poi tanto.{#Name="Cent"}
+Ha detto persona SANA, Cent.{LF}Quindi non tu.{#Name="Dito"}
+Ha detto persona SANA, Cent.{LF}Quindi non tu.{#Name="Dito"}
+Five? Credevo di averti uccisa.{#Name="Zero"}
+Idiota. Ti sei resuscitata da sola?{#Name="Zero"}
+Sorgi...Galgaliel.{#Name="Five"}
+{06}>{#Name="Dito"}
+Oh, Five! Adesso sei più splendida che mai!{#Name="Dito"}
+È esattamente il tipo di mondo folle che ho sempre desiderato!{#Name="Dito"}
+È semplicemente perfetto per uno scarto indesiderato come me!{LF}Credo che resterò qui PER SEMPRE!{#Name="Dito"}
+Amo questa nuova te, Five.{LF}Puoi farmi tutto quello che vuoi. Qualunque cosa.{#Name="Dito"}
+Ehi, Z...{#Name="Dito"}
+Sembra che per te sia finita!{#Name="Dito"}
+Phanuel, sorgi!{#Name="Dito"}
+Egregori, danza!{#Name="Cent"}
+Posso occuparmi io di questi tizi...{LF}Forse tu puoi pensare a Five?{#Name="Cent"}
+Che ci fa Five qui nella{LF}foresta invece di Three?{#Name="Zero"}
+Forse Accord aveva ragione sul fatto che{LF}il mondo si stia sgretolando.{#Name="Octa"}
+Oh, per l’amor del cazzo.{#Name="Zero"}
+È fantastico! Oh mio Dio,{LF}questo posto è dannatamente fantastico!{#Name="Dito"}
+Guardalo, Cent! È incredibile!{LF}C’è sangue, budella e...tutto il resto!{#Name="Dito"}
+È un mondo dove solo il brutto è bello!{#Name="Dito"}
+E un mondo dove gli idioti sono geni!{LF}Quindi unisciti a me, Cent!{#Name="Dito"}
+Ioooooo?{#Name="Cent"}
+Sì! Tu! Andiamo, so che{LF}odi il mondo in cui vivi.{#Name="Dito"}
+L’ho sempre saputo!{LF}Ti si legge in faccia!{#Name="Dito"}
+Mmmm? È così evidente?{#Name="Cent"}
+Beh, suppooongo che potrebbe essere così.{#Name="Cent"}
+Ma anche se mi unissi a te in quel mondo...{#Name="Cent"}
+Non riporterebbe in vita Lady Two.{#Name="Cent"}
+Eh?{#Name="Dito"}
+Il mio posto era al suo fianco.{LF}Era davvero tutto ciò che avevo...{#Name="Cent"}
+Ugh, che diavolo, amico?{LF}Sembri un adolescente malato d’amore.{#Name="Dito"}
+Mi viene voglia di vomitare le budella sul pavimento...{#Name="Dito"}
+Ha ha ha ha ha ha ha!{#Name="Dito"}
+Zero... Zero...{#Name="Five"}
+Io... Io... Sono...così...t-t-t-triste...{#Name="Five"}
+Io... I-I-I-I-I... Ti...adorerò...seeeempre...{#Name="Five"}
+adorerò...te...Z...Z-Ze...ro...{#Name="Five"}
+ゼゼゼゼゼ……ゼ……ロ……お姉様……すすすすすすす……て……きき{#Name="ファイブ"}

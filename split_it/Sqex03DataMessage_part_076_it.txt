@@ -1,0 +1,106 @@
+Sta’ zitto e pensa a te stesso!{#Name="Zero"}
+Tu...stai bene, Zero?{#Name="Mikhail"}
+Ho questo dannato fiore. Starò bene.{#Name="Zero"}
+È fantastico... Io...io ce la metterò tutta...okay?{#Name="Mikhail"}
+Schiacciamo questo stronzo e{LF}andiamocene da qui!{#Name="Zero"}
+Zero...tu...tu stai bene?{#Name="Mikhail"}
+Lascia perdere me, tu piuttosto!?{#Name="Zero"}
+Io...io ce la metterò tutta... Davvero tutta...{#Name="Mikhail"}
+Dannazione!{#Name="Zero"}
+Esci da lì, idiota!{#Name="Zero"}
+Muoviti! Il veleno sta per... Tu stai per...{#Name="Zero"}
+Mi sa che ci ho provato un po’ troppo...{#Name="Mikhail"}
+No! No, devi reincarnarti! Fallo ora!{#Name="Zero"}
+S-Scusa, Zero... Ma...credo...di essere arrivato alla fine...{#Name="Mikhail"}
+Mi...dispiace davvero...Zero...{#Name="Mikhail"}
+{06}>{#Name="Zero"}
+Non azzardarti a morire, stronzo!{#Name="Zero"}
+Non...Non OSARE lasciarmi di nuovo sola!{#Name="Zero"}
+Perché continua a succedermi questo?{#Name="Zero"}
+Dannato fiore!{#Name="Zero"}
+Fiore...{#Name="Zero"}
+...Mi dispiace.{#Name="Zero"}
+Ascolta il mio richiamo!{#Name="Zero"}
+Per il potere del mio canto,{#Name="Zero"}
+stringo qui un patto{#Name="Zero"}
+in cambio della vita di questo drago!{#Name="Zero"}
+Dei dell’est, dee dell’ovest,{#Name="Zero"}
+offro la fiamma della mia vita{#Name="Zero"}
+come pagamento per la sua.{#Name="Zero"}
+Concedetegli ora le catene vincolanti...{#Name="Zero"}
+di questo fiore maledetto!{#Name="Zero"}
+Voglio che tu sappia...sono felice di averti incontrato.{#Name="Zero"}
+...Mikhail.{#Name="Zero"}
+{06}>{#Name="Mikhail"}
+...Zero?{#Name="Mikhail"}
+Ehi!{#Name="Child Zero"}
+Che stai facendo, scemo? Vuoi dormire tutto il giorno o cosa?{#Name="Child Zero"}
+Scusa, scusa. Ora sono sveglio.{#Name="Mikhail"}
+Bene, allora andiamo.{#Name="Mikhail"}
+...Zero.{#Name="Mikhail"}
+Ｂルートクリア。{#Name=" "}
+Ｃルート解除。{#Name=" "}
+Estirpa la radice di tutta questa follia.{#Name=" "}
+飛行ができなくなりました。{#Name=" "}
+毒のせいで・・・うまく飛べなくなってきたよ・・・{#Name="ミハイル"}
+がんばってくれ！相手も弱ってきてるぞ！{#Name="ゼロ"}
+Il fiore... La nebbia... La nebbia e il fiore...{#Name="Soldier A"}
+Three... Three...{#Name="Soldier B"}
+(colpi di tosse e conati REAX){#Name="Soldier G"}
+Hurrrrrrk!{#Name="Soldier C"}
+Lady...Threeeeee...{#Name="Soldier A"}
+Il canto è sparito! Eee hee hee...{#Name="Soldier A"}
+Hee hee ha ha ha...{#Name="Soldier F"}
+Ahhhh, la testa... La testaaaa! Huuurk!{#Name="Soldier G"}
+Non ce la...faccio più... M-Mamma...{#Name="Soldier C"}
+Sto per...vomitare...{#Name="Soldier D"}
+È difficile credere che Lady Three sia morta.{#Name="Octa"}
+Stava combattendo con tua sorella?{#Name="Decadus"}
+Non lo so.{#Name="Zero"}
+Dovrò solo trovare One e{LF}strapparle la verità a forza.{#Name="Zero"}
+Nngh...gyaaah! Lady Three!{#Name="Soldier A"}
+Hee hee... Heeeeee hee ha ha ha ha haw!{#Name="Soldier C"}
+La foresta... La foresta di Lady Three...{#Name="Soldier D"}
+Senza la protezione del canto di Lady Three,{LF}le loro menti si sono frantumate.{#Name="Octa"}
+Ha ha ha! È così dannatamente triste... Lo ADORO!{#Name="Dito"}
+Aggiornamento{#Name="Accord"}
+Utilizzando la funzione di riprogrammazione del fiore,{#Name="Accord"}
+la singolarità nota come Zero ha creato un nuovo concetto noto come patto.{#Name="Accord"}
+Non so come questo influenzerà il futuro.{#Name="Accord"}
+Tuttavia, continuerò a osservare gli eventi mentre si sviluppano.{#Name="Accord"}
+M3250_E0970_FL: Fine registrazione{#Name="Accord"}
+Se non ce ne andiamo presto da qui, siamo nei guai...{#Name="Zero"}
+Merda! Stiamo finendo il tempo!{#Name="Zero"}
+Uuurgh... Credo di essere avvelenato... Non riesco...a volare...{#Name="Mikhail"}
+Dannazione. Resisti!{#Name="Zero"}
+È vulnerabile dopo aver sputato quel veleno...{#Name="Zero"}
+Aspetta che si scopra, poi scatena tutto!{#Name="Zero"}
+Attento a quel filo!{#Name="Zero"}
+Spostati quando spara quella roba!{#Name="Zero"}
+Sconfiggi Two e Cent!{#Name=" "}
+Sconfiggi Raphael!{#Name=" "}
+Zero
+Dito
+Cent
+Two
+Mikhail
+Octa
+Decadus
+ゼロ
+Child Zero
+ 
+ミハイル
+Soldier A
+Soldier B
+Soldier G
+Soldier C
+Soldier F
+Soldier D
+Accord
+Addentrati nella foresta.{#Name="説明文"}
+Sconfiggi il centauro!{#Name="説明文"}
+Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}
+Sconfiggi gli Undead Gigantes!{#Name="説明文"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}

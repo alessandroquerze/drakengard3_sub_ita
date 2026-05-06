@@ -1,0 +1,106 @@
+Ehm, Octa? Che stai facendo?{#Name="Zero"}
+Oh, nulla, mia signora. Nulla di importante...{#Name="Octa"}
+Stava misurando la lunghezza di...{LF}Beh, stava misurando...qualcosa.{#Name="Decadus"}
+Sono soltanto uno scienziato che raccoglie dati{LF}sui suoi beni più preziosi, mia signora.{#Name="Octa"}
+Insomma, che senso ha possedere un’opera d’arte{LF}se non la si ammira di tanto in tanto?{#Name="Octa"}
+Sei proprio un tipo raffinato, Octa.{#Name="Zero"}
+Bene. Sarà divertente. È da una vita che non ho{LF}qualcosa di carnoso da fare a pezzi.{#Name="Zero"}
+C’è qualcosa di strano in quest’albero.{#Name="Zero"}
+Be’, come ho già detto, è il santuario di Lady Three.{#Name="Octa"}
+541{#Name="541"}
+253{#Name="253"}
+Forza, penetriamoci dentro, vi va?{#Name="Octa"}
+Guidato dal discepolo Octa,{LF}il gruppo rintracciò il santuario in cui Three si nascondeva.{#Name="Accord"}
+Presto, Zero si ritrovò davanti alla Foresta Perduta,{#Name="Accord"}
+una regione sinistra da cui nessuno è mai fuggito.{#Name="Accord"}
+Sconfiggi i non morti!{#Name="テスト"}
+Sconfiggi i non morti!{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+ 
+ミハイル
+ゼロ
+デカード
+オクタ
+ディト
+デカート
+説明文
+Soldier A
+Soldier B
+Soldier E
+Soldier C
+Soldier D
+Soldier F
+Soldier G
+Zero
+Mikhail
+271
+Dito
+703
+469
+Decadus
+Octa

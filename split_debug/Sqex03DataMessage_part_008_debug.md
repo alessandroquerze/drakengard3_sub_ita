@@ -13,7 +13,7 @@ Woo-hoo! Yeah, baby, YEAH! Ha ha ha ha!{#Name="Soldier A"}
 `Dopo tutta la fatica che ho fatto per procurarmi quella stramaledetta aeronave...{#Name="Zero"}`
 After all the trouble I went through to get that goddamn airship...{#Name="Zero"}
 
-`Vi farò a pezzi fino all'ultimo bastardo!{#Name="Zero"}`
+`Vi affetterò tutti quanti fino all'ultimo bastardo!{#Name="Zero"}`
 I am gonna slice the shit out of every last one of you!{#Name="Zero"}
 
 `Dopo aver assassinato Four,{#Name="Accord"}`

@@ -1,0 +1,106 @@
+Quel bambinone dei tuoi finisce spesso{LF}legato, eh.{#Name="Dito"}
+Se Lady Three lo prende,{LF}potrebbe fare esperimenti sul suo corpo.{#Name="Octa"}
+E-Esperimenti sul corpo? Ungh... Sarebbe{LF}deliz... Ehm, voglio dire... detestabile...{#Name="Decadus"}
+Scusa se ho combinato un altro guaio, Zero. Farò meglio...{#Name="Mikhail"}
+Sei stranamente composto.{#Name="Zero"}
+Eh?{#Name="Mikhail"}
+Non stai dicendo "Aww!" o "Mi sono impegnato tantissimo!"{LF}o roba simile.{#Name="Zero"}
+Oh, posso farlo!? Ehi, allora, indovina un po'?{LF}Indovina, eh?{#Name="Mikhail"}
+Zitto, scemo. L'edera ti si conficcherà{LF}ancora più a fondo. Sta' fermo e zitto{LF}finché non riesco a tirarti giù.{#Name="Zero"}
+Non credo che tu stia dicendo la verità.{#Name="Three"}
+Mia signora, io—{#Name="Octa"}
+Te ne sei andato perché la tua lussuria aveva bisogno{LF}di una partner più disponibile.{#Name="Three"}
+Il tuo desiderio senza limiti non faceva più{LF}scorrere il mio miele...{#Name="Three"}
+E così sei diventato irrequieto.{#Name="Three"}
+Questo... Be', potrebbe essere stato un motivo, ma...{#Name="Octa"}
+Allora dimmi, Three...{LF}Che cosa fa scorrere il vecchio miele, di questi tempi?{#Name="Zero"}
+Hmm?{#Name="Three"}
+Oh, per favore. Non fare la finta tonta con me.{LF}So che hai dei desideri.{#Name="Zero"}
+Io...{#Name="Three"}
+Non provo più amore per il mio discepolo.{LF}Ora il mio amore è riservato ai miei soldati.{#Name="Three"}
+I miei dolci, adorati soldatini.{#Name="Three"}
+Dovete fuggire subito!{LF}Non possiamo più fermare Lady Three!{#Name="Octa"}
+Pff! Non ho paura di una svitata fallita{LF}che se ne sta chiusa in camera a fare bambole tutto il giorno.{#Name="Zero"}
+Non sono bambole, mia signora.{LF}Sono soldati su cui ha operato!{#Name="Octa"}
+C-Cosa?{#Name="Decadus"}
+Oh, è terribile. ...MI PIACE DA MORIRE!{#Name="Dito"}
+Zero! Ehi! Ascolta!{#Name="Mikhail"}
+Taci. Sono nel mezzo di una cosa, adesso.{#Name="Zero"}
+Anch'io! Anch'io sono nel mezzo di una cosa!{LF}Una cosa strana!{#Name="Mikhail"}
+Che c'è?{#Name="Zero"}
+Ogni volta che guardo Three, è come se...{LF}come se il corpo mi diventasse tutto caldo...{#Name="Mikhail"}
+Mi viene questo strano dolore al petto e alla pancia,{LF}e comincio a sentirmi tutto formicolante...{#Name="Mikhail"}
+Che devo fare, Zero? Sono malato?{#Name="Mikhail"}
+Sì, si chiama "amore". Probabilmente terminale.{#Name="Zero"}
+No, Zero! Non è così! È una cosa seria!{LF}È... È più come...{#Name="Mikhail"}
+ミハ……イル{#Name="ゼロ"}
+ミハイル……{#Name="ゼロ"}
+……ミハイル！！{#Name="ゼロ"}
+Ahia! Zero, questi esplodono!{LF}Ti esplodono addosso!{#Name="Mikhail"}
+Fa' attenzione! Non lasciarteli attaccare addosso!{#Name="Zero"}
+Se il dolore è così forte, scrollateli di dosso!{#Name="Zero"}
+Aaah! Gli si sono staccate le teste! Si sono staccate!{#Name="Mikhail"}
+Bene! Ora schiaccia quei bastardi!{#Name="Zero"}
+Quell'attacco sembra consumare parecchia energia.{LF}Aspetta un'apertura e poi colpisci!{#Name="Zero"}
+Aspetta un'apertura e poi colpisci!{#Name="Zero"}
+Zerooo! Qui dentro è troppo stretto per volare!{#Name="Mikhail"}
+Ughhh! Drago del cazzo...{#Name="Zero"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+テスト{#Name="テスト"}
+Mikhail
+Zero
+Octa
+Three
+Dito
+Decadus
+? ? ?
+Cent
+145
+73
+説明文
+目的文
+Soldier F
+Soldier E
+Soldier A
+Soldier C
+Soldier D
+Soldier G
+Soldier B
+ゼロ
+テスト
+Attraversa questa foresta inquietante.{#Name="説明文"}
+Sconfiggi i negromanti!{#Name="説明文"}
+Sconfiggi l'armata di Armisael!{#Name="説明文"}
+Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}

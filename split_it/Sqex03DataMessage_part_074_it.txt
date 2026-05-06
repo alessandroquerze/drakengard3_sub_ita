@@ -1,0 +1,106 @@
+Merda... Mi prude tutto il corpo da morire!{#Name="Soldier D"}
+Non possiamo combattere così...{#Name="Soldier G"}
+Che diavolo sta succedendo!?{#Name="Soldier F"}
+Si mette male! Come ha fatto ad arrivare fin qui!?{#Name="Soldier E"}
+Visto!? Ve l’avevo detto che le nostre posizioni difensive non erano—{#Name="Soldier D"}
+Sta’ zitto e combatti, idiota!{#Name="Soldier G"}
+説明文
+（リザーブ）
+Mikhail
+Zero
+Octa
+Dito
+セント
+ゼロ
+ディト
+デカート
+オクタ
+Decadus
+Cent
+Soldier B
+Soldier C
+Soldier G
+Soldier E
+Soldier F
+Soldier A
+Soldier D
+Attraversa questa foresta tossica.{#Name="説明文"}
+Sconfiggi i troll!{#Name="説明文"}
+Sconfiggi l’Arch Titan!{#Name="説明文"}
+Sconfiggi il centauro!{#Name="説明文"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+Beh, questo è strano.{#Name="Octa"}
+Cosa?{#Name="Zero"}
+In quest’area dovrebbero esserci delle fate.{#Name="Octa"}
+Io non vedo niente.{#Name="Zero"}
+Ah HA! Visto? Il gas velenoso le ha uccise tutte fino all’ultima—{#Name="Cent"}
+Sta’ zitto, per favore.{#Name="Dito"}
+Santo cielo. Quelli sono troll?{#Name="Octa"}
+Ugh. Troll. Brutti, puzzolenti e stupidi...{LF}Meritano di morire.{#Name="Dito"}
+È un giudizio piuttosto duro.{#Name="Decadus"}
+E certo che è un giudizio duro!{#Name="Dito"}
+Diavolo, stiamo facendo un FAVORE{LF}a questi stronzi uccidendoli!{#Name="Dito"}
+Voglio dire, non è che faranno{LF}qualcosa di utile con le loro vite.{#Name="Dito"}
+Fidati. Saranno molto più felici{LF}una volta morti.{#Name="Dito"}
+Mi chiedo cosa Lady Three stesse{LF}cercando di dirci prima.{#Name="Decadus"}
+Ha detto che Lady One è in questa foresta, giusto?{#Name="Decadus"}
+E che custodisce un segreto di qualche tipo?{#Name="Decadus"}
+I misteri si moltiplicano tra loro...{#Name="Decadus"}
+Anch’io ho riflettuto{LF}a lungo su questa questione.{#Name="Octa"}
+Ma ahimè, ogni volta che penso a Lady Three,{LF}la mia mente viene distratta da immagini continue{LF}dei nostri epici convegni carnali notturni...{#Name="Octa"}
+Non ci stai nemmeno provando, vero?{#Name="Zero"}
+Lady Zero, attenta!{#Name="Decadus"}
+Un titan? Qui? È un po’...inaspettato.{#Name="Cent"}
+Cosa hai fatto per meritarti una punizione simile, eh?{#Name="Cent"}
+Perché io so di non aver fatto niente,{LF}quindi dev’essere colpa tua.{#Name="Cent"}
+Smettila di lamentarti e fai il tuo dannato lavoro!{#Name="Zero"}
+Oh, andiamo. Adesso pure un centauro?{#Name="Dito"}
+Cos’è, un dannato parco divertimenti per mostri!?{#Name="Dito"}
+Le bestie di questa foresta sono{LF}cambiate, questo è certo...{#Name="Octa"}
+Faremmo meglio a trovare Lady One il più in fretta possibile.{#Name="Octa"}
+D’accordo.{#Name="Zero"}
+Ma prima uccidiamo qui il mio bel pony.{LF}Poi possiamo andare a cercare One.{#Name="Zero"}
+Arrivano!{#Name="Soldier A"}
+Dobbiamo fermarli qui!{#Name="Soldier B"}
+Che facciamo!? Sempre più dei nostri si ammalano!{#Name="Soldier C"}
+Sì, beh, quella malattia non conterà un cazzo se ci superano qui!{#Name="Soldier E"}
+Dov’è finita Lady Three?{#Name="Soldier A"}
+È tornata nella foresta!{#Name="Soldier C"}
+Se solo Lady Three fosse qui con noi!{#Name="Soldier A"}
+Dannazione! Ch-Che diavolo sta succedendo!?{#Name="Soldier C"}
+Questa nebbia è la volontà di Lady Three?{#Name="Soldier F"}
+Nnngh...{#Name="Soldier C"}
+È una nebbia malsana. Cercate di non respirare troppo a fondo!{#Name="Soldier D"}
+*Anf, anf...* D-Dannazione... Non riesco a respirare...{#Name="Soldier G"}
+Se è arrivata fin qui, la nostra prima linea dev’essere stata annientata!{#Name="Soldier E"}
+Non pensarci adesso!{#Name="Soldier G"}
+Che diavolo ha questa foresta...?{#Name="Zero"}
+説明文
+（リザーブ）
+Octa
+Zero
+Cent
+Dito
+Decadus
+Soldier A
+Soldier B
+Soldier C
+Soldier E
+Soldier F
+Soldier D
+Soldier G
+Insegui Three.{#Name="説明文"}
+Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}
+Distruggi le tre statue!{#Name="説明文"}
+Sconfiggi il Gray Cerberus!{#Name="説明文"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}

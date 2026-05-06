@@ -265,10 +265,10 @@ Break through the enemy's defenses.{#Name="説明文"}
 `Sconfiggi i soldati nemici!{#Name="説明文"}`
 Defeat the enemy soldiers!{#Name="説明文"}
 
-`Sconfiggi il Cerberus!{#Name="説明文"}`
+`Sconfiggi il Cerbero!{#Name="説明文"}`
 Defeat the Cerberus!{#Name="説明文"}
 
-`Sconfiggi il Cerberus!{#Name="説明文"}`
+`Sconfiggi il Cerbero!{#Name="説明文"}`
 Defeat the Cerberus!{#Name="説明文"}
 
 `È qui! L'Intoner demoniaca è qui!{#Name="Soldier C"}`

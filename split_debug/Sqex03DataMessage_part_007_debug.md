@@ -160,7 +160,7 @@ How...strange... Zzz...{#Name="Cent"}
 `Zzz... Eh? State... andando a dormire... Lady Zero?{#Name="Cent"}`
 Zzz... Huh? You're...going to sleep...Lady Zero?{#Name="Cent"}
 
-`Concedersi un sonno più che necessario?{#Name=" "}`
+`Concedersi un sonno davvero necessario?{#Name=" "}`
 Get some much-needed sleep?{#Name=" "}
 
 `Bene, il prossimo... abbiamo questa registrazione dalla Diramazione B.{#Name="Accord"}`

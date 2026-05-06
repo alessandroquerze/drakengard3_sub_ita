@@ -205,13 +205,13 @@ How...how could this happen...?{#Name="Soldier D"}
 `Aspettate, mie amate sorelle.{LF}Sto venendo a uccidervi tutte.{#Name="Zero"}`
 Hold on, my beloved sisters.{LF}I'm coming to kill you all.{#Name="Zero"}
 
-`Sconfiggi il Titan!{#Name=" "}`
+`Sconfiggi il Titano!{#Name=" "}`
 Defeat the Titan!{#Name=" "}
 
 `Trova e sconfiggi le tue sorelle alla Cattedrale.{#Name=" "}`
 Find and defeat your sisters at the Cathedral.{#Name=" "}
 
-`Old Man`
+`Vecchio`
 Old Man
 
 `Zero`
