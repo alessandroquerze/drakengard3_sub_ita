@@ -109,7 +109,7 @@ Accord
 `Procedi attraverso le rovine sotterranee.{#Name="説明文"}`
 Proceed through the underground ruins.{#Name="説明文"}
 
-`Sconfiggi i Troll Feroci!{#Name="説明文"}`
+`Sconfiggi i Troll Bruti!{#Name="説明文"}`
 Defeat the Brute Trolls!{#Name="説明文"}
 
 `Sconfiggi i Golem!{#Name="説明文"}`

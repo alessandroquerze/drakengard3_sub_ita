@@ -1,0 +1,105 @@
+The Cathedral City
+The Land of Seas
+The Land of Mountains
+The Land of Forests
+The Land of Sands
+Sovrani
+La Chiesa
+Sorella minore
+Sorella maggiore
+The Magic Academy
+Magia
+Intoner
+Negozi di armi
+Draghi
+Miracoli
+Il Cataclisma
+Mondi multipli
+Singolarità
+Il potere del canto
+Il Fiore
+ＴＩＰＳ_６０
+ＴＩＰＳ_６１
+ＴＩＰＳ_６２
+ＴＩＰＳ_６３
+ＴＩＰＳ_６４
+ＴＩＰＳ_６５
+ＴＩＰＳ_６６
+ＴＩＰＳ_６７
+ＴＩＰＳ_６８
+ＴＩＰＳ_６９
+ＴＩＰＳ_７０
+ＴＩＰＳ_７１
+ＴＩＰＳ_７２
+ＴＩＰＳ_７３
+ＴＩＰＳ_７４
+ＴＩＰＳ_７５
+ＴＩＰＳ_７６
+ＴＩＰＳ_７７
+ＴＩＰＳ_７８
+ＴＩＰＳ_７９
+{04}{#Name=" "}
+Capitolo 0:{#Name=" "}
+Capitolo 1:{#Name=" "}
+Capitolo 2:{#Name=" "}
+Capitolo 3:{#Name=" "}
+Capitolo 4:{#Name=" "}
+Capitolo 5:{#Name=" "}
+Branch B:{#Name=" "}
+Branch C:{#Name=" "}
+Branch D:{#Name=" "}
+DLC{#Name=" "}
+予備{#Name=" "}
+予備{#Name=" "}
+予備{#Name=" "}
+予備{#Name=" "}
+Verso 1{#Name=" "}
+Verso 2{#Name=" "}
+Verso 1{#Name=" "}
+Verso 2{#Name=" "}
+Verso 3{#Name=" "}
+Verso 4{#Name=" "}
+Verso 1{#Name=" "}
+Verso 2{#Name=" "}
+Verso 3{#Name=" "}
+Verso 4{#Name=" "}
+Verso 5{#Name=" "}
+Verso 6{#Name=" "}
+Verso 1{#Name=" "}
+Verso 2{#Name=" "}
+Verso 3{#Name=" "}
+Verso 4{#Name=" "}
+Verso 5{#Name=" "}
+Verso 6{#Name=" "}
+Verso 1{#Name=" "}
+Verso 2{#Name=" "}
+Verso 3{#Name=" "}
+Verso 4{#Name=" "}
+Verso 1{#Name=" "}
+Verso 2{#Name=" "}
+Verso 3{#Name=" "}
+Verso 4{#Name=" "}
+Verso 1{#Name=" "}
+Verso 2{#Name=" "}
+Verso 3{#Name=" "}
+Verso 4{#Name=" "}
+Verso 5{#Name=" "}
+Verso 1{#Name=" "}
+Verso 2{#Name=" "}
+Verso 3{#Name=" "}
+Verso 4{#Name=" "}
+Verso 5{#Name=" "}
+Verso perduto 1{#Name=" "}
+Verso perduto 2{#Name=" "}
+Verso perduto 3{#Name=" "}
+Verso 1{#Name=" "}
+Verso 2{#Name=" "}
+Verso 3{#Name=" "}
+Verso 4{#Name=" "}
+Verso 5{#Name=" "}
+Verso 6{#Name=" "}
+Verso 7{#Name=" "}
+Verso 8{#Name=" "}
+Verso finale{#Name=" "}
+1010_1{#Name="1010"}
+1010_2{#Name="1010"}

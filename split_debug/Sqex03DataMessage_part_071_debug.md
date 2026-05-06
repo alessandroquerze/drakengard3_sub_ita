@@ -307,7 +307,7 @@ Soldier B
 `Fatti strada in questa foresta inquietante.{#Name="説明文"}`
 Make your way through this eerie forest.{#Name="説明文"}
 
-`Sconfiggi i necromanti!{#Name="説明文"}`
+`Sconfiggi i Necromanti!{#Name="説明文"}`
 Defeat the Necromancers!{#Name="説明文"}
 
 `Sconfiggi l'armata di Armisael!{#Name="説明文"}`

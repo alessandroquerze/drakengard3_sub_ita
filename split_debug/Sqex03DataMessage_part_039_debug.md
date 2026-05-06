@@ -241,7 +241,7 @@ Destroy all the cannons!{#Name="説明文"}
 `Dirigiti al Santuario dei Mari.{#Name="説明文"}`
 Head for the Shrine of Seas.{#Name="説明文"}
 
-`Distruggi la nave da battaglia!{#Name="説明文"}`
+`Distruggi la Nave da Battaglia!{#Name="説明文"}`
 Destroy the Battleship!{#Name="説明文"}
 
 `Stai bene, Zero?{#Name="Mikhail"}`

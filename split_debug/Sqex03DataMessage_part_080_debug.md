@@ -52,7 +52,7 @@ Defeat the enemy soldiers!{#Name="説明文"}
 `Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}`
 Defeat the enemies blocking your way!{#Name="説明文"}
 
-`Sconfiggi i lupi alfa della sabbia!{#Name="説明文"}`
+`Sconfiggi i Lupi Alfa della Sabbia!{#Name="説明文"}`
 Defeat the Alpha Sandwolves!{#Name="説明文"}
 
 `Sconfiggi il Golem!{#Name="説明文"}`

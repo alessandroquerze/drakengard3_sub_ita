@@ -103,28 +103,28 @@ Book of Discipline
 `クエスト用服２１`
 クエスト用服２１
 
-`Corno di bue`
+`Corno di Bue`
 Ox Horn
 
-`Corno di unicorno`
+`Corno di Unicorno`
 Unicorn Horn
 
-`Artiglio di falco`
+`Artiglio di Falco`
 Hawk Talon
 
-`Artiglio d’aquila`
+`Artiglio d’Aquila`
 Eagle Talon
 
-`Pungiglione di rospo`
+`Pungiglione di Rospo`
 Toad Stinger
 
-`Zanna di vipera`
+`Zanna di Vipera`
 Viper Fang
 
-`Fossile d’osso`
+`Fossile d’Osso`
 Bone Fossil
 
-`Fossile vegetale`
+`Fossile Vegetale`
 Plant Fossil
 
 `Manufatto del Vecchio Mondo`

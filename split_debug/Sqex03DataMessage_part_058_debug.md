@@ -124,7 +124,7 @@ Make your way toward Four's fortress.{#Name="説明文"}
 `Sconfiggi i soldati nemici!{#Name="説明文"}`
 Defeat the enemy soldiers!{#Name="説明文"}
 
-`Sconfiggi il golem!{#Name="説明文"}`
+`Sconfiggi il Golem!{#Name="説明文"}`
 Defeat the Golem!{#Name="説明文"}
 
 `Sconfiggi il Signore dei titani!{#Name="説明文"}`

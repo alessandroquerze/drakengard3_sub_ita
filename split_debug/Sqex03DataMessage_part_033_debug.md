@@ -232,31 +232,31 @@ Redemptive Nucleus
 `クエスト用メダル２１`
 クエスト用メダル２１
 
-`Pietra verde acqua`
+`Pietra Acquamarina`
 Tealstone
 
-`Pietra rosa`
+`Pietra Rosa`
 Pinkstone
 
-`Pietra focaia`
+`Pietra Focaia`
 Flintstone
 
-`Pietra d’ambra`
+`Pietra d’Ambra`
 Amberstone
 
-`Pietra del cibo`
+`Pietra del Cibo`
 Foodstone
 
-`Pietra del movimento`
+`Pietra del Movimento`
 Movestone
 
-`Pietra fluttuante`
+`Pietra Fluttuante`
 Floatstone
 
 `Magnetite`
 Magnetite
 
-`Pietra cometa`
+`Pietra Cometa`
 Cometstone
 
 `Meteorite`
@@ -295,24 +295,24 @@ Meteorite
 `クエスト用宝石２１`
 クエスト用宝石２１
 
-`Libro della speranza`
+`Libro della Speranza`
 Book of Hope
 
-`Libro dell’ambizione`
+`Libro dell’Ambizione`
 Book of Ambition
 
-`Libro della reticenza`
+`Libro della Reticenza`
 Book of Reticence
 
-`Libro dello stoicismo`
+`Libro dello Stoicismo`
 Book of Stoicism
 
-`Libro della santità`
+`Libro della Santità`
 Book of Sanctity
 
-`Libro del mistero`
+`Libro del Mistero`
 Book of Mystery
 
-`Libro della purezza`
+`Libro della Purezza`
 Book of Purity
 

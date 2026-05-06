@@ -274,7 +274,7 @@ Goddammit. What now?{#Name="Zero"}
 `Libera Mikhail.{#Name="説明文"}`
 Free Mikhail.{#Name="説明文"}
 
-`Sconfiggi i soldati potenziati!{#Name="説明文"}`
+`Sconfiggi i Soldati Potenziati!{#Name="説明文"}`
 Defeat the Enhanced Soldiers!{#Name="説明文"}
 
 `Sconfiggi l'esercito di Armisael!{#Name="説明文"}`

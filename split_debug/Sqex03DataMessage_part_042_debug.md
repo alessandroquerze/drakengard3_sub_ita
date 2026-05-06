@@ -307,12 +307,12 @@ Dito
 `テスト`
 テスト
 
-`Sconfiggi gli stregoni!{#Name="説明文"}`
+`Sconfiggi gli Stregoni!{#Name="説明文"}`
 Defeat the Wizards!{#Name="説明文"}
 
 `Sconfiggi gli Imp!{#Name="説明文"}`
 Defeat the Imps!{#Name="説明文"}
 
-`Sconfiggi gli orchi della sabbia!{#Name="説明文"}`
+`Sconfiggi gli Ogre della Sabbia!{#Name="説明文"}`
 Defeat the Sand Ogres!{#Name="説明文"}
 

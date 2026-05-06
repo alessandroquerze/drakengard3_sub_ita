@@ -79,13 +79,13 @@ Soldier D
 `Attraversa questa foresta tossica.{#Name="説明文"}`
 Make your way through this toxic forest.{#Name="説明文"}
 
-`Sconfiggi i troll!{#Name="説明文"}`
+`Sconfiggi i Troll!{#Name="説明文"}`
 Defeat the Trolls!{#Name="説明文"}
 
-`Sconfiggi l’Arch Titan!{#Name="説明文"}`
+`Sconfiggi l’Arci Titano!{#Name="説明文"}`
 Defeat the Arch Titan!{#Name="説明文"}
 
-`Sconfiggi il centauro!{#Name="説明文"}`
+`Sconfiggi il Centauro!{#Name="説明文"}`
 Defeat the Centaur!{#Name="説明文"}
 
 `（リザーブ）{#Name="（リザーブ）"}`

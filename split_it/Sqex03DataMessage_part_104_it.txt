@@ -1,0 +1,105 @@
+Puoi potenziare le armi dal menu Preparazione battaglia.{LF}Servono sia oro sia materiali base,{LF}che puoi trovare nei forzieri e altrove.{LF}I materiali base esistono in diverse varietà, e ogni{LF}arma ne richiede uno specifico per essere potenziata.{#Name="Upgrading Weapons"}
+Pur avendo portata limitata, le spade permettono attacchi{LF}rapidi, rendendole armi versatili e pratiche.{LF}Possono essere particolarmente utili se ti ritrovi{LF}circondato da un grande numero di nemici.{#Name="Swords"}
+La quantità di danni che subisci durante una{LF}missione diminuisce in base al numero di{LF}continua utilizzati. Se fallisci, continua a provare!{#Name="Continues"}
+Accord assegnerà ricompense man mano che completi le sue{LF}richieste. Ogni volta che porti a termine una richiesta per la{LF}prima volta, ti concederà un bonus aggiuntivo.{LF}Alcuni bonus, come la possibilità di trasportare più{LF}oggetti curativi, possono essere ottenuti solo in questo modo.{#Name="Accord's Requests"}
+Le lance sono pesanti e lente, ma offrono la potenza{LF}e la portata necessarie per sfondare le difese nemiche.{LF}Possono essere utili quando affronti nemici più resistenti.{#Name="Spears"}
+Quando combatti nemici forti, premi rapidamente {01}{03} per ridurre{LF}la loro salute con raffiche di letale fuoco di drago.{LF}Contro gruppi di nemici più deboli, tieni premuto {01}{03}{LF}per agganciare e colpire più nemici alla volta.{LF}Varia le tue tattiche in base alla situazione.{#Name="Airborne Attacking"}
+Premi {01}{0B} per eseguire una rotolata che ti rende invincibile{LF}per un breve periodo. Se attiri i nemici vicino e rotoli{LF}verso i loro attacchi, puoi attraversarli senza subire danni.{LF}Sfrutta questa tattica quando non hai{LF}abbastanza spazio per evitare del tutto un colpo in arrivo.{#Name="Airborne Evading"}
+I bracciali da combattimento sono adatti a concatenare{LF}combo. Danno anche accesso a molte{LF}mosse potenti basate sulla stamina. Questa combinazione di{LF}catene combo e colpi basati sulla stamina li rende{LF}particolarmente utili quando combatti singoli nemici.{#Name="Combat Bracers"}
+I chakram sono ottime armi a lunga distanza che{LF}ti permettono di colpire da lontano mantenendo{LF}la posizione. Tieni premuto il pulsante di attacco{LF}per un colpo caricato più potente.{#Name="Chakrams"}
+La luce solare infusa di magia può prosciugare la tua salute.{LF}Trova un’area con un po’ d’ombra per rinfrescarti{LF}e recuperare dai danni causati dal sole.{#Name="Sun Damage"}
+ＴＩＰＳ_２５　　　　　　　　　　一行目{LF}ＴＩＰＳ_２５　　　　　　　　　　二行目{LF}ＴＩＰＳ_２５　　　　　　　　　　三行目{LF}ＴＩＰＳ_２５　　　　　　　　　　四行目{LF}ＴＩＰＳ_２５　　　　　　　　　　五行目{#Name="ＴＩＰＳ_２５"}
+ＴＩＰＳ_２６　　　　　　　　　　一行目{LF}ＴＩＰＳ_２６　　　　　　　　　　二行目{LF}ＴＩＰＳ_２６　　　　　　　　　　三行目{LF}ＴＩＰＳ_２６　　　　　　　　　　四行目{LF}ＴＩＰＳ_２６　　　　　　　　　　五行目{#Name="ＴＩＰＳ_２６"}
+ＴＩＰＳ_２７　　　　　　　　　　一行目{LF}ＴＩＰＳ_２７　　　　　　　　　　二行目{LF}ＴＩＰＳ_２７　　　　　　　　　　三行目{LF}ＴＩＰＳ_２７　　　　　　　　　　四行目{LF}ＴＩＰＳ_２７　　　　　　　　　　五行目{#Name="ＴＩＰＳ_２７"}
+ＴＩＰＳ_２８　　　　　　　　　　一行目{LF}ＴＩＰＳ_２８　　　　　　　　　　二行目{LF}ＴＩＰＳ_２８　　　　　　　　　　三行目{LF}ＴＩＰＳ_２８　　　　　　　　　　四行目{LF}ＴＩＰＳ_２８　　　　　　　　　　五行目{#Name="ＴＩＰＳ_２８"}
+ＴＩＰＳ_２９　　　　　　　　　　一行目{LF}ＴＩＰＳ_２９　　　　　　　　　　二行目{LF}ＴＩＰＳ_２９　　　　　　　　　　三行目{LF}ＴＩＰＳ_２９　　　　　　　　　　四行目{LF}ＴＩＰＳ_２９　　　　　　　　　　五行目{#Name="ＴＩＰＳ_２９"}
+ＴＩＰＳ_３０　　　　　　　　　　一行目{LF}ＴＩＰＳ_３０　　　　　　　　　　二行目{LF}ＴＩＰＳ_３０　　　　　　　　　　三行目{LF}ＴＩＰＳ_３０　　　　　　　　　　四行目{LF}ＴＩＰＳ_３０　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３０"}
+ＴＩＰＳ_３１　　　　　　　　　　一行目{LF}ＴＩＰＳ_３１　　　　　　　　　　二行目{LF}ＴＩＰＳ_３１　　　　　　　　　　三行目{LF}ＴＩＰＳ_３１　　　　　　　　　　四行目{LF}ＴＩＰＳ_３１　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３１"}
+ＴＩＰＳ_３２　　　　　　　　　　一行目{LF}ＴＩＰＳ_３２　　　　　　　　　　二行目{LF}ＴＩＰＳ_３２　　　　　　　　　　三行目{LF}ＴＩＰＳ_３２　　　　　　　　　　四行目{LF}ＴＩＰＳ_３２　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３２"}
+ＴＩＰＳ_３３　　　　　　　　　　一行目{LF}ＴＩＰＳ_３３　　　　　　　　　　二行目{LF}ＴＩＰＳ_３３　　　　　　　　　　三行目{LF}ＴＩＰＳ_３３　　　　　　　　　　四行目{LF}ＴＩＰＳ_３３　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３３"}
+ＴＩＰＳ_３４　　　　　　　　　　一行目{LF}ＴＩＰＳ_３４　　　　　　　　　　二行目{LF}ＴＩＰＳ_３４　　　　　　　　　　三行目{LF}ＴＩＰＳ_３４　　　　　　　　　　四行目{LF}ＴＩＰＳ_３４　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３４"}
+ＴＩＰＳ_３５　　　　　　　　　　一行目{LF}ＴＩＰＳ_３５　　　　　　　　　　二行目{LF}ＴＩＰＳ_３５　　　　　　　　　　三行目{LF}ＴＩＰＳ_３５　　　　　　　　　　四行目{LF}ＴＩＰＳ_３５　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３５"}
+ＴＩＰＳ_３６　　　　　　　　　　一行目{LF}ＴＩＰＳ_３６　　　　　　　　　　二行目{LF}ＴＩＰＳ_３６　　　　　　　　　　三行目{LF}ＴＩＰＳ_３６　　　　　　　　　　四行目{LF}ＴＩＰＳ_３６　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３６"}
+ＴＩＰＳ_３７　　　　　　　　　　一行目{LF}ＴＩＰＳ_３７　　　　　　　　　　二行目{LF}ＴＩＰＳ_３７　　　　　　　　　　三行目{LF}ＴＩＰＳ_３７　　　　　　　　　　四行目{LF}ＴＩＰＳ_３７　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３７"}
+ＴＩＰＳ_３８　　　　　　　　　　一行目{LF}ＴＩＰＳ_３８　　　　　　　　　　二行目{LF}ＴＩＰＳ_３８　　　　　　　　　　三行目{LF}ＴＩＰＳ_３８　　　　　　　　　　四行目{LF}ＴＩＰＳ_３８　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３８"}
+ＴＩＰＳ_３９　　　　　　　　　　一行目{LF}ＴＩＰＳ_３９　　　　　　　　　　二行目{LF}ＴＩＰＳ_３９　　　　　　　　　　三行目{LF}ＴＩＰＳ_３９　　　　　　　　　　四行目{LF}ＴＩＰＳ_３９　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３９"}
+Un’enorme città creata dal Cataclisma.{LF}Godette di prosperità sotto la Chiesa e la sua{LF}Accademia di Magia, ma un’ondata magica accidentale nel 995{LF}la trasformò in una città fantasma. È anche chiamata "Old World"{LF}per le sue rovine e per il suo ruolo di origine di tutta la magia.{#Name="The Cathedral City"}
+Una nazione sotto il dominio dell’Intoner Five. Ha{LF}poca terra coltivabile, ma abbondanti risorse marine.{LF}È rinomata per i suoi pescherecci, che si scambiano{LF}messaggi tramite una serie di corni. Il suo porto collega{LF}numerose rotte marittime, rendendola un centro commerciale.{#Name="The Land of Seas"}
+Una nazione montuosa con fortezze apparentemente{LF}a ogni svolta. Il suo prodotto più famoso, l’Amberstone,{LF}è un materiale raro che può essere trasportato solo portando{LF}carri lungo sentieri stretti e insidiosi.{LF}È governata dall’Intoner Four.{#Name="The Land of Mountains"}
+Una nazione quasi interamente coperta di foreste. Gran parte di essa{LF}rimane inesplorata dall’umanità, ed è invece{LF}il dominio di fate ed elfi. È governata in teoria{LF}dall’Intoner Three, anche se lei sembra{LF}in gran parte ignara di ciò che vi accade.{#Name="The Land of Forests"}
+Una grande nazione quasi interamente coperta dal deserto,{LF}che la rende inadatta all’agricoltura. La magnetite è{LF}la sua principale esportazione. Pur essendo lontana dall’essere ricca,{LF}le sue numerose rovine hanno attirato negli ultimi anni{LF}l’interesse turistico di mercanti facoltosi.{#Name="The Land of Sands"}
+Le Lands of Seas, Mountains, Forests e Sands{LF}sono governate ciascuna da un singolo sovrano.{LF}I sovrani passati erano dittatori che terrorizzavano il {LF}popolo, ma da quando le cinque Intoner li hanno sconfitti,{LF}il mondo è tornato ai pacifici giorni di un tempo.{#Name="Rulers"}
+Un’organizzazione religiosa esistente fin{LF}dall’antichità. Il gruppo è cresciuto rapidamente dopo il{LF}Cataclisma, creando organizzazioni come l’Accademia{LF}di Magia per gestire la magia. Le sue molteplici sette sono{LF}note collettivamente semplicemente come la "Chiesa".{#Name="The Church"}
+Generalmente, la donna più giovane tra due fratelli nati{LF}dagli stessi genitori. Una "cognata" è la{LF}sorella di un coniuge o la moglie di un fratello, e non{LF}possiede necessariamente un legame di sangue.{#Name="Younger Sister"}
+Generalmente, la donna più anziana tra due fratelli nati{LF}dagli stessi genitori. Una "cognata" è la{LF}sorella di un coniuge o la moglie di un fratello, e non{LF}possiede necessariamente un legame di sangue.{#Name="Elder Sister"}
+Un’organizzazione fondata dalla Chiesa nel 910 per la{LF}ricerca sulla magia. La sua storia iniziale è nebulosa, ma{LF}nel 995 un incidente avvenuto alla Central Magic Academy{LF}della Cathedral City la cancellò dalla mappa.{#Name="The Magic Academy"}
+Un metodo per raccogliere e utilizzare energia magica{LF}per vari scopi, sia legati al combattimento sia non.{LF}In quest’epoca non esiste alcuno studio attivo dedicato alla magia,{LF}e solo poche applicazioni limitate sono state{LF}tramandate dalle generazioni precedenti.{#Name="Magic"}
+Persone capaci di usare il potere del canto per esercitare{LF}un’enorme forza offensiva. Sei di loro, tutte donne,{LF}sono state registrate nel corso della storia. Le Intoner liberarono ogni{LF}terra dai sovrani dispotici che un tempo terrorizzavano{LF}il loro popolo, e ora sono venerate come salvatrici.{#Name="Intoners"}
+I negozi che trattano armi e altri oggetti si trovano{LF}in ogni paese. Funzionano principalmente con un{LF}sistema basato sugli ordini, e per questo sono in gran parte senza personale.{LF}Nel loro insieme, i negozi sono gestiti{LF}da una sola persona nota come Accord.{#Name="Weapon Shops"}
+I più forti tra tutti i mostri. Dotati di grande{LF}intelligenza, vivono sugli altopiani e tra{LF}le nuvole, lontano dagli insediamenti umani.{LF}Esistono anche draghi antichi e altre sottospecie.{#Name="Dragons"}
+Eventi soprannaturali oltre la comprensione dell’umanità.{LF}La Chiesa li chiama "salvezza dagli dèi",{LF}e molti sono stati tramandati nel folklore. La maggior parte delle persone{LF}vede le stesse Intoner come miracoli, rendendole{LF}un comune oggetto di culto tra le masse.{#Name="Miracles"}
+Un disastro avvenuto nell’856, preannunciato da un vasto{LF}terremoto nella Penisola Iberica. A questo seguì{LF}l’apparizione improvvisa di un’enorme città durante la notte e{LF}il rilascio di strane creature in tutto il mondo. I registri della Chiesa{LF}suggeriscono che fu un evento capace di cambiare il mondo.{#Name="The Cataclysm"}
+L’esistenza di mondi paralleli innescati da{LF}materia quantistica entangled è nota da tempo.{LF}È possibile spostarsi, o ramificarsi, verso molti{LF}altri mondi, anche se la maggior parte di tali branch{LF}consente viaggi in una sola direzione.{#Name="Multiple Worlds"}
+Persone, luoghi o cose che possono innescare una divergenza,{LF}o branch, attraverso più mondi. I fenomeni di branch{LF}si verificano quando in un’area sono presenti abbastanza particelle magiche e{LF}tutte le condizioni rilevanti sono soddisfatte. Tuttavia, una singolarità{LF}non viene registrata come tale fino a dopo il verificarsi di una branch.{#Name="Singularities"}
+L’atto di usare l’energia del proprio fiore{LF}per scopi offensivi o difensivi.{LF}È fondamentalmente diverso dalla magia,{LF}poiché si basa sull’imbrigliare energia dalle{LF}proprietà comuni di più mondi.{#Name="The Power of Song"}
+Un oggetto parassitario a forma di pianta che si attacca{LF}a un’Intoner. Man mano che il parassita si diffonde,{LF}erode lo spirito e il corpo dell’Intoner ospite.{LF}Può essere distrutto usando un’arma derivata{LF}dal materiale cellulare di un drago.{#Name="The Flower"}
+ＴＩＰＳ_６０　　　　　　　　　　一行目{LF}ＴＩＰＳ_６０　　　　　　　　　　二行目{LF}ＴＩＰＳ_６０　　　　　　　　　　三行目{LF}ＴＩＰＳ_６０　　　　　　　　　　四行目{LF}ＴＩＰＳ_６０　　　　　　　　　　五行目{#Name="ＴＩＰＳ_６０"}
+ＴＩＰＳ_６１　　　　　　　　　　一行目{LF}ＴＩＰＳ_６１　　　　　　　　　　二行目{LF}ＴＩＰＳ_６１　　　　　　　　　　三行目{LF}ＴＩＰＳ_６１　　　　　　　　　　四行目{LF}ＴＩＰＳ_６１　　　　　　　　　　五行目{#Name="ＴＩＰＳ_６１"}
+ＴＩＰＳ_６２　　　　　　　　　　一行目{LF}ＴＩＰＳ_６２　　　　　　　　　　二行目{LF}ＴＩＰＳ_６２　　　　　　　　　　三行目{LF}ＴＩＰＳ_６２　　　　　　　　　　四行目{LF}ＴＩＰＳ_６２　　　　　　　　　　五行目{#Name="ＴＩＰＳ_６２"}
+ＴＩＰＳ_６３　　　　　　　　　　一行目{LF}ＴＩＰＳ_６３　　　　　　　　　　二行目{LF}ＴＩＰＳ_６３　　　　　　　　　　三行目{LF}ＴＩＰＳ_６３　　　　　　　　　　四行目{LF}ＴＩＰＳ_６３　　　　　　　　　　五行目{#Name="ＴＩＰＳ_６３"}
+ＴＩＰＳ_６４　　　　　　　　　　一行目{LF}ＴＩＰＳ_６４　　　　　　　　　　二行目{LF}ＴＩＰＳ_６４　　　　　　　　　　三行目{LF}ＴＩＰＳ_６４　　　　　　　　　　四行目{LF}ＴＩＰＳ_６４　　　　　　　　　　五行目{#Name="ＴＩＰＳ_６４"}
+ＴＩＰＳ_６５　　　　　　　　　　一行目{LF}ＴＩＰＳ_６５　　　　　　　　　　二行目{LF}ＴＩＰＳ_６５　　　　　　　　　　三行目{LF}ＴＩＰＳ_６５　　　　　　　　　　四行目{LF}ＴＩＰＳ_６５　　　　　　　　　　五行目{#Name="ＴＩＰＳ_６５"}
+ＴＩＰＳ_６６　　　　　　　　　　一行目{LF}ＴＩＰＳ_６６　　　　　　　　　　二行目{LF}ＴＩＰＳ_６６　　　　　　　　　　三行目{LF}ＴＩＰＳ_６６　　　　　　　　　　四行目{LF}ＴＩＰＳ_６６　　　　　　　　　　五行目{#Name="ＴＩＰＳ_６６"}
+ＴＩＰＳ_６７　　　　　　　　　　一行目{LF}ＴＩＰＳ_６７　　　　　　　　　　二行目{LF}ＴＩＰＳ_６７　　　　　　　　　　三行目{LF}ＴＩＰＳ_６７　　　　　　　　　　四行目{LF}ＴＩＰＳ_６７　　　　　　　　　　五行目{#Name="ＴＩＰＳ_６７"}
+ＴＩＰＳ_６８　　　　　　　　　　一行目{LF}ＴＩＰＳ_６８　　　　　　　　　　二行目{LF}ＴＩＰＳ_６８　　　　　　　　　　三行目{LF}ＴＩＰＳ_６８　　　　　　　　　　四行目{LF}ＴＩＰＳ_６８　　　　　　　　　　五行目{#Name="ＴＩＰＳ_６８"}
+ＴＩＰＳ_６９　　　　　　　　　　一行目{LF}ＴＩＰＳ_６９　　　　　　　　　　二行目{LF}ＴＩＰＳ_６９　　　　　　　　　　三行目{LF}ＴＩＰＳ_６９　　　　　　　　　　四行目{LF}ＴＩＰＳ_６９　　　　　　　　　　五行目{#Name="ＴＩＰＳ_６９"}
+ＴＩＰＳ_７０　　　　　　　　　　一行目{LF}ＴＩＰＳ_７０　　　　　　　　　　二行目{LF}ＴＩＰＳ_７０　　　　　　　　　　三行目{LF}ＴＩＰＳ_７０　　　　　　　　　　四行目{LF}ＴＩＰＳ_７０　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７０"}
+ＴＩＰＳ_７１　　　　　　　　　　一行目{LF}ＴＩＰＳ_７１　　　　　　　　　　二行目{LF}ＴＩＰＳ_７１　　　　　　　　　　三行目{LF}ＴＩＰＳ_７１　　　　　　　　　　四行目{LF}ＴＩＰＳ_７１　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７１"}
+ＴＩＰＳ_７２　　　　　　　　　　一行目{LF}ＴＩＰＳ_７２　　　　　　　　　　二行目{LF}ＴＩＰＳ_７２　　　　　　　　　　三行目{LF}ＴＩＰＳ_７２　　　　　　　　　　四行目{LF}ＴＩＰＳ_７２　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７２"}
+ＴＩＰＳ_７３　　　　　　　　　　一行目{LF}ＴＩＰＳ_７３　　　　　　　　　　二行目{LF}ＴＩＰＳ_７３　　　　　　　　　　三行目{LF}ＴＩＰＳ_７３　　　　　　　　　　四行目{LF}ＴＩＰＳ_７３　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７３"}
+ＴＩＰＳ_７４　　　　　　　　　　一行目{LF}ＴＩＰＳ_７４　　　　　　　　　　二行目{LF}ＴＩＰＳ_７４　　　　　　　　　　三行目{LF}ＴＩＰＳ_７４　　　　　　　　　　四行目{LF}ＴＩＰＳ_７４　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７４"}
+ＴＩＰＳ_７５　　　　　　　　　　一行目{LF}ＴＩＰＳ_７５　　　　　　　　　　二行目{LF}ＴＩＰＳ_７５　　　　　　　　　　三行目{LF}ＴＩＰＳ_７５　　　　　　　　　　四行目{LF}ＴＩＰＳ_７５　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７５"}
+ＴＩＰＳ_７６　　　　　　　　　　一行目{LF}ＴＩＰＳ_７６　　　　　　　　　　二行目{LF}ＴＩＰＳ_７６　　　　　　　　　　三行目{LF}ＴＩＰＳ_７６　　　　　　　　　　四行目{LF}ＴＩＰＳ_７６　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７６"}
+ＴＩＰＳ_７７　　　　　　　　　　一行目{LF}ＴＩＰＳ_７７　　　　　　　　　　二行目{LF}ＴＩＰＳ_７７　　　　　　　　　　三行目{LF}ＴＩＰＳ_７７　　　　　　　　　　四行目{LF}ＴＩＰＳ_７７　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７７"}
+ＴＩＰＳ_７８　　　　　　　　　　一行目{LF}ＴＩＰＳ_７８　　　　　　　　　　二行目{LF}ＴＩＰＳ_７８　　　　　　　　　　三行目{LF}ＴＩＰＳ_７８　　　　　　　　　　四行目{LF}ＴＩＰＳ_７８　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７８"}
+ＴＩＰＳ_７９　　　　　　　　　　一行目{LF}ＴＩＰＳ_７９　　　　　　　　　　二行目{LF}ＴＩＰＳ_７９　　　　　　　　　　三行目{LF}ＴＩＰＳ_７９　　　　　　　　　　四行目{LF}ＴＩＰＳ_７９　　　　　　　　　　五行目{#Name="ＴＩＰＳ_７９"}
+Guarding
+Parrying
+The Mini-map
+Intoner Mode
+Combo Attacks
+Aerial Combos
+Locking On
+The Pause Menu
+Evading
+Aerial Evading
+Navigation Help
+Switching Weapons
+Chain Combos
+Summon Circles
+Weapon Stories
+Upgrading Weapons
+Swords
+Continues
+Accord's Requests
+Spears
+Airborne Attacking
+Airborne Evading
+Combat Bracers
+Chakrams
+Sun Damage
+ＴＩＰＳ_２５
+ＴＩＰＳ_２６
+ＴＩＰＳ_２７
+ＴＩＰＳ_２８
+ＴＩＰＳ_２９
+ＴＩＰＳ_３０
+ＴＩＰＳ_３１
+ＴＩＰＳ_３２
+ＴＩＰＳ_３３
+ＴＩＰＳ_３４
+ＴＩＰＳ_３５
+ＴＩＰＳ_３６
+ＴＩＰＳ_３７
+ＴＩＰＳ_３８
+ＴＩＰＳ_３９

@@ -148,10 +148,10 @@ Accord
 `Attraversa il deserto rovente.{#Name="説明文"}`
 Cross the searing desert.{#Name="説明文"}
 
-`Sconfiggi i maghi!{#Name="説明文"}`
+`Sconfiggi i Maghi!{#Name="説明文"}`
 Defeat the Wizards!{#Name="説明文"}
 
-`Sconfiggi il Centauro di fuoco!{#Name="説明文"}`
+`Sconfiggi il Centauro di Fuoco!{#Name="説明文"}`
 Defeat the Flame Centaur!{#Name="説明文"}
 
 `（リザーブ）{#Name="（リザーブ）"}`

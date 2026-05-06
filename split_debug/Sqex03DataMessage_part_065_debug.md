@@ -238,7 +238,7 @@ Defeat the Cerberuses!{#Name="説明文"}
 `Sconfiggi i nemici che ti sbarrano la strada!{#Name="説明文"}`
 Defeat the enemies blocking your way!{#Name="説明文"}
 
-`Sconfiggi i Giganti non morti!{#Name="説明文"}`
+`Sconfiggi i Gigas non morti!{#Name="説明文"}`
 Defeat the Undead Gigantes!{#Name="説明文"}
 
 `予備{#Name="説明文"}`

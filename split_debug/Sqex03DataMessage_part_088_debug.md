@@ -217,7 +217,7 @@ Defeat the enemies blocking your way!{#Name="説明文"}
 `Sconfiggi l’Ogre!{#Name="説明文"}`
 Defeat the Ogre!{#Name="説明文"}
 
-`Sconfiggi il Cerbero di fiamme!{#Name="説明文"}`
+`Sconfiggi il Cerbero di Fiamme!{#Name="説明文"}`
 Defeat the Flame Cerberus!{#Name="説明文"}
 
 `（リザーブ）{#Name="（リザーブ）"}`

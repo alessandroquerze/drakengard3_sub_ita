@@ -214,13 +214,13 @@ Three down, two to go.{#Name="Zero"}
 `Oh, e non dite niente di questo a Mikhail.{#Name="Zero"}`
 Oh, and don't tell Mikhail about this.{#Name="Zero"}
 
-`Sconfiggi i maghi!{#Name="説明文"}`
+`Sconfiggi i Maghi!{#Name="説明文"}`
 Defeat the Wizards!{#Name="説明文"}
 
-`Sconfiggi i golem!{#Name="説明文"}`
+`Sconfiggi i Golem!{#Name="説明文"}`
 Defeat the Golems!{#Name="説明文"}
 
-`Sconfiggi gli ogre del deserto!{#Name="説明文"}`
+`Sconfiggi gli Ogre della Sabbia!{#Name="説明文"}`
 Defeat the Sand Ogres!{#Name="説明文"}
 
 `Sconfiggi i non morti!{#Name="説明文"}`

@@ -268,7 +268,7 @@ Defeat the enemies blocking your way!{#Name="説明文"}
 `Sconfiggi i Gigas!{#Name="説明文"}`
 Defeat the Gigas!{#Name="説明文"}
 
-`Sconfiggi i cannonieri!{#Name="説明文"}`
+`Sconfiggi i Cannonieri!{#Name="説明文"}`
 Defeat the Cannoneers!{#Name="説明文"}
 
 `Torna alla casetta di Zero.{#Name="説明文"}`

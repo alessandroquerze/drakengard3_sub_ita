@@ -310,9 +310,9 @@ Death to the traitorous Intoner!{#Name="Soldier C"}
 `Distruggi la fortezza di Four.{#Name="a"}`
 Destroy Four's fortress.{#Name="a"}
 
-`Distruggi l'ipercannone!{#Name="test"}`
+`Distruggi l'Ipercannone!{#Name="test"}`
 Destroy the Hyper Cannon!{#Name="test"}
 
-`Sconfiggi i Giganti!{#Name="test"}`
+`Sconfiggi i Gigas!{#Name="test"}`
 Defeat the Gigantes!{#Name="test"}
 
