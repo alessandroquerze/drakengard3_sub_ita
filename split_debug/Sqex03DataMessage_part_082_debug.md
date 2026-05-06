@@ -10,7 +10,7 @@ Ho ho! Ever the gung-ho Intoner, eh?{#Name="Octa"}
 `È troppo buio perché riesca a mirare bene...{#Name="Decadus"}`
 It's too dark for me to aim well...{#Name="Decadus"}
 
-`Basta scuse, fenomeno. Continua a combattere.{#Name="Dito"}`
+`Basta scuse, svitato. Continua a combattere.{#Name="Dito"}`
 Enough excuses, freak. Just keep fighting.{#Name="Dito"}
 
 `Con tutto questo combattere... finiremo{LF}per danneggiare le rovine!{#Name="Decadus"}`

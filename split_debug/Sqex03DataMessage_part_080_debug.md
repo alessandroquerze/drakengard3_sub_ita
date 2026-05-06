@@ -232,7 +232,7 @@ Dammit, why the hell are the wolves on HER side?{#Name="Zero"}
 `Non credo siano comuni{LF}lupi selvatici, mia signora.{#Name="Decadus"}`
 I don't think these are your everyday{LF}wild wolves, my lady.{#Name="Decadus"}
 
-`Sì, il fenomeno ha ragione. Questi lupi{LF}sono decisamente addestrati.{#Name="Dito"}`
+`Sì, lo svitato ha ragione. Questi lupi{LF}sono decisamente addestrati.{#Name="Dito"}`
 Yeah, Freakshow's right. These guys{LF}are definitely trained.{#Name="Dito"}
 
 `181{#Name="181"}`

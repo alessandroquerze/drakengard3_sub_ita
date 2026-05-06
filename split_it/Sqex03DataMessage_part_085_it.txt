@@ -1,0 +1,105 @@
+Se hai paura, possiamo tranquillamente tornare indietro!{#Name="Mikhail"}
+No.{#Name="Zero"}
+A proposito, perché eri completamente{LF}irraggiungibile nel deserto?{#Name="Zero"}
+Laggiù stavamo per morire di sfinimento.{#Name="Zero"}
+Stavano usando un canto per creare{LF}una specie di muro magico.{#Name="Mikhail"}
+Non riuscivo a entrare finché non hai pestato i cattivi.{#Name="Mikhail"}
+Ma mi sono assicurato di fare i miei bisogni{LF}prima di venire da te!{#Name="Mikhail"}
+E li ho coperti con la sabbia proprio come mi hai insegnato!{#Name="Mikhail"}
+Va bene, no? Va davvero bene!{#Name="Mikhail"}
+*Sigh*{#Name="Zero"}
+Ehi, Zero? Che cos’ha Two,{LF}comunque?{#Name="Mikhail"}
+Ha combattuto contro i suoi stessi poteri e ha perso.{#Name="Zero"}
+Serve una mente forte per resistere{LF}al potere di un canto.{#Name="Zero"}
+Lei non ce l’aveva.{#Name="Zero"}
+Quindi è solo malata, giusto?{LF}Possiamo curarla? Eh? Possiamo?{#Name="Mikhail"}
+No. E poi sto cercando di ucciderla,{LF}qui!{#Name="Zero"}
+Ne manca solo uno, Zero!{#Name="Mikhail"}
+Già. Finiamola!{#Name="Zero"}
+Prendili, Zero, prendili!{#Name="Mikhail"}
+Io? Sei tu quello che deve prenderli!{#Name="Zero"}
+L’angelo di Lady Two... Sta perdendo l’armatura...{#Name="Cent"}
+Sì, perché lo stiamo attaccando!{#Name="Zero"}
+Oh, cielo. Se la perde tutta, sarà un guaio.{LF}Un guaio molto, molto grosso...{#Name="Cent"}
+Non rilassatevi ancora, amici.{LF}Lo spettacolo è moooolto lontano dalla fine!{#Name="Cent"}
+Zero, guarda! Sta scappando!{#Name="Mikhail"}
+Non lasciarli scappare!{#Name="Zero"}
+Uccidi Two.{#Name=" "}
+Sconfiggi gli Egregori!{#Name=" "}
+エグリゴリを倒した！{#Name=" "}
+Cent
+Zero
+Two
+91
+Mikhail
+Soldier A
+Soldier B
+Soldier F
+Soldier C
+Soldier D
+Soldier G
+Soldier E
+オクタ
+ゼロ
+ディト
+ 
+Attraversa il deserto illuminato dalla luna.{#Name="説明文"}
+Sconfiggi i soldati nemici!{#Name="説明文"}
+Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}
+Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}
+Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+È lei! Zero è qui!{#Name="Soldier A"}
+Attaccate! Attaccate!{#Name="Soldier B"}
+Uh...ah... Ahhhhhhh!{#Name="Soldier G"}
+L’oscurità è nostra alleata, uomini! Conosciamo la conformazione di questa terra!{#Name="Soldier E"}
+Non possiamo permettere che accada qualcosa a Lady Two!{#Name="Soldier C"}
+Giusto! Fermiamo Zero qui, a qualunque costo!{#Name="Soldier D"}
+Dannazione! Questi bastardi sono immortali!?{#Name="Soldier F"}
+Portate qui un medico! MedicOo!{#Name="Soldier B"}
+Chi siamo qui a proteggere?{#Name="Soldier A"}
+Lady Two, signore!{#Name="Soldiers C/D"}
+E qual è la nostra missione finale?{#Name="Soldier A"}
+La vittoria, signore!{#Name="Soldiers C/D"}
+Avanti! Muovetevi!{#Name="Soldier A"}
+M-Ma signore, fa così f-freddo...{#Name="Soldier G"}
+Ti fai chiamare soldato, recluta!?{#Name="Soldier A"}
+Augh! Fa un freddo cane qui fuori!{#Name="Soldier D"}
+Ehi, sei ferito! Resta fermo, okay?{#Name="Soldier E"}
+Dannazione. Non voglio morire in questa oscurità...{#Name="Soldier D"}
+Per Lady Twooooo!{#Name="Soldier F"}
+Non perderò! Non perderò! Non perderòòòò! {#Name="Soldier G"}
+Di notte è più bello qui, eh?{#Name="Zero"}
+Sì. Però ho sabbia dappertutto.{#Name="Dito"}
+È difficile credere che prima facesse così caldo.{#Name="Zero"}
+Nei capelli. Nelle fessure...{LF}Tanta sabbia nelle fessure.{#Name="Dito"}
+Basta! Che ne dici se ti seppellisco{LF}nella tua preziosa sabbia, eh?{#Name="Zero"}
+Lady Zero.{#Name="Decadus"}
+Sì?{#Name="Zero"}
+Combattere può comunque disidratarti,{LF}anche a basse temperature.{#Name="Decadus"}
+Vi prego di badare sempre alla vostra salute.{#Name="Decadus"}
+Grazie per il consiglio.{#Name="Zero"}
+Detto questo, ho la bocca un po’ secca.{LF}E mi fa male la testa...{#Name="Zero"}
+Lady Zero, quelli sono classici sintomi di disidratazione!{LF}Vi serve subito dell’acqua!{#Name="Decadus"}
+379{#Name="379"}
+181{#Name="181"}
+487{#Name="487"}
+379{#Name="379"}
+235{#Name="235"}
+199{#Name="199"}
+505{#Name="505"}
+307{#Name="307"}
+325{#Name="325"}
+91{#Name="91"}
+Che diavolo è quello?{#Name="Zero"}
+Che diavolo? Perché ho così freddo adesso?{#Name="Zero"}
+Temo sia un attacco magico ostile.{#Name="Octa"}
+Uno che prosciuga la vostra energia corporea.{#Name="Octa"}
+Credevo avessimo finito con questa roba.{#Name="Dito"}
+Usiamo i fuochi del nemico{LF}per tenerci al caldo mentre avanziamo.{#Name="Decadus"}
+Prima caldo da morire, e ora freddo da gelarsi le palle.{#Name="Zero"}
+Forse un piccolo gioco del seppellire il{LF}verme delle sabbie vi riscalderebbe!{#Name="Octa"}
