@@ -1,0 +1,105 @@
+Voglio solo ammazzare Three e farla finita!{#Name="Zero"}
+Voglio solo ammazzare Three e farla finita!{#Name="Zero"}
+Spostati o muori! Mi va bene uguale!{#Name="Zero"}
+Dannazione...{#Name="Zero"}
+Respirate piuttosto pesantemente,{LF}mia signora. Il fiore è...ehm...{#Name="Octa"}
+Sto bene.{#Name="Zero"}
+Zero! Sento il potere di un canto! Lo sento quassù!{#Name="Mikhail"}
+Nel cielo? Credevo che a Three piacessero i posti bui.{#Name="Zero"}
+È così, mia signora, ma... Beh, ehm...{#Name="Octa"}
+Fermateli dove sono!{#Name="Soldier A"}
+Gloria alla nostra splendida Lady Three!{#Name="Soldier B"}
+Uccidetela!{#Name="Soldier E"}
+Ahhh... Quella è...Zero!{#Name="Soldier F"}
+Proviamoci!{#Name="Soldier G"}
+Facciamo questa cosa e torniamo a casa!{#Name="Soldier B"}
+Yahhhhh!{#Name="Soldier G"}
+Aggiratela!{#Name="Soldier C"}
+Giusto!{#Name="Soldier D"}
+Quei figli di...{#Name="Soldier D"}
+Octa e Decadus sono con lei!{#Name="Soldier E"}
+Zero infanga il nome delle Intoner!{#Name="Soldier E"}
+La ucciderò! La ucciderò ORA!{#Name="Soldier F"}
+Non fatevi prendere dal panico!{#Name="Soldier F"}
+Non umiliatevi davanti a Lady Three!{#Name="Soldier B"}
+Che Lady Three vegli sempre su di noi!{#Name="Soldier G"}
+Dobbiamo servire la nostra signora e uccidere questi mostri!{#Name="Soldier C"}
+Quella è...un’Intoner...{#Name="Soldier B"}
+Restate calmi! Il panico vi farà solo ammazzare!{#Name="Soldier A"}
+Questa base sarà la loro tomba!{#Name="Soldier E"}
+Noi siamo Recorder.{#Name="Accord"}
+Il nostro dovere è osservare.{#Name="Accord"}
+Ma mentre continuavo a registrare la singolarità nota come Zero,{#Name="Accord"}
+ho iniziato a sentirmi pervadere da emozioni molto strane…{#Name="Accord"}
+Eccola! È Zero!{#Name="Soldier A"}
+Non lasciate che si avvicini alla nostra amata Lady Three!{#Name="Soldier B"}
+Wow, Three è piuttosto popolare, eh?{#Name="Zero"}
+In effetti. Da un po’ sta guadagnando fama anche{LF}fuori dalla Land of Forests.{#Name="Octa"}
+Soprattutto tra gli uomini che sono...dediti a quel{LF}genere di attività extracurricolari...{#Name="Octa"}
+Oso anche solo chiedere...?{#Name="Zero"}
+Ancora e ancora questi tizi...{LF}Levatevi di mezzo una buona volta!{#Name="Zero"}
+Le piacciono anche i posti elevati, quindi...{#Name="Octa"}
+Sconfiggi i nemici che ti bloccano la strada!{#Name=" "}
+ 
+595
+60
+253
+307
+379
+487
+271
+433
+415
+109
+オクタ
+649
+235
+ゼロ
+181
+127
+325
+217
+Octa
+Zero
+Decadus
+Soldier B
+Soldier A
+Soldier G
+Soldier F
+デカート
+兵士F
+Mikhail
+Soldier E
+Soldier C
+Soldier D
+Accord
+Più avanti! Sento il canto più avanti!{#Name="Mikhail"}
+Ne sei sicuro? Non pensavo che Three potesse volare.{#Name="Zero"}
+Lo sento, Zero! È qui! Lo so!{#Name="Mikhail"}
+Lady Zero! Com’è la situazione lassù!?{#Name="Octa"}
+Intendi a parte quei dannati cubi gargoyle?{#Name="Zero"}
+Cubi gargoyle? Oh cielo...{#Name="Octa"}
+Che c’è?{#Name="Zero"}
+Quei cubi richiedono enormi quantità{LF}di energia magica per funzionare.{#Name="Octa"}
+È molto improbabile che Lady Three{LF}possa alimentarli da sola.{#Name="Octa"}
+Dev’esserci una qualche fonte di energia qui vicino.{#Name="Octa"}
+Heh heh... Certo che c’è. CERTO!{#Name="Zero"}
+スリイは元々ちょっとオカシイ奴だったからな{#Name="ゼロ"}
+自我の破壊をもろともせず、{LF}強力な花を咲かせたのかもしれない{#Name="ゼロ"}
+面倒臭い{#Name="ゼロ"}
+Three!{#Name="Zero"}
+Redimiti, Ezrael!{#Name="Three"}
+Z-Zero? Credo che quello sia...{#Name="Mikhail"}
+Credo che quello sia un drago antico!{#Name="Mikhail"}
+Dannazione, che fastidio. Smettila di saltare in giro!{#Name="Zero"}
+Rrrgh! È troppo veloce per me! Non riesco a mirare bene!{#Name="Mikhail"}
+...E poi fa paura! I suoi occhi fanno DAVVERO paura!{#Name="Mikhail"}
+Dannazione! Come può una cosa così maledettamente grossa essere così maledettamente veloce!?{#Name="Zero"}
+{06}>{#Name="Decadus"}
+{06}>{#Name="Decadus"}
+{06}>{#Name="Mikhail"}
+Decadus? Come sei arrivato qui?{#Name="Zero"}
+Mi sono fatto dare una spinta da Octa.{#Name="Decadus"}
+È...quasi impressionante.{#Name="Zero"}
+Mi sembra che siate in difficoltà.{#Name="Decadus"}
+Sì, non riesco a colpire questo figlio di puttana saltellante.{#Name="Zero"}

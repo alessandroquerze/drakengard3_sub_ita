@@ -103,10 +103,10 @@ The exit hasn't opened up.{#Name="Zero"}
 `Forse c’è qualcosa nascosto dentro{LF}le statue di Lady Three?{#Name="Octa"}`
 Is there something hidden within{LF}Lady Three's statues, perhaps?{#Name="Octa"}
 
-`Chiudete il becco, stupidi bastardi!****{#Name="Dito"}`
+`Chiudete il becco, stupidi bastardi!:::{#Name="Dito"}`
 Quit your yapping, you stupid mutts!{#Name="Dito"}
 
-`Pezzi di merda, sbrigatevi a morire!****{#Name="Dito"}`
+`Pezzi di merda, sbrigatevi a morire!:::{#Name="Dito"}`
 Pieces of shit need to hurry up and die!{#Name="Dito"}
 
 `Pezzi di merda? Così prevedibile.{LF}La prossima volta magari prova pustole incrostate di pus?{#Name="Cent"}`
@@ -235,7 +235,7 @@ Because somehow I feel this{LF}was...destined to happen. {#Name="Cent"}
 `Come se fossi nato in questo mondo{LF}solo per stare con lei.{#Name="Cent"}`
 Like I was born into this world{LF}just to be with her.{#Name="Cent"}
 
-`Dannazione, Cent.{#Name="Zero"}`
+`Maledizione, Cent.{#Name="Zero"}`
 Goddammit, Cent.{#Name="Zero"}
 
 `Immagino che alla fine tu non sia riuscito{LF}a sfuggire alla tua Intoner.{#Name="Zero"}`

@@ -232,7 +232,7 @@ Hold your ground! We're Lady Two's last vanguard!{#Name="Soldier B"}
 `Sì! È ora di mostrarle il nostro invincibile pugno di ferro!{#Name="Soldier A"}`
 Yeah! It's time to show her our invincible iron fist!{#Name="Soldier A"}
 
-`Dannazione. Doveva proprio evocare{LF}queste cose con la testa da zucca.{#Name="Zero"}`
+`Per dio. Doveva proprio evocare{LF}queste cose con la testa da zucca.{#Name="Zero"}`
 Goddammit. He had to go and summon{LF}these gourd-head things.{#Name="Zero"}
 
 `Oh? Ma Lady Two pensa che siano molto{LF}più utili delle semplici vecchie zucche.{#Name="Cent"}`

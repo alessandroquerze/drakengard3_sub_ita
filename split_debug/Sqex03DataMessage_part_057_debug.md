@@ -151,7 +151,7 @@ Stop! Stop it! Don't say that!{LF}Don't say such things!{#Name="Four"}
 `Sta scappando!{#Name="Zero"}`
 She's getting away!{#Name="Zero"}
 
-`Dannazione, è ostinata!{#Name="Zero"}`
+`Diavolo, è ostinata!{#Name="Zero"}`
 Goddamn, she's stubborn!{#Name="Zero"}
 
 `Tempo scaduto, Four.{#Name="Zero"}`

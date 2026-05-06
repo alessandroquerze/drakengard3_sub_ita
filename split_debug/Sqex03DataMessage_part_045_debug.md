@@ -274,7 +274,7 @@ Defeat the Cerberus!{#Name="説明文"}
 `È qui! L'Intoner demoniaca è qui!{#Name="Soldier C"}`
 She's here! The demon Intoner is here!{#Name="Soldier C"}
 
-`Dannazione. Sapevo che sarebbe venuta. Avremmo dovuto saperlo!{#Name="Soldier D"}`
+`Miseria. Sapevo che sarebbe venuta. Avremmo dovuto saperlo!{#Name="Soldier D"}`
 Dammit. I knew she'd come. We all should've known!{#Name="Soldier D"}
 
 `Drago!{#Name="Soldier A"}`

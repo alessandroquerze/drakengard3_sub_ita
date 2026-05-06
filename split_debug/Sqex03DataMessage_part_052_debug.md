@@ -244,7 +244,7 @@ Don't be stupid! Use your ears, fool!{#Name="Soldier B"}
 `Merda! Non sento più la gamba destra!{#Name="Soldier F"}`
 Shit! My right leg's gone numb!{#Name="Soldier F"}
 
-`Dannazione, guarda quel braccio congelato!{#Name="Soldier G"}`
+`Oddio, guarda quel braccio congelato!{#Name="Soldier G"}`
 Dammit, look at that frostbite!{#Name="Soldier G"}
 
 `Siete sorde, signorine? Ho detto marciare! MARCIARE, ora!{#Name="Soldier A"}`
@@ -268,7 +268,7 @@ That's no Intoner... It's a goddamn monster!{#Name="Soldier B"}
 ` {#Name="兵士B"}`
  {#Name="兵士B"}
 
-`Dannazione! Continua a finirmi neve negli occhi!{#Name="Soldier G"}`
+`Che cavolo! Continua a finirmi neve negli occhi!{#Name="Soldier G"}`
 Dammit! I keep getting snow in my eyes!{#Name="Soldier G"}
 
 `Continuate a muovervi! Morirete se vi fermate!{#Name="Soldier F"}`

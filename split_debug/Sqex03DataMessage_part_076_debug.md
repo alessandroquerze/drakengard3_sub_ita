@@ -22,7 +22,7 @@ Never mind me, what about you!?{#Name="Zero"}
 `Io...io ce la metterò tutta... Davvero tutta...{#Name="Mikhail"}`
 I'll...I'll try hard... Real hard...{#Name="Mikhail"}
 
-`Dannazione!{#Name="Zero"}`
+`Maledizione!{#Name="Zero"}`
 Goddammit!{#Name="Zero"}
 
 `Esci da lì, idiota!{#Name="Zero"}`

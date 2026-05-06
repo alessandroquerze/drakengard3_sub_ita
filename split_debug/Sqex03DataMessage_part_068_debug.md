@@ -169,7 +169,7 @@ Escape the Lost Forest.{#Name="説明文"}
 `Attenti! La visibilità è scarsa!{#Name="Soldier A"}`
 Be careful! Visibility is poor!{#Name="Soldier A"}
 
-`Dannazione, come dovrei mirare con tutta questa nebbia!?{#Name="Soldier B"}`
+`Per la miseria, come dovrei mirare con tutta questa nebbia!?{#Name="Soldier B"}`
 Dammit, how am I supposed to aim in all this fog!?{#Name="Soldier B"}
 
 `I nostri nemici se la passano altrettanto male. Restate concentrati!{#Name="Soldier E"}`
@@ -196,7 +196,7 @@ I'm not goin' down yet!{#Name="Soldier B"}
 `Smettila di provocarci, Zero, o ti pugnalo quel culo demoniaco!{#Name="Soldier C"}`
 Quit messing around with me, Zero, or I'll stab your demon ass!{#Name="Soldier C"}
 
-`Perché ti perdi sempre, dannazione?{#Name="Zero"}`
+`Perché sei sempre e continuamente perso?{#Name="Zero"}`
 Why do you get lost all the damn time?{#Name="Zero"}
 
 `Non so cos'è successo! Pensavo di stare{LF}volando accanto a te come sempre!{#Name="Mikhail"}`
@@ -292,7 +292,7 @@ Though, when I was playing with the faeries,{LF}I do believe I heard something a
 `...Ti prego, non dirmi che ti stavi facendo le fate. {#Name="Zero"}`
 ...Please don't tell me you were bonking faeries. {#Name="Zero"}
 
-`Dannazione! Questa nebbia comincia davvero{LF}a farmi incazzare!{#Name="Zero"}`
+`Cristo santo! Questa nebbia comincia davvero{LF}a farmi incazzare!{#Name="Zero"}`
 Dammit! This fog is really{LF}starting to piss me off!{#Name="Zero"}
 
 `Mi sa che non abbiamo scelta: dobbiamo{LF}seguire quelle bambole inquietanti.{#Name="Zero"}`

@@ -67,7 +67,7 @@ You really are a demon...{#Name="Dito"}
 `Sento la presenza di un'Intoner! Lassù, oltre quelle nuvole!{#Name="Mikhail"}`
 I'm sensing an Intoner's presence! Up beyond those clouds!{#Name="Mikhail"}
 
-`Oh, dannazione. Il CIELO? Non ci avrei mai neanche pensato.{#Name="Zero"}`
+`Oh, dio. Il CIELO? Non ci avrei mai neanche pensato.{#Name="Zero"}`
 Oh, hell. The SKY? Never even considered that.{#Name="Zero"}
 
 `Qui, sali!{#Name="Mikhail"}`
@@ -109,7 +109,7 @@ No retreat! Forward! Forwaaard!{#Name="Soldier B"}
 `1a Squadra Cannoni, avanti!{#Name="Soldier A"}`
 1st Cannon Squad, forward!{#Name="Soldier A"}
 
-`Dannazione... Datemi una medicina! Vi prego!{#Name="Soldier E"}`
+`Porca miseria... Datemi una medicina! Vi prego!{#Name="Soldier E"}`
 Damn... Give me medicine! Please!{#Name="Soldier E"}
 
 `Sguainate le spade! Sguainate le spade!{#Name="Soldier F"}`
@@ -124,7 +124,7 @@ Keep moving or you'll get frostbite!{#Name="Soldier C"}
 `Signore! La 4ª squadriglia è tagliata fuori dal fronte da una valanga!{#Name="Soldier E"}`
 Sir! The 4th squadron is blocked from the front lines by an avalanche!{#Name="Soldier E"}
 
-`Dannazione! Non abbiamo abbastanza soldati!{#Name="Soldier B"}`
+`Maledizione! Non abbiamo abbastanza soldati!{#Name="Soldier B"}`
 Dammit! We don't have enough soldiers!{#Name="Soldier B"}
 
 `Non lasciate che quel demone miserabile tocchi Lady Four!{#Name="Soldier A"}`

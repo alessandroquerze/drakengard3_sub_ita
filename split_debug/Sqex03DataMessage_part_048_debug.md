@@ -115,7 +115,7 @@ Your invasion ends here, demon!{#Name="Soldier A"}
 `Beh, questa sì che è fiducia in sè stessi.{#Name="Zero"}`
 Well, someone's confident.{#Name="Zero"}
 
-`Dannazione! È troppo forte!{#Name="Soldier F"}`
+`Miseria! È troppo forte!{#Name="Soldier F"}`
 Dammit! She's too strong!{#Name="Soldier F"}
 
 `Tenete la posizione! Difendete Lady Four a ogni costo!{#Name="Soldier C"}`
@@ -244,7 +244,7 @@ a{#Name="a"}
 `a{#Name="a"}`
 a{#Name="a"}
 
-`Dannazione! Non mollate! Caricate il prossimo colpo!{#Name="Soldier A"}`
+`Forza! Non mollate! Caricate il prossimo colpo!{#Name="Soldier A"}`
 Dammit! Don't let up! Load the next volley!{#Name="Soldier A"}
 
 `L-Le mani mi tremano... Qualcuno mi sostituisca!{#Name="Soldier F"}`

@@ -91,7 +91,7 @@ Nnngh...{#Name="Zero"}
 `Proviamo ad aggirarle?{LF}Che facciamo, Zero? ...Zero!?{#Name="Mikhail"}`
 Should we try going around it?{LF}What do we do, Zero? ...Zero!?{#Name="Mikhail"}
 
-`Agh! ...Dannazione. Fa così freddo,{LF}penso il mio cervello si sia appena congelato.{#Name="Zero"}`
+`Agh! ...Dannata neve. Fa così freddo,{LF}penso il mio cervello si sia appena congelato.{#Name="Zero"}`
 Agh! ...Dammit. It's so cold,{LF}I think my brain just froze.{#Name="Zero"}
 
 `Beh, riprenditi! Abbiamo ancora{LF}delle viverne sporche e puzzolenti da uccidere!{#Name="Mikhail"}`
@@ -115,7 +115,7 @@ And, um...it's cold and it's yummy and it's...fun?{#Name="Mikhail"}
 `Io... mi dispiace! Mi concentrerò sulla battaglia!{#Name="Mikhail"}`
 I...I'm sorry! I'll focus on the battle!{#Name="Mikhail"}
 
-`Dannazione, qui fuori non vedo niente...{#Name="Zero"}`
+`Dannato posto, qui fuori non vedo niente...{#Name="Zero"}`
 Dammit, I can't see anything out here...{#Name="Zero"}
 
 `あ。ゼロさん、あぶない！{#Name="ディト"}`

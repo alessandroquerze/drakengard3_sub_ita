@@ -85,7 +85,7 @@ All that befell our poor Lady Four{LF}is your fault, demon!{#Name="Soldier B"}
 `Servirò Lady Four, qualunque cosa{LF}le sia accaduta!{#Name="Soldier C"}`
 I shall serve Lady Four, no matter{LF}what has become of her!{#Name="Soldier C"}
 
-`Dannazione! La nostra Intoner pura e immacolata non esiste più!{#Name="Soldier G"}`
+`Maledizione! La nostra Intoner pura e immacolata non esiste più!{#Name="Soldier G"}`
 Dammit! Our pure, unblemished Intoner is no more!{#Name="Soldier G"}
 
 `Restate saldi! Tocca a noi salvare{LF}Lady Four dalla strada che ha smarrito!{#Name="Soldier E"}`

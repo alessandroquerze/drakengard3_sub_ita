@@ -127,7 +127,7 @@ Goddammit, dragon!{#Name="Zero"}
 `Ahi, ahi, ahi! Perché mi hai appena PUGNALATO!?{#Name="Mikhail"}`
 Ow, ow, ow! Why'd you just STAB ME!?{#Name="Mikhail"}
 
-`Dannazione. Questa è dura.{#Name="Zero"}`
+`Uff. Questa è dura.{#Name="Zero"}`
 Damn. This is tough.{#Name="Zero"}
 
 `VISTO!? Le navi da guerra sono davvero super forti!{#Name="Mikhail"}`

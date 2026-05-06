@@ -247,7 +247,7 @@ It takes more than a little sunlight to hurt me. {#Name="Zero"}
 `Tuttavia, vi prego di non esagerare.{LF}Meglio restare all’ombra.{#Name="Decadus"}`
 Still, please don't overdo it.{LF}Best stick to the shade.{#Name="Decadus"}
 
-`Dannazione, tutto questo nascondersi all’ombra{LF}sta iniziando davvero a farmi incazzare!{#Name="Zero"}`
+`Dannato sole, tutto questo nascondersi all’ombra{LF}sta iniziando davvero a farmi incazzare!{#Name="Zero"}`
 Dammit, all this hiding in the shade{LF}is really starting to piss me off!{#Name="Zero"}
 
 `Non è che abbiamo scelta.{LF}Questo sole ammazza i discepoli!{#Name="Dito"}`

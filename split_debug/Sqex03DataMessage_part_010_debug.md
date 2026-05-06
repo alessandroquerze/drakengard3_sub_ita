@@ -28,7 +28,7 @@ Figured you'd be happy as a pig in shit right now.{#Name="Zero"}
 `...Pfft.{#Name="Dito"}`
 ...Pfft.{#Name="Dito"}
 
-`C’è qualcosa... non lo so, dannazione.{LF}C’è qualcosa che non va in questo posto.{#Name="Dito"}`
+`C’è qualcosa... non lo so, accidenti.{LF}C’è qualcosa che non va in questo posto.{#Name="Dito"}`
 There's something... I don't know, man.{LF}There's just something wrong about this place.{#Name="Dito"}
 
 `Sembra che questa foresta stia cadendo a pezzi.{LF}Come se tutto, in qualche modo... stesse perdendo coesione.{#Name="Decadus"}`

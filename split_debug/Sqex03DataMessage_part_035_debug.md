@@ -1,4 +1,4 @@
-`No... Dannazione, no!{#Name="Soldier B"}`
+`No... Miseria, no!{#Name="Soldier B"}`
 No... Dammit, no!{#Name="Soldier B"}
 
 `Ugh. È troppo forte!{#Name="Soldier A"}`
@@ -52,7 +52,7 @@ Get a medic! This crazy Intoner's gonna kill us all!{#Name="Soldier C"}
 `Certo, perché no? Non ho ancora ucciso nessun medico.{#Name="Zero"}`
 Sure, why not? I haven't killed any medics yet.{#Name="Zero"}
 
-`Toglitevi di mezzo, dannazione!{#Name="Zero"}`
+`Toglitevi di mezzo, maledetti!{#Name="Zero"}`
 Get outta my way, dammit!{#Name="Zero"}
 
 `Calmati, Zero. La rabbia rallenterà soltanto la tua spada.{#Name="Michael"}`
@@ -280,7 +280,7 @@ Oh, don't be such a prude, Four.{LF}A good catfight really gets my juices flowin
 ` {#Name="ファイブ"}`
  {#Name="ファイブ"}
 
-`Wow, certo che sono popolare da queste parti...{#Name="Zero"}`
+`Wow, certo che sono proprio ben voluta da queste parti...{#Name="Zero"}`
 Wow, I sure am popular around here...{#Name="Zero"}
 
 `Basta parlare, Zero.{#Name="One"}`

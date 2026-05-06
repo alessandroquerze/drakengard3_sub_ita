@@ -220,7 +220,7 @@ Back into the forest!{#Name="Soldier C"}
 `Se solo Lady Three fosse qui con noi!{#Name="Soldier A"}`
 If only Lady Three were here with us!{#Name="Soldier A"}
 
-`Dannazione! Ch-Che diavolo sta succedendo!?{#Name="Soldier C"}`
+`Per la miseria! Ch-Che diavolo sta succedendo!?{#Name="Soldier C"}`
 Dammit! Wh-What the hell is happening!?{#Name="Soldier C"}
 
 `Questa nebbia è la volontà di Lady Three?{#Name="Soldier F"}`

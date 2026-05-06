@@ -40,7 +40,7 @@ KA-BOOM! We did it! Intoner down! Intoner down! Did you see that? Nailed her rig
 `Lady Three sarà felicissima!{#Name="Soldier A"}`
 Lady Three's gonna be overjoyed!{#Name="Soldier A"}
 
-`Woo-hoo! Sì, baby, SÌ! Ha ha ha ha! (follow Japanese closely; some grunts and stuff mixed in here too(???***)){#Name="Soldier A"}`
+`Woo-hoo! Sì, baby, SÌ! Ha ha ha ha! (follow Japanese closely; some grunts and stuff mixed in here too(???:::)){#Name="Soldier A"}`
 Woo-hoo! Yeah, baby, YEAH! Ha ha ha ha! (follow Japanese closely; some grunts and stuff mixed in here too){#Name="Soldier A"}
 
 `Dopo tutta la fatica che ho fatto per procurarmi quella maledetta aeronave...{#Name="Zero"}`
@@ -130,7 +130,7 @@ For Lady Three!{#Name="Soldier F"}
 `Voglio vivere una vita lunga e sana!{LF}Ehm, per Lady Three!{#Name="Soldier F"}`
 I wish to live a long and healthy life!{LF}Er, for Lady Three!{#Name="Soldier F"}
 
-`Ahi! Dannazione, quest'edera è tutta spinosa e fa male!{#Name="Dito"}`
+`Ahi! Accidenti, quest'edera è tutta spinosa e fa male!{#Name="Dito"}`
 Ow! Dammit, this ivy's all pokey and it hurts!{#Name="Dito"}
 
 `Mmm... Il dolore è... delizioso...{#Name="Decadus"}`
@@ -151,7 +151,7 @@ Let's go. I'm gonna kill her for what she did to my airship.{#Name="Zero"}
 `Ehm, non l'avresti uccisa comunque?{#Name="Dito"}`
 Um, weren't you gonna kill her anyway?{#Name="Dito"}
 
-`Dannazione! Ma che diavolo!?{#Name="Zero"}`
+`Accidenti! Ma che diavolo!?{#Name="Zero"}`
 Dammit! What the hell!?{#Name="Zero"}
 
 `253{#Name="253"}`
@@ -241,7 +241,7 @@ NO! I've been slashed in the stomach, you idiot!{#Name="Soldier F"}
 `361{#Name="361"}`
 361{#Name="361"}
 
-`Dannazione... Siamo destinati a morire qui?{#Name="Soldier D"}`
+`Mio dio... Siamo destinati a morire qui?{#Name="Soldier D"}`
 Damn... Are we doomed to die here?{#Name="Soldier D"}
 
 `Morte all'Intoner maledetta!{#Name="Soldier E"}`
@@ -280,7 +280,7 @@ He's fine. Idiots like him never die young.{#Name="Zero"}
 `361{#Name="361"}`
 361{#Name="361"}
 
-`Dannazione, più camminiamo, più questo posto{LF}diventa verde. Mi ha stufato!{#Name="Zero"}`
+`Diavolo, più camminiamo, più questo posto{LF}diventa verde. Mi ha stufato!{#Name="Zero"}`
 Dammit, the more we walk, the greener{LF}this place gets. I'm sick of it!{#Name="Zero"}
 
 `Ti lagni un sacco, Z. Lo sai?{#Name="Dito"}`

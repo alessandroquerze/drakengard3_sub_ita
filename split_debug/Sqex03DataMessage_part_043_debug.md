@@ -262,7 +262,7 @@ Don't retreat, fool! Fight her! Fight her now!{#Name="Soldier B"}
 `Avanzate! Avanzaaate!{#Name="Soldier A"}`
 Advance! Advaaance!{#Name="Soldier A"}
 
-`Dannazione! Non riusciamo a trattenerla!{#Name="Soldier B"}`
+`Accidenti! Non riusciamo a trattenerla!{#Name="Soldier B"}`
 Dammit! We can't hold her!{#Name="Soldier B"}
 
 `Un'Intoner che può evocare draghi!?{#Name="Soldier C"}`

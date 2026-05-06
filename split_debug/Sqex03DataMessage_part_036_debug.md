@@ -274,7 +274,7 @@ The bloody Intoner is an accursed sight.{#Name="Soldier F"}
 `Ben diversa da Lady Five e dalla sua splendida aura dorata...{#Name="Soldier E"}`
 Quite a difference from Lady Five and her beautiful golden aura...{#Name="Soldier E"}
 
-`Dannazione. Ci serve un nuovo piano, e in fretta!{#Name="Soldier A"}`
+`Porca miseria. Ci serve un nuovo piano, e in fretta!{#Name="Soldier A"}`
 Damn. We need a new plan, and fast!{#Name="Soldier A"}
 
 `Ve l'ho detto, non abbiamo speranze contro una Intoner!{#Name="Soldier E"}`

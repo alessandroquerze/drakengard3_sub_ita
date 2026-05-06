@@ -1,0 +1,105 @@
+Perché non sono stata io...?{#Name="Zero"}
+Mikhail... Mikhail aveva ancora un futuro...{#Name="Zero"}
+Dannazione. Dannazione a tutto!{#Name="Zero"}
+Pensi davvero che questo basterà{LF}a distruggerci!?{#Name="One"}
+Tutte noi... Five, Four, Three, Two e One...{#Name="One"}
+Non perderemo, Zero! E nemmeno il mondo!{#Name="One"}
+Sei tu il mostro che ha creato{LF}le Intoner, tanto per cominciare!{#Name="One"}
+Dannazione...{#Name="One"}
+Addio, Gabriel...{#Name="One"}
+Mi...dispiace...{#Name="One"}
+......{#Name="Zero"}
+Quindi è...{#Name="One"}
+Addio...{#Name="One"}
+Sì. Lo è.{#Name="Zero"}
+Mikhail... È finita.{#Name="Zero"}
+Ora io—{#Name="Zero"}
+{06}>{#Name="Zero"}
+O-One!?{#Name="Zero"}
+Ma come...?{#Name="Zero"}
+Fratello.{#Name="? ? ?"}
+{06}>{#Name="Zero"}
+Sono il fratello di One.{#Name="? ? ?"}
+Fratello? È...impossibile...{#Name="Zero"}
+Tu non potevi saperlo. Avevi solo le tue cinque sorelle.{#Name="? ? ?"}
+Ma nello stesso modo in cui tu hai "creato" le tue sorelle...{#Name="? ? ?"}
+Tua sorella One ha creato me.{#Name="? ? ?"}
+Ero una misura di sicurezza nel caso fossi riuscita a ucciderla.{#Name="? ? ?"}
+Ero la sua arma finale.{#Name="? ? ?"}
+Vedi questa spada? È fatta con la zanna di un drago.{#Name="? ? ?"}
+Questo significa che può uccidere un’Intoner, giusto?{#Name="? ? ?"}
+...Capisco...{#Name="Zero"}
+Non hai nessuno da incolpare se non te stessa, assassina!{#Name="? ? ?"}
+{06}>{#Name="? ? ?"}
+Io non...incolpo...nessuno.{#Name="Zero"}
+Voglio solo uccidere le Intoner. ...Tutte quante.{#Name="Zero"}
+Pensi che dopo tutto questo avessi intenzione di...sopravvivere?{#Name="Zero"}
+Il mondo non...funziona così...{#Name="Zero"}
+Finalmente...è tutto finito...{#Name="Zero"}
+Mik...hail.{#Name="Zero"}
+Grazi—{#Name="Zero"}
+...È morta.{#Name="? ? ?"}
+Zero è morta.{#Name="? ? ?"}
+One, mi senti?{#Name="? ? ?"}
+Ho finito le Intoner, proprio come avevi detto!{#Name="? ? ?"}
+Ma...cosa dovrei fare adesso?{#Name="? ? ?"}
+Come dovrei vivere...in un mondo privo della protezione delle Intoner?{#Name="? ? ?"}
+...One.{#Name="? ? ?"}
+Capisco... Se non restano Intoner a proteggere il mondo...{#Name="? ? ?{0A}(One's Brother)"}
+Allora lo proteggerò io stesso!{#Name="? ? ?{0A}(One's Brother)"}
+Fonderemo una nuova religione.{#Name="? ? ?{0A}(One's Brother)"}
+Una religione che veneri mia sorella, One.{#Name="? ? ?{0A}(One's Brother)"}
+...No, io sono il vero One.{#Name="? ? ?{0A}(One's Brother)"}
+Da oggi in poi, tutti chiameranno ME One!{#Name="One{0A}(One's Brother)"}
+{06}>{#Name="One{0A}(One's Brother)"}
+Avrei dovuto sapere che anche questa branch sarebbe finita così.{#Name="? ? ?{0A}(Accord)"}
+Sembra che avremmo dovuto prendere una branch diversa da qualche parte lungo il percorso...{#Name="? ? ?{0A}(Accord)"}
+Zero! I miei attacchi non funzionano!{LF}Non funzionano!{#Name="Mikhail"}
+Sbattilo quando apre quella sua grossa boccaccia!{#Name="Zero"}
+Se un bel colpo in bocca non funziona,{LF}non so cosa possa farlo. Che rottura...{#Name="Zero"}
+Se volo qui dentro finirò per sbattere la testa!{#Name="Mikhail"}
+Magari ti farà diventare un po’ più intelligente!{#Name="Zero"}
+Sei cattiva, Zero! Guarda, qui dentro non volo!{LF}Non volo!{#Name="Mikhail"}
+Mikhail
+ 
+Soldier A
+Soldier B
+Soldier G
+Soldier E
+Soldier F
+Soldier C
+Soldier D
+兵士Ｆ
+兵士Ａ
+兵士Ｅ
+Zero
+One
+145
+? ? ?
+? ? ?{0A}(One's Brother)
+One{0A}(One's Brother)
+? ? ?{0A}(Accord)
+Sfonda le difese della Cathedral City.{#Name="説明文"}
+Sconfiggi il Gray Cerberus!{#Name="説明文"}
+Sconfiggi Two!{#Name="説明文"}
+Il discepolo Cent si è unito alla battaglia.{#Name="説明文"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+（リザーブ）{#Name="（リザーブ）"}
+In....Intonerrrrrrrrrr (delirio folle){#Name="Soldier A"}
+Gprh, gehht, casshhs...pbt! (delirio folle){#Name="Soldier A"}
+La Cathedral...City... (delirio folle){#Name="Soldier A"}
+{06}>{#Name="Soldier A"}
+{06}>{#Name="Soldier B"}
+La la la la! La la, la la la lu lu lu...  (delirio folle){#Name="Soldier B"}
+Lady Two... (delirio folle){#Name="Soldier B"}
+Lu-lu...anf anf anf anf...lu... (delirio folle){#Name="Soldier B"}
+Fo...fo-fo...fo-fo-fo-fo! (delirio folle){#Name="Soldier C"}
+Fo-fo-fo! Fooooooooooo! (delirio folle){#Name="Soldier C"}
+Avanti! Ava...n... (delirio folle){#Name="Soldier C"}
+Fo! Fo, fo...anf anf... Urrrrgh! (delirio folle){#Name="Soldier C"}
+Su-su su su-su-su ssst! (delirio folle){#Name="Soldier D"}
+Sta-ta-suuu, sutaaa ssst su-su...  (delirio folle){#Name="Soldier D"}

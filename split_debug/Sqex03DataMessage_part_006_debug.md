@@ -19,7 +19,7 @@ Yep. Now shut up.{#Name="Zero"}
 `Hai un braccio finto, puoi rigenerare il corpo...{LF}Sei incredibile, Zero!{#Name="Mikhail"}`
 You got a fake arm, you can regrow your body...{LF}You're amazing, Zero!{#Name="Mikhail"}
 
-`Tutto quello che abbiamo trovato in quella zona è stato uno stupido cagnaccio.*{#Name="Zero"}`
+`Tutto quello che abbiamo trovato in quella zona è stato uno stupido cagnaccio.:::{#Name="Zero"}`
 All we wound up finding in that region was a lousy mutt.{#Name="Zero"}
 
 `Ehi, Zero!{#Name="Mikhail"}`

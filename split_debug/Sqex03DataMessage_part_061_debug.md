@@ -295,7 +295,7 @@ That devilish songstress is horrifying... I think I'm gonna be sick!{#Name="Sold
 `Riprenditi, uomo!{#Name="Soldier E"}`
 Pull yourself together, man!{#Name="Soldier E"}
 
-`Dannazione! Dobbiamo passare all'offensiva!{#Name="Soldier A"}`
+`Cazzo! Dobbiamo passare all'offensiva!{#Name="Soldier A"}`
 Dammit! We have to go on the offensive!{#Name="Soldier A"}
 
 `Siamo fuori formazione!{#Name="Soldier G"}`

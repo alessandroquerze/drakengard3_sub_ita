@@ -1,0 +1,105 @@
+頼むぞ……{#Name="ゼロ"}
+花が咲ききった時に、破壊してくれ。{#Name="ゼロ"}
+……わかった。{#Name="ミハイル"}
+最後に伝えておくことがある。{#Name="ゼロ"}
+なあに？{#Name="ミハイル"}
+立派になったな……ミハイル。{#Name="ゼロ"}
+ばか……ゼロの、ばかぁ……{#Name="ミハイル"}
+Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}
+Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}
+Uccidi One.{#Name="説明文"}
+ {#Name="説明文"}
+ {#Name="説明文"}
+Soldier A
+Soldier B
+Soldier C
+Soldier D
+Soldier E
+Soldier F
+Soldier G
+Zero
+Mikhail
+Octa
+兵士G
+ゼロ
+ミハイル
+One
+Accord
+Accord (lit: Cell Phone)
+説明文
+Zero...{#Name="Mikhail"}
+{06}>{#Name=" "}
+Ci siamo.{#Name="Zero"}
+Quando il fiore sarà completamente sbocciato, dovrai distruggerlo.{#Name="Zero"}
+...Okay.{#Name="Mikhail"}
+C’è un’ultima cosa che devo dirti.{#Name="Zero"}
+Cosa?{#Name="Mikhail"}
+Sei diventato forte...Mikhail.{#Name="Zero"}
+Zero... Zero, brutta scema...{#Name="Mikhail"}
+Buonanotte...Zero.{#Name="Mikhail"}
+Registrazione.{#Name="Accord"}
+Le Intoner sono state sigillate in un altro mondo.{#Name="Accord"}
+La minaccia del fiore è stata estinta da questa branch.{#Name="Accord"}
+Tuttavia, esiste la possibilità che questo sigillo{LF}possa disfarsi in qualche tempo o luogo futuro.{#Name="Accord"}
+Fino ad allora, i nostri sforzi di registrazione continueranno.{#Name="Accord"}
+...Oh. E un’appendice personale riguardo al mio bersaglio d’osservazione, Zero.{#Name="Accord"}
+Forse questo va oltre i miei requisiti funzionali come Recorder, ma{#Name="Accord"}
+non riesco a liberarmi della sensazione che, in qualche modo, da qualche parte, Zero sia ancora viva.{#Name="Accord"}
+E che...un giorno...{#Name="Accord"}
+Un giorno, lei e io ci rivedremo.{#Name="Accord"}
+Folle, lo so. Chiamatela intuizione.{#Name="Accord"}
+Passaggio dei compiti di registrazione completato.{#Name="Accord B"}
+Ottimo lavoro.{#Name="Accord B"}
+Beh... Mi chiedo come si svilupperà il futuro da qui in poi?{#Name="Accord B"}
+{06}>{#Name="Accord C"}
+145{#Name="145"}
+343{#Name="343"}
+Bene! Dividetevi tutti e iniziate a registrare!{#Name="Accord B"}
+Ricevuto!{#Name="Accords"}
+Spero di rivedervi un giorno.{#Name="Accord B"}
+Ma fino ad allora...{#Name="Accord B"}
+vorrei dire...{LF}Grazie per aver giocato!{#Name="Accord B"}
+Ehi, Zero?{#Name="Mikhail"}
+Sì?{#Name="ZERO"}
+Io...mi sono divertito molto.{#Name="Mikhail"}
+Con te, intendo. È stato bello stare con te.{#Name="Mikhail"}
+Uccidere è stato difficile. È stato davvero difficile, ma...{#Name="Mikhail"}
+Smettila di ripeterti.{#Name="ZERO"}
+Ma poter stare con te, Zero.{#Name="Mikhail"}
+Poter mangiare accanto a te...{#Name="Mikhail"}
+Poter volare in giro con te...{#Name="Mikhail"}
+Poter farmi sgridare da te...{#Name="Mikhail"}
+E poi poter tornare amici...{#Name="Mikhail"}
+È stato davvero, davvero bello.{#Name="Mikhail"}
+Ne sono felice.{#Name="ZERO"}
+Mikhail?{#Name="ZERO"}
+Sì?{#Name="Mikhail"}
+È...{#Name="ZERO"}
+quasi ora.{#Name="ZERO"}
+...Okay.{#Name="Mikhail"}
+Mikhail
+ 
+Zero
+Accord
+Accord B
+Accord C
+145
+343
+Accords
+ZERO
+１節　００１０　目的
+Parare con {01}{02} blocca gli attacchi da tutte le direzioni.{LF}Tuttavia, parare consuma stamina, quindi fate attenzione{LF}a non bloccare troppi attacchi di seguito o{LF}rischierete che la vostra guardia venga spezzata.{#Name="Guarding"}
+Per eseguire un parry, premete {01}{02} appena prima che un attacco colpisca.{LF}Se deviate la freccia di un nemico con un parry, potete{LF}riflettere la freccia verso il vostro avversario.{#Name="Parrying"}
+Usate la mini-mappa in alto a destra dello{LF}schermo per vedere la vostra posizione attuale.{LF}Potete premere {01}{0A} per zoomare avanti e indietro; se vi{LF}perdete, provate ad allontanare lo zoom per vedere tutta la mappa.{#Name="The Mini-map"}
+Premete {01}{0A} + {01}{0D} per attivare la Modalità Intoner.{LF}Premeteli di nuovo in qualsiasi momento per uscire da questa modalità{LF}mantenendo la Barra del Sangue al livello attuale.{#Name="Intoner Mode"}
+Potete concatenare attacchi combo speciali{LF}premendo {01}{03} e {01}{04} in varie sequenze.{LF}Consultate la Lista Combo nel Menu di Pausa per vedere tutte{LF}le possibili rotte combo per una determinata arma.{#Name="Combo Attacks"}
+Usate {01}{01} mentre attaccate con {01}{03} per lanciare sia{LF}voi sia il vostro nemico in aria, permettendovi di{LF}attivare colpi a mezz’aria. I nemici più pesanti non possono{LF}essere palleggiati, quindi valutate attentamente un nemico{LF}prima di tentare questa manovra.{#Name="Aerial Combos"}
+Premete {01}{08} per agganciare un nemico. Muovete {01}{0F} in alto, in basso,{LF}a sinistra o a destra per passare tra i bersagli disponibili.{#Name="Locking On"}
+Premete il pulsante START per aprire il Menu di Pausa.{LF}Premete il tasto su per aprire la Lista Combo,{LF}o il tasto giù per aprire la schermata Oggetti.{#Name="The Pause Menu"}
+Premete {01}{0B} per schivare. Provate ad agganciare un nemico,{LF}poi schivate a sinistra o a destra per portarvi alle{LF}sue spalle e ottenere il vantaggio.{#Name="Evading"}
+Potete schivare anche mentre saltate. Può essere{LF}utile per evitare attacchi mentre siete in aria, o per{LF}ottenere distanza extra quando saltate oltre dei varchi.{LF}Notate che, diversamente da quando siete a terra, non potete{LF}schivare più volte di seguito mentre siete in aria.{#Name="Aerial Evading"}
+Premete {01}{0D} per visualizzare un indicatore a freccia che{LF}punta verso il prossimo obiettivo. Usatelo insieme{LF}alla mini-mappa se vi capita di perdervi.{#Name="Navigation Help"}
+Premete {01}{09} o {01}{0C} per cambiare arma.{LF}Potete farlo anche nel mezzo di un attacco,{LF}innescando così un colpo extra mentre{LF}passate da un’arma all’altra.{#Name="Switching Weapons"}
+Il conteggio della vostra catena (colpi) aumenterà quando colpirete i nemici{LF}in rapida successione. Quando sarà abbastanza alto, inizierete{LF}a ottenere sfere di sangue bonus e altri oggetti rilasciati.{#Name="Chain Combos"}
+Entrate in un cerchio di evocazione e premete {01}{02} per chiamare il vostro{LF}drago a combattere al vostro fianco. Attaccherà{LF}in vari modi a seconda della situazione.{#Name="Summon Circles"}
+Visitate il Database dal Menu Principale{LF}per visualizzare le Storie delle Armi. Ogni volta che{LF}potenziate un’arma e ne aumentate il livello,{LF}svelerete un’altra parte della sua storia.{#Name="Weapon Stories"}

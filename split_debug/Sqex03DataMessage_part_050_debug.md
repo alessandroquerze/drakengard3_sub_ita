@@ -226,7 +226,7 @@ I would assume that's Four's hideout...{#Name="Zero"}
 `Dio. Guarda quanto è grande quel posto...{LF}Tua sorella deve avere una gran paura di morire.{#Name="Dito"}`
 Damn. Look at the size of that place...{LF}Your sis must be real scared of dyin'.{#Name="Dito"}
 
-`Dannazione, drago! Guarda dove{LF}spari quella merda, vuoi!?{#Name="Dito"}`
+`Maledizione, drago! Guarda dove{LF}spari quella merda, vuoi!?{#Name="Dito"}`
 Dammit, dragon! Watch where you{LF}fire that shit, would you!?{#Name="Dito"}
 
 `あのクソ邪魔なバリケードを壊せ！{#Name="ゼロ"}`

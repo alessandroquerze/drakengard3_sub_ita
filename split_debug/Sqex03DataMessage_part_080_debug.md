@@ -58,7 +58,7 @@ Defeat the Alpha Sandwolves!{#Name="説明文"}
 `Sconfiggi il Golem!{#Name="説明文"}`
 Defeat the Golem!{#Name="説明文"}
 
-`Accidenti, ho una sete infernale.{#Name="Dito"}`
+`Miseriaccia, ho una sete infernale.{#Name="Dito"}`
 Man, I'm thirsty as hell.{#Name="Dito"}
 
 `Ho ho ho. Peccato. Non siamo proprio{LF}nel posto adatto per trovare acqua.{#Name="Octa"}`
@@ -70,7 +70,7 @@ If we have to keep fighting like this,{LF}I'm gonna keel over!{#Name="Dito"}
 `In effetti, prosciuga anche le mie forze.{LF}...Anche se non la mia forza virile!{#Name="Octa"}`
 Indeed, it saps my strength as well.{LF}...Though not my man strength!{#Name="Octa"}
 
-`Dannazione, questi lupi sono irritanti!{#Name="Zero"}`
+`Per la miseria, questi lupi sono irritanti!{#Name="Zero"}`
 Goddamn, these wolves are annoying!{#Name="Zero"}
 
 `I lupi possono percepire l’intento{LF}omicida dei loro nemici...{#Name="Decadus"}`
@@ -226,7 +226,7 @@ Oh ho! We're almost there!{#Name="Octa"}
 `E nonostante il caldo, sono ancora pronto per altro...{#Name="Octa"}`
 And despite the heat, I'm still ready for more...{#Name="Octa"}
 
-`Dannazione, perché diavolo i lupi stanno dalla SUA parte?{#Name="Zero"}`
+`Porca troia, perché diavolo i lupi stanno dalla SUA parte?{#Name="Zero"}`
 Dammit, why the hell are the wolves on HER side?{#Name="Zero"}
 
 `Non credo siano comuni{LF}lupi selvatici, mia signora.{#Name="Decadus"}`

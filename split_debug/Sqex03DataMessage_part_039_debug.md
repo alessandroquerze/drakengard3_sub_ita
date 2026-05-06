@@ -73,7 +73,7 @@ What the hell? Where's the shrine?{#Name="Zero"}
 `361{#Name="361"}`
 361{#Name="361"}
 
-`Dannazione. Credo che ci abbiano fregati.{#Name="Zero"}`
+`Cazzo. Credo che ci abbiano fregati.{#Name="Zero"}`
 Dammit. I think we've been had.{#Name="Zero"}
 
 `……嬉しそうだな{#Name="ゼロ"}`

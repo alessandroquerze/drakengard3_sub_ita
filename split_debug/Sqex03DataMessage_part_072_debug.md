@@ -139,7 +139,7 @@ That's it? Really?{#Name="Dito"}
 `Combattere spiriti e non morti sembra{LF}una fatica da sciocchi.{#Name="Decadus"}`
 Battling spirits and the undead feels{LF}like something of a fool's errand.{#Name="Decadus"}
 
-`Sì. Ottimo spirito**.{#Name="Cent"}`
+`Sì. Ottimo spirito:::.{#Name="Cent"}`
 Yeah. Good attitude there.{#Name="Cent"}
 
 `Ma suppongo che sia il massimo a cui un semplice soldato{LF}come te possa aspirare.{#Name="Cent"}`
@@ -205,7 +205,7 @@ Ugh, this is driving me crazy!{#Name="Zero"}
 `Sono dei piccoli bastardi insistenti, eh?{#Name="Dito"}`
 Persistent little bastards, aren't they?{#Name="Dito"}
 
-`Dannazione! Sono stanca marcia di giocare con le bambole!{#Name="Zero"}`
+`Maledizione! Sono stanca marcia di giocare con le bambole!{#Name="Zero"}`
 Dammit! I'm sick and tired of playing with dolls!{#Name="Zero"}
 
 `Pazienza, mia signora. Meglio piegarsi come una canna{LF}nel vento che crollare come una quercia.{#Name="Decadus"}`

@@ -1,0 +1,105 @@
+Cercherò di migliorare il mio palato per te, okay?{#Name="Mikhail"}
+Eh?{#Name="Zero"}
+Devo impegnarmi ancora di più se voglio{LF}diventare forte come Michael!{#Name="Mikhail"}
+Oh, giusto. Beh, buona fortuna.{#Name="Zero"}
+Però, sai che va bene anche se{LF}non sei un buongustaio, vero?{#Name="Zero"}
+Davvero?{#Name="Mikhail"}
+Sì. Così posso darti qualsiasi sbobba vecchia trovi{LF}in giro. Per me è molto più facile.{#Name="Zero"}
+Aw, dai! È umiliante!{#Name="Mikhail"}
+Huh. È una parola piuttosto grossa per te.{#Name="Zero"}
+Ce l’abbiamo fatta!{#Name="Mikhail"}
+Ora possiamo tornare indietro! Possiamo tornare e rivedere tutti!{#Name="Mikhail"}
+Sì. È proprio l’ultima cosa di cui ho bisogno adesso.{#Name="Zero"}
+Eh? Non vuoi vedere tutti? Devi volerlo!{#Name="Mikhail"}
+No, in realtà. Non voglio.{#Name="Zero"}
+Proprio no.{#Name="Zero"}
+Con questo si concludono le riparazioni supplementari effettuate alla registrazione M4510_E0900_FL.{#Name="Accord"}
+Assicuratevi che simili errori non si ripetano.{#Name="Accord"}
+Con questo, tutte le condizioni sono ora soddisfatte.{#Name="Accord"}
+Ora non resta che...Branch D.{#Name="Accord"}
+La registrazione finale della singolarità nota come Zero.{#Name="Accord"}
+説明文
+（リザーブ）
+Soldier A
+Soldier B
+Soldier C
+兵士D
+Soldier E
+Soldier F
+Soldier G
+Soldier D
+兵士Ｄ
+兵士Ｃ
+Accord
+Zero
+Mikhail
+343
+Wow! Questa città è davvero elegante, eh?{#Name="Mikhail"}
+Guarda tutti questi edifici!{LF}Sono alti! Davvero alti!{#Name="Mikhail"}
+Forse sì, ma la città è comunque morta.{#Name="Zero"}
+E presto sarà di nuovo inondata di sangue.{#Name="Zero"}
+Lady Zero?{#Name="Octa"}
+Sì?{#Name="Zero"}
+Come procedono le cose lassù?{#Name="Octa"}
+Intendi a parte il milione e{LF}uno stronzi che cercano di ucciderci?{#Name="Zero"}
+Ah, sì. Più o meno la stessa cosa{LF}qui giù a terra.{#Name="Octa"}
+Questa è la guardia personale di Lady One.{#Name="Octa"}
+Più ferocemente attaccano, più vicini{LF}dobbiamo essere al nostro obiettivo.{#Name="Octa"}
+Buono a sapersi.{#Name="Zero"}
+One! Vieni qui! Finiamola!{#Name="Zero"}
+Calmati. Gridare così non ti si addice,{LF}Sorella. Ti sento benissimo.{#Name="One"}
+Hai trasformato il tuo drago in un daemon.{#Name="Zero"}
+......{#Name="One"}
+Dov’è il discepolo che hai usato{LF}per evocare quella cosa?{#Name="Zero"}
+...Io non ho discepoli.{#Name="One"}
+Cosa?{#Name="Zero"}
+I discepoli sono poco più che strumenti tragici{LF}e pietosi.{#Name="One"}
+Non ho bisogno di simili cose.{#Name="One"}
+Heh. La solita One con le sue solite stronzate.{#Name="Zero"}
+325{#Name="325"}
+Controllare un drago senza un discepolo?{LF}Che razza di trucco è?{#Name="Zero"}
+Ehi! Ci vuole più di un trucco{LF}per controllare un drago!{#Name="Mikhail"}
+Scommetto che anche One e il suo drago sono molto legati!{#Name="Mikhail"}
+Un po’ come te e me, vero, Zero?{LF}Migliori amici per sempre!{#Name="Mikhail"}
+Heh. Ciò che li lega non è amicizia.{#Name="Zero"}
+{06}>{#Name="Zero"}
+Bene.{#Name="Zero"}
+......{#Name="Zero"}
+Dove diavolo è One?{#Name="Zero"}
+Da quella parte! È volata dentro quello stormo di wyvern!{#Name="Mikhail"}
+Stupide wyvern! Branco di bastardi di bassa lega{LF}ruba-lavoro!{#Name="Mikhail"}
+Lasciamele! Le ucciderò tutte!{#Name="Mikhail"}
+Questa tua fissazione per le wyvern è davvero strana.{#Name="Zero"}
+Ha ha ha ha! Come va lassù, Z?{#Name="Dito"}
+Un branco di wyvern cerca di uccidermi. E a te?{#Name="Zero"}
+Fantastico, grazie! C’è sangue OVUNQUE!{#Name="Dito"}
+Ce l’ho persino negli OCCHI! HA HA HA HA HA!{#Name="Dito"}
+Ehm... Sai che c’è? Buon per te.{#Name="Zero"}
+Zero! Siamo quasi al cuore della città!{#Name="Mikhail"}
+Giusto. Da qui è meglio proseguire a piedi.{#Name="Zero"}
+Uccidi One.{#Name="目的文"}
+Sconfiggi Gabriel!{#Name="説明文"}
+LD02:ダミー{#Name="説明文"}
+目標達成　LD00:ダミー{#Name="説明文"}
+目標達成　LD01:ダミー{#Name="説明文"}
+目標達成　LD02:ダミー{#Name="説明文"}
+Zero! Le mie palle di fuoco non sembrano fargli male!{#Name="Mikhail"}
+La sua pelle è troppo dura. Dovremo{LF}colpire il suo punto debole.{#Name="Zero"}
+Ehi! Stiamo arrivando a un vicolo cieco!{#Name="Zero"}
+Non va bene! Non possiamo scappare! Non possiamo scappare!{#Name="Mikhail"}
+Per conquistare la roccaforte nemica nella Cathedral City,{#Name="Accord"}
+il gruppo di Zero decise di lanciare un attacco dall’aria.{#Name="Accord"}
+Ma ciò che trovarono ad attenderli lì...{#Name="Accord"}
+non era altri che One in persona. L’ultima Intoner.{#Name="Accord"}
+Mikhail
+Zero
+Octa
+One
+325
+Dito
+目的文
+説明文
+Accord
+Dirigiti verso la Cathedral.{#Name="説明文"}
+Sconfiggi i lancieri!{#Name="説明文"}
+Sconfiggi il Titan!{#Name="説明文"}

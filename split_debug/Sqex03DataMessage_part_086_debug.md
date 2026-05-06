@@ -196,7 +196,7 @@ Ooof. It does seem this area is{LF}enclosed by magical power...{#Name="Octa"}
 `Dev’essere quello che trattiene il freddo.{#Name="Decadus"}`
 That must be what's holding in the cold.{#Name="Decadus"}
 
-`Dannazione. Ucciderò ogni{LF}singolo stregone qui intorno!{#Name="Zero"}`
+`Per dio. Ucciderò ogni{LF}singolo stregone qui intorno!{#Name="Zero"}`
 Goddammit. I'll kill every{LF}last sorcerer around here!{#Name="Zero"}
 
 `Zero...{#Name="Mikhail"}`
@@ -310,6 +310,6 @@ M4110_E0020_DM: Begin Recording{#Name="Accord"}
 `487{#Name="487"}`
 487{#Name="487"}
 
-`Eccoli qui. La radice di tutto questo male.{#Name="Zero"}`
+`Eccoli qui. Le radici di tutto questo male.{#Name="Zero"}`
 Here they are. The root of all this evil.{#Name="Zero"}
 

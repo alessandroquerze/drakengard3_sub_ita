@@ -181,7 +181,7 @@ We can't let anything happen to Lady Two!{#Name="Soldier C"}
 `Giusto! Fermiamo Zero qui, a qualunque costo!{#Name="Soldier D"}`
 Right! We stop Zero here, no matter what!{#Name="Soldier D"}
 
-`Dannazione! Questi bastardi sono immortali!?{#Name="Soldier F"}`
+`Oddio! Questi bastardi sono immortali!?{#Name="Soldier F"}`
 Dammit! Are these bastards immortal!?{#Name="Soldier F"}
 
 `Portate qui un medico! Medicooo!{#Name="Soldier B"}`
@@ -214,7 +214,7 @@ Augh! It's colder than a brass tit out here!{#Name="Soldier D"}
 `Ehi, sei ferito! Resta fermo, okay?{#Name="Soldier E"}`
 Hey, you've been injured! Just sit still, okay?{#Name="Soldier E"}
 
-`Dannazione. Non voglio morire in questa oscurità...{#Name="Soldier D"}`
+`Oddio. Non voglio morire in questa oscurità...{#Name="Soldier D"}`
 Goddammit. I don't want to die in this darkness...{#Name="Soldier D"}
 
 `Per Lady Twooooo!{#Name="Soldier F"}`

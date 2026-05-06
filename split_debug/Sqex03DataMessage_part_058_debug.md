@@ -25,7 +25,7 @@ Hurry up and destroy it before{LF}it pulls you in completely!{#Name="Zero"}
 `Il bersaglio è troppo piccolo! È difficile da colpire!{#Name="Mikhail"}`
 The target's too small! It's hard to hit!{#Name="Mikhail"}
 
-`Dannazione, Four. C'è MODO di essere più irritante?{#Name="Zero"}`
+`Maledizione, Four. C'è MODO di essere più irritante?{#Name="Zero"}`
 Damn it, Four. Could you BE more annoying?{#Name="Zero"}
 
 `Urrrgh... Si muove troppo in fretta, non riesco a colpirlo!{#Name="Mikhail"}`
@@ -250,7 +250,7 @@ Don't let Zero inside Lady Four's citadel!{#Name="Soldier C"}
 `La cittadella è più avanti, eh?{LF}Grazie delle indicazioni, idiota.{#Name="Zero"}`
 The citadel up ahead, eh?{LF}Thanks for the directions, chump.{#Name="Zero"}
 
-`Dannazione! Uccidete quella donna!{#Name="Soldier C"}`
+`Diavolo! Uccidete quella donna!{#Name="Soldier C"}`
 Dammit! Kill that woman!{#Name="Soldier C"}
 
 `Lady Four resta con noi!{#Name="Soldier F"}`

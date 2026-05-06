@@ -100,7 +100,7 @@ Defeat the Lancer Captains!{#Name="説明文"}
 `Sconfiggi i non morti!{#Name="説明文"}`
 Defeat the Undead!{#Name="説明文"}
 
-`Sconfiggi gli Arch Titan***!{#Name="説明文"}`
+`Sconfiggi gli Arch Titan:::!{#Name="説明文"}`
 Defeat the Arch Titans!{#Name="説明文"}
 
 `（リザーブ）{#Name="（リザーブ）"}`

@@ -139,7 +139,7 @@ Zero! Look out! Bad guys everywhere!{#Name="Mikhail"}
 `a{#Name="a"}`
 a{#Name="a"}
 
-`Ha ha ha! Sentite le urla!{LF}Dannazione, è troppo divertente!{#Name="Dito"}`
+`Ha ha ha! Sentite le urla!{LF}Che roba, è troppo divertente!{#Name="Dito"}`
 Ha ha ha! Listen to the screams!{LF}Man, this is too much fun!{#Name="Dito"}
 
 `Four! Porta subito qui il culo!{#Name="Zero"}`
@@ -151,7 +151,7 @@ Death to the demon and her dragon!{LF}Victory to Lady Four!{#Name="Soldier A"}
 `Te la faccio vedere io la vittoria, testa di cazzo!{#Name="Zero"}`
 I'll show you victory, you asshat!{#Name="Zero"}
 
-`Sembra che Four ti batta{LF}nelle classifiche di popolarità locali.{#Name="Dito"}`
+`Sembra che Four ti batta{LF}nell'essere apprezzata, da queste parti.{#Name="Dito"}`
 Seems like Four's got a leg up on you{LF}in the local popularity ratings.{#Name="Dito"}
 
 `Ehi, anche Zero ha dei lati buoni!{LF}Un sacco di lati buoni!{#Name="Mikhail"}`
