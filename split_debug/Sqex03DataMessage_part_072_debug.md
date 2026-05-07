@@ -163,7 +163,7 @@ Hey, Decadus. Try not to kill him, okay?{#Name="Dito"}
 `Perché se qui qualcuno deve ucciderlo, quello sono IO.{#Name="Dito"}`
 'Cause if anyone here is gonna kill him, it's ME.{#Name="Dito"}
 
-`Dio, ancora? È sempre lo stesso dannato schema!{#Name="Zero"}`
+`Dio, ancora? E' sempre lo stesso dannato schema!{#Name="Zero"}`
 God, again? It's the same damn pattern every time!{#Name="Zero"}
 
 `Pare che si divertano a intrappolare le loro prede.{#Name="Octa"}`
@@ -187,7 +187,7 @@ Hee hee! Perhaps our foes are entomologists{LF}out to find new insects for their
 `......{#Name="Cent"}`
 ......{#Name="Cent"}
 
-`Sei un idiota. È questo che aspettavi come risposta?{#Name="Zero"}`
+`Sei un idiota. E' questo che aspettavi come risposta?{#Name="Zero"}`
 You're an idiot. Is that what you were waiting for?{#Name="Zero"}
 
 `Che diavolo sono queste cose inquietanti?{#Name="Zero"}`
@@ -226,13 +226,13 @@ I'm not used to any work.{#Name="Zero"}
 `A parte uccidere.{#Name="Dito"}`
 Except killing.{#Name="Dito"}
 
-`Uccidere non è lavoro. È come pisciare:{LF}viene naturale.{#Name="Zero"}`
+`Uccidere non è lavoro. E' come pisciare:{LF}viene naturale.{#Name="Zero"}`
 Killing isn't work. It's like takin'{LF}a piss—it comes naturally.{#Name="Zero"}
 
 `Oh. Guarda chi c'è.{#Name="Three"}`
 Oh. Look who's here.{#Name="Three"}
 
-`È Zero.{#Name="Three"}`
+`E' Zero.{#Name="Three"}`
 It's Zero.{#Name="Three"}
 
 `Ehilà, Three.{#Name="Zero"}`

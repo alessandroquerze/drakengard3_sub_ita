@@ -55,7 +55,7 @@ Come on, Zero! Call him already!{#Name="Dito"}
 `Chiudi quella fogna! Ci sto provando, okay!?{#Name="Zero"}`
 Shut your trap! I'm trying, okay!?{#Name="Zero"}
 
-`È da un pezzo che lo sto chiamando, ma non risponde!{#Name="Zero"}`
+`E' da un pezzo che lo sto chiamando, ma non risponde!{#Name="Zero"}`
 I've BEEN calling him, but he's not answering!{#Name="Zero"}
 
 `Oh oh. Non è un buon segno.{#Name="Dito"}`
@@ -85,7 +85,7 @@ No one "takes" a dragon. Even a stupid{LF}idiot dragon. He'll be fine.{#Name="Ze
 `Cavolo, sei proprio solare.{#Name="Dito"}`
 Man, you're so cheery.{#Name="Dito"}
 
-`Gya, sono stufa di questi stronzi!{LF}E DOV'È IL MIO DRAGO!?{#Name="Zero"}`
+`Gya, sono stufa di questi stronzi!{LF}E DOV'E' IL MIO DRAGO!?{#Name="Zero"}`
 Gya, I'm sick of these fuckers!{LF}And WHERE'S MY DRAGON!?{#Name="Zero"}
 
 ` {#Name="ゼロ"}`

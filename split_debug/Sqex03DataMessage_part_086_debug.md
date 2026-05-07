@@ -256,7 +256,7 @@ Hurry up and die! I'm in a rush here!{#Name="Zero"}
 `Voi figli di puttana proprio non sapete quando mollare.{#Name="Zero"}`
 You sons of bitches just don't know when to quit.{#Name="Zero"}
 
-`Il freddo? Il caldo? La sabbia?{LF}È tutta colpa vostra, cazzo!{#Name="Zero"}`
+`Il freddo? Il caldo? La sabbia?{LF}E' tutta colpa vostra, cazzo!{#Name="Zero"}`
 The cold? The heat? The sand?{LF}It's all your fuckin' fault!{#Name="Zero"}
 
 `Non credo che siano responsabili{LF}per la SABBIA, in realtà...{#Name="Dito"}`

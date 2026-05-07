@@ -16,7 +16,7 @@ Maybe trim the hair... Take off the glasses...{LF}A quick dye job up top...{#Nam
 `Stai cercando di farla assomigliare a Two?{#Name="Dito"}`
 Are you trying to make her look like Two?{#Name="Dito"}
 
-`Iooo? Cosa? No. È assurdo.{#Name="Cent"}`
+`Iooo? Cosa? No. E' assurdo.{#Name="Cent"}`
 Meee? What? No. That's absurd.{#Name="Cent"}
 
 `Voglio solo che sia bellissima.{LF}Non è colpa mia se ho un tipo!{#Name="Cent"}`
@@ -85,7 +85,7 @@ Hey, Zero! Don't listen to what that weird girl said, okay?{#Name="Mikhail"}
 `Intendi la parte in cui diceva che mi mangerai?{#Name="Zero"}`
 You mean the bit about how you're gonna eat me?{#Name="Zero"}
 
-`Sì! È scortese! Io non ti mangerei mai, Zero!{LF}Mai!{#Name="Mikhail"}`
+`Sì! E' scortese! Io non ti mangerei mai, Zero!{LF}Mai!{#Name="Mikhail"}`
 Yeah! That's mean! I'd never eat you, Zero!{LF}Never!{#Name="Mikhail"}
 
 `Sei sicuro? Voglio dire, mangi già carne marcia.{LF}Non è che tu sia schizzinoso.{#Name="Zero"}`
@@ -247,7 +247,7 @@ Lady Three suffered a cruel end. Perhaps you and I{LF}should "commemorate" her p
 `Allora, sai quel tizio che ha rubato il tuo stupido drago?{LF}Era Cent.{#Name="Dito"}`
 So you know that guy who stole your dumb dragon?{LF}That was Cent.{#Name="Dito"}
 
-`È il discepolo qui nella Terra delle Sabbie.{#Name="Dito"}`
+`E' il discepolo qui nella Terra delle Sabbie.{#Name="Dito"}`
 He's the disciple here in the Land of Sands.{#Name="Dito"}
 
 `Il discepolo di Two, eh?{#Name="Zero"}`

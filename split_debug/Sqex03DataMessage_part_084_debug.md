@@ -112,7 +112,7 @@ Well, of course I don't! Duh!{#Name="Cent"}
 `Voglio dire, guarda- dopotutto sono solo un vecchio discepolo idiota.{#Name="Cent"}`
 I mean, look—I'm just some idiot old disciple, after all.{#Name="Cent"}
 
-`È piuttosto semplice, davvero. Tutto ciò che faccio è tenere la {LF}testa bassa e seguire gli ordini.{#Name="Cent"}`
+`E' piuttosto semplice, davvero. Tutto ciò che faccio è tenere la {LF}testa bassa e seguire gli ordini.{#Name="Cent"}`
 It's pretty simple, really. All I do is put{LF}my nose to the grindstone and follow orders.{#Name="Cent"}
 
 `A proposito, lei mi ha ordinato di ucciderti, quindi...{#Name="Cent"}`
@@ -214,7 +214,7 @@ We must keep our beloved Lady Two safe!{#Name="Soldier B"}
 `Non ritiratevi! Mai ritirarsi!{#Name="Soldier F"}`
 Don't retreat! Never retreat!{#Name="Soldier F"}
 
-`È Zero, il cigno nero della menzogna!{#Name="Soldier C"}`
+`E' Zero, il cigno nero della menzogna!{#Name="Soldier C"}`
 It's Zero, the black swan of falsehoods!{#Name="Soldier C"}
 
 `Si pentirà del giorno in cui ha sfidato Lady Two!{#Name="Soldier D"}`
@@ -229,7 +229,7 @@ Hang in there! If we die, we die together!{#Name="Soldier E"}
 `Mantenete la posizione! Siamo l'ultima avanguardia di Lady Two!{#Name="Soldier B"}`
 Hold your ground! We're Lady Two's last vanguard!{#Name="Soldier B"}
 
-`Sì! È ora di mostrarle il nostro invincibile pugno di ferro!{#Name="Soldier A"}`
+`Sì! E' ora di mostrarle il nostro invincibile pugno di ferro!{#Name="Soldier A"}`
 Yeah! It's time to show her our invincible iron fist!{#Name="Soldier A"}
 
 `Per dio. Doveva proprio evocare{LF}queste cose con la testa da zucca.{#Name="Zero"}`
@@ -244,7 +244,7 @@ Oh—trivia time! Do you know why some{LF}gourds are narrow in the middle?{#Name
 `Così possono ridistribuire i nutrienti{LF}a metà del frutto!{#Name="Cent"}`
 So they can rearrange their nutrients{LF}halfway down the fruit!{#Name="Cent"}
 
-`È SCIENZA! Wah-chaaa!{#Name="Cent"}`
+`E' SCIENZA! Wah-chaaa!{#Name="Cent"}`
 It's SCIENCE! Wah-chaaa!{#Name="Cent"}
 
 `Smettila di fingere di sapere{LF}di cosa stai parlando, idiota!{#Name="Zero"}`
@@ -307,7 +307,7 @@ Good! CRUSH IT!{#Name="Zero"}
 `お世辞を言ってるヒマがあったら、{LF}一体でも多く倒せ！{#Name="ゼロ"}`
 お世辞を言ってるヒマがあったら、{LF}一体でも多く倒せ！{#Name="ゼロ"}
 
-`È davvero buio qui, eh?{#Name="Mikhail"}`
+`E' davvero buio qui, eh?{#Name="Mikhail"}`
 It sure is dark in here, huh?{#Name="Mikhail"}
 
 `Già.{#Name="Zero"}`

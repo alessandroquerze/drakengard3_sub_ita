@@ -181,13 +181,13 @@ I'm gonna die here... And I'll never fulfill my dream of sleeping with Lady Thre
 `Io... io volevo Octa...{#Name="Soldier D"}`
 I...I wanted Octa...{#Name="Soldier D"}
 
-`Cosa? È proprio il momento peggiore per dirlo, amico!{#Name="Soldier C"}`
+`Cosa? E' proprio il momento peggiore per dirlo, amico!{#Name="Soldier C"}`
 What? This is a hell of a time to come out, man!{#Name="Soldier C"}
 
 `Là! Sulla destra!{#Name="Soldier F"}`
 There! Over on the right!{#Name="Soldier F"}
 
-`Ahhhh! È troppo veloce!{#Name="Soldier G"}`
+`Ahhhh! E' troppo veloce!{#Name="Soldier G"}`
 Ahhhh! She's too fast!{#Name="Soldier G"}
 
 `Non mi faccio fuori così!{#Name="Soldier B"}`
@@ -217,7 +217,7 @@ Ha ha! The classic excuse!{#Name="Dito"}
 `Aww, non è vero! Non è affatto vero!{#Name="Mikhail"}`
 Aww, that's not true! That's not true at all!{#Name="Mikhail"}
 
-`È vero! È proprio COMPLETAMENTE vero!{#Name="Dito"}`
+`E' vero! E' proprio COMPLETAMENTE vero!{#Name="Dito"}`
 It IS true! It IS true at all!{#Name="Dito"}
 
 `Ehi!{#Name="Mikhail"}`
@@ -232,7 +232,7 @@ Ooh!{#Name="Mikhail"}
 `Zero! Zero! C'è un drago nel fiume!{#Name="Mikhail"}`
 Zero! Zero! There's a dragon in the river!{#Name="Mikhail"}
 
-`...È il tuo riflesso.{#Name="Zero"}`
+`...E' il tuo riflesso.{#Name="Zero"}`
 ...That's your reflection.{#Name="Zero"}
 
 `Davvero!?{#Name="Mikhail"}`
@@ -250,7 +250,7 @@ Zeeeeeeroooooo!{#Name="Mikhail"}
 `Lady Zero? Dov'è Mikhail?{#Name="Decadus"}`
 Lady Zero? What of Mikhail?{#Name="Decadus"}
 
-`È nel fiume.{#Name="Zero"}`
+`E' nel fiume.{#Name="Zero"}`
 He's in the river.{#Name="Zero"}
 
 `Ehm, sì, ma quello che volevo chiedere era—{#Name="Decadus"}`

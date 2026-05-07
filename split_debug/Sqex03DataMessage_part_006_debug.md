@@ -307,7 +307,7 @@ Honestly, I don't really care why you're running around{LF}doing all this killin
 `Personalmente, me la sto spassando alla grande qui!{#Name="Dito"}`
 Personally, I'm having the time of my life here!{#Name="Dito"}
 
-`Voglio dire, guardarti affettare, mutilare e uccidere tutti questi{LF}brutti bastardi? È come una vacanza a cinque stelle all'Inferno!{#Name="Dito"}`
+`Voglio dire, guardarti affettare, mutilare e uccidere tutti questi{LF}brutti bastardi? E' come una vacanza a cinque stelle all'Inferno!{#Name="Dito"}`
 I mean, watching you slash and maim and kill all these{LF}ugly bastards? It's like a five-star vacation in Hell!{#Name="Dito"}
 
 `Sul serio, mi piace da morire. Sei la migliore!{#Name="Dito"}`

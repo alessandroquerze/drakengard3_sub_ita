@@ -4,7 +4,7 @@ Get her! Tear her apart!{LF}TEEEEEEAR HER APAAART!{#Name="Four"}
 `Non ascoltarla, Zero!{#Name="Mikhail"}`
 Don't listen to her, Zero!{#Name="Mikhail"}
 
-`È fuori di testa! Farà impazzire anche te!{LF}Completamente fuori di testa!{#Name="Mikhail"}`
+`E' fuori di testa! Farà impazzire anche te!{LF}Completamente fuori di testa!{#Name="Mikhail"}`
 She's bonkers! She'll make you bonkers too!{LF}Totally bonkers!{#Name="Mikhail"}
 
 `Smettila di dire fuori di testa!{#Name="Zero"}`
@@ -25,7 +25,7 @@ Don't worry.{#Name="Zero"}
 `Le tue sorelle ti raggiungeranno abbastanza presto.{#Name="Zero"}`
 Your sisters will be joining you soon enough.{#Name="Zero"}
 
-`Ehi. È tutta tua.{#Name="Zero"}`
+`Ehi. E' tutta tua.{#Name="Zero"}`
 Hey. She's all yours.{#Name="Zero"}
 
 `L'evoluzione di un drago...{#Name="Decadus"}`
@@ -103,7 +103,7 @@ Don't underestimate her!{#Name="Soldier E"}
 `死にたいのか？　老いぼれにかまわず行けッ！{#Name="兵士F"}`
 死にたいのか？　老いぼれにかまわず行けッ！{#Name="兵士F"}
 
-`È troppo... dannatamente forte!{#Name="Soldier A"}`
+`E' troppo... dannatamente forte!{#Name="Soldier A"}`
 She's...too damn strong!{#Name="Soldier A"}
 
 `Lo sapevamo quando abbiamo accettato questo incarico!{#Name="Soldier C"}`
@@ -202,7 +202,7 @@ Yaaay! Whatever! Whatever is my favorite!{#Name="Mikhail"}
 `Ma sarà meglio che sia il miglior{LF}dannato frutto che abbia mai assaggiato.{#Name="Zero"}`
 But this better be the best{LF}damn fruit I ever tasted.{#Name="Zero"}
 
-`Non preoccuparti. È delizioso oltre ogni paragone!{#Name="Cent"}`
+`Non preoccuparti. E' delizioso oltre ogni paragone!{#Name="Cent"}`
 Don't you worry. It is delicious beyond compare!{#Name="Cent"}
 
 `Il frutto si chiama mendesian. Delizioso, no?{#Name="Cent"}`
@@ -223,7 +223,7 @@ Far more so than your typical fruit, I might add.{#Name="Cent"}
 `Dimmi, fa bene anche al vecchio serpente nei pantaloni?{#Name="Octa"}`
 Tell me, is it any good for the old trouser snake?{#Name="Octa"}
 
-`Bene? È semplicemente spettacolare!{#Name="Cent"}`
+`Bene? E' semplicemente spettacolare!{#Name="Cent"}`
 Good? It's nothing short of spectacular!{#Name="Cent"}
 
 `Oh ho ho! Beh, questa sì che è una bella notizia.{#Name="Octa"}`

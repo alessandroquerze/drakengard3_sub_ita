@@ -130,7 +130,7 @@ Good heavens. Are those trolls?{#Name="Octa"}
 `Ugh. Troll. Brutti, puzzolenti e stupidi...{LF}Meritano di morire.{#Name="Dito"}`
 Ugh. Trolls. Ugly, smelly, and dumb...{LF}They deserve to die.{#Name="Dito"}
 
-`È un giudizio piuttosto duro.{#Name="Decadus"}`
+`E' un giudizio piuttosto duro.{#Name="Decadus"}`
 That's rather judgmental of you.{#Name="Decadus"}
 
 `E certo che è un giudizio duro!{#Name="Dito"}`
@@ -169,7 +169,7 @@ You aren't even trying, are you?{#Name="Zero"}
 `Lady Zero, attenta!{#Name="Decadus"}`
 Lady Zero, look out!{#Name="Decadus"}
 
-`Un titano? Qui? È un po'...inaspettato.{#Name="Cent"}`
+`Un titano? Qui? E' un po'...inaspettato.{#Name="Cent"}`
 A titan? Here? That's a bit...unexpected.{#Name="Cent"}
 
 `Cosa hai fatto per meritarti una punizione simile, eh?{#Name="Cent"}`
@@ -214,7 +214,7 @@ Yeah, well that illness won't mean shit if they get past us here!{#Name="Soldier
 `Dov'è finita Lady Three?{#Name="Soldier A"}`
 Where'd Lady Three go?{#Name="Soldier A"}
 
-`È tornata nella foresta!{#Name="Soldier C"}`
+`E' tornata nella foresta!{#Name="Soldier C"}`
 Back into the forest!{#Name="Soldier C"}
 
 `Se solo Lady Three fosse qui con noi!{#Name="Soldier A"}`
@@ -229,7 +229,7 @@ Is this fog the will of Lady Three?{#Name="Soldier F"}
 `Nnngh...{#Name="Soldier C"}`
 Nnngh...{#Name="Soldier C"}
 
-`È una nebbia malsana. Cercate di non respirare troppo a fondo!{#Name="Soldier D"}`
+`E' una nebbia malsana. Cercate di non respirare troppo a fondo!{#Name="Soldier D"}`
 This is an ill mist. Try not to breathe too deeply!{#Name="Soldier D"}
 
 `*Anf, anf...* D-Dannazione... Non riesco a respirare...{#Name="Soldier G"}`

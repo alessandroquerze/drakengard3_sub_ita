@@ -1,7 +1,7 @@
 `Tutti i soldati, iniziate il contrattacco!{#Name="Soldier F"}`
 All soldiers, commence counterattack!{#Name="Soldier F"}
 
-`È come la rinascita di qualche potere oscuro...{#Name="Soldier G"}`
+`E' come la rinascita di qualche potere oscuro...{#Name="Soldier G"}`
 It's like the rebirth of some dark power...{#Name="Soldier G"}
 
 `Dov'è Lady Two?{#Name="Soldier F"}`
@@ -85,7 +85,7 @@ J-Just that we should remain calm, or—{LF}See? Now there's more of them!{#Name
 ` {#Name="デカート"}`
  {#Name="デカート"}
 
-`È tutta colpa di quello stupido drago, vero?{#Name="Dito"}`
+`E' tutta colpa di quello stupido drago, vero?{#Name="Dito"}`
 This is all that stupid dragon's fault, isn't it?{#Name="Dito"}
 
 `Si fa catturare, e poi{LF}tu finisci tutta matta di rabbia...{#Name="Dito"}`
@@ -130,7 +130,7 @@ We fight for Lady Two, serene{LF}whisper of the spring!{#Name="Soldier C"}
 `Dobbiamo resistere finché non si riprende!{#Name="Soldier D"}`
 We must hold out until she recovers!{#Name="Soldier D"}
 
-`Ngh! È troppo forte!{#Name="Soldier G"}`
+`Ngh! E' troppo forte!{#Name="Soldier G"}`
 Ngh! So strong!{#Name="Soldier G"}
 
 `Niente lamentele! Non puoi{LF}servire Lady Two così!{#Name="Soldier F"}`
@@ -274,7 +274,7 @@ Golems...{#Name="Zero"}
 `Quindi, esattamente, come hai fatto{LF}a farti rapire di nuovo? Dov'è il tuo cervello?{#Name="Zero"}`
 So how is it exactly that you got{LF}kidnapped again? Where's your brain?{#Name="Zero"}
 
-`Nella mia testa!{LF}...È nella mia testa, vero?{#Name="Mikhail"}`
+`Nella mia testa!{LF}...E' nella mia testa, vero?{#Name="Mikhail"}`
 In my head!{LF}...It IS in my head, right?{#Name="Mikhail"}
 
 `Lascia perdere.{#Name="Zero"}`

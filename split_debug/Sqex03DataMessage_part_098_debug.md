@@ -40,7 +40,7 @@ Good...bye...{#Name="One"}
 `Sì. Lo è.{#Name="Zero"}`
 Yeah. It is.{#Name="Zero"}
 
-`Mikhail... È finita.{#Name="Zero"}`
+`Mikhail... E' finita.{#Name="Zero"}`
 Mikhail... It's over.{#Name="Zero"}
 
 `Ora io—{#Name="Zero"}`
@@ -64,7 +64,7 @@ Brother.{#Name="? ? ?"}
 `Sono il fratello di One.{#Name="? ? ?"}`
 I'm One's brother.{#Name="? ? ?"}
 
-`Fratello? È...impossibile...{#Name="Zero"}`
+`Fratello? E'...impossibile...{#Name="Zero"}`
 Brother? That's...impossible...{#Name="Zero"}
 
 `Tu non potevi saperlo. Avevi solo le tue cinque sorelle.{#Name="? ? ?"}`
@@ -82,7 +82,7 @@ I was a failsafe in case you managed to kill her.{#Name="? ? ?"}
 `Ero la sua arma finale.{#Name="? ? ?"}`
 I was her final weapon.{#Name="? ? ?"}
 
-`Vedi questa spada? È fatta con la zanna di un drago.{#Name="? ? ?"}`
+`Vedi questa spada? E' fatta con la zanna di un drago.{#Name="? ? ?"}`
 See this sword? It's made from a dragon's fang.{#Name="? ? ?"}
 
 `Questo significa che può uccidere un'Intoner, giusto?{#Name="? ? ?"}`
@@ -118,7 +118,7 @@ Mik...hail.{#Name="Zero"}
 `Grazi—{#Name="Zero"}`
 Thank y—{#Name="Zero"}
 
-`...È morta.{#Name="? ? ?"}`
+`...E' morta.{#Name="? ? ?"}`
 ...She's dead.{#Name="? ? ?"}
 
 `Zero è morta.{#Name="? ? ?"}`

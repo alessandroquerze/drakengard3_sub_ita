@@ -46,7 +46,7 @@ Where are you, Five?{#Name="Zero"}
 `Non hai ancora affondato quella cosa?{#Name="Zero"}`
 You still haven't sunk that thing yet?{#Name="Zero"}
 
-`Ehi, è difficile, okay? È una nave da guerra gigante!{#Name="Mikhail"}`
+`Ehi, è difficile, okay? E' una nave da guerra gigante!{#Name="Mikhail"}`
 Hey, it's hard, okay? It's a giant battleship!{#Name="Mikhail"}
 
 `Puoi aiutarmi, Zero?{#Name="Mikhail"}`
@@ -82,7 +82,7 @@ Right!{#Name="Mikhail"}
 `Averti sulla schiena mi fa{LF}sentire molto più forte, Zero!{#Name="Mikhail"}`
 Having you on my back makes me{LF}feel a lot stronger, Zero!{#Name="Mikhail"}
 
-`È la tua immaginazione. Però sarà meglio che tu{LF}diventi forte sul serio, e in fretta, altrimenti!{#Name="Zero"}`
+`E' la tua immaginazione. Però sarà meglio che tu{LF}diventi forte sul serio, e in fretta, altrimenti!{#Name="Zero"}`
 It's your imagination. But you better{LF}get stronger for real soon, or else!{#Name="Zero"}
 
 `O-Okay...{#Name="Mikhail"}`
@@ -172,7 +172,7 @@ Look out!{#Name="Zero"}
 `Uff! C'è mancato poco!{LF}L'hai visto? L'hai visto?{#Name="Mikhail"}`
 Whew! That was a close one!{LF}Did you see it? Did you?{#Name="Mikhail"}
 
-`Non c'è mancato POCO! È stato un colpo diretto!{#Name="Zero"}`
+`Non c'è mancato POCO! E' stato un colpo diretto!{#Name="Zero"}`
 That wasn't CLOSE! It was a direct hit!{#Name="Zero"}
 
 `Ehi, mi sto impegnando parecchio per te, no?{#Name="Mikhail"}`
@@ -190,7 +190,7 @@ That's not exactly what I had in mind...{#Name="Mikhail"}
 `Più veloce! Più in alto! Continua a volare!{#Name="Zero"}`
 Faster! Higher! Keep flying!{#Name="Zero"}
 
-`È difficiiiile!{#Name="Mikhail"}`
+`E' difficiiiile!{#Name="Mikhail"}`
 It's haaaaaard!{#Name="Mikhail"}
 
 `Difficile? Un vero drago potrebbe farlo nel sonno.{#Name="Zero"}`
@@ -229,7 +229,7 @@ Look at her! The Intoner's drenched in blood!{#Name="Soldier C"}
 `La traditrice Zero deve essere eliminata!{#Name="Soldier D"}`
 The traitor Zero must be eliminated!{#Name="Soldier D"}
 
-`Esatto! È il momento di mostrarle la forza delle nostre truppe unite!{#Name="Soldier F"}`
+`Esatto! E' il momento di mostrarle la forza delle nostre truppe unite!{#Name="Soldier F"}`
 Indeed! It's time to show her the power of our united forces!{#Name="Soldier F"}
 
 `Ti ucciderò... Ti ucciderò... TI UCCIDERÒ!{#Name="Soldier G"}`
@@ -244,7 +244,7 @@ It pains me to think how frightened Lady Five must be right now...{#Name="Soldie
 `Non preoccuparti. Ha Dito con lei.{#Name="Soldier E"}`
 Don't worry. She's got Dito with her.{#Name="Soldier E"}
 
-`È per questo che mi addolora!{#Name="Soldier B"}`
+`E' per questo che mi addolora!{#Name="Soldier B"}`
 That's why it pains me!{#Name="Soldier B"}
 
 `Come fa la nostra Intoner a sopportarlo? Non ha senso!{#Name="Soldier B"}`
@@ -265,7 +265,7 @@ Where does her strength come from?{#Name="Soldier A"}
 `Combatte come una posseduta.{#Name="Soldier C"}`
 She fights like a woman possessed.{#Name="Soldier C"}
 
-`Non è una donna... È un demone!{#Name="Soldier A"}`
+`Non è una donna... E' un demone!{#Name="Soldier A"}`
 She's no woman... She's a demon!{#Name="Soldier A"}
 
 `Sarebbe super sexy, se non stesse cercando di ucciderci...{#Name="Soldier C"}`
@@ -283,7 +283,7 @@ Nowhere to be found.{#Name="Soldier D"}
 `Sono pronto a farlo!{#Name="Soldier D"}`
 I'm ready to do this!{#Name="Soldier D"}
 
-`È...è arrivata fin qui...?{#Name="Soldier A"}`
+`E'...è arrivata fin qui...?{#Name="Soldier A"}`
 She...she's made it this far...?{#Name="Soldier A"}
 
 `Finisce qui!{#Name="Soldier B"}`

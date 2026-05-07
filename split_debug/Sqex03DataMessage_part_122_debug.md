@@ -34,7 +34,7 @@ Cutscene{LF}Zero hands off the defeated Four{LF}to Mikhail, who eats her and evo
 `あらすじ第十一項　２３２０　一行目{LF}あらすじ第十一項　２３２０　二行目{LF}あらすじ第十一項　２３２０　三行目{LF}あらすじ第十一項　２３２０　四行目{LF}あらすじ第十一項　２３２０　五行目`
 あらすじ第十一項　２３２０　一行目{LF}あらすじ第十一項　２３２０　二行目{LF}あらすじ第十一項　２３２０　三行目{LF}あらすじ第十一項　２３２０　四行目{LF}あらすじ第十一項　２３２０　五行目
 
-`Mappa Diramazioni → Accampamento{LF}Ma guarda un po'. Chi è questa donna affascinante e{LF}bellissima che parla di draghi{LF}e Intoner con il gruppo di Zero? È {LF}di certo una gioia per gli occhi, mmm?`
+`Mappa Diramazioni → Accampamento{LF}Ma guarda un po'. Chi è questa donna affascinante e{LF}bellissima che parla di draghi{LF}e Intoner con il gruppo di Zero? E' {LF}di certo una gioia per gli occhi, mmm?`
 Branch Map → Camp{LF}Well, well. Who's this charming and{LF}beautiful woman talking about dragons{LF}and Intoners with Zero's party? She {LF}certainly is a treat for the eyes, mmm?
 
 `Gioco{LF}Il gruppo resta turbato nello scoprire che{LF}i draghi divorano le Intoner per puro{LF}istinto, ma continua ad avanzare attraverso{LF}la Terra delle Foreste.`

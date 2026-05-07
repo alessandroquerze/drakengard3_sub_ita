@@ -73,16 +73,16 @@ Magic-infused sunlight can sap your health.{LF}Find an area with some shade to c
 `ＴＩＰＳ_３９　　　　　　　　　　一行目{LF}ＴＩＰＳ_３９　　　　　　　　　　二行目{LF}ＴＩＰＳ_３９　　　　　　　　　　三行目{LF}ＴＩＰＳ_３９　　　　　　　　　　四行目{LF}ＴＩＰＳ_３９　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３９"}`
 ＴＩＰＳ_３９　　　　　　　　　　一行目{LF}ＴＩＰＳ_３９　　　　　　　　　　二行目{LF}ＴＩＰＳ_３９　　　　　　　　　　三行目{LF}ＴＩＰＳ_３９　　　　　　　　　　四行目{LF}ＴＩＰＳ_３９　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３９"}
 
-`Un'enorme città creata dal Cataclisma.{LF}Godette di prosperità sotto la Chiesa e la sua{LF}Accademia di Magia, ma un'ondata magica accidentale nel 995{LF}la trasformò in una città fantasma. È anche chiamata "Vecchio mondo"{LF}per le sue rovine e per il suo ruolo di origine di tutta la magia.{#Name="The Cathedral City"}`
+`Un'enorme città creata dal Cataclisma.{LF}Godette di prosperità sotto la Chiesa e la sua{LF}Accademia di Magia, ma un'ondata magica accidentale nel 995{LF}la trasformò in una città fantasma. E' anche chiamata "Vecchio mondo"{LF}per le sue rovine e per il suo ruolo di origine di tutta la magia.{#Name="The Cathedral City"}`
 An enormous city created by the Cataclysm.{LF}It enjoyed prosperity under the Church and its Magic{LF}Academy, but an accidental magic surge in 995 turned{LF}it into a ghost town. Also referred to as the "Old World"{LF}due to its ruins and status as the origin of all magic.{#Name="The Cathedral City"}
 
-`Una nazione sotto il dominio dell'Intoner Five. Ha{LF}poca terra coltivabile, ma abbondanti risorse marine.{LF}È rinomata per i suoi pescherecci, che si scambiano{LF}messaggi tramite una serie di corni. Il suo porto collega{LF}numerose rotte marittime, rendendola un centro di commercio.{#Name="The Land of Seas"}`
+`Una nazione sotto il dominio dell'Intoner Five. Ha{LF}poca terra coltivabile, ma abbondanti risorse marine.{LF}E' rinomata per i suoi pescherecci, che si scambiano{LF}messaggi tramite una serie di corni. Il suo porto collega{LF}numerose rotte marittime, rendendola un centro di commercio.{#Name="The Land of Seas"}`
 A nation under the rule of the Intoner, Five. It has{LF}little arable land, but bountiful marine resources.{LF}Renowned for its trawler ships, which exchange{LF}messages via a series of horns. Its port connects{LF}a multitude of sea routes, making it a trade hub.{#Name="The Land of Seas"}
 
-`Una nazione montuosa con fortezze apparentemente{LF}a ogni svolta. Il suo prodotto più famoso,la pietra d'ambra,{LF}è un materiale raro che può essere trasportato solo portando{LF}carri lungo sentieri stretti e insidiosi.{LF}È governata dall'Intoner Four.{#Name="The Land of Mountains"}`
+`Una nazione montuosa con fortezze apparentemente{LF}a ogni svolta. Il suo prodotto più famoso,la pietra d'ambra,{LF}è un materiale raro che può essere trasportato solo portando{LF}carri lungo sentieri stretti e insidiosi.{LF}E' governata dall'Intoner Four.{#Name="The Land of Mountains"}`
 A mountainous nation with fortresses at seemingly{LF}every turn. Its most famous product, Amberstone,{LF}is a rare material that can only be shipped by taking{LF}wagons along narrow and treacherous trails.{LF}Ruled by the Intoner, Four.{#Name="The Land of Mountains"}
 
-`Una nazione quasi interamente coperta di foreste. Gran parte di essa{LF}rimane inesplorata dall'umanità, ed è invece{LF}il dominio di fate ed elfi. È governata in teoria{LF}dall'Intoner Three, anche se lei sembra{LF}in gran parte ignara di ciò che vi accade.{#Name="The Land of Forests"}`
+`Una nazione quasi interamente coperta di foreste. Gran parte di essa{LF}rimane inesplorata dall'umanità, ed è invece{LF}il dominio di fate ed elfi. E' governata in teoria{LF}dall'Intoner Three, anche se lei sembra{LF}in gran parte ignara di ciò che vi accade.{#Name="The Land of Forests"}`
 A nation mostly covered in forests. Much of it{LF}remains unexplored by mankind, and is instead{LF}the domain of faeries and elves. Ruled by the{LF}Intoner Three in theory, although she seems{LF}largely oblivious to what occurs there.{#Name="The Land of Forests"}
 
 `Una grande nazione quasi interamente coperta dal deserto,{LF}che la rende inadatta all'agricoltura. La magnetite è{LF}la sua principale esportazione. Pur essendo lontana dall'essere ricca,{LF}le sue numerose rovine hanno attirato negli ultimi anni{LF}l'interesse turistico di mercanti facoltosi.{#Name="The Land of Sands"}`
@@ -121,13 +121,13 @@ Supernatural events beyond the ken of mankind.{LF}The Church calls them "salvati
 `Un disastro avvenuto nell'856, preannunciato da un vasto{LF}terremoto nella Penisola Iberica. A questo seguì{LF}l'apparizione improvvisa di un'enorme città durante la notte e{LF}il rilascio di strane creature in tutto il mondo. I registri della Chiesa{LF}suggeriscono che fu un evento capace di cambiare il mondo.{#Name="The Cataclysm"}`
 A disaster that occurred in 856, heralded by a vast{LF}earthquake in the Iberian Peninsula. This was{LF}followed by a huge city appearing overnight and{LF}unleashing strange creatures worldwide. Church{LF}records suggest this was a world-changing event.{#Name="The Cataclysm"}
 
-`L'esistenza di mondi paralleli innescati da{LF}materia quantistica intrecciata è nota da tempo.{LF}È possibile spostarsi, o ramificarsi, verso molti{LF}altri mondi, anche se la maggior parte di tali Diramazioni{LF}consente viaggi in una sola direzione.{#Name="Multiple Worlds"}`
+`L'esistenza di mondi paralleli innescati da{LF}materia quantistica intrecciata è nota da tempo.{LF}E' possibile spostarsi, o ramificarsi, verso molti{LF}altri mondi, anche se la maggior parte di tali Diramazioni{LF}consente viaggi in una sola direzione.{#Name="Multiple Worlds"}`
 The existence of parallel worlds triggered by{LF}entangled quantum matter has long been known.{LF}It is possible to shift, or branch, to multiple{LF}other worlds, although most such branches{LF}allow for travel in one direction only.{#Name="Multiple Worlds"}
 
 `Persone, luoghi o cose che possono innescare una divergenza,{LF}o Diramazione, attraverso più mondi. I fenomeni di diramazione{LF}si verificano quando in un'area sono presenti abbastanza particelle magiche e{LF}tutte le condizioni rilevanti sono soddisfatte. Tuttavia, una singolarità{LF}non viene registrata come tale fino a dopo il verificarsi di una Diramazione.{#Name="Singularities"}`
 Persons, places, or things that can trigger a divergence,{LF}or branch, across multiple worlds. Branch phenomena{LF}occur when enough magic particles are in an area, and{LF}all relevant conditions are met. However, a singularity{LF}is not recorded as such until after a branch occurs.{#Name="Singularities"}
 
-`L'atto di usare l'energia del proprio fiore{LF}per scopi offensivi o difensivi.{LF}È fondamentalmente diverso dalla magia,{LF}poiché si basa sull'imbrigliare energia dalle{LF}proprietà comuni di più mondi.{#Name="The Power of Song"}`
+`L'atto di usare l'energia del proprio fiore{LF}per scopi offensivi o difensivi.{LF}E' fondamentalmente diverso dalla magia,{LF}poiché si basa sull'imbrigliare energia dalle{LF}proprietà comuni di più mondi.{#Name="The Power of Song"}`
 The act of using the energy from one's flower{LF}for offensive or defensive purposes.{LF}It is fundamentally different from magic{LF}as it relies on harnessing energy from the{LF}mutual properties of multiple worlds.{#Name="The Power of Song"}
 
 `Un oggetto parassitario a forma di pianta che si attacca{LF}a un'Intoner. Man mano che il parassita si diffonde,{LF}erode lo spirito e il corpo dell'Intoner ospite.{LF}Può essere distrutto usando un'arma derivata{LF}dal materiale cellulare di un drago.{#Name="The Flower"}`
@@ -223,10 +223,10 @@ Evading
 `Schivate Aeree`
 Aerial Evading
 
-`Aiuto di Navigazione:::`
+`Aiuto di Navigazione`
 Navigation Help
 
-`Cambio d'arma:::`
+`Cambio d'arma`
 Switching Weapons
 
 `Combo concatenate`
@@ -253,10 +253,10 @@ Accord's Requests
 `Lance`
 Spears
 
-`Attacchi Aerei:::`
+`Attacchi Aerei`
 Airborne Attacking
 
-`Schivate Aeree:::`
+`Schivate Aeree`
 Airborne Evading
 
 `Bracciali da combattimento`

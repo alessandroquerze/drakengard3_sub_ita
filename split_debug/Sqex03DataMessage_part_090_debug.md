@@ -22,7 +22,7 @@ Zero! I feel a song's power! I can feel it up here!{#Name="Mikhail"}
 `Nel cielo? Credevo che a Three piacessero i posti bui.{#Name="Zero"}`
 In the sky? I thought Three liked dark places.{#Name="Zero"}
 
-`È così, mia signora, ma... Beh, ehm...{#Name="Octa"}`
+`E' così, mia signora, ma... Beh, ehm...{#Name="Octa"}`
 She does, my lady, but... Well, um...{#Name="Octa"}
 
 `Fermateli dove sono!{#Name="Soldier A"}`
@@ -97,7 +97,7 @@ But as I continued to record the singularity known as Zero,{#Name="Accord"}
 `ho iniziato a sentirmi pervadere da emozioni molto strane…{#Name="Accord"}`
 I began to find myself filled with very strange emotions…{#Name="Accord"}
 
-`Eccola! È Zero!{#Name="Soldier A"}`
+`Eccola! E' Zero!{#Name="Soldier A"}`
 There she is! It's Zero!{#Name="Soldier A"}
 
 `Non lasciate che si avvicini alla nostra amata Lady Three!{#Name="Soldier B"}`
@@ -229,7 +229,7 @@ Up ahead! I can feel the song up ahead!{#Name="Mikhail"}
 `Ne sei sicuro? Non pensavo che Three potesse volare.{#Name="Zero"}`
 You sure? I didn't think Three could fly.{#Name="Zero"}
 
-`Lo sento, Zero! È qui! Lo so!{#Name="Mikhail"}`
+`Lo sento, Zero! E' qui! Lo so!{#Name="Mikhail"}`
 I can feel it, Zero! She's here! I know it!{#Name="Mikhail"}
 
 `Lady Zero! Com'è la situazione lassù!?{#Name="Octa"}`
@@ -247,7 +247,7 @@ What's wrong?{#Name="Zero"}
 `Quei cubi richiedono enormi quantità{LF}di energia magica per funzionare.{#Name="Octa"}`
 Those cubes require massive amounts{LF}of magical energy to operate.{#Name="Octa"}
 
-`È molto improbabile che Lady Three{LF}possa alimentarli da sola.{#Name="Octa"}`
+`E' molto improbabile che Lady Three{LF}possa alimentarli da sola.{#Name="Octa"}`
 It's highly doubtful Lady Three{LF}could ever power them alone.{#Name="Octa"}
 
 `Dev'esserci una qualche fonte di energia qui vicino.{#Name="Octa"}`
@@ -280,7 +280,7 @@ I think that's an ancient dragon!{#Name="Mikhail"}
 `Accidenti, che fastidio. Smettila di saltare in giro!{#Name="Zero"}`
 Damn, this is annoying. Quit jumpin' around!{#Name="Zero"}
 
-`Rrrgh! È troppo veloce per me! Non riesco a mirare bene!{#Name="Mikhail"}`
+`Rrrgh! E' troppo veloce per me! Non riesco a mirare bene!{#Name="Mikhail"}`
 Rrrgh! He's too fast for me! I can't aim right!{#Name="Mikhail"}
 
 `...E poi fa paura! I suoi occhi fanno DAVVERO paura!{#Name="Mikhail"}`
@@ -304,7 +304,7 @@ Decadus? How did you get here?{#Name="Zero"}
 `Mi sono fatto dare una spinta da Octa.{#Name="Decadus"}`
 I had Octa give me a boost.{#Name="Decadus"}
 
-`È...quasi impressionante.{#Name="Zero"}`
+`E'...quasi impressionante.{#Name="Zero"}`
 That's...kind of amazing.{#Name="Zero"}
 
 `Mi sembra che siate in difficoltà.{#Name="Decadus"}`

@@ -190,7 +190,7 @@ I'm not teasing you, Five. I'm murdering you.{#Name="Zero"}
 `Cielo, Zero... Quanto sei forte!{#Name="Five"}`
 My, Zero... How strong you are!{#Name="Five"}
 
-`Heh. È da un po' che non vedo l'ora di{LF}pestarti a morte.{#Name="Zero"}`
+`Heh. E' da un po' che non vedo l'ora di{LF}pestarti a morte.{#Name="Zero"}`
 Heh. Well, I've been itching to beat you{LF}to death for a while now.{#Name="Zero"}
 
 `Mi sei mancata così tanto, Zero...{LF}Sono così eccitata che tu sia venuta a trovarmi!{#Name="Five"}`
@@ -304,7 +304,7 @@ Ow! Ow ow ow! Not the sword, Zero!{#Name="Mikhail"}
 `Quel raggio-coso fa male! Fa davvero, davvero male!{#Name="Mikhail"}`
 That beam thingie hurts! It really, really hurts!{#Name="Mikhail"}
 
-`È un attacco, scemo. Deve fare male.{#Name="Zero"}`
+`E' un attacco, scemo. Deve fare male.{#Name="Zero"}`
 It's an attack, dummy. It's supposed to hurt.{#Name="Zero"}
 
 `Uh, sì, immagino...{#Name="Mikhail"}`

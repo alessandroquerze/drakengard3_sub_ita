@@ -262,16 +262,16 @@ Female Soldier
 `Nemici`
 Enemies
 
-`Soldati`
+`SoldaX+1`
 Soldiers
 
-`Soldati`
+`SoldaX+2`
 Soldiers
 
-`Soldati`
+`SoldaX+3`
 Soldiers
 
-`Soldati`
+`SoldaX+4`
 Soldiers
 
 `Soldati Dorati`
@@ -280,36 +280,36 @@ Gold Soldiers
 `Soldati Potenziati`
 Enhanced Soldiers
 
-`Soldati`
+`SoldaX+5`
 Soldiers
 
-`Soldati`
+`SoldaX+6`
 Soldiers
 
-`Soldati`
+`SoldaX+7`
 Soldiers
 
-`Soldati`
+`SoldaX+8`
 Soldiers
 
-`Soldati`
+`SoldaX+9`
 Soldiers
 
-`Soldati`
+`SoldaX+10`
 Soldiers
 
-`Soldati`
+`SoldaX+11`
 Soldiers
 
-`Soldati`
+`SoldaX+12`
 Soldiers
 
-`Soldati`
+`SoldaX+13`
 Soldiers
 
-`Soldati`
+`SoldaX+14`
 Soldiers
 
-`Soldati`
+`SoldaX+15`
 Soldiers
 

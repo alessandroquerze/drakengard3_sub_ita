@@ -133,7 +133,7 @@ Abandon the current mission and return to the main menu?
 `Nemici sconfitti!`
 Enemies defeated!
 
-`Soldati nemici sconfitti!`
+`Soldati sconfitti!`
 Enemy soldiers defeated!
 
 `宝石を入手！`

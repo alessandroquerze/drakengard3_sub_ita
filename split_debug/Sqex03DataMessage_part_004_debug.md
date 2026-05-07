@@ -64,7 +64,7 @@ Nope. Pretty stupid of 'em to leave it unguarded.{#Name="Zero"}
 `Perché non lo gestisci tu finché non torna il negoziante?{#Name="Mikhail"}`
 Why don't you stand in until the shopkeeper comes back?{#Name="Mikhail"}
 
-`È un'idea terribile.{#Name="Zero"}`
+`E' un'idea terribile.{#Name="Zero"}`
 That's a terrible idea.{#Name="Zero"}
 
 `Perché? Scommetto che saresti una brava negoziante!{#Name="Mikhail"}`
@@ -130,7 +130,7 @@ I tell you, it is really quite strange...{#Name="Octa"}
 `Il piccolo birbante stasera non vuole alzarsi per me.{LF}Neanche un fremito!{#Name="Octa"}`
 The little scamp won't rise for me tonight.{LF}Not a single twitch!{#Name="Octa"}
 
-`È insolito.{#Name="Zero"}`
+`E' insolito.{#Name="Zero"}`
 That's unusual.{#Name="Zero"}
 
 `Alla faccia dell'illustre carriera del grande Octa, eh?{LF}Oh ho ho ho!{#Name="Octa"}`
@@ -214,13 +214,13 @@ No. But I was busy fighting last time.{#Name="Decadus"}
 `Non ho avuto occasione di contemplarne la bellezza con i miei occhi.{#Name="Decadus"}`
 I didn't have a chance to behold its beauty for myself.{#Name="Decadus"}
 
-`È quasi bello vederti entusiasta per qualcosa{LF}che non abbia a che fare con il dolore.{#Name="Zero"}`
+`E' quasi bello vederti entusiasta per qualcosa{LF}che non abbia a che fare con il dolore.{#Name="Zero"}`
 Kinda nice to see you excited about something{LF}that doesn't involve pain.{#Name="Zero"}
 
 `Oooh... Le tue parole mi feriscono profondamente...{#Name="Decadus"}`
 Oooh... Your words wound me deeply...{#Name="Decadus"}
 
-`Ehm, Lady Zero? È vero che nei mari ci sono calamari giganti?{#Name="Decadus"}`
+`Ehm, Lady Zero? E' vero che nei mari ci sono calamari giganti?{#Name="Decadus"}`
 Er, Lady Zero? Is it true there are giant squid in the seas?{#Name="Decadus"}
 
 `Perché sei così felice, Octa?{#Name="Zero"}`

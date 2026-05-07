@@ -1,13 +1,13 @@
-`Soldati`
+`SoldaX+16`
 Soldiers
 
-`Soldati`
+`SoldaX+17`
 Soldiers
 
-`Soldati`
+`SoldaX+18`
 Soldiers
 
-`Soldati`
+`SoldaX+19`
 Soldiers
 
 `Cannonieri`
@@ -232,19 +232,19 @@ Gargoyle Cubes
 `-`
 -
 
-`Soldati`
+`SoldaX+20`
 Soldiers
 
-`Soldati`
+`SoldaX+21`
 Soldiers
 
-`Soldati`
+`SoldaX+22`
 Soldiers
 
-`Soldati`
+`SoldaX+23`
 Soldiers
 
-`Soldati`
+`SoldaX+24`
 Soldiers
 
 `Bombardieri`

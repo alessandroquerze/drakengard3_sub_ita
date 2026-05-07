@@ -25,7 +25,7 @@ Lady Zero does a good job of hiding it...{#Name="Octa"}
 `Ma c'è qualcosa di marcio in quel suo fiore.{#Name="Octa"}`
 But something is rotten with that flower of hers.{#Name="Octa"}
 
-`Non è marcio! È bello come l'alba!{#Name="Cent"}`
+`Non è marcio! E' bello come l'alba!{#Name="Cent"}`
 It's not rotten! It's as beautiful as the dawn!{#Name="Cent"}
 
 `Oh oh! Hai frainteso.{LF}Intendo solo che è...sospetto.{#Name="Octa"}`
@@ -43,7 +43,7 @@ You do?{#Name="Octa"}
 `Ah ah ah! Certo!{#Name="Cent"}`
 Ha ha ha! Of course!{#Name="Cent"}
 
-`È preoccupata che il suo piccolo accessorio{LF}passi di moda!{#Name="Cent"}`
+`E' preoccupata che il suo piccolo accessorio{LF}passi di moda!{#Name="Cent"}`
 She's worried her little accessory{LF}will go out of style!{#Name="Cent"}
 
 `Ehm...giusto. {#Name="Octa"}`
@@ -55,7 +55,7 @@ This journey is turning out to be{LF}more difficult than I'd expected.{#Name="De
 `Sul serio? E tu cosa ti aspettavi esattamente?{#Name="Dito"}`
 Seriously? What exactly were you expecting?{#Name="Dito"}
 
-`Stai viaggiando con ZERO!{LF}È come una macchina per uccidere.{#Name="Dito"}`
+`Stai viaggiando con ZERO!{LF}E' come una macchina per uccidere.{#Name="Dito"}`
 You're traveling with ZERO!{LF}She's like a murder machine.{#Name="Dito"}
 
 `In effetti è stato un massacro{LF}dopo l'altro... Ungh...{#Name="Decadus"}`

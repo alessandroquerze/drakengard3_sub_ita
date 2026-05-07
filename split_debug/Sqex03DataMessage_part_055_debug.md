@@ -79,7 +79,7 @@ Ugh. It's cold and you stink, but I suppose there's no choice.{#Name="Zero"}
 `Ehi! Fa male!{#Name="Mikhail"}`
 Hey! That hurts!{#Name="Mikhail"}
 
-`È qui! Zero è arrivata!{#Name="Soldier A"}`
+`E' qui! Zero è arrivata!{#Name="Soldier A"}`
 She's here! Zero's arrived!{#Name="Soldier A"}
 
 `Ha un drago con sé!{#Name="Soldier B"}`
@@ -115,7 +115,7 @@ Damn... Give me medicine! Please!{#Name="Soldier E"}
 `Sguainate le spade! Sguainate le spade!{#Name="Soldier F"}`
 Draw your swords! Draw your swords!{#Name="Soldier F"}
 
-`È una follia. Non sento più le dita dei piedi!{#Name="Soldier D"}`
+`E' una follia. Non sento più le dita dei piedi!{#Name="Soldier D"}`
 This is crazy. I can't feel my toes anymore!{#Name="Soldier D"}
 
 `Continuate a muovervi o vi verrà il congelamento!{#Name="Soldier C"}`
@@ -142,7 +142,7 @@ Where are our reinforcements!?{#Name="Soldier F"}
 `Non vedo niente!{#Name="Soldier G"}`
 I can't see a thing!{#Name="Soldier G"}
 
-`È qui!?{#Name="Soldier E"}`
+`E' qui!?{#Name="Soldier E"}`
 Is she here!?{#Name="Soldier E"}
 
 `Che Lady Four sia benedetta! Haaarrrgh!{#Name="Soldier C"}`
@@ -163,7 +163,7 @@ Keep fighting! It's all or nothing now!{#Name="Soldier A"}
 `Quel tipo è forte quanto Zero!{#Name="Soldier C"}`
 That guy's as strong as Zero!{#Name="Soldier C"}
 
-`Non è un "tipo". È un discepolo!{#Name="Soldier D"}`
+`Non è un "tipo". E' un discepolo!{#Name="Soldier D"}`
 That's no "guy." That's a disciple!{#Name="Soldier D"}
 
 `Cosa!? Il demone ora ruba anche i discepoli!?{#Name="Soldier F"}`

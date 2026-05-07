@@ -163,7 +163,7 @@ Defeat the enemies blocking your way!{#Name="説明文"}
 `（リザーブ）{#Name="（リザーブ）"}`
 （リザーブ）{#Name="（リザーブ）"}
 
-`È lei! Zero è qui!{#Name="Soldier A"}`
+`E' lei! Zero è qui!{#Name="Soldier A"}`
 It's her! Zero's here!{#Name="Soldier A"}
 
 `Attaccate! Attaccate!{#Name="Soldier B"}`
@@ -229,7 +229,7 @@ It's nicer here at night, huh?{#Name="Zero"}
 `Sì. Però ho sabbia dappertutto.{#Name="Dito"}`
 Yeah. I got sand everywhere though.{#Name="Dito"}
 
-`È difficile credere che prima facesse così caldo.{#Name="Zero"}`
+`E' difficile credere che prima facesse così caldo.{#Name="Zero"}`
 Hard to believe it was so hot earlier.{#Name="Zero"}
 
 `Nei miei capelli. Nelle fessure...{LF}Tanta sabbia nelle mie fessure.{#Name="Dito"}`

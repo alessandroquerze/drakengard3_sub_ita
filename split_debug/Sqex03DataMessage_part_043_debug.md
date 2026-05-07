@@ -166,7 +166,7 @@ I might as well finish it.{#Name="Zero"}
 `Quindi, in breve, è tutto qui.{#Name="Zero"}`
 So that's about the long and short of it.{#Name="Zero"}
 
-`È di questo che parla tutta questa storia.{#Name="Zero"}`
+`E' di questo che parla tutta questa storia.{#Name="Zero"}`
 That's what this whole thing's about.{#Name="Zero"}
 
 `Michael!{#Name="Zero"}`
@@ -250,7 +250,7 @@ Zero
 `Michael`
 Michael
 
-`È Zero! È qui!{#Name="Soldier B"}`
+`E' Zero! E' qui!{#Name="Soldier B"}`
 It's Zero! She's here!{#Name="Soldier B"}
 
 `Merda! Scappate tutti!{#Name="Soldier C"}`
@@ -271,7 +271,7 @@ An Intoner that can summon dragons!?{#Name="Soldier C"}
 `Quel fiore mi fa venire i brividi, amico!{#Name="Soldier D"}`
 That flower is freaking me out, man!{#Name="Soldier D"}
 
-`È troppo veloce per noi!{#Name="Soldier E"}`
+`E' troppo veloce per noi!{#Name="Soldier E"}`
 She's too fast for us!{#Name="Soldier E"}
 
 `Stiamo venendo puniti! Questa è una punizione divina!{#Name="Soldier F"}`
@@ -280,7 +280,7 @@ We're being punished! This is divine punishment!{#Name="Soldier F"}
 `Dannazione! Ci sta falciando come mosche!{#Name="Soldier G"}`
 Damn! She's mowing us down like flies!{#Name="Soldier G"}
 
-`È Zero! L'Intoner! ...E il suo DRAGO!{#Name="Soldier A"}`
+`E' Zero! L'Intoner! ...E il suo DRAGO!{#Name="Soldier A"}`
 It's Zero! The Intoner! ...And her DRAGON!{#Name="Soldier A"}
 
 `QUELLA è Zero!?{#Name="Soldier D"}`

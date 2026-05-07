@@ -76,7 +76,7 @@ All towers destroyed!{#Name="説明文"}
 `Nemico in vista! Tutte le squadre in posizione!{#Name="Soldier A"}`
 Enemy in sight! All teams into position!{#Name="Soldier A"}
 
-`Quello non è un miraggio, idioti! È lei! L'Intoner demoniaca!{#Name="Soldier B"}`
+`Quello non è un miraggio, idioti! E' lei! L'Intoner demoniaca!{#Name="Soldier B"}`
 That's no mirage, you fools! That's her! The demon Intoner!{#Name="Soldier B"}
 
 `Dannazione! Questa sabbia continua a finirmi negli occhi!{#Name="Soldier C"}`
@@ -94,13 +94,13 @@ Run for the hills! We can't possibly stand against an honest-to-God Intoner!{#Na
 `Richiedo supporto dalla retroguardia!{#Name="Soldier G"}`
 Requesting rear support!{#Name="Soldier G"}
 
-`No, impossibile... È davvero lei!?{#Name="Soldier A"}`
+`No, impossibile... E' davvero lei!?{#Name="Soldier A"}`
 No way... Is that really her!?{#Name="Soldier A"}
 
 `Capitano, giù!{#Name="Soldier C"}`
 Captain, get down!{#Name="Soldier C"}
 
-`È troppo pericoloso qui! Muoviti!{#Name="Soldier D"}`
+`E' troppo pericoloso qui! Muoviti!{#Name="Soldier D"}`
 It's too dangerous here! Move it!{#Name="Soldier D"}
 
 `Attaccate! Attaccate! Nessuna ritirata!{#Name="Soldier B"}`
@@ -136,7 +136,7 @@ Keep your head down before she cuts the damn thing off!{#Name="Soldier E"}
 `*Anf, anf, anf...* No! Non voglio morire!{#Name="Soldier G"}`
 *Huff, huff, huff...* No! I don't wanna die!{#Name="Soldier G"}
 
-`È Zero! Uccidetela! Uccidete il demonio!{#Name="Soldier C"}`
+`E' Zero! Uccidetela! Uccidete il demonio!{#Name="Soldier C"}`
 It's Zero! Kill her! Kill the demon!{#Name="Soldier C"}
 
 `Fate a pezzi la malvagia Intoner!{#Name="Soldier D"}`
@@ -184,7 +184,7 @@ April the 16th, 1000 A.D.{#Name="Accord"}
 `La Terra delle Sabbie.{#Name="Accord"}`
 The Land of Sands.{#Name="Accord"}
 
-`È questo che sta interferendo{LF}con la nostra connesione mentale?{#Name="Zero"}`
+`E' questo che sta interferendo{LF}con la nostra connesione mentale?{#Name="Zero"}`
 Is this what's been interfering{LF}with our mental link?{#Name="Zero"}
 
 `La magia di quelle quattro torri sta{LF}rendendo l'interferenza più forte!{#Name="Mikhail"}`
@@ -205,7 +205,7 @@ What're your disciples up to?{#Name="Mikhail"}
 `Non ne ho idea. Li ho lasciati andare. Ora sono inutili.{#Name="Zero"}`
 No idea. I let 'em go. They're useless right now.{#Name="Zero"}
 
-`...È davvero cattivo, Zero.{#Name="Mikhail"}`
+`...E' davvero cattivo, Zero.{#Name="Mikhail"}`
 ...That's really mean, Zero.{#Name="Mikhail"}
 
 `Che vuoi? Sarebbero comunque troppo pesanti{LF}per te.{#Name="Zero"}`

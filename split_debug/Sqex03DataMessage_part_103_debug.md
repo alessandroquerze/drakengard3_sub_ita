@@ -190,10 +190,10 @@ Yeah?{#Name="ZERO"}
 `Io...mi sono divertito molto.{#Name="Mikhail"}`
 I...I had a lot of fun.{#Name="Mikhail"}
 
-`Con te, intendo. È stato bello stare con te.{#Name="Mikhail"}`
+`Con te, intendo. E' stato bello stare con te.{#Name="Mikhail"}`
 With you, I mean. It was fun being with you.{#Name="Mikhail"}
 
-`Uccidere è stato difficile. È stato davvero difficile, ma...{#Name="Mikhail"}`
+`Uccidere è stato difficile. E' stato davvero difficile, ma...{#Name="Mikhail"}`
 The killing was hard. It was really hard, but...{#Name="Mikhail"}
 
 `Smettila di ripeterti.{#Name="ZERO"}`
@@ -214,7 +214,7 @@ Getting to have you yell at me...{#Name="Mikhail"}
 `E poi poter tornare amici...{#Name="Mikhail"}`
 And then getting to be friends again...{#Name="Mikhail"}
 
-`È stato davvero, davvero bello.{#Name="Mikhail"}`
+`E' stato davvero, davvero bello.{#Name="Mikhail"}`
 It was really, really fun.{#Name="Mikhail"}
 
 `Ne sono felice.{#Name="ZERO"}`
@@ -226,7 +226,7 @@ Mikhail?{#Name="ZERO"}
 `Sì?{#Name="Mikhail"}`
 Yeah?{#Name="Mikhail"}
 
-`È...{#Name="ZERO"}`
+`E'...{#Name="ZERO"}`
 It's...{#Name="ZERO"}
 
 `quasi ora.{#Name="ZERO"}`

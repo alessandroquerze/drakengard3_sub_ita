@@ -4,7 +4,7 @@ Yeah, well, I'm a rookie compared{LF}to your boss there.{#Name="Dito"}
 `Beh, in ogni caso, uccidere è difficile, no?{LF}E non è molto divertente.{#Name="Mikhail"}`
 Well, either way, killing is hard, right?{LF}And not very fun.{#Name="Mikhail"}
 
-`Oh sì. È difficile. Davvero difficile.{#Name="Dito"}`
+`Oh sì. E' difficile. Davvero difficile.{#Name="Dito"}`
 Oh yeah. It's hard. Real hard.{#Name="Dito"}
 
 `Piango grosse lacrime salate ogni singola notte.{#Name="Dito"}`
@@ -19,7 +19,7 @@ There're barricades everywhere.{#Name="Dito"}
 `Buttale giù!{#Name="Zero"}`
 Break 'em down!{#Name="Zero"}
 
-`È assurdo quanto impegno Four{LF}abbia messo nel blindare questo posto.{#Name="Zero"}`
+`E' assurdo quanto impegno Four{LF}abbia messo nel blindare questo posto.{#Name="Zero"}`
 It's crazy how much effort Four{LF}spent securing this place.{#Name="Zero"}
 
 `Tipico di un'Intoner.{LF}Eccesso fino all'ossessione.{#Name="Dito"}`
@@ -274,13 +274,13 @@ If I feel like it.{#Name="Zero"}
 `Allora, com'è Four, comunque?{#Name="Dito"}`
 So what's Four like, anyway?{#Name="Dito"}
 
-`È vergine.{#Name="Zero"}`
+`E' vergine.{#Name="Zero"}`
 She's a virgin.{#Name="Zero"}
 
 `Uh, tutto qui, o...?{#Name="Dito"}`
 Uh, is that it, or...{#Name="Dito"}
 
-`È un'Intoner vergine. Pensaci.{#Name="Zero"}`
+`E' un'Intoner vergine. Pensaci.{#Name="Zero"}`
 She's a virgin Intoner. Think about it.{#Name="Zero"}
 
 `Hmm. Sì, beh, quella ragazza deve avere{LF}un bel bastone su per il culo.{#Name="Dito"}`
@@ -313,6 +313,6 @@ Okay! Try not to crush her.{#Name="Mikhail"}
 `Ah ha ha! Se qualcuno deve essere schiacciato,{LF}spero di essere io!{#Name="Dito"}`
 Ah ha ha! If anyone's gonna get crushed,{LF}I hope it's me!{#Name="Dito"}
 
-`Whoa! È tornato!{#Name="Mikhail"}`
+`Whoa! E' tornato!{#Name="Mikhail"}`
 Whoa! He's back!{#Name="Mikhail"}
 

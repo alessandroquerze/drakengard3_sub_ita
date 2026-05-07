@@ -160,7 +160,7 @@ Hey, Zero? Do we really have to go kill Four?{#Name="Mikhail"}
 `Non di nuovo.{#Name="Zero"}`
 Not this again.{#Name="Zero"}
 
-`È solo che... mi è dispiaciuto molto per Five, capisci?{#Name="Mikhail"}`
+`E' solo che... mi è dispiaciuto molto per Five, capisci?{#Name="Mikhail"}`
 It's just... I felt really bad for Five, you know?{#Name="Mikhail"}
 
 `Stava piangendo. Piangeva tantissimo,{LF}e tu l'hai uccisa lo stesso.{#Name="Mikhail"}`

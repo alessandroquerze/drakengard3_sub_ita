@@ -100,7 +100,7 @@ It seems they still have partial{LF}control of themselves...{#Name="Octa"}
 `Aspetta. Non si rendono nemmeno conto di essere morti!?{#Name="Dito"}`
 Wait. They don't even realize they're dead!?{#Name="Dito"}
 
-`Ha ha ha! È così fantastico{LF}che non riesco a sopportarlo!{#Name="Dito"}`
+`Ha ha ha! E' così fantastico{LF}che non riesco a sopportarlo!{#Name="Dito"}`
 Ha ha ha! That's so awesome,{LF}I can't stand it!{#Name="Dito"}
 
 `{06}>{#Name="Five"}`
@@ -298,7 +298,7 @@ Zero! The dark blossom of death!{#Name="Soldier F"}
 `GYAAAH!{#Name="Soldier G"}`
 GYAAAH!{#Name="Soldier G"}
 
-`Calmati! È solo una ferita superficiale!{#Name="Soldier F"}`
+`Calmati! E' solo una ferita superficiale!{#Name="Soldier F"}`
 Calm down! It's just a flesh wound!{#Name="Soldier F"}
 
 `Carica! Caricaaaa!{#Name="Soldier A"}`

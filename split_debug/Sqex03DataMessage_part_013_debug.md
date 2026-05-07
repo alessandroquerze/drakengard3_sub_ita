@@ -40,7 +40,7 @@ I just want to protect you, Zero. I really, really hate this!{#Name="Mikhail"}
 `Mi dispiace. ...Mi dispiace davvero.{#Name="Mikhail"}`
 I'm sorry. ...I'm really sorry.{#Name="Mikhail"}
 
-`È ora di andare.{#Name="Zero"}`
+`E' ora di andare.{#Name="Zero"}`
 It's time to go.{#Name="Zero"}
 
 `Molto bene. Dobbiamo trovare Lady Two il prima possibile.{#Name="Decadus"}`
@@ -67,7 +67,7 @@ Yeah, yeah. Just shut up, would you?{LF}Come on, Zero, let's get outta here.{#Na
 `こんなクソみたいな砂漠で迷うとは……{#Name="ゼロ"}`
 こんなクソみたいな砂漠で迷うとは……{#Name="ゼロ"}
 
-`È ora di andare.{#Name="Zero"}`
+`E' ora di andare.{#Name="Zero"}`
 It's time to go.{#Name="Zero"}
 
 `Molto bene. Dobbiamo trovare Lady Two il prima possibile.{#Name="Decadus"}`

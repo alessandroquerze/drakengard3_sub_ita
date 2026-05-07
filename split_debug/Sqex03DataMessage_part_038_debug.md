@@ -295,7 +295,7 @@ You think the rest of us are ENJOYING this!?{#Name="Soldier E"}
 `Dov'è Lady Five!?{#Name="Soldier B"}`
 Where's Lady Five!?{#Name="Soldier B"}
 
-`È con Dito! È al sicuro!{#Name="Soldier A"}`
+`E' con Dito! E' al sicuro!{#Name="Soldier A"}`
 She's with Dito! She's safe!{#Name="Soldier A"}
 
 `Bah! Perché spreca tempo con quel ragazzino patetico?{#Name="Soldier B"}`

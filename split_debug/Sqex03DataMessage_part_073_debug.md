@@ -130,7 +130,7 @@ Zero! Hey! Hey, Zero!{#Name="Mikhail"}
 `Awww! Perché? Non ti piace stare con me?{#Name="Mikhail"}`
 Awww! Why? You don't like being with me?{#Name="Mikhail"}
 
-`È perché puzzo? È per quello?{#Name="Mikhail"}`
+`E' perché puzzo? E' per quello?{#Name="Mikhail"}`
 Is it because I smell? Is that it?{#Name="Mikhail"}
 
 `Cosa? No! Io...voglio solo vederti spiegare le{LF}ali e solcare i cieli! ...E roba così.{#Name="Zero"}`
@@ -262,7 +262,7 @@ Now's our chance to haul ass outta here!{#Name="Dito"}
 `Beh...{#Name="Decadus"}`
 Well...{#Name="Decadus"}
 
-`È una possibilità...{#Name="Octa"}`
+`E' una possibilità...{#Name="Octa"}`
 That's one possibility...{#Name="Octa"}
 
 `Mmm... Suppongo che potrebbe funzionare?{#Name="Cent"}`
@@ -298,7 +298,7 @@ You say something?{#Name="Zero"}
 `Chi, io? N-No! Proprio niente!{#Name="Dito"}`
 Who, me? N-No! Nothing at all!{#Name="Dito"}
 
-`È Zero! È qui! La traditrice è qui!{#Name="Soldier B"}`
+`E' Zero! E' qui! La traditrice è qui!{#Name="Soldier B"}`
 It's Zero! She's here! The traitor is here!{#Name="Soldier B"}
 
 `Proteggici, Lady Three! Ti prego!{#Name="Soldier C"}`

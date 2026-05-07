@@ -142,7 +142,7 @@ Cut the ivy and free Mikhail!{#Name="説明文"}
 `テスト3{#Name="説明文"}`
 テスト3{#Name="説明文"}
 
-`È Zero! Zero la dannata!{#Name="Soldier A"}`
+`E' Zero! Zero la dannata!{#Name="Soldier A"}`
 It's Zero! Zero the damned!{#Name="Soldier A"}
 
 `Tutti ai posti! Non ritiratevi!{#Name="Soldier B"}`
@@ -154,7 +154,7 @@ Lady Three must remain safe!{#Name="Soldier D"}
 `Mi ha creato per servirla, e servirla farò!{#Name="Soldier C"}`
 She built me to serve her, and serve her I shall!{#Name="Soldier C"}
 
-`È questa l'Intoner maledetta? Combatte come un'indemoniata!{#Name="Soldier E"}`
+`E' questa l'Intoner maledetta? Combatte come un'indemoniata!{#Name="Soldier E"}`
 Is this the cursed Intoner? She fights like a woman possessed!{#Name="Soldier E"}
 
 `Aiuto! Aiuto! Aiutateeemiii!{#Name="Soldier G"}`
@@ -262,7 +262,7 @@ Ugly? But everyone who's not a faerie is ugly!{#Name="Faerie"}
 `Certo che sì! Quello stupido drago è finito in un grosso, stupido guaio{LF}poco più avanti.{#Name="Faerie"}`
 Sure did! That stupid dragon is in a big ol' stupid mess{LF}juuust up ahead.{#Name="Faerie"}
 
-`E mamma mia, quanto è stupido! È così stupido{LF}che non troverebbe la sua coda nemmeno con quattro zampe e una mappa!{#Name="Faerie"}`
+`E mamma mia, quanto è stupido! E' così stupido{LF}che non troverebbe la sua coda nemmeno con quattro zampe e una mappa!{#Name="Faerie"}`
 And geez, is he ever stupid! He's so stupid,{LF}he can't find his own tail with four paws and a map!{#Name="Faerie"}
 
 `Giusto. Ho capito. Stupido. Come te.{#Name="Zero"}`

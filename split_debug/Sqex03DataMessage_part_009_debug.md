@@ -7,7 +7,7 @@ How can I forget a person I've never met?{#Name="Cent"}
 `Sono abbastanza sicuro che ricorderei un nome ridicolo come "Two".{#Name="Cent"}`
 I'm pretty sure I'd remember a silly name like "Two."{#Name="Cent"}
 
-`Va bene, ragazzi. È ora di andare.{#Name="Zero"}`
+`Va bene, ragazzi. E' ora di andare.{#Name="Zero"}`
 All right, guys. Time to go.{#Name="Zero"}
 
 `Vuoi che vada a fare una pattuculo davanti, Zero?{#Name="Mikhail"}`
@@ -16,7 +16,7 @@ You want me to go butt roll ahead, Zero?{#Name="Mikhail"}
 `Si dice "pattuglia", idiota! Non "pattuculo"!{#Name="Zero"}`
 It's "patrol," dummy! Not "butt roll!"{#Name="Zero"}
 
-`È quello che ho detto! Ho detto proprio quello!{#Name="Mikhail"}`
+`E' quello che ho detto! Ho detto proprio quello!{#Name="Mikhail"}`
 That's what I said! That's totally what I said!{#Name="Mikhail"}
 
 `Sai, continuo ad aspettare che diventi più intelligente,{LF}ma proprio non succede.{#Name="Dito"}`
@@ -145,7 +145,7 @@ She was acting pretty weird, huh?{#Name="Zero"}
 `Immagino che vi riferiate a Lady Three?{#Name="Octa"}`
 I assume you mean Lady Three?{#Name="Octa"}
 
-`A essere sincero, non ne sono sicuro.{LF}È sempre stata un po' eccentrica.{#Name="Octa"}`
+`A essere sincero, non ne sono sicuro.{LF}E' sempre stata un po' eccentrica.{#Name="Octa"}`
 To be honest, I'm not sure.{LF}She always was a bit of an odd duck.{#Name="Octa"}
 
 `Anche se una cosa ha suscitato la mia curiosità...{#Name="Octa"}`
@@ -178,7 +178,7 @@ Two... Something about that name bothers me.{#Name="Cent"}
 `Spesso presto pochissima attenzione agli altri.{LF}Ma qualcosa in questa persona chiamata Two...{#Name="Cent"}`
 I often pay scant attention to others.{LF}But something about this Two person just...{#Name="Cent"}
 
-`È davvero un mistero così grande?{#Name="Zero"}`
+`E' davvero un mistero così grande?{#Name="Zero"}`
 Is it really that much of a mystery?{#Name="Zero"}
 
 `Tu e Two dovreste lavorare insieme,{LF}dopotutto.{#Name="Zero"}`
@@ -220,10 +220,10 @@ Ah, forget it.{#Name="Zero"}
 `E dai! Non puoi interromperti così!{#Name="Mikhail"}`
 Aw, come on! You can't trail off there!{#Name="Mikhail"}
 
-`È crudele. Sei crudele, Zero!{#Name="Mikhail"}`
+`E' crudele. Sei crudele, Zero!{#Name="Mikhail"}`
 That's mean. You're mean, Zero!{#Name="Mikhail"}
 
-`Voglio solo diventare un drago grande e forte!{LF}È tutto quello che voglio!{#Name="Mikhail"}`
+`Voglio solo diventare un drago grande e forte!{LF}E' tutto quello che voglio!{#Name="Mikhail"}`
 I just wanna be a big, strong dragon!{LF}That's all I want!{#Name="Mikhail"}
 
 `E adesso che si fa?{#Name="Zero"}`

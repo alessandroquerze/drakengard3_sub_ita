@@ -22,7 +22,7 @@ Take down that tower! It's pulling you in!{#Name="Zero"}
 `Sbrigati a distruggerla prima che{LF}ti risucchi del tutto!{#Name="Zero"}`
 Hurry up and destroy it before{LF}it pulls you in completely!{#Name="Zero"}
 
-`Il bersaglio è troppo piccolo! È difficile da colpire!{#Name="Mikhail"}`
+`Il bersaglio è troppo piccolo! E' difficile da colpire!{#Name="Mikhail"}`
 The target's too small! It's hard to hit!{#Name="Mikhail"}
 
 `Maledizione, Four. C'è MODO di essere più irritante?{#Name="Zero"}`
@@ -160,10 +160,10 @@ Can we stop her?{#Name="Soldier C"}
 `Voi tutti, circondatela!{#Name="Soldier D"}`
 All of you, circle around her!{#Name="Soldier D"}
 
-`È qui! Copritemi!{#Name="Soldier E"}`
+`E' qui! Copritemi!{#Name="Soldier E"}`
 She's here! Back me up!{#Name="Soldier E"}
 
-`È l'Intoner maledetta! Scappate!{#Name="Soldier F"}`
+`E' l'Intoner maledetta! Scappate!{#Name="Soldier F"}`
 It's the accursed Intoner! Run!{#Name="Soldier F"}
 
 `Aaaaaahhh! Aiutoooooo!{#Name="Soldier G"}`
@@ -187,7 +187,7 @@ Backing you up, sir!{#Name="Soldier D"}
 `Cristo! Guardate quel fiore!{#Name="Soldier C"}`
 Jesus! Look at that flower!{#Name="Soldier C"}
 
-`È un demone! Un demone, vi dico!{#Name="Soldier D"}`
+`E' un demone! Un demone, vi dico!{#Name="Soldier D"}`
 She's a demon! A demon, I tell you!{#Name="Soldier D"}
 
 `Indietro! Indietroooo!{#Name="Soldier D"}`
@@ -199,7 +199,7 @@ No! Stay where you are!{#Name="Soldier A"}
 `Tengo alla mia vita più di così!{#Name="Soldier D"}`
 I value my life more than that!{#Name="Soldier D"}
 
-`Non sottovalutatela! È un'Intoner!{#Name="Soldier E"}`
+`Non sottovalutatela! E' un'Intoner!{#Name="Soldier E"}`
 Don't underestimate her! She's an Intoner!{#Name="Soldier E"}
 
 `Perché combatte contro di noi!? Pensavo che le Intoner dovessero proteggere l'umanità!{#Name="Soldier G"}`
@@ -256,7 +256,7 @@ Dammit! Kill that woman!{#Name="Soldier C"}
 `Lady Four resta con noi!{#Name="Soldier F"}`
 Lady Four stays with us!{#Name="Soldier F"}
 
-`È sempre Four, Four, Four tutto il giorno{LF}con voi idioti, vero?{#Name="Zero"}`
+`E' sempre Four, Four, Four tutto il giorno{LF}con voi idioti, vero?{#Name="Zero"}`
 It's just Four, Four, Four all day{LF}with you idiots, isn't it?{#Name="Zero"}
 
 `Non posso credere che caschiate{LF}per quella sua aria tutta carina.{#Name="Zero"}`

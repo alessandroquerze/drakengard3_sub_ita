@@ -262,7 +262,7 @@ Yaaaaaah!{#Name="Soldier D"}
 `Come fanno a risalire la montagna così in fretta!?{#Name="Soldier E"}`
 How are they getting up the mountain so quickly!?{#Name="Soldier E"}
 
-`Quella non è un'Intoner... È un dannato mostro!{#Name="Soldier B"}`
+`Quella non è un'Intoner... E' un dannato mostro!{#Name="Soldier B"}`
 That's no Intoner... It's a goddamn monster!{#Name="Soldier B"}
 
 ` {#Name="兵士B"}`
@@ -298,7 +298,7 @@ Move! Move, move, move!{#Name="Soldier E"}
 `415{#Name="415"}`
 415{#Name="415"}
 
-`Attenti! È qui!{#Name="Soldier A"}`
+`Attenti! E' qui!{#Name="Soldier A"}`
 Look out! She's here!{#Name="Soldier A"}
 
 `Dov'è!? Non riesco a vederla! Ahhhh, vattene! Stammi lontana!{#Name="Soldier G"}`

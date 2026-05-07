@@ -7,7 +7,7 @@ Tell me where Two is, or you're dead!{LF}And if you don't know...you're still de
 `Ho ho! Sempre la solita Intoner agguerrita, eh?{#Name="Octa"}`
 Ho ho! Ever the gung-ho Intoner, eh?{#Name="Octa"}
 
-`È troppo buio perché riesca a mirare bene...{#Name="Decadus"}`
+`E' troppo buio perché riesca a mirare bene...{#Name="Decadus"}`
 It's too dark for me to aim well...{#Name="Decadus"}
 
 `Basta scuse, svitato. Continua a combattere.{#Name="Dito"}`
@@ -37,7 +37,7 @@ You and me both.{#Name="Zero"}
 `Andiamo, Z, facciamola finita!{#Name="Dito"}`
 Come on, Z, let's get this over with!{#Name="Dito"}
 
-`Hmm... È strano, non trovate?{#Name="Octa"}`
+`Hmm... E' strano, non trovate?{#Name="Octa"}`
 Hmm... It's strange, isn't it?{#Name="Octa"}
 
 `Cosa?{#Name="Decadus"}`
@@ -85,7 +85,7 @@ Nice little trick there. Who's this guy?{#Name="Zero"}
 `Sembrerebbe un mago.{#Name="Octa"}`
 A wizard, it would seem.{#Name="Octa"}
 
-`È diverso da uno stregone?{LF}Non riesco a tenere il conto di questi stronzi.{#Name="Zero"}`
+`E' diverso da uno stregone?{LF}Non riesco a tenere il conto di questi stronzi.{#Name="Zero"}`
 Is that different from a sorcerer?{LF}I can't keep track of these assholes.{#Name="Zero"}
 
 `Faresti meglio a stare attenta, Z.{LF}Non vuoi far incazzare questi tizi.{#Name="Dito"}`
@@ -142,7 +142,7 @@ Hey, cram it! I told you, I'm 22!{#Name="Dito"}
 `Restate calmi e ricordate ciò che vi abbiamo insegnato!{#Name="Soldier A"}`
 Stay calm and remember what we taught you!{#Name="Soldier A"}
 
-`È ora di mostrare a Lady Two di cosa siete capaci!{#Name="Soldier B"}`
+`E' ora di mostrare a Lady Two di cosa siete capaci!{#Name="Soldier B"}`
 It's time to show Lady Two what you've got!{#Name="Soldier B"}
 
 `Questo non è più un campo d'addestramento!{#Name="Soldier F"}`
@@ -172,7 +172,7 @@ Nnngh...{#Name="Decadus"}
 `Hmm? Qualcosa non va, Decadus?{#Name="Octa"}`
 Hmm? Something the matter, Decadus?{#Name="Octa"}
 
-`Probabilmente gli fa schifo. È piuttosto{LF}delicato...per essere un pervertito.{#Name="Dito"}`
+`Probabilmente gli fa schifo. E' piuttosto{LF}delicato...per essere un pervertito.{#Name="Dito"}`
 Probably grossed out. He's pretty{LF}delicate...for a freak.{#Name="Dito"}
 
 `Un'Intoner con le braccia staccabili è troppo per te?{#Name="Zero"}`

@@ -43,7 +43,7 @@ The door's shut.{#Name="Zero"}
 `Hanno chiuso il cancello? Grazie mille, stronzi.{#Name="Zero"}`
 They closed the gate? Thanks a lot, assholes.{#Name="Zero"}
 
-`*Merda. È chiuso.{#Name="Zero"}`
+`*Merda. E' chiuso.{#Name="Zero"}`
 Shit. It's closed.{#Name="Zero"}
 
 `*Dev'essere stato il nemico a chiuderlo.{#Name="Zero"}`
@@ -103,7 +103,7 @@ The door's shut.{#Name="Zero"}
 `Hanno chiuso il cancello? Grazie mille, stronzi.{#Name="Zero"}`
 They closed the gate? Thanks a lot, assholes.{#Name="Zero"}
 
-`*Merda. È chiuso.{#Name="Zero"}`
+`*Merda. E' chiuso.{#Name="Zero"}`
 Shit. It's closed.{#Name="Zero"}
 
 `*Dev'essere stato il nemico a chiuderlo.{#Name="Zero"}`
@@ -202,7 +202,7 @@ Select an animation to view. CONFIRMED NOT USED 1126
 `デモ`
 デモ
 
-`Una Intoner dotata di abilità di combattimento sovrumane. È aperta{LF}e disinibita con gli uomini, ma di natura violenta e pigra.{LF}Dal suo occhio destro cresce uno strano fiore.{#Name="Zero"}`
+`Una Intoner dotata di abilità di combattimento sovrumane. E' aperta{LF}e disinibita con gli uomini, ma di natura violenta e pigra.{LF}Dal suo occhio destro cresce uno strano fiore.{#Name="Zero"}`
 A gifted Intoner with superhuman battle skills. She is open{LF}and uninhibited with men, yet violent and lazy by nature.{LF}She has a strange flower growing out of her right eye.{#Name="Zero"}
 
 `Un drago fieramente orgoglioso, considerato il più potente{LF}del mondo. Estremamente intelligente e forte oltre ogni misura,{LF}è l'unico vero confidente che Zero abbia mai avuto.{#Name="Michael"}`
@@ -238,10 +238,10 @@ The lone virgin Intoner, and ruler of the Land of Mountains.{LF}She fakes a supe
 `La svogliata Intoner che governa la Terra delle Foreste. Ha{LF}gusti sessuali contorti e una personalità distaccata e bizzarra.{LF}Le piace sperimentare sugli umani per trasformarli in bambole.{#Name="Three"}`
 The listless Intoner who rules the Land of Forests. She has{LF}twisted sexual tastes and a detached, bizarre personality.{LF}She enjoys experimenting on humans to turn them into dolls.{#Name="Three"}
 
-`Una Intoner brillante e allegra che governa la Terra delle Sabbie.{LF}È innamorata di Cent, anche se un incidente sfortunato{LF}le ha spezzato la mente, lasciandola in uno stato infantile.{#Name="Two"}`
+`Una Intoner brillante e allegra che governa la Terra delle Sabbie.{LF}E' innamorata di Cent, anche se un incidente sfortunato{LF}le ha spezzato la mente, lasciandola in uno stato infantile.{#Name="Two"}`
 A bright and cheerful Intoner who rules the Land of Sands.{LF}She is in love with Cent, though an unfortunate incident{LF}shattered her mind, leaving her in a childlike state.{#Name="Two"}
 
-`La Intoner che governa Cathedral City. È la più{LF}matura e intelligente delle sorelle, e anche l'unica{LF}che comprende pienamente le vere intenzioni di Zero.{#Name="One"}`
+`La Intoner che governa Cathedral City. E' la più{LF}matura e intelligente delle sorelle, e anche l'unica{LF}che comprende pienamente le vere intenzioni di Zero.{#Name="One"}`
 The Intoner who rules the Cathedral City. She's the most{LF}mature and intelligent of the sisters, and also the only{LF}one who fully grasps Zero's true intentions.{#Name="One"}
 
 `Il fratello gemello di One, creato da One stessa. Fu nascosto{LF}come misura di sicurezza per distruggere Zero e le altre Intoner.{LF}Idolatra One sia come sorella sia come madre.{#Name="One's Brother"}`

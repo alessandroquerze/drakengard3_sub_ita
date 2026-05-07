@@ -271,7 +271,7 @@ Defeat the Cerberus!{#Name="説明文"}
 `Sconfiggi il Cerbero!{#Name="説明文"}`
 Defeat the Cerberus!{#Name="説明文"}
 
-`È qui! L'Intoner demoniaca è qui!{#Name="Soldier C"}`
+`E' qui! L'Intoner demoniaca è qui!{#Name="Soldier C"}`
 She's here! The demon Intoner is here!{#Name="Soldier C"}
 
 `Miseria. Sapevo che sarebbe venuta. Avremmo dovuto saperlo!{#Name="Soldier D"}`

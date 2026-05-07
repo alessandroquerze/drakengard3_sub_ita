@@ -136,10 +136,10 @@ Defeat the Golems!{#Name="説明文"}
 `（リザーブ）{#Name="（リザーブ）"}`
 （リザーブ）{#Name="（リザーブ）"}
 
-`È Zero! Che sia dannata all'inferno!{#Name="Soldier A"}`
+`E' Zero! Che sia dannata all'inferno!{#Name="Soldier A"}`
 It's Zero! Damn her to hell!{#Name="Soldier A"}
 
-`È terrificante! Niente a che vedere con la nostra Lady Two!{#Name="Soldier F"}`
+`E' terrificante! Niente a che vedere con la nostra Lady Two!{#Name="Soldier F"}`
 She's horrifying! Nothing like our Lady Two!{#Name="Soldier F"}
 
 `Eccola! Tutti gli uomini, in posizione!{#Name="Soldier B"}`
@@ -166,7 +166,7 @@ Send word a threat approaches! Lady Two is in danger!{#Name="Soldier A"}
 `Date il 125 percento! Vi servirà tutto contro questo demonio!{#Name="Soldier C"}`
 Give me 125 percent! You'll need it all against this devil!{#Name="Soldier C"}
 
-`Zero è... È terrificante!{#Name="Soldier F"}`
+`Zero è... E' terrificante!{#Name="Soldier F"}`
 Zero is... She's terrifying!{#Name="Soldier F"}
 
 `Voglio un mondo in cui Lady Two possa essere sempre felice!{#Name="Soldier G"}`
@@ -190,7 +190,7 @@ I'm not dead yet... But I'll take you to hell with me!{#Name="Soldier B"}
 `Il nostro sacrificio qui garantirà la sopravvivenza di Lady Two!{#Name="Soldier E"}`
 Our sacrifice here will ensure Lady Two lives on!{#Name="Soldier E"}
 
-`È la fine del mondo... Siamo tutti impazziti!{#Name="Soldier F"}`
+`E' la fine del mondo... Siamo tutti impazziti!{#Name="Soldier F"}`
 It's the end of the world... We've all gone mad!{#Name="Soldier F"}
 
 `Come può questo demonio essere un'Intoner!?{#Name="Soldier E"}`
@@ -223,7 +223,7 @@ Don't be ridiculous!{#Name="Soldier A"}
 `La nostra dea perfetta non ci tradirebbe mai! ...Non come certe ragazze che conosco, comunque!{#Name="Soldier A"}`
 Our perfect goddess would never betray us! ...Not like some of the girls I know, anyway!{#Name="Soldier A"}
 
-`Attenti! È Zero!{#Name="Soldier B"}`
+`Attenti! E' Zero!{#Name="Soldier B"}`
 Look out! It's Zero!{#Name="Soldier B"}
 
 `Pensare che un'Intoner possa essere così vile!{#Name="Soldier F"}`
@@ -256,7 +256,7 @@ Then we're just gonna have to take her!{#Name="Zero"}
 `Lady Zero, percepisco qualcosa da Mikhail.{#Name="Decadus"}`
 Lady Zero, I'm sensing something from Mikhail.{#Name="Decadus"}
 
-`Merda. È già crollato?{#Name="Zero"}`
+`Merda. E' già crollato?{#Name="Zero"}`
 Crap. Did he keel over already?{#Name="Zero"}
 
 `No, ma sta lottando.{LF}Temo sia vicino al limite.{#Name="Decadus"}`
@@ -304,7 +304,7 @@ You gonna be okay, Z?{#Name="Dito"}
 `Che vorrebbe dire?{#Name="Zero"}`
 What's that supposed to mean?{#Name="Zero"}
 
-`Niente! È solo che...so come ti senti{LF}in situazioni di questo tipo...{#Name="Dito"}`
+`Niente! E' solo che...so come ti senti{LF}in situazioni di questo tipo...{#Name="Dito"}`
 Nothing! It's just...I know how you feel{LF}about these types of situations...{#Name="Dito"}
 
 `Tutto okay.{#Name="Zero"}`

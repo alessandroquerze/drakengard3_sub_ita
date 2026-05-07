@@ -271,7 +271,7 @@ Hee hee hee hee hee!{#Name="Dito"}
 `Oh, cavolo, è fantastico...{LF}Adoro vedere questi idioti soffrire!{#Name="Dito"}`
 Oh man, this is great...{LF}I love watching these fools suffer!{#Name="Dito"}
 
-`È crudele, Dito!{#Name="Mikhail"}`
+`E' crudele, Dito!{#Name="Mikhail"}`
 That's mean, Dito!{#Name="Mikhail"}
 
 `Heh. Non mi aspetto certo che una bestia{LF}stupida come te possa capire.{#Name="Dito"}`

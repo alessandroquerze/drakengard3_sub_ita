@@ -289,7 +289,7 @@ Press {01}{0A} and {01}{0D} simultaneously to activate Intoner Mode.{LF}Press th
 `Forzieri del Tesoro`
 Treasure Chests
 
-`Attacca un forziere per rivelarne il contenuto.{LF}Controlla la schermata dei risultati alla fine dello stage per maggiori informazioni.`
+`Attacca un forziere per rivelarne il contenuto.{LF}Controlla la schermata dei risultati alla fine della missione per maggiori informazioni.`
 Attack a chest to reveal the contents inside.{LF}Check the results screen at the end of the stage for more info.
 
 `ミハイルの操作２`

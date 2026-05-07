@@ -10,7 +10,7 @@ Did Lady Four get away safely?{#Name="Soldier A"}
 `Non lo so!{#Name="Soldier B"}`
 I don't know!{#Name="Soldier B"}
 
-`È un disastro...{#Name="Soldier E"}`
+`E' un disastro...{#Name="Soldier E"}`
 This is such a disaster...{#Name="Soldier E"}
 
 `Lady Four è con Decadus!?{#Name="Soldier B"}`
@@ -169,7 +169,7 @@ What's a kink?{#Name="Mikhail"}
 `Non ti serve saperlo.{#Name="Zero"}`
 You don't need to know.{#Name="Zero"}
 
-`È qui! È Zero!{#Name="Soldier G"}`
+`E' qui! E' Zero!{#Name="Soldier G"}`
 She's here! It's Zero!{#Name="Soldier G"}
 
 `Ha un tizio con lei!{#Name="Soldier B"}`
@@ -178,13 +178,13 @@ She's got some guy with her!{#Name="Soldier B"}
 `Adesso prende pure ostaggi? Maledizione!{#Name="Soldier F"}`
 She's taking hostages now? Dammit!{#Name="Soldier F"}
 
-`Aspetta. Quello non è un ostaggio. È un discepolo!{#Name="Soldier A"}`
+`Aspetta. Quello non è un ostaggio. E' un discepolo!{#Name="Soldier A"}`
 Wait. That's no hostage. It's a disciple!{#Name="Soldier A"}
 
 `Una Intoner, un discepolo E un drago!?{#Name="Soldier C"}`
 An Intoner, a disciple, AND a dragon!?{#Name="Soldier C"}
 
-`È finita, siamo fottuti.{LF}Siamo davvero fottuti adesso.{#Name="Soldier D"}`
+`E' finita, siamo fottuti.{LF}Siamo davvero fottuti adesso.{#Name="Soldier D"}`
 That's it, we're screwed.{LF}We are so screwed right now.{#Name="Soldier D"}
 
 `Abbiamo il vantaggio del terreno!{#Name="Soldier F"}`
@@ -202,7 +202,7 @@ I'll lay down my life if necessary!{#Name="Soldier B"}
 `Penso che probabilmente sarà necessario...{#Name="Soldier E"}`
 I'm thinking that's probably gonna be necessary...{#Name="Soldier E"}
 
-`È fortissima! Come possiamo anche solo...{#Name="Soldier G"}`
+`E' fortissima! Come possiamo anche solo...{#Name="Soldier G"}`
 She's so strong! How could we ever...{#Name="Soldier G"}
 
 `Tutti gli uomini, rispondete all'appello!{#Name="Soldier F"}`

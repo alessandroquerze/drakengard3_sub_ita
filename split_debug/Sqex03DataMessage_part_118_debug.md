@@ -7,7 +7,7 @@
 `あらすじ第十一項　００２０　一行目{LF}あらすじ第十一項　００２０　二行目{LF}あらすじ第十一項　００２０　三行目{LF}あらすじ第十一項　００２０　四行目{LF}あらすじ第十一項　００２０　五行目`
 あらすじ第十一項　００２０　一行目{LF}あらすじ第十一項　００２０　二行目{LF}あらすじ第十一項　００２０　三行目{LF}あらすじ第十一項　００２０　四行目{LF}あらすじ第十一項　００２０　五行目
 
-`Mappa → Casa di Zero{LF}È passato un anno dalla sconfitta di Zero{LF}per mano delle sue sorelle. Dopo essersi ripresa{LF}nella Terra dei Mari, ora ha{LF}gli occhi puntati su un altro assalto.`
+`Mappa → Casa di Zero{LF}E' passato un anno dalla sconfitta di Zero{LF}per mano delle sue sorelle. Dopo essersi ripresa{LF}nella Terra dei Mari, ora ha{LF}gli occhi puntati su un altro assalto.`
 Map → Zero's House{LF}A year has passed since Zero's defeat{LF}at the hands of her sisters. After healing{LF}up in the Land of Seas, she now has{LF}her sights set on another assault.
 
 `Cutscene → Gioco{LF}Dopo essersi svegliata da un incubo, Zero viene{LF}accolta dal suo drago, regredito a{LF}una versione più giovane di sé chiamata Mikhail.{LF}Dopo che lei gli urla contro, lui scappa via piangendo.`
@@ -49,7 +49,7 @@ Game{LF}As Zero continues her seaside advance,{LF}the enemy refuses to let up. E
 `Gioco{LF}Zero e Mikhail si dirigono verso il Santuario{LF}dei Mari attraverso uno stretto canyon. Ma{LF}più avanti, un certo nemico li attende...`
 Game{LF}Zero and Mikhail head for the Shrine{LF}of Seas through a narrow canyon. But{LF}ahead, a certain enemy lies in wait...
 
-`Cutscene{LF}Con il nemico sconfitto, una rovina di{LF}una civiltà sconosciuta emerge dalle{LF}onde. È una trappola? O Five sta solo{LF}stendendo il tappeto di benvenuto?`
+`Cutscene{LF}Con il nemico sconfitto, una rovina di{LF}una civiltà sconosciuta emerge dalle{LF}onde. E' una trappola? O Five sta solo{LF}stendendo il tappeto di benvenuto?`
 Cutscene{LF}With the foe defeated, a ruin from an{LF}unknown civilization rises out of the{LF}waves. Is it a trap? Or is Five just{LF}rolling out the welcome wagon?
 
 `あらすじ第五項　１０２０　一行目{LF}あらすじ第五項　１０２０　二行目{LF}あらすじ第五項　１０２０　三行目{LF}あらすじ第五項　１０２０　四行目{LF}あらすじ第五項　１０２０　五行目`

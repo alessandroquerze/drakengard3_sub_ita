@@ -85,7 +85,7 @@ A chakram left behind by the{LF}Holy Emperor. Effective vs. undead.
 `-`
 -
 
-`Dal momento in cui nacqui, non c'era nulla.{LF}È così che finii per portare il nome Zero.{#Name="Zero's Blade Lv. 1"}`
+`Dal momento in cui nacqui, non c'era nulla.{LF}E' così che finii per portare il nome Zero.{#Name="Zero's Blade Lv. 1"}`
 From the moment I was born, there was nothing.{LF}That's how I wound up with the name Zero.{#Name="Zero's Blade Lv. 1"}
 
 `Provai e fallii a trovare un valore nella mia vita.{LF}Persino la religione mi deluse, perché avrei preferito{LF}combattere e uccidere un dio piuttosto che pregarlo.{#Name="Zero's Blade Lv. 2"}`
@@ -115,7 +115,7 @@ A visitor? Ah, yes. Come hear the song, then. The innkeeper{LF}and her daughter 
 `Il canto della ragazza è la cosa migliore del posto. Basta{LF}un solo ascolto per scacciare ogni tuo tormento. Sapevi{LF}che ha una sorella? Ah, se solo cantassero in duetto...{#Name="Eternal Voice Lv. 2"}`
 The girl's song is the best thing about the place. A single{LF}listen will drive all your troubles away. Did you know{LF}she has a sister? Ah, if only they sang a duet...{#Name="Eternal Voice Lv. 2"}
 
-`Bentornato, viaggiatore! È passato un po'. Sei venuto a vedere di nuovo{LF}le ragazze? Di certo ti piacciono molto! Sono passati decenni{LF}da quando te ne parlai per la prima volta, eppure eccoti di nuovo qui.{#Name="Eternal Voice Lv. 3"}`
+`Bentornato, viaggiatore! E' passato un po'. Sei venuto a vedere di nuovo{LF}le ragazze? Di certo ti piacciono molto! Sono passati decenni{LF}da quando te ne parlai per la prima volta, eppure eccoti di nuovo qui.{#Name="Eternal Voice Lv. 3"}`
 Welcome back, traveler! It's been a while. Come to see the{LF}girls again? You certainly do like them! It's been decades{LF}since I first told you of them, and yet here you are again.{#Name="Eternal Voice Lv. 3"}
 
 `Che dici, viaggiatore? Ti chiedi perché le ragazze non invecchino mai?{LF}Ha ha ha! Sono le figlie delle ragazze che conoscevi un tempo!{LF}Non avrai davvero pensato che fossero immortali! ...Vero?{#Name="Eternal Voice Lv. 4"}`
@@ -259,7 +259,7 @@ The tower loomed, its white stonework unmarked by a single{LF}crack or crevice. 
 `Per tutta la prigionia, i servitori della ragazza si rifiutarono di{LF}riconoscere la sua esistenza. Ma gli abitanti locali sapevano di lei,{LF}e quando una grande carestia colpì la terra, agirono.{#Name="Once a Woman Lv. 2"}`
 Throughout her captivity, the girl's servants refused to{LF}acknowledge her existence. But local villagers knew of her,{LF}and when a great famine struck the land, they took action.{#Name="Once a Woman Lv. 2"}
 
-`Gli abitanti uccisero ogni singolo servitore mentre salivano sulla{LF}torre. "Maledetta sgualdrina!" gridavano. "È colpa tua!"{LF}Ma la ragazza non riusciva a comprendere le parole. {#Name="Once a Woman Lv. 3"}`
+`Gli abitanti uccisero ogni singolo servitore mentre salivano sulla{LF}torre. "Maledetta sgualdrina!" gridavano. "E' colpa tua!"{LF}Ma la ragazza non riusciva a comprendere le parole. {#Name="Once a Woman Lv. 3"}`
 The villagers killed every last servant as they climbed the{LF}tower. "Cursed wench!" they shouted. "This is your fault!"{LF}But the girl could not understand the words. {#Name="Once a Woman Lv. 3"}
 
 `La ragazza fu felicissima di essere finalmente esposta all'emozione,{LF}persino a quella della rabbia. Un sorriso le apparve sul volto mentre la spada colpiva{LF}nel segno, assicurandole il posto di offerta agli dèi del villaggio.{#Name="Once a Woman Lv. 4"}`
@@ -286,7 +286,7 @@ The king sent him on an impossible quest, and the young man{LF}fell to the very 
 `La sorella divenne l'amante del re, e usò la{LF}spada per assassinarlo prima di rivolgerla contro se stessa. E ora{LF}la lama viene usata per vendicarsi su... Signore? State bene?{#Name="Feral King's Wildblade Lv. 3"}`
 The sister became the king's mistress, and she used the{LF}sword to murder him before turning it on herself. And now{LF}the blade is used to exact revenge on... Sir? Are you okay?{#Name="Feral King's Wildblade Lv. 3"}
 
-`Che ci fate con quella spada in mano? ...Vendetta, dite?{LF}M-Ma io sono solo un mercante d'armi! La mia spada non ha ucciso{LF}la vostra famiglia! È solo una lama! Solo una... No! Fermatevi! Asp—{#Name="Feral King's Wildblade Lv. 4"}`
+`Che ci fate con quella spada in mano? ...Vendetta, dite?{LF}M-Ma io sono solo un mercante d'armi! La mia spada non ha ucciso{LF}la vostra famiglia! E' solo una lama! Solo una... No! Fermatevi! Asp—{#Name="Feral King's Wildblade Lv. 4"}`
 What's with that sword in your hand? ...Revenge, you say?{LF}B-But I'm just a weapons merchant! My sword didn't kill{LF}your family! It's just a blade! Just a... No! Stop! Wai—{#Name="Feral King's Wildblade Lv. 4"}
 
 `Perché ho perso mio figlio?{LF}Perché mio figlio doveva morire?{LF}Perché devo sopportare questa punizione?{#Name="Mourning Thorn Lv. 1"}`

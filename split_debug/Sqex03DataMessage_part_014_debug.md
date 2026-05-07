@@ -43,7 +43,7 @@ You could say that.{#Name="Zero"}
 `Cosa aveva detto di nuovo quella ragazza, Accord?{#Name="Octa"}`
 What did that Accord girl say again?{#Name="Octa"}
 
-`È istinto di un drago consumare il fiore?{#Name="Octa"}`
+`E' istinto di un drago consumare il fiore?{#Name="Octa"}`
 It's a dragon's instinct to consume the flower?{#Name="Octa"}
 
 `Non credo che possa tenere a freno una cosa simile così facilmente...{#Name="Octa"}`

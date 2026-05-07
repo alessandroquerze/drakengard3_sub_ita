@@ -100,7 +100,7 @@ What should I do, Zero? Am I sick?{#Name="Mikhail"}
 `Sì, si chiama "amore". Probabilmente terminale.{#Name="Zero"}`
 Yeah, it's called "love." Probably terminal.{#Name="Zero"}
 
-`No, Zero! Non è così! È una cosa seria!{LF}È... È più come...{#Name="Mikhail"}`
+`No, Zero! Non è così! E' una cosa seria!{LF}E'... E' più come...{#Name="Mikhail"}`
 No, Zero! It's not like that! This is serious!{LF}It's... It's more like...{#Name="Mikhail"}
 
 `ミハ……イル{#Name="ゼロ"}`

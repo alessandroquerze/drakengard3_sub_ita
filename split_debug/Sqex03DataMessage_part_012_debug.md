@@ -115,7 +115,7 @@ I just remembered something. A golem told me{LF}that Two is in the Shrine of San
 `Un golem te l'ha "detto"? I golem non parlano, idiota.{LF}Sono di pietra.{#Name="Zero"}`
 A golem "told" you? Golems can't talk, dummy.{LF}They're stone.{#Name="Zero"}
 
-`Beh, non ha parlato o roba del genere.{LF}È stato più come se la sua anima mi avesse parlato.{#Name="Mikhail"}`
+`Beh, non ha parlato o roba del genere.{LF}E' stato più come se la sua anima mi avesse parlato.{#Name="Mikhail"}`
 Well, he didn't talk or whatever.{LF}It was more like his soul spoke to me.{#Name="Mikhail"}
 
 `L'anima non esiste.{#Name="Zero"}`

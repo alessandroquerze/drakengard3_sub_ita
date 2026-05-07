@@ -97,7 +97,7 @@ So long as Lady Zero is safe, nothing else matters.{#Name="Decadus"}
 `Oh, ora ho capito. Vuoi solo dare a Zero{LF}qualche scudo di carne in più, eh?{#Name="Dito"}`
 Oh, now I get it. You just wanna give Zero{LF}a few more meat-shields, huh?{#Name="Dito"}
 
-`Più discepoli significa più gente da maltrattare per lei.{LF}È così, mostriciattolo?{#Name="Dito"}`
+`Più discepoli significa più gente da maltrattare per lei.{LF}E' così, mostriciattolo?{#Name="Dito"}`
 More disciples means more people for her to abuse.{LF}That how it is, freakshow?{#Name="Dito"}
 
 `Le amicizie finte mi fanno schifo.{#Name="Dito"}`
@@ -124,7 +124,7 @@ Right. I'll do my best.{#Name="Zero"}
 `Sono ai suoi ordini, my lady.{LF}Farò qualunque cosa desideri.{#Name="Decadus"}`
 I am yours to command, my lady.{LF}I shall do anything you desire.{#Name="Decadus"}
 
-`È rimasta solo una sorella, eh, Zero?{#Name="Mikhail"}`
+`E' rimasta solo una sorella, eh, Zero?{#Name="Mikhail"}`
 There's just one sister left, huh, Zero?{#Name="Mikhail"}
 
 `Finalmente siamo arrivati a One.{#Name="Zero"}`
@@ -136,7 +136,7 @@ So I guess you're gonna kill her now, huh?{#Name="Mikhail"}
 `Hai qualche problema?{#Name="Zero"}`
 You got a problem with that?{#Name="Zero"}
 
-`È solo che... ormai abbiamo ucciso un sacco di persone, sai?{#Name="Mikhail"}`
+`E' solo che... ormai abbiamo ucciso un sacco di persone, sai?{#Name="Mikhail"}`
 It's just that...we've killed a lot of people now, you know?{#Name="Mikhail"}
 
 `E allora?{#Name="Zero"}`

@@ -109,7 +109,7 @@ But you lot certainly match her in utter worthlessness and disgust.{#Name="Faeri
 `Dov'è Three?{#Name="Zero"}`
 Where's Three?{#Name="Zero"}
 
-`È nel Santuario della Foresta.{#Name="Faerie King"}`
+`E' nel Santuario della Foresta.{#Name="Faerie King"}`
 She's in the Forest Shrine.{#Name="Faerie King"}
 
 `Va bene—dov'è il Santuario della Foresta?{#Name="Zero"}`

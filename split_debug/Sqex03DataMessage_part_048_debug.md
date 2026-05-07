@@ -10,7 +10,7 @@ Some dogs just don't know when to give up.{#Name="Dito"}
 `Prendilo, Zero! Prendi quel... Cer-bava!{#Name="Mikhail"}`
 Get him, Zero! Get that sourbreath!{#Name="Mikhail"}
 
-`È Cerberus, idiota!{#Name="Zero"}`
+`E' Cerberus, idiota!{#Name="Zero"}`
 It's cerberus, idiot!{#Name="Zero"}
 
 `Già, idiota. Sta' attento.{#Name="Dito"}`
@@ -82,7 +82,7 @@ Zero...{#Name="Mikhail"}
 `敵残り 6 体！{#Name="説明文"}`
 敵残り 6 体！{#Name="説明文"}
 
-`È Zero! Zero è venuta a ucciderci!{#Name="Soldier G"}`
+`E' Zero! Zero è venuta a ucciderci!{#Name="Soldier G"}`
 It's Zero! Zero's come to kill us!{#Name="Soldier G"}
 
 `Smettila di farti prendere dal panico e mettiti in posizione difensiva!{#Name="Soldier F"}`
@@ -103,7 +103,7 @@ Home to an impenetrable alpine citadel{#Name="Accord"}
 `governata dalla casta Intoner conosciuta come Four.{#Name="Accord"}`
 governed by the chaste Intoner known as Four.{#Name="Accord"}
 
-`È Zero!{#Name="Soldier C"}`
+`E' Zero!{#Name="Soldier C"}`
 It's Zero!{#Name="Soldier C"}
 
 `A tutte le truppe, posizioni difensive!{#Name="Soldier D"}`
@@ -115,7 +115,7 @@ Your invasion ends here, demon!{#Name="Soldier A"}
 `Beh, questa sì che è fiducia in sè stessi.{#Name="Zero"}`
 Well, someone's confident.{#Name="Zero"}
 
-`Miseria! È troppo forte!{#Name="Soldier F"}`
+`Miseria! E' troppo forte!{#Name="Soldier F"}`
 Dammit! She's too strong!{#Name="Soldier F"}
 
 `Tenete la posizione! Difendete Lady Four a ogni costo!{#Name="Soldier C"}`
@@ -130,7 +130,7 @@ Hang on, Zero! I'll help! I'll totally help you!{#Name="Mikhail"}
 `Fa quasi impressione quanto siano deboli questi tipi.{#Name="Dito"}`
 Kinda freaky how wimpy these guys are.{#Name="Dito"}
 
-`È perché Zero è con noi!{#Name="Mikhail"}`
+`E' perché Zero è con noi!{#Name="Mikhail"}`
 That's because Zero's with us!{#Name="Mikhail"}
 
 `Lei rende TUTTO impressionante!{#Name="Mikhail"}`
@@ -271,7 +271,7 @@ We're all gonna die...{#Name="Soldier D"}
 `Aaaugh! Il fiore! Toglietemelo di dosso! Aaaargh!{#Name="Soldier G"}`
 Aaaugh! The flower! Get it away from me! Aaaargh!{#Name="Soldier G"}
 
-`È impazzito...{#Name="Soldier F"}`
+`E' impazzito...{#Name="Soldier F"}`
 He's gone mad...{#Name="Soldier F"}
 
 `Ci stanno ancora colpendo! Rispondete al fuoco!{#Name="Soldier B"}`
@@ -286,7 +286,7 @@ Did you see Zero's eye?{#Name="Soldier F"}
 `Visto? Come potevo non vederlo?{#Name="Soldier A"}`
 Did I? How could I miss it?{#Name="Soldier A"}
 
-`Quella non è un'Intoner. È un mostro!{#Name="Soldier F"}`
+`Quella non è un'Intoner. E' un mostro!{#Name="Soldier F"}`
 That's no Intoner. That's a monster!{#Name="Soldier F"}
 
 `Forza! Fuoco! Fuoco ORA!{#Name="Soldier B"}`

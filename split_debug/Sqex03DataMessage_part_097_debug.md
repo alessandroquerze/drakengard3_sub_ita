@@ -58,7 +58,7 @@ Stop her! Stop her now!{#Name="Soldier A"}
 `Intoner o no, come può una sola donna{LF}respingere tutte queste truppe?{#Name="Soldier F"}`
 Intoner or not, how can one woman{LF}fight off all these troops?{#Name="Soldier F"}
 
-`Sta cercando di porre fine al mondo da sola.{LF}È ovvio che sia fottutamente forte!{#Name="Soldier E"}`
+`Sta cercando di porre fine al mondo da sola.{LF}E' ovvio che sia fottutamente forte!{#Name="Soldier E"}`
 She's trying to end the world by herself.{LF}She's obviously pretty fuckin' strong!{#Name="Soldier E"}
 
 `Questo è l'inferno in terra...{#Name="Soldier C"}`
@@ -88,7 +88,7 @@ Whatcha readin'?{#Name="Zero"}
 `Ah, Zero.{#Name="One"}`
 Ah, Zero.{#Name="One"}
 
-`È un resoconto della vita a Cathedral City.{#Name="One"}`
+`E' un resoconto della vita a Cathedral City.{#Name="One"}`
 It's a record of life in the Cathedral City.{#Name="One"}
 
 `Un resoconto di vita?{#Name="Zero"}`
@@ -115,7 +115,7 @@ I thought if I studied that, I might be able{LF}to learn the purpose of Intoners
 `Solo un'idiota cerca di imparare un mucchio di stronzate{LF}che non ha bisogno di sapere. O non lo sapevi?{#Name="Zero"}`
 Only an idiot tries to learn about a bunch of shit{LF}she doesn't need to know. Or did you not know that?{#Name="Zero"}
 
-`È un modo di pensare piuttosto chiuso.{#Name="One"}`
+`E' un modo di pensare piuttosto chiuso.{#Name="One"}`
 That's rather close-minded.{#Name="One"}
 
 `Anche se, nel senso che non possiamo mai sapere davvero tutto...{LF}Beh, suppongo di essere d'accordo.{#Name="One"}`
@@ -124,7 +124,7 @@ Though, in the sense that we cannot ever truly know everything...{LF}Well, I sup
 `Come ti pare.{#Name="Zero"}`
 Whatever.{#Name="Zero"}
 
-`Sto per ucciderti comunque. È l'unica cosa che conta.{#Name="Zero"}`
+`Sto per ucciderti comunque. E' l'unica cosa che conta.{#Name="Zero"}`
 I'm about to kill you anyway. That's all that matters.{#Name="Zero"}
 
 `...Così prevedibile.{#Name="One"}`
@@ -145,7 +145,7 @@ You all right!?{#Name="Zero"}
 `S-Sì...{#Name="Mikhail"}`
 Y-Yeah...{#Name="Mikhail"}
 
-`Ma quel tizio è forte... È davvero, davvero forte!{#Name="Mikhail"}`
+`Ma quel tizio è forte... E' davvero, davvero forte!{#Name="Mikhail"}`
 But that guy's strong... He's really, really strong!{#Name="Mikhail"}
 
 `Zero, sali! Battiamolo insieme!{#Name="Mikhail"}`
@@ -181,7 +181,7 @@ Hey, Zero? Why are we fighting?{#Name="Mikhail"}
 `Me lo stai chiedendo seriamente adesso?{#Name="Zero"}`
 Are you seriously asking me that now?{#Name="Zero"}
 
-`Voglio dire... È solo un po' triste, sai?{LF}È triste.{#Name="Mikhail"}`
+`Voglio dire... E' solo un po' triste, sai?{LF}E' triste.{#Name="Mikhail"}`
 I mean... It's just kind of sad, you know?{LF}It's sad.{#Name="Mikhail"}
 
 `Mi dispiace davvero per Gabriel.{#Name="Mikhail"}`

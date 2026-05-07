@@ -55,7 +55,7 @@ Get up! We're going home together!{#Name="Soldier F"}
 `Come fa a muoversi così in fretta?{#Name="Soldier E"}`
 How does she move so quickly?{#Name="Soldier E"}
 
-`È...l'Intoner!?{#Name="Soldier A"}`
+`E'...l'Intoner!?{#Name="Soldier A"}`
 Is that...the Intoner!?{#Name="Soldier A"}
 
 `Perché... Perché mi prude così tanto il corpo!?{#Name="Soldier F"}`
@@ -226,7 +226,7 @@ Aw, nasty! They got maggots{LF}comin' outta their EYES!{#Name="Dito"}
 `Guardate questi spettacoli dell'orrore!{LF}Come fanno a sopportarlo!?{#Name="Dito"}`
 Look at these horror shows!{LF}How can they stand it!?{#Name="Dito"}
 
-`Sono bestie putride e luride...{LF}È così contorto... LO ADORO!{LF}Ha ha! Ha ha ha ha!{#Name="Dito"}`
+`Sono bestie putride e luride...{LF}E' così contorto... LO ADORO!{LF}Ha ha! Ha ha ha ha!{#Name="Dito"}`
 They're putrid, filthy beasts...{LF}It's so messed up... I LOVE IT!{LF}Ha ha! Ha ha ha ha!{#Name="Dito"}
 
 `Per favore, Dito. Simili pensieri sono di pessimo gusto.{#Name="Decadus"}`
@@ -241,7 +241,7 @@ Unnnngh...{#Name="Decadus"}
 `Ugh. Toglietemi di mezzo questi bastardi irritanti!{#Name="Zero"}`
 Ugh. Get these annoying bastards outta my way!{#Name="Zero"}
 
-`È una situazione pericolosa. Dobbiamo uccidere i{LF}mostri prima che gli spiriti possano possederli!{#Name="Decadus"}`
+`E' una situazione pericolosa. Dobbiamo uccidere i{LF}mostri prima che gli spiriti possano possederli!{#Name="Decadus"}`
 This is a dangerous situation. We must kill the{LF}monsters before the spirits can possess them!{#Name="Decadus"}
 
 `Ngh... N-Non respiro...{#Name="Zero"}`

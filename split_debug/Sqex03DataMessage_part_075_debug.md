@@ -64,7 +64,7 @@ I invited One to the forest...so I could kill her, but...{#Name="Three"}
 `Lei è... Sta' attenta...{#Name="Three"}`
 She's... Be careful...{#Name="Three"}
 
-`È morta? È mortissima!{#Name="Dito"}`
+`E' morta? E' mortissima!{#Name="Dito"}`
 Is she dead? She's totally dead!{#Name="Dito"}
 
 `Che diavolo sta succedendo qui?{#Name="Zero"}`
@@ -115,7 +115,7 @@ Pieces of shit? So predictable.{LF}Maybe try pus-encrusted boils next time?{#Nam
 `Posso scambiarvi con un nuovo gruppo?{#Name="Zero"}`
 Can I swap you guys out for a new party?{#Name="Zero"}
 
-`È un...un cerbero?{#Name="Decadus"}`
+`E' un...un cerbero?{#Name="Decadus"}`
 Is that a...a cerberus?{#Name="Decadus"}
 
 `Un esemplare particolarmente brutto e orrido{LF}della specie.{#Name="Octa"}`
@@ -175,7 +175,7 @@ One...{#Name="Zero"}
 `Ne ho avuto abbastanza.{#Name="Dito"}`
 I've had enough of this.{#Name="Dito"}
 
-`È ora di porre fine alla tua miseria.{#Name="Dito"}`
+`E' ora di porre fine alla tua miseria.{#Name="Dito"}`
 Time to put you out of your misery.{#Name="Dito"}
 
 `Ora...{#Name="Dito"}`
@@ -247,10 +247,10 @@ Mikhail! Don't listen to Cent!{LF}Show him no mercy!{#Name="Octa"}
 `Davvero? Ma...ma è nostro amico!{#Name="Mikhail"}`
 Really? But...but he's our friend!{#Name="Mikhail"}
 
-`Eppure ha assassinato Dito.{LF}È questa l'azione di un amico?{#Name="Decadus"}`
+`Eppure ha assassinato Dito.{LF}E' questa l'azione di un amico?{#Name="Decadus"}`
 And yet he murdered Dito.{LF}Is this the action of a friend?{#Name="Decadus"}
 
-`È troppo difficile! Non ci capisco niente!{#Name="Mikhail"}`
+`E' troppo difficile! Non ci capisco niente!{#Name="Mikhail"}`
 This is really hard! I don't get it at all!{#Name="Mikhail"}
 
 `なら、私に従え！　その臭い口を閉じてついてこい！{#Name="ゼロ"}`
@@ -274,7 +274,7 @@ Back off!{#Name="Cent"}
 `{06}>{#Name="Cent"}`
 {06}>{#Name="Cent"}
 
-`È finita.{#Name="Zero"}`
+`E' finita.{#Name="Zero"}`
 It's over.{#Name="Zero"}
 
 `L-Lady...Two...{#Name="Cent"}`
@@ -295,7 +295,7 @@ Zero!{#Name="Mikhail"}
 `Com'è riuscita a evocare un angelo senza canto?{#Name="Zero"}`
 How'd she summon an angel without a song?{#Name="Zero"}
 
-`Merda. È...veleno!?{#Name="Zero"}`
+`Merda. E'...veleno!?{#Name="Zero"}`
 Shit. Is that...poison!?{#Name="Zero"}
 
 `Credo di...starmi intorpidendo...{#Name="Zero"}`

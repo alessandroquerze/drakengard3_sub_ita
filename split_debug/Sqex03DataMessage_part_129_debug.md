@@ -175,7 +175,7 @@ Battleships
 `Navi da Guerra`
 Battleships
 
-`Soldati`
+`SoldaX+25`
 Soldiers
 
 `Torri Meridionali`
@@ -190,10 +190,10 @@ Western Towers
 `Torri Settentrionali`
 Northern Towers
 
-`Soldati`
+`SoldaX+26`
 Soldiers
 
-`Soldati`
+`SoldaX+27`
 Soldiers
 
 `Ogre Potenziati`

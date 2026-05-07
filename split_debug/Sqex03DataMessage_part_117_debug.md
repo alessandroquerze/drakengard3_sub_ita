@@ -37,7 +37,7 @@ People in the Land of Mountains have been asking{LF}for Amberstones an awful lot
 `Cerchi una bella ricompensa? Allora che ne dici{LF}di andare nella Terra dei Motni e procurarmi{LF}tre Artigli d'acquila? Al momento sono molto richiesti.`
 Looking for a nice reward? Well then, how about{LF}heading to the Land of Mountains and getting me{LF}three Eagle Talons? They're in demand right now.
 
-`Hai mai sentito parlare del Libro dello Stoicismo? È un testo{LF}sacro della Terra dei Monti. Ci sono tre{LF}volumi in totale, e, beh, mi servono tutti e tre...`
+`Hai mai sentito parlare del Libro dello Stoicismo? E' un testo{LF}sacro della Terra dei Monti. Ci sono tre{LF}volumi in totale, e, beh, mi servono tutti e tre...`
 Ever heard of the Book of Stoicism? It's a sacred{LF}text from the Land of Mountains. There are three{LF}volumes in total, and, well, I need all three...
 
 `クエスト説明　２０６０＿１　　　　一行目{LF}クエスト説明　２０６０＿１　　　　二行目{LF}クエスト説明　２０６０＿１　　　　三行目`
@@ -157,7 +157,7 @@ No time to explain—I need Cometstones! Around{LF}seven or so should do. I can'
 `Diversi manufatti del Vecchio Mondo sono stati{LF}recentemente riportati alla luce. Ho bisogno che tu ne localizzi{LF}e recuperi otto per me immediatamente.`
 Several artifacts from the Old World have been{LF}recently unearthed. I need you to locate and{LF}retrieve eight of them for me right away.
 
-`Il Libro della Dottrina è un testo sacro di{LF}Cathedral City. È stato diviso in nove volumi;{LF}trovali tutti per me e sarai ricompensato!`
+`Il Libro della Dottrina è un testo sacro di{LF}Cathedral City. E' stato diviso in nove volumi;{LF}trovali tutti per me e sarai ricompensato!`
 The Book of Doctrine is a sacred text of the{LF}Cathedral City. It's been split into nine volumes;{LF}find them all for me and you'll be rewarded!
 
 `Come ringraziamento per tutto il tuo aiuto, ecco una dritta gratis:{LF}alcune creature GROSSE fanno la guardia a dei{LF}GROSSI mucchi d'oro... Perché non far loro visita?`

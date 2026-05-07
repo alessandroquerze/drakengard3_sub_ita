@@ -1,7 +1,7 @@
 `La sua lama è velocissima...{#Name="Soldier E"}`
 Her blade is so fast...{#Name="Soldier E"}
 
-`È abilità? O qualcos'altro?{#Name="Soldier F"}`
+`E' abilità? O qualcos'altro?{#Name="Soldier F"}`
 Is it skill? Or something else?{#Name="Soldier F"}
 
 `Via! Stammi lontana!{#Name="Soldier G"}`
@@ -19,10 +19,10 @@ Wow, look at all of them! They're everywhere!{#Name="Mikhail"}
 `Per te sono come formiche. Schiacciali e basta.{#Name="Zero"}`
 They're like ants to you. Just crush 'em.{#Name="Zero"}
 
-`È davvero crudele, Zero...{#Name="Mikhail"}`
+`E' davvero crudele, Zero...{#Name="Mikhail"}`
 That's really mean, Zero...{#Name="Mikhail"}
 
-`Wow, guarda l'acqua qui! È così bella!{#Name="Mikhail"}`
+`Wow, guarda l'acqua qui! E' così bella!{#Name="Mikhail"}`
 Wow, look at the water here! It's so pretty!{#Name="Mikhail"}
 
 `Affonda quella dannata nave da guerra, ti dispiace?{#Name="Zero"}`
@@ -91,7 +91,7 @@ Dammit. I think we've been had.{#Name="Zero"}
 `Heh. Che hai da guardare, testa di cazzo?{#Name="Zero"}`
 Heh. What are you looking at, shithead?{#Name="Zero"}
 
-`È ora di chiuderla qui!{#Name="Zero"}`
+`E' ora di chiuderla qui!{#Name="Zero"}`
 Time to end this!{#Name="Zero"}
 
 `Zero, attenta!{#Name="Mikhail"}`

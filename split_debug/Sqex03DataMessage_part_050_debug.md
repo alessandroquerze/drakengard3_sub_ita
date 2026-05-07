@@ -79,7 +79,7 @@ You can't deal with...virgins?{#Name="Mikhail"}
 `No, non le reggo. Ora basta!{#Name="Zero"}`
 No, I can't. Now drop it!{#Name="Zero"}
 
-`È Zero! È qui!{#Name="Soldier G"}`
+`E' Zero! E' qui!{#Name="Soldier G"}`
 It's Zero! She's here!{#Name="Soldier G"}
 
 `Maledetta sia l'Intoner traditrice{LF}che si rivolta contro la Chiesa!{#Name="Soldier F"}`
@@ -148,7 +148,7 @@ I'll give you a massage tonight.{LF}Just kill 'em all!{#Name="Dito"}
 `Che succede!?{#Name="Zero"}`
 What's the matter!?{#Name="Zero"}
 
-`Il muro! È duro! E spesso!{LF}Tipo, davvero duro e spesso!{#Name="Mikhail"}`
+`Il muro! E' duro! E spesso!{LF}Tipo, davvero duro e spesso!{#Name="Mikhail"}`
 The wall! It's hard! And thick!{LF}Like, really hard and thick!{#Name="Mikhail"}
 
 `Distruggilo e basta!{#Name="Zero"}`
@@ -244,7 +244,7 @@ And the shrine where Four was said to be hiding out{#Name="Accord"}
 `era a sua volta celato dentro un'enorme struttura difensiva...{#Name="Accord"}`
 was itself hidden within a massive defensive facility...{#Name="Accord"}
 
-`Attento! È un ogre!{#Name="Mikhail"}`
+`Attento! E' un ogre!{#Name="Mikhail"}`
 Watch out! It's an ogre!{#Name="Mikhail"}
 
 `Questo tizio è più stupido di un sacco di martelli.{#Name="Zero"}`

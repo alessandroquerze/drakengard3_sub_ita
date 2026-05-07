@@ -265,7 +265,7 @@ Michael!{#Name="Zero"}
 `...Maledetti incubi.{#Name="Zero"}`
 ...Damn nightmares.{#Name="Zero"}
 
-`È passato un anno intero, e sto ancora sognando lui.{#Name="Zero"}`
+`E' passato un anno intero, e sto ancora sognando lui.{#Name="Zero"}`
 It's been an entire year, and I'm still dreaming of him.{#Name="Zero"}
 
 `Michael...{#Name="Zero"}`

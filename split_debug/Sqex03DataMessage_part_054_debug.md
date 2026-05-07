@@ -307,7 +307,7 @@ Couldn't you come up with something{LF}a little less cliché?{#Name="Dito"}
 `Di che diavolo ti lamenti?{LF}E con CHI ti lamenti?{#Name="Zero"}`
 What are you bitching about?{LF}And who are you bitching TO?{#Name="Zero"}
 
-`Non pensarci. È complicato.{#Name="Dito"}`
+`Non pensarci. E' complicato.{#Name="Dito"}`
 Don't worry about it. It's complicated.{#Name="Dito"}
 
 `Hmm. Quel cancello mi sembra familiare...{#Name="Zero"}`

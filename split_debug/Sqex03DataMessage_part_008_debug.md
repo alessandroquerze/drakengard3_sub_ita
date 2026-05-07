@@ -88,7 +88,7 @@ Yeah, if they're cuttin' off his junk...{#Name="Dito"}
 `Non vedo l'ora di vedere i giocattoli di Lady Three.{LF}Ehm, le sue forbici! Ahhh...{#Name="Decadus"}`
 I can't wait to see Lady Three's toys.{LF}Er, her scissors! Ahhh...{#Name="Decadus"}
 
-`È proprio vivace ora che abbiamo tutti questi amici, eh?{#Name="Mikhail"}`
+`E' proprio vivace ora che abbiamo tutti questi amici, eh?{#Name="Mikhail"}`
 Sure is lively now that we have all these friends, huh?{#Name="Mikhail"}
 
 `Amici? Io non ho amici qui.{#Name="Zero"}`
@@ -277,7 +277,7 @@ You can "feel" it? Goodness, what a load of{LF}superstitious nonsense.{#Name="Ce
 `Io, naturalmente, respingo simili follie mistiche{LF}in favore della scienza.{#Name="Cent"}`
 I, of course, reject such mystic foolishness{LF}in favor of science.{#Name="Cent"}
 
-`Prove! Teorie! Sperimentazione!{LF}È così che funziona il mondo!{#Name="Cent"}`
+`Prove! Teorie! Sperimentazione!{LF}E' così che funziona il mondo!{#Name="Cent"}`
 Proof! Theories! Experimentation!{LF}This is the way of the world!{#Name="Cent"}
 
 `Maaa forse non dovrei aspettarmi che voi Neanderthal{LF}possiate capire qualcosa del genere.{#Name="Cent"}`

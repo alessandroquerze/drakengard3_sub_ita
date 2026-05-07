@@ -40,7 +40,7 @@ You poor thing. I'd love to let you rest{LF}your head on my magnificent bosom...
 `Ma sembra che il destino ci abbia riservato{LF}invece uno scontro.{#Name="Five"}`
 But it seems like we're destined{LF}to fight instead.{#Name="Five"}
 
-`Il fato può essere una padrona davvero crudele...{#Name="Five"}`
+`La sorte può essere una padrona davvero crudele...{#Name="Five"}`
 Fate can be such a cruel mistress...{#Name="Five"}
 
 `Cosa vuoi da noi, Zero?{#Name="One"}`
@@ -55,7 +55,7 @@ There's only enough room in this{LF}world for one Intoner.{#Name="Zero"}
 `E uccideresti le tue stesse sorelle{LF}per questo diritto?{#Name="One"}`
 And you'd kill your own sisters{LF}for that right?{#Name="One"}
 
-`È più o meno quello che sto facendo, sì.{#Name="Zero"}`
+`E' più o meno quello che sto facendo, sì.{#Name="Zero"}`
 That's kind of what I'm doing, yeah.{#Name="Zero"}
 
 `...Traditrice.{#Name="One"}`
@@ -70,7 +70,7 @@ Heh. Well, look who decided to summon a daemon.{#Name="Zero"}
 `Quello che hai lì non è più un drago, One.{#Name="Zero"}`
 That's no longer a dragon you've got there, One.{#Name="Zero"}
 
-`È solo un mostro!{#Name="Zero"}`
+`E' solo un mostro!{#Name="Zero"}`
 It's just a monster!{#Name="Zero"}
 
 `Taci! Non spetta a te giudicarmi, sorella!{#Name="One"}`
@@ -79,7 +79,7 @@ Shut up! I'm not subject to your judgment, Sister!{#Name="One"}
 `Noi Intoner abbiamo giurato di mantenere l'equilibrio del mondo.{#Name="One"}`
 We Intoners swore to keep the world in balance.{#Name="One"}
 
-`E ora vuoi tutto il nostro potere per te?{LF}È vergognoso!{#Name="One"}`
+`E ora vuoi tutto il nostro potere per te?{LF}E' vergognoso!{#Name="One"}`
 And now you seek all our power for yourself?{LF}It's shameful!{#Name="One"}
 
 `Bla bla bla bla. Taci e MUORI UNA BUONA VOLTA!{#Name="Zero"}`
@@ -121,7 +121,7 @@ How can he still have so much strength...{#Name="One"}
 `{06}>{#Name="Zero"}`
 {06}>{#Name="Zero"}
 
-`È fuggita.{#Name="One"}`
+`E' fuggita.{#Name="One"}`
 She fled.{#Name="One"}
 
 `Pensavi davvero di poter uccidere le Intoner?{#Name="One"}`
@@ -238,7 +238,7 @@ It won't... It won't happen again...{#Name="Mikhail"}
 `Ma che...!?{#Name="Soldier B"}`
 What the...!?{#Name="Soldier B"}
 
-`È lei! Quella Intoner impazzita è venuta a ucciderci!{#Name="Soldier A"}`
+`E' lei! Quella Intoner impazzita è venuta a ucciderci!{#Name="Soldier A"}`
 It's her! That crazed Intoner's come to kill us!{#Name="Soldier A"}
 
 `Gyaaaah!{#Name="Soldier G"}`
@@ -247,7 +247,7 @@ Gyaaaah!{#Name="Soldier G"}
 `Calma. Anche lei è una Intoner!{#Name="Soldier E"}`
 Take it easy. She's an Intoner, too!{#Name="Soldier E"}
 
-`M-Ma non è per niente come Lady Five... È terrificante!{#Name="Soldier G"}`
+`M-Ma non è per niente come Lady Five... E' terrificante!{#Name="Soldier G"}`
 B-But she's nothing like Lady Five... She's terrifying!{#Name="Soldier G"}
 
 `Merda... Quel drago si dirige verso la corazzata!{#Name="Soldier C"}`
@@ -262,7 +262,7 @@ Does that dragon seem...small to you?{#Name="Soldier D"}
 `Direi solo un cucciolo.{#Name="Soldier C"}`
 Just a hatchling, I'd wager.{#Name="Soldier C"}
 
-`Ma non trattenetevi. È comunque letale!{#Name="Soldier C"}`
+`Ma non trattenetevi. E' comunque letale!{#Name="Soldier C"}`
 But don't hold back. It's still lethal!{#Name="Soldier C"}
 
 `ダミー{#Name="ダミー"}`
@@ -280,7 +280,7 @@ Damn. We need a new plan, and fast!{#Name="Soldier A"}
 `Ve l'ho detto, non abbiamo speranze contro una Intoner!{#Name="Soldier E"}`
 I told you, we don't stand a chance against an Intoner!{#Name="Soldier E"}
 
-`È una punizione divina? Abbiamo peccato in qualche modo?{#Name="Soldier F"}`
+`E' una punizione divina? Abbiamo peccato in qualche modo?{#Name="Soldier F"}`
 Is this divine punishment? Have we sinned in some way?{#Name="Soldier F"}
 
 `Non dire sciocchezze! La nostra Lady Five è dalla parte della benevolenza!{#Name="Soldier B"}`
@@ -295,7 +295,7 @@ Don't get yourself killed over it. Lady Five still has Dito, remember?{#Name="So
 `Pfft. Quel piccolo sadico idiota?{#Name="Soldier B"}`
 Pfft. That sadistic little twit?{#Name="Soldier B"}
 
-`È Zero! Tutta la fanteria al fronte!{#Name="Soldier D"}`
+`E' Zero! Tutta la fanteria al fronte!{#Name="Soldier D"}`
 It's Zero! All infantry to the front!{#Name="Soldier D"}
 
 `Una donna sola contro un esercito... Deve essere pazza!{#Name="Soldier G"}`

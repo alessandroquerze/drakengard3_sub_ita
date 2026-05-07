@@ -166,7 +166,7 @@ Huh?{#Name="Zero"}
 `Whoa...{#Name="Mikhail"}`
 Whoa...{#Name="Mikhail"}
 
-`È morta, è morta, è morta!{#Name="Dito"}`
+`E' morta, è morta, è morta!{#Name="Dito"}`
 She's dead, she's dead, she's dead!{#Name="Dito"}
 
 `Ti piaceva proprio farmi sgobbare fino all'osso, eh?{#Name="Dito"}`
@@ -217,7 +217,7 @@ My fireballs aren't working!{#Name="Mikhail"}
 `Ha una specie di strana barriera.{LF}Caricalo frontalmente e basta!{#Name="Zero"}`
 He's got some kind of weird barrier.{LF}Just ram his ass head-on!{#Name="Zero"}
 
-`È pericoloso attaccare subito dopo che riemerge!{#Name="Zero"}`
+`E' pericoloso attaccare subito dopo che riemerge!{#Name="Zero"}`
 It's dangerous to attack right after he surfaces!{#Name="Zero"}
 
 `Ascolta, scemo! Aspetta che{LF}abbia un'apertura e poi attacca!{#Name="Zero"}`

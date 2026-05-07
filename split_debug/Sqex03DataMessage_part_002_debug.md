@@ -112,7 +112,7 @@ The energy blasts that fire out of the magic circles{LF}can be destroyed. If you
 `Se ti trovi in difficoltà, prova ad attivare{LF}la Modalità Intoner. Non solo potrai infliggere{LF}molti più danni, ma diventerai anche{LF}invincibile per un breve periodo.{#Name="Recording 2060_20: Armaros"}`
 If you find yourself in trouble, try triggering{LF}Intoner Mode. Not only will you be able to deal{LF}a ton of additional damage, you'll also make{LF}yourself invincible for a short period of time.{#Name="Recording 2060_20: Armaros"}
 
-`È meglio distruggere rapidamente quei fastidiosi cannoni.{LF}Prova ad attaccarli mentre passi da una torre all'altra;{LF}una volta tolti di mezzo, potrai attaccare{LF}Armaros senza distrazioni inutili.{#Name="Recording 2060_30: Armaros"}`
+`E' meglio distruggere rapidamente quei fastidiosi cannoni.{LF}Prova ad attaccarli mentre passi da una torre all'altra;{LF}una volta tolti di mezzo, potrai attaccare{LF}Armaros senza distrazioni inutili.{#Name="Recording 2060_30: Armaros"}`
 It's best to destroy those pesky cannons quickly.{LF}Try attacking them while transitioning between towers;{LF}once they're out of the picture, you can attack{LF}Armaros without any unnecessary distractions.{#Name="Recording 2060_30: Armaros"}
 
 `Il nucleo pulsante appeso sotto la fortezza è{LF}il suo punto debole. Non farti ingannare dai suoi movimenti;{LF}prova a prevedere dove andrà mentre attacchi.{#Name="Recording 2060_40: Armaros"}`
@@ -127,7 +127,7 @@ You can use {01}{0B} to try and evade any attacks{LF}you fail to shoot down. Be 
 `Se una delle bambole di Armisael ti si aggrappa,{LF}alla fine esploderà e infliggerà danni.{LF}Usa salti, schivate e altre manovre rapide{LF}per provare a scrollartela di dosso.{#Name="Recording 3060_10: Armisael"}`
 If one of Armisael's dolls clings to you,{LF}it'll eventually explode and deal damage.{LF}Use jumps, evades, and other quick{LF}maneuvers to try and shake it off.{#Name="Recording 3060_10: Armisael"}
 
-`L'attacco a raggio di Armisael consuma molta{LF}della sua energia canora, indebolendolo per un certo{LF}periodo subito dopo. È la tua occasione per colpire!{#Name="Recording 3060_20: Armisael"}`
+`L'attacco a raggio di Armisael consuma molta{LF}della sua energia canora, indebolendolo per un certo{LF}periodo subito dopo. E' la tua occasione per colpire!{#Name="Recording 3060_20: Armisael"}`
 Armisael's beam attack consumes a great deal{LF}of its song power, weakening it for a period of{LF}time afterward. That's your chance to strike!{#Name="Recording 3060_20: Armisael"}
 
 `Quando vedi il marcatore arancione, è la tua{LF}occasione per attaccare Armisael. Non sprecarla!{#Name="Recording 3060_30: Armisael"}`

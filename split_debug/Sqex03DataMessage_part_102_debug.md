@@ -1,7 +1,7 @@
 `L'unico modo per passare da qui è sui nostri cadaveri!{#Name="Soldier B"}`
 The only way through here is over our dead bodies!{#Name="Soldier B"}
 
-`Oh ho! È davvero il genere di cosa che{LF}vuoi dire a un'Intoner e al suo discepolo?{#Name="Octa"}`
+`Oh ho! E' davvero il genere di cosa che{LF}vuoi dire a un'Intoner e al suo discepolo?{#Name="Octa"}`
 Oh ho! Is that really the kind of thing you{LF}want to say to an Intoner and her disciple?{#Name="Octa"}
 
 `Tenetela a bada il più a lungo possibile!{LF}Lady One conta su di noi!{#Name="Soldier E"}`
@@ -31,13 +31,13 @@ But your flower...{#Name="Mikhail"}
 `Senti. Tu pensa solo a uccidere One.{#Name="Zero"}`
 Look. You just worry about killing One.{#Name="Zero"}
 
-`È un'avversaria potente.{#Name="Zero"}`
+`E' un'avversaria potente.{#Name="Zero"}`
 She's a powerful foe.{#Name="Zero"}
 
 `Tiene la sua magia sigillata dentro{LF}di sé solo con la pura volontà—{#Name="Zero"}`
 She keeps her magic sealed inside{LF}her by pure will alone—{#Name="Zero"}
 
-`È così che è riuscita a restare sana di mente.{#Name="Zero"}`
+`E' così che è riuscita a restare sana di mente.{#Name="Zero"}`
 That's how she's managed to stay sane.{#Name="Zero"}
 
 `E non riuscirai a batterla{LF}se continui a distrarti!{#Name="Zero"}`
@@ -208,7 +208,7 @@ I thought you...weren't going to interfere.{#Name="Zero"}
 `Sì...ma...{#Name="Accord"}`
 Yes...but...{#Name="Accord"}
 
-`È andata...un po' diversamente...da come avevo previsto...{#Name="Accord"}`
+`E' andata...un po' diversamente...da come avevo previsto...{#Name="Accord"}`
 This went...a little different...than I had planned...{#Name="Accord"}
 
 `Tuttavia...{#Name="Accord"}`

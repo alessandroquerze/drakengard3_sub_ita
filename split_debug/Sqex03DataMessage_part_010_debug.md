@@ -253,7 +253,7 @@ And the stronger an Intoner's magical force,{LF}the stronger that craving become
 `Detto questo, alcuni di loro riescono a controllare questi impulsi.{#Name="Accord"}`
 That said, some of them do manage to control such longings.{#Name="Accord"}
 
-`È per questo che Mikhail, per esempio,{LF}riesce a restare calmo vicino a Zero.{#Name="Accord"}`
+`E' per questo che Mikhail, per esempio,{LF}riesce a restare calmo vicino a Zero.{#Name="Accord"}`
 That's why Mikhail here can stay calm around Zero,{LF}for example.{#Name="Accord"}
 
 `Sì! Riesco a controllarlo! Sono fortissimo!{#Name="Mikhail"}`
@@ -262,7 +262,7 @@ Yeah! I can control it! I'm awesome!{#Name="Mikhail"}
 `Hmmm... Ho ancora alcune domande senza risposta.{#Name="Octa"}`
 Hmmm... I still have some unanswered questions.{#Name="Octa"}
 
-`È vero, questo spiega perché i draghi sembrano intenzionati{LF}a divorare gli Intoner.{#Name="Octa"}`
+`E' vero, questo spiega perché i draghi sembrano intenzionati{LF}a divorare gli Intoner.{#Name="Octa"}`
 True, this explains why dragons seem intent on{LF}devouring Intoners.{#Name="Octa"}
 
 `Ma perché dovrebbero avere un desiderio simile, tanto per cominciare?{#Name="Octa"}`

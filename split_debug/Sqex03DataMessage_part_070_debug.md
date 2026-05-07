@@ -112,7 +112,7 @@ You seem to be somewhat confused, Octa.{#Name="Three"}
 `Un discepolo non sceglie la sua Intoner.{#Name="Three"}`
 A disciple doesn't choose his Intoner.{#Name="Three"}
 
-`È una Intoner a scegliere il proprio discepolo.{#Name="Three"}`
+`E' una Intoner a scegliere il proprio discepolo.{#Name="Three"}`
 An Intoner chooses her disciple.{#Name="Three"}
 
 `{06}>{#Name="Octa"}`
@@ -181,7 +181,7 @@ Did he really just do that?{#Name="Dito"}
 `Il drago mostra la sua vera natura...{#Name="Decadus"}`
 The dragon shows his true colors...{#Name="Decadus"}
 
-`È questo che sono i draghi—{#Name="Octa"}`
+`E' questo che sono i draghi—{#Name="Octa"}`
 Is this what dragons are—{#Name="Octa"}
 
 `{06}>{#Name="Dito"}`
@@ -298,7 +298,7 @@ Look! It's the accursed songstress's slaves of the night!{#Name="Soldier C"}
 `In realtà, sono discepoli?{#Name="Soldier D"}`
 Actually, they're disciples?{#Name="Soldier D"}
 
-`È la stessa cosa, idiota!{#Name="Soldier C"}`
+`E' la stessa cosa, idiota!{#Name="Soldier C"}`
 It's the same thing, you idiot!{#Name="Soldier C"}
 
 `Io...io proteggerò Lady Three fino alla fine!{#Name="Soldier G"}`

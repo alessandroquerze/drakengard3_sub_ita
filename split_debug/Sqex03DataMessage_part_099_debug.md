@@ -97,7 +97,7 @@ Commoners so often pick the wrong person{LF}to devote themselves to, you know?{#
 `Ho ho! Questo sì che è un bel dilemma.{#Name="Octa"}`
 Ho ho! This is quite the conundrum.{#Name="Octa"}
 
-`È difficile inventarsi una risposta pungente quando{LF}non riesci nemmeno a capire cosa stanno dicendo.{#Name="Octa"}`
+`E' difficile inventarsi una risposta pungente quando{LF}non riesci nemmeno a capire cosa stanno dicendo.{#Name="Octa"}`
 It's hard to come up with a pithy retort when{LF}you can't even understand what they're saying.{#Name="Octa"}
 
 `あ、すまん。つい、ヤツらにつられて……{#Name="ゼロ"}`
@@ -142,10 +142,10 @@ Lady...Two...{#Name="Cent"}
 `Devi morire... Tu...devi...moriiire...{#Name="Two"}`
 You must die... You...must...diiieee...{#Name="Two"}
 
-`È stata consumata dal suo canto.{#Name="Zero"}`
+`E' stata consumata dal suo canto.{#Name="Zero"}`
 She's been consumed by her song.{#Name="Zero"}
 
-`Ugggh... È tutta colpa mia...{#Name="Cent"}`
+`Ugggh... E' tutta colpa mia...{#Name="Cent"}`
 Ugggh... This is all my fault...{#Name="Cent"}
 
 `Se solo... Se solo non l'avessi lasciata...{#Name="Cent"}`
@@ -199,7 +199,7 @@ Lady Two...{#Name="Cent"}
 `Cos'è questo?{#Name="Cent"}`
 What is this?{#Name="Cent"}
 
-`È una trappola! Correte!{#Name="Zero"}`
+`E' una trappola! Correte!{#Name="Zero"}`
 It's a trap! Run!{#Name="Zero"}
 
 `Era...sempre stato il suo piano...?{#Name="Octa"}`

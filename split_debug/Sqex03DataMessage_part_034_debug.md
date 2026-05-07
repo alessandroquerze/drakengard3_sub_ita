@@ -196,7 +196,7 @@ Y-You...murderous savage...{#Name="Old Man"}
 `Assassina? Credo tu voglia dire Intoner.{#Name="Zero"}`
 Savage? I think you mean Intoner.{#Name="Zero"}
 
-`È lì dentro! Abbattetela!{#Name="Soldier A"}`
+`E' lì dentro! Abbattetela!{#Name="Soldier A"}`
 She's in there! Take her down!{#Name="Soldier A"}
 
 `Uccidete il demone traditore!{#Name="Soldier C"}`
@@ -205,7 +205,7 @@ Kill the traitorous demon!{#Name="Soldier C"}
 `Michael...{#Name="Zero"}`
 Michael...{#Name="Zero"}
 
-`È ora...di mettere fine alle Intoner.{#Name="Zero"}`
+`E' ora...di mettere fine alle Intoner.{#Name="Zero"}`
 It's time...to put an end to the Intoners.{#Name="Zero"}
 
 `★ゼロと敵のやりとり。{#Name="ゼロ"}`
@@ -247,10 +247,10 @@ Women, children, the elderly... It doesn't matter.{LF}If you stand in my way, yo
 `Se è questo che volete...allora mettetevi in fila!{#Name="Zero"}`
 If that's what you want...then get in line!{#Name="Zero"}
 
-`È lei! È Zero!{#Name="Soldier A"}`
+`E' lei! E' Zero!{#Name="Soldier A"}`
 It's her! It's Zero!{#Name="Soldier A"}
 
-`Ha un aspetto così sinistro... È davvero una Intoner?{#Name="Soldier F"}`
+`Ha un aspetto così sinistro... E' davvero una Intoner?{#Name="Soldier F"}`
 She looks so sinister... Is she really an Intoner?{#Name="Soldier F"}
 
 `Hyaaaa! Occhi aperti, uomini! Tenete al sicuro le nostre Intoners!{#Name="Soldier B"}`
@@ -268,7 +268,7 @@ Somebody help me!{#Name="Soldier D"}
 `Una guerra tra Intoner... Il mondo è davvero impazzito.{#Name="Soldier F"}`
 A war between Intoners... Truly the world has gone mad.{#Name="Soldier F"}
 
-`È finita... Moriremo tutti...{#Name="Soldier G"}`
+`E' finita... Moriremo tutti...{#Name="Soldier G"}`
 It's over... We're all going to die...{#Name="Soldier G"}
 
 `Continuate così! Non perdete la speranza!{#Name="Soldier F"}`

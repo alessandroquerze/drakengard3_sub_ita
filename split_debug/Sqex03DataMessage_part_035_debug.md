@@ -1,7 +1,7 @@
 `No... Miseria, no!{#Name="Soldier B"}`
 No... Dammit, no!{#Name="Soldier B"}
 
-`Ugh. È troppo forte!{#Name="Soldier A"}`
+`Ugh. E' troppo forte!{#Name="Soldier A"}`
 Ugh. She's so strong!{#Name="Soldier A"}
 
 `Di questo passo, raggiungerà presto le Intoner!{#Name="Soldier G"}`
@@ -130,10 +130,10 @@ Move!{#Name="Zero"}
 `{06}>{#Name="Soldier B"}`
 {06}>{#Name="Soldier B"}
 
-`Non può essere una Intoner... È impossibile!{#Name="Soldier G"}`
+`Non può essere una Intoner... E' impossibile!{#Name="Soldier G"}`
 She can't be an Intoner... There's no way!{#Name="Soldier G"}
 
-`È un dannato demone...{#Name="Soldier F"}`
+`E' un dannato demone...{#Name="Soldier F"}`
 She's a damned demon...{#Name="Soldier F"}
 
 `Non c'è modo di vincere...{LF}Moriremo tutti!{#Name="Soldier G"}`
@@ -187,7 +187,7 @@ Snap out of it, you pathetic craven!{LF}You're a soldier!{#Name="Soldier B"}
 `via, via, via, VIA!{#Name="Zero"}`
 Move, move, move, MOVE!{#Name="Zero"}
 
-`È Zero! Zero la traditrice!{#Name="Soldier E"}`
+`E' Zero! Zero la traditrice!{#Name="Soldier E"}`
 It's Zero! Zero the betrayer!{#Name="Soldier E"}
 
 `Toglietevi dalle palle!{#Name="Zero"}`
@@ -250,7 +250,7 @@ Soldier G
 ` `
  
 
-`È passato molto tempo, Zero.{#Name="One"}`
+`E' passato molto tempo, Zero.{#Name="One"}`
 It's been a long time, Zero.{#Name="One"}
 
 `Davvero? Non me n'ero accorta.{#Name="Zero"}`

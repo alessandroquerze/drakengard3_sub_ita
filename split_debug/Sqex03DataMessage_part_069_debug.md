@@ -16,7 +16,7 @@ I mean, what's the point of owning art{LF}if you don't view it once in a while?{
 `Sei proprio un tipo raffinato, Octa.{#Name="Zero"}`
 You're a class act, Octa.{#Name="Zero"}
 
-`Bene. Sarà divertente. È da una vita che non ho{LF}qualcosa di carnoso da fare a pezzi.{#Name="Zero"}`
+`Bene. Sarà divertente. E' da una vita che non ho{LF}qualcosa di carnoso da fare a pezzi.{#Name="Zero"}`
 Nice. This should be fun. I haven't had{LF}something meaty to rip into in forever.{#Name="Zero"}
 
 `C'è qualcosa di strano in quest'albero.{#Name="Zero"}`

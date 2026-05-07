@@ -19,7 +19,7 @@ It is?{#Name="Mikhail"}
 `Sì. Così posso darti qualsiasi sbobba vecchia trovi{LF}in giro. Per me è molto più facile.{#Name="Zero"}`
 Yeah. Then I can feed you any old slop I find{LF}lying around. That's way easier for me.{#Name="Zero"}
 
-`Aw, dai! È umiliante!{#Name="Mikhail"}`
+`Aw, dai! E' umiliante!{#Name="Mikhail"}`
 Aw, come on! That's just humiliating!{#Name="Mikhail"}
 
 `Uh. Che parolone, per te.{#Name="Zero"}`
@@ -31,7 +31,7 @@ We did it!{#Name="Mikhail"}
 `Ora possiamo tornare indietro! Possiamo tornare e rivedere tutti!{#Name="Mikhail"}`
 Now we can go back! We can go back and see everyone again!{#Name="Mikhail"}
 
-`Sì. È proprio l'ultima cosa di cui ho bisogno adesso.{#Name="Zero"}`
+`Sì. E' proprio l'ultima cosa di cui ho bisogno adesso.{#Name="Zero"}`
 Yeah. That's the last thing I need right now.{#Name="Zero"}
 
 `Eh? Non vuoi vedere tutti? Devi volerlo!{#Name="Mikhail"}`
@@ -202,7 +202,7 @@ Nice.{#Name="Zero"}
 `Dove diavolo è One?{#Name="Zero"}`
 Where the hell is One?{#Name="Zero"}
 
-`Da quella parte! È volata dentro quello stormo di viverne!{#Name="Mikhail"}`
+`Da quella parte! E' volata dentro quello stormo di viverne!{#Name="Mikhail"}`
 That way! She took off into that flock of wyverns!{#Name="Mikhail"}
 
 `Stupide viverne! Branco di bastardi di bassa lega{LF}ruba-lavoro!{#Name="Mikhail"}`

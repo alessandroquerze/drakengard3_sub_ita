@@ -31,16 +31,16 @@ Many would-be heroes came to the castle, united by dreams{LF}of my death. The fi
 `Se nessun eroe è abbastanza forte da sconfiggermi, dovrò semplicemente{LF}crearne uno io stessa. Mi serve un figlio forte. Un eroe terrificante.{LF}Uno con abbastanza potere da rovesciare sua madre...{#Name="Tyrant's Playthings Lv. 4"}`
 If no hero is strong enough to defeat me, I'll just have to{LF}make one myself. I need a strong child. A terrifying hero.{LF}One with enough power to topple his own mother...{#Name="Tyrant's Playthings Lv. 4"}
 
-`È un re grande e potente.{LF}{LF}Non dirgli cosa fare.{#Name="Darkseal Order Lv. 1"}`
+`E' un re grande e potente.{LF}{LF}Non dirgli cosa fare.{#Name="Darkseal Order Lv. 1"}`
 He is a great and powerful king.{LF}{LF}Do not tell him what to do.{#Name="Darkseal Order Lv. 1"}
 
-`È un potere vasto e malvagio.{LF}{LF}Non tentare di svelarlo.{#Name="Darkseal Order Lv. 2"}`
+`E' un potere vasto e malvagio.{LF}{LF}Non tentare di svelarlo.{#Name="Darkseal Order Lv. 2"}`
 It is a vast and evil power.{LF}{LF}Do not attempt to unravel it.{#Name="Darkseal Order Lv. 2"}
 
-`È un nemico forte e temibile.{LF}{LF}Non sfidarlo in battaglia.{#Name="Darkseal Order Lv. 3"}`
+`E' un nemico forte e temibile.{LF}{LF}Non sfidarlo in battaglia.{#Name="Darkseal Order Lv. 3"}`
 He is a strong and fearsome foe.{LF}{LF}Do not challenge him to battle.{#Name="Darkseal Order Lv. 3"}
 
-`È un bambino piccolo e tenero.{LF}{LF}Non disturbarlo ancora.{#Name="Darkseal Order Lv. 4"}`
+`E' un bambino piccolo e tenero.{LF}{LF}Non disturbarlo ancora.{#Name="Darkseal Order Lv. 4"}`
 He is a small and tender child.{LF}{LF}Do not disturb him yet.{#Name="Darkseal Order Lv. 4"}
 
 `-{#Name="格闘110"}`
@@ -55,13 +55,13 @@ He is a small and tender child.{LF}{LF}Do not disturb him yet.{#Name="Darkseal O
 `-{#Name="格闘113"}`
 -{#Name="格闘113"}
 
-`Un viaggio è una cosa piacevole, soprattutto se serve a scoprire i{LF}segreti di una donna. È tremendamente eccitante, come puoi{LF}vedere da solo se sposti gli occhi appena un po' più in basso...{#Name="Everlasting Ring Lv. 1"}`
+`Un viaggio è una cosa piacevole, soprattutto se serve a scoprire i{LF}segreti di una donna. E' tremendamente eccitante, come puoi{LF}vedere da solo se sposti gli occhi appena un po' più in basso...{#Name="Everlasting Ring Lv. 1"}`
 A journey is an enjoyable thing, especially one to learn the{LF}secrets of a woman. It's ever so exciting, which you can{LF}see for yourself if you move your eyes juuust a bit lower...{#Name="Everlasting Ring Lv. 1"}
 
 `Scalare quelle due montagne è così piacevole. Sentire il{LF}terreno morbido sotto di te, riempirti dei piccoli{LF}frutti trovati in cima... Ah, se solo avessi più bocche!{#Name="Everlasting Ring Lv. 2"}`
 Climbing those two mountains is so enjoyable. Feeling the{LF}soft ground beneath you, stuffing yourself with the small{LF}fruits found at the peak... Ah, that I had more mouths!{#Name="Everlasting Ring Lv. 2"}
 
-`È meraviglioso riposare nella foresta madre. Che il tuo{LF}naso segua l'aroma del sottobosco, o che tu osi{LF}esplorare la caverna oscura che si trova sotto... Ah, che estasi!{#Name="Everlasting Ring Lv. 3"}`
+`E' meraviglioso riposare nella foresta madre. Che il tuo{LF}naso segua l'aroma del sottobosco, o che tu osi{LF}esplorare la caverna oscura che si trova sotto... Ah, che estasi!{#Name="Everlasting Ring Lv. 3"}`
 It's wonderful to rest in the mother forest. Whether your{LF}nose follows the aroma of the underbrush, or you dare{LF}explore the dark cavern that lies below... Ah, what bliss!{#Name="Everlasting Ring Lv. 3"}
 
 `E non dimentichiamo una passeggiata fino alla sorgente! Una generosa{LF}sorsata del liquido che trabocca dal profondo del mio amato{LF}stagno basterebbe a irrigidire l'arma di chiunque.{#Name="Everlasting Ring Lv. 4"}`
@@ -82,7 +82,7 @@ The captain had three sons left, and the one who slew him{LF}would gain all that
 `Perché nessuno riconosce le mie arti arcane? Perché non{LF}mi rispettano? Non mi applaudono? Perché, perché, perché!? Lo odio!{LF}Voglio sbatterli tutti a terra!{#Name="Ring of Lament Lv. 1"}`
 Why does no one recognize my arcane skills? Why do they{LF}not respect me? Applaud me? Why, why, why!? I hate it!{LF}I want to beat all of them into the ground!{#Name="Ring of Lament Lv. 1"}
 
-`È LUI! LUI ruba la mia magia! È per questo che non ricevo{LF}gli elogi che merito così tanto. È tutta colpa sua. Ecco perché{LF}devo ucciderlo. Lo faccio per la giustizia. Per la razza umana!{#Name="Ring of Lament Lv. 2"}`
+`E' LUI! LUI ruba la mia magia! E' per questo che non ricevo{LF}gli elogi che merito così tanto. E' tutta colpa sua. Ecco perché{LF}devo ucciderlo. Lo faccio per la giustizia. Per la razza umana!{#Name="Ring of Lament Lv. 2"}`
 It's HIM! HE steals my magic! That's why I don't receive{LF}the praise I so richly deserve. It's all his fault. That's why{LF}I must kill him. I do it for justice. For the human race!{#Name="Ring of Lament Lv. 2"}
 
 `Il freddo acciaio è la risposta perfetta alle sue parole vuote. Non sono{LF}io a sbagliare! Con questa lama maledetta, metterò a tacere lo{LF}stregone e dimostrerò di essere degno! Non lui! Io! IO!{#Name="Ring of Lament Lv. 3"}`

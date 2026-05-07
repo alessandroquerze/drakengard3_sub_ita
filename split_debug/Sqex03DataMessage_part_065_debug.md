@@ -271,7 +271,7 @@ Safe with Octa, I hope!{#Name="Soldier F"}
 `Allora dobbiamo proteggerli entrambi!{#Name="Soldier E"}`
 Then we must protect the both of them!{#Name="Soldier E"}
 
-`È inutile! Non riusciamo nemmeno a scalfirli!{#Name="Soldier G"}`
+`E' inutile! Non riusciamo nemmeno a scalfirli!{#Name="Soldier G"}`
 This is hopeless! We can't even scratch 'em!{#Name="Soldier G"}
 
 `Tira fuori la testa dal culo e continua a combattere!{#Name="Soldier B"}`

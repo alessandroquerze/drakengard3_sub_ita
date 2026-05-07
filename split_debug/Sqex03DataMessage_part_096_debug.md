@@ -37,7 +37,7 @@ M-My Lady, please, if you're worried about us, we—{#Name="Decadus"}
 `No.{#Name="Zero"}`
 No.{#Name="Zero"}
 
-`È inevitabile. I discepoli non possono mantenere{LF}forma umana senza il potere di un'Intoner.{#Name="Zero"}`
+`E' inevitabile. I discepoli non possono mantenere{LF}forma umana senza il potere di un'Intoner.{#Name="Zero"}`
 It's unavoidable. Disciples can't remain{LF}in human form without an Intoner's power.{#Name="Zero"}
 
 `Prima o poi sparirete.{#Name="Zero"}`
@@ -94,7 +94,7 @@ Octa? Can I ask you a favor?{#Name="Decadus"}
 `Mi ignori, eh? Una simile timidezza{LF}è davvero sconveniente...{#Name="Cent"}`
 Ignoring me, eh? Such bashfulness{LF}really is unbecoming...{#Name="Cent"}
 
-`È morto? Ehi, ehi, è morto?{LF}Whoa, guarda tutto quel sangue!{#Name="Dito"}`
+`E' morto? Ehi, ehi, è morto?{LF}Whoa, guarda tutto quel sangue!{#Name="Dito"}`
 Is he dead? Hey, hey, is he dead?{LF}Whoa, look at all the blood!{#Name="Dito"}
 
 `Ha ha! Fammi un favore e salta i medici,{LF}vuoi?:::{#Name="Dito"}`
@@ -241,10 +241,10 @@ Enemy sighted! What the...?{#Name="Soldier G"}
 `Che c'è?{#Name="Soldier E"}`
 What is it?{#Name="Soldier E"}
 
-`È sola. Zero è da sola!{#Name="Soldier G"}`
+`E' sola. Zero è da sola!{#Name="Soldier G"}`
 She's alone. Zero's by herself!{#Name="Soldier G"}
 
-`È ferita!{#Name="Soldier F"}`
+`E' ferita!{#Name="Soldier F"}`
 She's wounded!{#Name="Soldier F"}
 
 `Forza! Possiamo ancora farcela!{#Name="Soldier C"}`
@@ -304,7 +304,7 @@ All our soldiers are wounded!{#Name="Soldier F"}
 `Niente ritirata! Continuate ad avanzare!{#Name="Soldier B"}`
 No retreat! Keep going!{#Name="Soldier B"}
 
-`Porca merda, è Zero! È qui!{#Name="Soldier G"}`
+`Porca merda, è Zero! E' qui!{#Name="Soldier G"}`
 Holy shit, it's Zero! She's here!{#Name="Soldier G"}
 
 `C'è qualcun altro?{#Name="Soldier A"}`

@@ -148,7 +148,7 @@ Intoners offer only pestilence to this world.{#Name="One"}
 `Un giorno saranno la malattia che porterà alla rovina tutta la vita umana.{#Name="One"}`
 Someday, they will be the disease that brings ruin to all human life.{#Name="One"}
 
-`È per questo che stai cercando di ucciderci: per salvare il mondo.{#Name="One"}`
+`E' per questo che stai cercando di ucciderci: per salvare il mondo.{#Name="One"}`
 That's why you're trying to kill us: to save the world.{#Name="One"}
 
 `E una volta che sarai riuscita a uccidere le tue sorelle...{#Name="One"}`

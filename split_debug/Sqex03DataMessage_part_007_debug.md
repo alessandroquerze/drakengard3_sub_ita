@@ -64,7 +64,7 @@ No! That's not true! I don't look like that at all!{#Name="Mikhail"}
 `Non preoccuparti, va bene così.{#Name="Zero"}`
 Don't worry, it's fine.{#Name="Zero"}
 
-`È così che sono fatti i draghi.{#Name="Zero"}`
+`E' così che sono fatti i draghi.{#Name="Zero"}`
 That's just how dragons are made.{#Name="Zero"}
 
 `Ma... ma Zero, io...{#Name="Mikhail"}`
@@ -73,7 +73,7 @@ But...but Zero, I...{#Name="Mikhail"}
 `Io...{#Name="Mikhail"}`
 I...{#Name="Mikhail"}
 
-`Basta parlare. È ora.{#Name="Zero"}`
+`Basta parlare. E' ora.{#Name="Zero"}`
 Enough talk. It's time.{#Name="Zero"}
 
 `La battaglia finale ci attende.{#Name="Zero"}`
@@ -250,13 +250,13 @@ I bet they smell TERRIBLE, too. Corpses bloat, you know.{LF}They fill with gas a
 `Urgh... Lady Four giace sconfitta, e io sono poco più{LF}di un miserabile servo sottomesso.{#Name="Decadus"}`
 Urgh... Lady Four lies defeated, and I am little more{LF}than a subservient wretch.{#Name="Decadus"}
 
-`È troppo... in così tanti sensi...{#Name="Decadus"}`
+`E' troppo... in così tanti sensi...{#Name="Decadus"}`
 It's too much...in so many ways...{#Name="Decadus"}
 
 `Ehi, cos'è quella cosa che hai legata al braccio?{#Name="Zero"}`
 Hey, what's that thing you've got strapped to your arm?{#Name="Zero"}
 
-`Questa? È un'arma da arti marziali.{#Name="Decadus"}`
+`Questa? E' un'arma da arti marziali.{#Name="Decadus"}`
 This? It's a martial-arts weapon.{#Name="Decadus"}
 
 `Dammela.{#Name="Zero"}`

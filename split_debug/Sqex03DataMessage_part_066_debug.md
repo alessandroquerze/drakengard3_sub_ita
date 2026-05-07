@@ -55,7 +55,7 @@ AAAAAAAAAAAAH!{#Name="Mikhail"}
 `Bel colpo, Z.{LF}Mi sa che se l'è fatta addosso.{#Name="Dito"}`
 Nice going there, Z.{LF}I think he just pissed himself.{#Name="Dito"}
 
-`Non è colpa mia! È stata cattiva con me!{LF}È stata cattiva!{#Name="Mikhail"}`
+`Non è colpa mia! E' stata cattiva con me!{LF}E' stata cattiva!{#Name="Mikhail"}`
 It's not my fault! She was mean to me!{LF}She was mean!{#Name="Mikhail"}
 
 `Urrrnnngghhh...{#Name="Decadus"}`
@@ -250,7 +250,7 @@ Alert! Alert! Octa has joined with the enemy!{#Name="Soldier A"}
 `Un discepolo che tradisce la propria Intoner? Impensabile!{#Name="Soldier B"}`
 A disciple betraying his own Intoner? Unthinkable!{#Name="Soldier B"}
 
-`È vero? Octa è nostro nemico, ora?{#Name="Soldier C"}`
+`E' vero? Octa è nostro nemico, ora?{#Name="Soldier C"}`
 It is true? Octa's our enemy now?{#Name="Soldier C"}
 
 `Dev'esserci un motivo! Forse in realtà è un doppiogiochista.{#Name="Soldier D"}`
@@ -271,7 +271,7 @@ Don't give up! If you do, it'll be over for sure!{#Name="Soldier F"}
 `Per abbattere una Intoner maledetta serve uno spirito coraggioso. Datele tutto quello che avete!{#Name="Soldier B"}`
 A man needs a brave spirit to best a cursed Intoner. Give her all you've got!{#Name="Soldier B"}
 
-`È senza speranza. Non possiamo vincere. Persino Octa ha abbandonato il suo posto!{#Name="Soldier G"}`
+`E' senza speranza. Non possiamo vincere. Persino Octa ha abbandonato il suo posto!{#Name="Soldier G"}`
 It's hopeless. There's no way we can win. Even Octa's abandoned his post!{#Name="Soldier G"}
 
 `Lascia perdere Octa! Tu sei ancora qui, no? Ora torna in formazione!{#Name="Soldier C"}`

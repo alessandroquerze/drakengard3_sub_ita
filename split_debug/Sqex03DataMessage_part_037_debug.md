@@ -52,7 +52,7 @@ Hmm... I guess you didn't retain any of his{LF}memories, huh?{#Name="Zero"}
 `No. Però non riesco a credere che non avesse paura!{#Name="Mikhail"}`
 Nope. Still, I can't believe he wasn't scared!{#Name="Mikhail"}
 
-`È fantastico. Davvero fantastico!{LF}Proverò a diventare proprio come lui!{#Name="Mikhail"}`
+`E' fantastico. Davvero fantastico!{LF}Proverò a diventare proprio come lui!{#Name="Mikhail"}`
 That's great. Just great!{LF}I'm gonna try to be just like him!{#Name="Mikhail"}
 
 `Allora, Zero... Come chiamavi Michael?{#Name="Mikhail"}`
@@ -64,7 +64,7 @@ So, Zero... What'd you call Michael?{#Name="Mikhail"}
 `Allora perché non mi chiami "Mikhail", eh?{#Name="Mikhail"}`
 So why don't you call me "Mikhail," huh?{#Name="Mikhail"}
 
-`Sai? Invece di "idiota" o{LF}"Ehi, tu" o... cose così?{#Name="Mikhail"}`
+`Sai? Invece di "scemo" o{LF}"Ehi, tu" o... cose così?{#Name="Mikhail"}`
 You know? Instead of "dummy" or{LF}"Hey, you" or...whatever?{#Name="Mikhail"}
 
 `Devi diventare un drago fatto e finito{LF}prima che io usi il tuo nome.{#Name="Zero"}`
@@ -139,10 +139,10 @@ Just worry about yourself, dummy.{#Name="Zero"}
 `E resta concentrato!{#Name="Zero"}`
 And stay focused!{#Name="Zero"}
 
-`È lei! È Zero!{#Name="Soldier A"}`
+`E' lei! E' Zero!{#Name="Soldier A"}`
 It's her! It's Zero!{#Name="Soldier A"}
 
-`È una vergogna per il nome degli Intoner!{#Name="Soldier B"}`
+`E' una vergogna per il nome degli Intoner!{#Name="Soldier B"}`
 She's a disgrace to the Intoner name!{#Name="Soldier B"}
 
 `199{#Name="199"}`
@@ -307,7 +307,7 @@ Zero, are you okay?{#Name="Mikhail"}
 `Puoi sempre chiamarmi, lo sai.{LF}Puoi chiamarmi quando vuoi!{#Name="Mikhail"}`
 You can always call on me, you know.{LF}You can call on me anytime!{#Name="Mikhail"}
 
-`Smettila di ripetere le cose! È fastidioso!{#Name="Zero"}`
+`Smettila di ripetere le cose! E' fastidioso!{#Name="Zero"}`
 Quit repeating things! It's annoying!{#Name="Zero"}
 
 `Va bene. Five dovrebbe essere nel Santuario dei Mari{LF}lassù.{#Name="Zero"}`

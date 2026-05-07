@@ -175,7 +175,7 @@ Zero's here! She flies...like a butterfly!{#Name="Soldier F"}
 `Quella cosa è Zero!?{#Name="Soldier A"}`
 That thing's Zero!?{#Name="Soldier A"}
 
-`No... È un fiore!{#Name="Soldier F"}`
+`No... E' un fiore!{#Name="Soldier F"}`
 No... It's a flower!{#Name="Soldier F"}
 
 `Non scappate!{#Name="Soldier B"}`
@@ -184,7 +184,7 @@ Don't run away!{#Name="Soldier B"}
 `Non scappate!{#Name="Soldier B"}`
 Don't run away!{#Name="Soldier B"}
 
-`Eh? È Zero! Il fiore nato dall'uovo...{#Name="Soldier D"}`
+`Eh? E' Zero! Il fiore nato dall'uovo...{#Name="Soldier D"}`
 Huh? It's Zero! The flower born from the egg...{#Name="Soldier D"}
 
 `91{#Name="91"}`
@@ -220,10 +220,10 @@ Arise...Galgaliel.{#Name="Five"}
 `Oh, Five! Adesso sei più splendida che mai!{#Name="Dito"}`
 Oh, Five! You're looking better than ever now!{#Name="Dito"}
 
-`È esattamente il tipo di mondo folle che ho sempre desiderato!{#Name="Dito"}`
+`E' esattamente il tipo di mondo folle che ho sempre desiderato!{#Name="Dito"}`
 This is exactly the kind of insane world I've always wanted!{#Name="Dito"}
 
-`È semplicemente perfetto per uno scarto indesiderato come me!{LF}Credo che resterò qui PER SEMPRE!{#Name="Dito"}`
+`E' semplicemente perfetto per uno scarto indesiderato come me!{LF}Credo che resterò qui PER SEMPRE!{#Name="Dito"}`
 It's just perfect for an undesirable sap like me!{LF}I think I'm gonna stay here FOREVER!{#Name="Dito"}
 
 `Amo questa nuova te, Five.{LF}Puoi farmi tutto quello che vuoi. Qualunque cosa.{#Name="Dito"}`
@@ -253,13 +253,13 @@ Perhaps Accord was right about{LF}the world breaking down.{#Name="Octa"}
 `Oh, per l'amor del cazzo.{#Name="Zero"}`
 Oh, for fuck's sake.{#Name="Zero"}
 
-`È fantastico! Oh mio Dio,{LF}questo posto è dannatamente fantastico!{#Name="Dito"}`
+`E' fantastico! Oh mio Dio,{LF}questo posto è dannatamente fantastico!{#Name="Dito"}`
 This is great! Oh my gosh,{LF}this place is freaking great!{#Name="Dito"}
 
-`Guardalo, Cent! È incredibile!{LF}C'è sangue, budella e...tutto il resto!{#Name="Dito"}`
+`Guardalo, Cent! E' incredibile!{LF}C'è sangue, budella e...tutto il resto!{#Name="Dito"}`
 Look at it, Cent! It's amazing!{LF}There's blood and guts and...everything!{#Name="Dito"}
 
-`È un mondo dove solo il brutto è bello!{#Name="Dito"}`
+`E' un mondo dove solo il brutto è bello!{#Name="Dito"}`
 It's a world where only ugly is beautiful!{#Name="Dito"}
 
 `E un mondo dove gli idioti sono geni!{LF}Quindi unisciti a me, Cent!{#Name="Dito"}`
@@ -274,7 +274,7 @@ Yeah! You! Come on, I know you{LF}hate the world you're in.{#Name="Dito"}
 `L'ho sempre saputo!{LF}Ti si legge in faccia!{#Name="Dito"}`
 I've known it forever!{LF}It's written all over your face!{#Name="Dito"}
 
-`Mmmm? È così evidente?{#Name="Cent"}`
+`Mmmm? E' così evidente?{#Name="Cent"}`
 Mmmm? That obvious, is it?{#Name="Cent"}
 
 `Beh, suppooongo che potrebbe essere così.{#Name="Cent"}`

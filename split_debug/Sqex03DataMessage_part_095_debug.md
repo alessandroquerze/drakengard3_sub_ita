@@ -103,13 +103,13 @@ Defeat the Imps!{#Name="説明文"}
 `Sconfiggi il Cerbero grigio!{#Name="説明文"}`
 Defeat the Gray Cerberus!{#Name="説明文"}
 
-`Mi arrendo... È troppo forte per noi... Non la batteremo mai...{#Name="Soldier G"}`
+`Mi arrendo... E' troppo forte per noi... Non la batteremo mai...{#Name="Soldier G"}`
 I give up... She's too strong for us... We'll never beat her...{#Name="Soldier G"}
 
 `Non azzardarti a fare il codardo!{#Name="Soldier B"}`
 Don't you dare wimp out on us!{#Name="Soldier B"}
 
-`È ora di un attacco su vasta scala!{#Name="Soldier A"}`
+`E' ora di un attacco su vasta scala!{#Name="Soldier A"}`
 It's time for a full-scale attack!{#Name="Soldier A"}
 
 `Alla fine siamo arrivati a questo...{#Name="Soldier E"}`
@@ -118,7 +118,7 @@ It's finally come to this...{#Name="Soldier E"}
 `Com'è riuscita ad avanzare fin qui?{#Name="Soldier C"}`
 How could she have advanced this far?{#Name="Soldier C"}
 
-`È un'Intoner! Le Intoner fanno sul serio, amico!{#Name="Soldier D"}`
+`E' un'Intoner! Le Intoner fanno sul serio, amico!{#Name="Soldier D"}`
 She's an Intoner! Intoners are the real deal, man!{#Name="Soldier D"}
 
 `La ritirata non è un'opzione! Perché diavolo pensate che siamo qui!?{#Name="Soldier F"}`
@@ -130,7 +130,7 @@ He's right! We fight to the end! For Lady One's sake!{#Name="Soldier G"}
 `Dobbiamo diventare uno scudo per la nostra Signora!{#Name="Soldier A"}`
 We must become as a shield for our Lady!{#Name="Soldier A"}
 
-`È l'unico modo per ripagare la nostra salvatrice!{#Name="Soldier A"}`
+`E' l'unico modo per ripagare la nostra salvatrice!{#Name="Soldier A"}`
 It's the only way to repay our savior!{#Name="Soldier A"}
 
 `それが、我々を救ってくださったワン様への…恩返しだ{#Name="兵士Ａ"}`
@@ -163,7 +163,7 @@ Veteran soldiers should be beacons of hope for the young. Now get behind me!{#Na
 `E vi prego...salvate Lady One per me. Per tutti noi.{#Name="Soldier F"}`
 And please...save Lady One for me. For us all.{#Name="Soldier F"}
 
-`È il momento, uomini! Date tutto!{#Name="Soldier A"}`
+`E' il momento, uomini! Date tutto!{#Name="Soldier A"}`
 This is it, men! Give it your all!{#Name="Soldier A"}
 
 `Capitano! I nostri numeri sono—{#Name="Soldier C"}`
@@ -259,7 +259,7 @@ Trivia time! Did you know sixteen percent of{LF}human breath consists of harmful
 `Io... No, non l'ho mai sentito.{#Name="Decadus"}`
 I... No, I've never heard that.{#Name="Decadus"}
 
-`Non credo proprio. È la prima volta{LF}che lo sento anch'io.{#Name="Cent"}`
+`Non credo proprio. E' la prima volta{LF}che lo sento anch'io.{#Name="Cent"}`
 I wouldn't think so. This is my{LF}first time hearing it too.{#Name="Cent"}
 
 `Com'è che finisco sempre a combattere{LF}di nuovo queste stupide battaglie?{#Name="Dito"}`

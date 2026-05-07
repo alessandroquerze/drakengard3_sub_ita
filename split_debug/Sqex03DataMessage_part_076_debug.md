@@ -166,7 +166,7 @@ I can't...go on... M-Mother...{#Name="Soldier C"}
 `Sto per...vomitare...{#Name="Soldier D"}`
 I'm gonna...lose my...lunch...{#Name="Soldier D"}
 
-`È difficile credere che Lady Three sia morta.{#Name="Octa"}`
+`E' difficile credere che Lady Three sia morta.{#Name="Octa"}`
 It's hard to believe Lady Three is dead.{#Name="Octa"}
 
 `Stava combattendo con tua sorella?{#Name="Decadus"}`
@@ -190,7 +190,7 @@ The forest... Lady Three's forest...{#Name="Soldier D"}
 `Senza la protezione del canto di Lady Three,{LF}le loro menti si sono frantumate.{#Name="Octa"}`
 Without the protection of Lady Three's song,{LF}their minds have shattered.{#Name="Octa"}
 
-`Ha ha ha! È così dannatamente triste... Lo ADORO!{#Name="Dito"}`
+`Ha ha ha! E' così dannatamente triste... Lo ADORO!{#Name="Dito"}`
 Ha ha ha! That's so damn sad... I LOVE it!{#Name="Dito"}
 
 `Aggiornamento{#Name="Accord"}`
@@ -223,7 +223,7 @@ Uuurgh... I think I'm poisoned... I can't...fly...{#Name="Mikhail"}
 `Dannazione. Resisti!{#Name="Zero"}`
 Dammit. Hang in there!{#Name="Zero"}
 
-`È vulnerabile dopo aver sputato quel veleno...{#Name="Zero"}`
+`E' vulnerabile dopo aver sputato quel veleno...{#Name="Zero"}`
 He's vulnerable after he spits that poison...{#Name="Zero"}
 
 `Aspetta che si scopra, poi scatena tutto!{#Name="Zero"}`

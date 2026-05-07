@@ -97,7 +97,7 @@ What makes you say so?{#Name="Decadus"}
 `Ehm, pronto? Ha macchine per indovinelli?{#Name="Dito"}`
 Uh, hello? She has riddle machines?{#Name="Dito"}
 
-`È il genere di cosa che fanno i reclusi per provare{LF}a sembrare tutti misteriosi{LF}e seducenti.{#Name="Dito"}`
+`E' il genere di cosa che fanno i reclusi per provare{LF}a sembrare tutti misteriosi{LF}e seducenti.{#Name="Dito"}`
 This is the kind of thing that shut-ins do to try{LF}and make themselves seem all mysterious{LF}and alluring.{#Name="Dito"}
 
 `...Credi?{#Name="Decadus"}`
@@ -133,7 +133,7 @@ Huh? Wh-What are you talking about?{LF}I'm right here! Oh, you're such a joker! 
 `Perbacco! A qualcuno stanno diventando i pantaloni{LF}un tantino montuosi...{#Name="Octa"}`
 Goodness! Someone's pants are getting{LF}a tad mountainous...{#Name="Octa"}
 
-`Non guardare. È vergognoso...{#Name="Decadus"}`
+`Non guardare. E' vergognoso...{#Name="Decadus"}`
 Don't look. It's shameful...{#Name="Decadus"}
 
 `Al contrario! Una simile eccitazione al solo{LF}pensiero è segno di un cuore puro.{#Name="Octa"}`
@@ -172,7 +172,7 @@ Oh ho ho! Believe it or not, I'm still only 22!{#Name="Octa"}
 `Eh? IO ho 22 anni. Come puoi avere la mia stessa età!?{#Name="Dito"}`
 Huh? I'M 22. How can you be the same age as me!?{#Name="Dito"}
 
-`È la verità! Pare che le mie estese scorribande erotiche{LF}abbiano estinto la mia essenza giovanile.{#Name="Octa"}`
+`E' la verità! Pare che le mie estese scorribande erotiche{LF}abbiano estinto la mia essenza giovanile.{#Name="Octa"}`
 It's true! It seems my extensive erotic escapades{LF}have extinguished my youthful essence.{#Name="Octa"}
 
 `Ma che diavolo, amico... Sembra che tu sia fuori di testa{LF}quanto l'Intoner che servivi.{#Name="Dito"}`
@@ -184,7 +184,7 @@ Are your actions crimes, Zero?{LF}Or do you consider this justice?{#Name="Three"
 `Chi se ne importa? Bene e male sono la stessa cosa.{#Name="Zero"}`
 Who cares? Good and evil are all the same.{#Name="Zero"}
 
-`Una spada così insanguinata... È leggera?{LF}O è pesante? Heh heh heh!{#Name="Three"}`
+`Una spada così insanguinata... E' leggera?{LF}O è pesante? Heh heh heh!{#Name="Three"}`
 Such a bloody sword... Is it light?{LF}Or is it heavy? Heh heh heh!{#Name="Three"}
 
 `Abbastanza leggera da finire ciò che devo fare.{#Name="Zero"}`
@@ -202,7 +202,7 @@ The eddy repeats. Sin meets sin,{LF}and despair meets despair.{#Name="Three"}
 `Un gorgo? Ehi, Zero, cos'è un vortice?{#Name="Mikhail"}`
 An eddy? Hey, Zero, what's an eddy?{#Name="Mikhail"}
 
-`È un tipo di frutto.{#Name="Zero"}`
+`E' un tipo di frutto.{#Name="Zero"}`
 It's a type of fruit.{#Name="Zero"}
 
 `Nessuno di noi in questo mondo è potente.{#Name="Three"}`
@@ -229,7 +229,7 @@ An eternal ouroboros will in the end{LF}devour us all.{#Name="Three"}
 `Ehi, Zero! Cos'è un ouro... come si chiama?{#Name="Mikhail"}`
 Hey, Zero! What's an ouro...whatever?{#Name="Mikhail"}
 
-`È quando ti ingoi la coda{LF}e rotoli in giro come un idiota.{#Name="Zero"}`
+`E' quando ti ingoi la coda{LF}e rotoli in giro come un idiota.{#Name="Zero"}`
 It's like when you swallow your tail{LF}and roll around like an idiot.{#Name="Zero"}
 
 `Cosa? Ehi, io non lo faccio!{LF}Non lo farei mai!{#Name="Mikhail"}`

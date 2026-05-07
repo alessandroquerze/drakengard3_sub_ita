@@ -43,13 +43,13 @@ Indeed!{#Name="Decadus"}
 `Dite sul serio? Voi siete pazzi.{#Name="Dito"}`
 Seriously? You guys are crazy.{#Name="Dito"}
 
-`È solo una grossa chiazza blu.{LF}E puzza di merda di pesce.{#Name="Dito"}`
+`E' solo una grossa chiazza blu.{LF}E puzza di merda di pesce.{#Name="Dito"}`
 It's just a big blue blob.{LF}And it smells like fish shit.{#Name="Dito"}
 
 `Dite sul serio? Voi siete pazzi.{#Name="Dito"}`
 Seriously? You guys are crazy.{#Name="Dito"}
 
-`È solo una grossa chiazza blu.{LF}E puzza di merda di pesce.{#Name="Dito"}`
+`E' solo una grossa chiazza blu.{LF}E puzza di merda di pesce.{#Name="Dito"}`
 It's just a big blue blob.{LF}And it smells like fish shit.{#Name="Dito"}
 
 `Vado ad attaccare le navi!{#Name="Mikhail"}`
@@ -76,7 +76,7 @@ Can I go find a bush? I need to pee.{#Name="Mikhail"}
 `Tienitela, scemo! O piscia da lassù.{#Name="Zero"}`
 Just hold it, dummy! Or else piss from up there.{#Name="Zero"}
 
-`Cosa!? Non posso farlo!{LF}È roba da animali e cose così!{#Name="Mikhail"}`
+`Cosa!? Non posso farlo!{LF}E' roba da animali e cose così!{#Name="Mikhail"}`
 What!? I can't do that!{LF}That's what animals do and stuff!{#Name="Mikhail"}
 
 `Woo-hoo! Ho affondato quella nave!{#Name="Mikhail"}`
@@ -193,7 +193,7 @@ This fatty blob I can chew and{LF}chew and it won't go away...{#Name="Mikhail"}
 `Basta! Basta e basta! Sto per vomitare qui.{#Name="Dito"}`
 Stop! Just stop! I'm about to hurl over here.{#Name="Dito"}
 
-`È questo il genere di cose che mangia di solito un drago?{#Name="Decadus"}`
+`E' questo il genere di cose che mangia di solito un drago?{#Name="Decadus"}`
 Is that the sort of thing a dragon usually eats?{#Name="Decadus"}
 
 `No, ma è quello che mangia Zero,{LF}quindi mi adeguo.{#Name="Mikhail"}`

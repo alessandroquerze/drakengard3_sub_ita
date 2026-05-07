@@ -19,7 +19,7 @@ What, you wanna call it off?{#Name="Zero"}
 `Mi neghereste questo piacere?{#Name="Decadus"}`
 You'd deny me this pleasure?{#Name="Decadus"}
 
-`No. Devo farlo. È la mia...ricompensa...{#Name="Decadus"}`
+`No. Devo farlo. E' la mia...ricompensa...{#Name="Decadus"}`
 No. I must do this. It is my...reward...{#Name="Decadus"}
 
 `Armaros, resisti!{#Name="Decadus"}`
@@ -52,7 +52,7 @@ Look, Zero! Check it out! I summoned{LF}an ancient dragon all by myself!{#Name="
 `Che diavolo stai blaterando?{#Name="Zero"}`
 The hell are you yammering on about?{#Name="Zero"}
 
-`È la forza del fiore all'opera! Vedi?{LF}Sono proprio come te! Hee hee hee hee!{#Name="Three"}`
+`E' la forza del fiore all'opera! Vedi?{LF}Sono proprio come te! Hee hee hee hee!{#Name="Three"}`
 It's the flower's force at work! See?{LF}I'm just like you! Hee hee hee hee!{#Name="Three"}
 
 `La Three che conosco non è così allegra.{#Name="Zero"}`
@@ -160,7 +160,7 @@ Fighting an ancient dragon is bad...{#Name="Mikhail"}
 `Eh? Che intendi?{#Name="Zero"}`
 Huh? What do you mean?{#Name="Zero"}
 
-`È brutto, Zero! Non so perché, lo so e basta!{#Name="Mikhail"}`
+`E' brutto, Zero! Non so perché, lo so e basta!{#Name="Mikhail"}`
 It's bad, Zero! I don't know why, I just know!{#Name="Mikhail"}
 
 `Noi draghi, noi non possiamo combatterli...{#Name="Mikhail"}`
@@ -256,7 +256,7 @@ I'm sick of this shithead. Finish him!{#Name="Zero"}
 `Yay!{#Name="Mikhail"}`
 Yay!{#Name="Mikhail"}
 
-`♪Doo-do doo-do doo-do doo-do...{LF}È ora della seconda strofa!♪{#Name="Mikhail"}`
+`♪Doo-do doo-do doo-do doo-do...{LF}E' ora della seconda strofa!♪{#Name="Mikhail"}`
 ♪Doo-do doo-do doo-do doo-do...{LF}It's time for verse two!♪{#Name="Mikhail"}
 
 `♪Mi chiamo Mikhail! Mi chiamo Mikhaiiil!♪{#Name="Mikhail"}`

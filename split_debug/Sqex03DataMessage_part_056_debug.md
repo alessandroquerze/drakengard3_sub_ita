@@ -163,7 +163,7 @@ I dunno, you think? Maybe he's just{LF}forced to be there like I was.{#Name="Dit
 `Uuuugh...{#Name="Dito"}`
 Uuuugh...{#Name="Dito"}
 
-`È stato terribile, venire sballottato da{LF}quei giganteschi sacchi da boxe ogni notte...{#Name="Dito"}`
+`E' stato terribile, venire sballottato da{LF}quei giganteschi sacchi da boxe ogni notte...{#Name="Dito"}`
 It was awful, being knocked around by{LF}those giant punching bags every night...{#Name="Dito"}
 
 `Bugiardo. Ti piaceva.{#Name="Zero"}`
@@ -178,7 +178,7 @@ Bullshit it is!{#Name="Dito"}
 `Eh... Hai proprio un bel caratterino, eh?{#Name="Zero"}`
 Heh... He's got a temper, eh?{#Name="Zero"}
 
-`Perché sei arrabbiata con Four, Zero? È personale?{#Name="Mikhail"}`
+`Perché sei arrabbiata con Four, Zero? E' personale?{#Name="Mikhail"}`
 Why are you mad at Four, Zero? Is it personal?{#Name="Mikhail"}
 
 `Personale?{#Name="Zero"}`
@@ -277,7 +277,7 @@ Save it for someone who gives a shit.{#Name="Zero"}
 `No, davvero! Guardaci! Se qui c'è{LF}un cattivo, siamo noi!{#Name="Mikhail"}`
 No, really! Look at us! If anyone's{LF}a bad guy here, it's us!{#Name="Mikhail"}
 
-`E allora? Adesso posso uccidere solo i malvagi?{LF}È questo che stai dicendo?{#Name="Zero"}`
+`E allora? Adesso posso uccidere solo i malvagi?{LF}E' questo che stai dicendo?{#Name="Zero"}`
 So, what? I can only kill evil people now?{LF}Is that what you're saying?{#Name="Zero"}
 
 `Indovina un po'? Nella vita vera,{LF}i cattivi vincono di continuo.{#Name="Zero"}`

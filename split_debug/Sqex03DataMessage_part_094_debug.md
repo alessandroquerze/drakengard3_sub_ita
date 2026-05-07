@@ -43,7 +43,7 @@ Are you serious?{#Name="Soldier A"}
 `Certo che sì! Se non ora, quando?{#Name="Soldier E"}`
 Of course I am! If not now, then when?{#Name="Soldier E"}
 
-`Q-Quella è Zero? È...così...forte... {#Name="Soldier G"}`
+`Q-Quella è Zero? E'...così...forte... {#Name="Soldier G"}`
 Th-That's Zero? She's...so...strong... {#Name="Soldier G"}
 
 `Ehi! Smettila di borbottare e inizia a combattere!{#Name="Soldier F"}`
@@ -283,7 +283,7 @@ You're not helping, Octa!{#Name="Zero"}
 `Guarda queste cose. Pazzi grassi e brutti.{LF}Vorrei che non fossero mai nati.{#Name="Dito"}`
 Look at these things. Fat, ugly freaks.{LF}I wish they'd never been born.{#Name="Dito"}
 
-`È un desiderio pesante da esprimere, Dito.{#Name="Decadus"}`
+`E' un desiderio pesante da esprimere, Dito.{#Name="Decadus"}`
 That's a serious wish to make, Dito.{#Name="Decadus"}
 
 `Come ti pare, Decadus. A volte vorrei{LF}che anche tu non fossi mai nato!{#Name="Dito"}`

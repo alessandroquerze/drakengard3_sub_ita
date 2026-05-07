@@ -19,7 +19,7 @@ I got a bad feeling about this.{#Name="Dito"}
 `So di averlo già detto, ma se non cambi{LF}direzione presto, finirà male.{#Name="Accord"}`
 I know I've said it before, but if you don't change{LF}course soon, things are not going to end well.{#Name="Accord"}
 
-`È quello che dice il tuo libriccino?{#Name="Zero"}`
+`E' quello che dice il tuo libriccino?{#Name="Zero"}`
 That what your little book says?{#Name="Zero"}
 
 `Esatto.{#Name="Accord"}`
@@ -163,13 +163,13 @@ You're just making this shit up, aren't you?{#Name="Zero"}
 `Io? No, no! Mai! No! ...No. {#Name="Cent"}`
 Me? No, no! Never! No! ...No. {#Name="Cent"}
 
-`È sicuramente, probabilmente, da qualche parte{LF}su questo continente.{#Name="Cent"}`
+`E' sicuramente, probabilmente, da qualche parte{LF}su questo continente.{#Name="Cent"}`
 It's definitely, probably, somewhere{LF}on this continent.{#Name="Cent"}
 
 `Ora basta! Ti strapperò il{LF}cuore dal culo!{#Name="Dito"}`
 That's it! I'm gonna pull your{LF}heart out your asshole!{#Name="Dito"}
 
-`Oh, ehi! Adesso ricordo! È proprio laggiù!{#Name="Cent"}`
+`Oh, ehi! Adesso ricordo! E' proprio laggiù!{#Name="Cent"}`
 Oh, hey! Now I remember! It's right over there!{#Name="Cent"}
 
 `Malconci ed esausti dopo aver seguito{LF}Cent come un branco di idioti,{#Name="Zero"}`
@@ -310,7 +310,7 @@ Wounded soldier coming through! Is there a medic here?{#Name="Soldier D"}
 `Che spettacolo orribile...{#Name="Soldier F"}`
 What a horrifying sight...{#Name="Soldier F"}
 
-`È un drago! E sta...attaccando!{#Name="Soldier G"}`
+`E' un drago! E sta...attaccando!{#Name="Soldier G"}`
 It's a dragon! And it's...attacking!{#Name="Soldier G"}
 
 `Ci ritiriamo? Avanziamo!? Ci servono ordini!{#Name="Soldier E"}`

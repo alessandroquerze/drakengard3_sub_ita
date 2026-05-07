@@ -100,7 +100,7 @@ Such a demon, laughing as she murders!{#Name="Soldier A"}
 `Perché Lady Zero si dà a un tale...{LF}massacro insensato?{#Name="Decadus"}`
 Why does Lady Zero engage in such...{LF}senseless slaughter?{#Name="Decadus"}
 
-`Aw, è solo incazzata per l'aeronave.{LF}È quasi tenera.{#Name="Dito"}`
+`Aw, è solo incazzata per l'aeronave.{LF}E' quasi tenera.{#Name="Dito"}`
 Aw, she's just pissed about the airship.{LF}It's kinda cute.{#Name="Dito"}
 
 `Unngh... Che crudeltà...{#Name="Decadus"}`
@@ -175,7 +175,7 @@ Enough circling around...{LF}Get over here and fight me!{#Name="Zero"}
 `Immagina tutta quell'edera{LF}che ti avvolge ovunque...{#Name="Decadus"}`
 Just imagine all that ivy{LF}binding up all around you...{#Name="Decadus"}
 
-`Già. È come se fossi morto{LF}e finito nel paradiso dei mostri da baraccone.{#Name="Dito"}`
+`Già. E' come se fossi morto{LF}e finito nel paradiso dei mostri da baraccone.{#Name="Dito"}`
 Yep. It's like you died and{LF}went to freakshow heaven.{#Name="Dito"}
 
 `Nnnngh...{#Name="Decadus"}`
@@ -310,7 +310,7 @@ Aw, just look at you poor fools!{#Name="Faerie"}
 `Tutti a bocca aperta e senza capire niente...{#Name="Faerie"}`
 All slack-jawed and clueless...{#Name="Faerie"}
 
-`È davvero dura guardarvi!{#Name="Faerie"}`
+`E' davvero dura guardarvi!{#Name="Faerie"}`
 It's pretty hard to watch!{#Name="Faerie"}
 
 `Insomma, come fate anche solo a vivere così?{#Name="Faerie"}`

@@ -28,7 +28,7 @@ Dragon. What say you go burn some shit?{#Name="Zero"}
 `Eh? Ma... prenderanno tutti fuoco.{#Name="Mikhail"}`
 Huh? But...they'll all catch on fire.{#Name="Mikhail"}
 
-`È eeesattamente questo il punto.{#Name="Zero"}`
+`E' eeesattamente questo il punto.{#Name="Zero"}`
 Thaaat's the idea.{#Name="Zero"}
 
 `Gyaaaaaa! Fuoco! Sono in fiiiiamme!{#Name="Soldier B"}`
@@ -55,7 +55,7 @@ You're pretty fucked up, aren't you?{#Name="Zero"}
 `Heh... Sai proprio come fare un complimento a un tipo.{#Name="Dito"}`
 Heh... You really know how to compliment a fella.{#Name="Dito"}
 
-`È Zero!{#Name="Soldier A"}`
+`E' Zero!{#Name="Soldier A"}`
 It's Zero!{#Name="Soldier A"}
 
 `Uccidete l'Intoner maledetta!{#Name="Soldier A"}`
@@ -121,7 +121,7 @@ The cannon's still shooting!{#Name="Mikhail"}
 `Rilassati, vuoi? Sono nel mezzo di qualcosa!{#Name="Zero"}`
 Relax, would you? I'm in the middle of something!{#Name="Zero"}
 
-`È Zero! È qui!{#Name="Soldier G"}`
+`E' Zero! E' qui!{#Name="Soldier G"}`
 It's Zero! She's here!{#Name="Soldier G"}
 
 `La missione del demone finisce qui!{#Name="Soldier B"}`
@@ -205,7 +205,7 @@ I gotta say, though, the smell of{LF}burning flesh never gets old!{#Name="Dito"}
 `Questo... questo è il potere di un'Intoner?{#Name="Soldier F"}`
 This...this is an Intoner's power?{#Name="Soldier F"}
 
-`È troppo persino da comprendere!{#Name="Soldier F"}`
+`E' troppo persino da comprendere!{#Name="Soldier F"}`
 It's too much to even comprehend!{#Name="Soldier F"}
 
 `Ehi! Il cancello si è appena aperto!{#Name="Mikhail"}`
@@ -253,7 +253,7 @@ Shut up, idiot! It wasn't a compliment!{#Name="Zero"}
 `褒めてねーよ！このクソドラゴン！忙しいんだから黙ってろ！{#Name="ゼロ"}`
 褒めてねーよ！このクソドラゴン！忙しいんだから黙ってろ！{#Name="ゼロ"}
 
-`Bene. È ora di andare ad abbattere Four.{#Name="Zero"}`
+`Bene. E' ora di andare ad abbattere Four.{#Name="Zero"}`
 Right. Time to go take down Four.{#Name="Zero"}
 
 `Merda. Questa barricata è in mezzo.{#Name="Zero"}`
@@ -283,7 +283,7 @@ Aaah! Zerooo!{#Name="Mikhail"}
 `AIIIIIAAAAA!{#Name="Mikhail"}`
 OWWWWW!{#Name="Mikhail"}
 
-`Ahi! Ahi! Ahi! Zero! Mi hai pugnalato! È rimasta conficcata, Zero!{LF}Tirala fuori! Tirala fooooori!{#Name="Mikhail"}`
+`Ahi! Ahi! Ahi! Zero! Mi hai pugnalato! E' rimasta conficcata, Zero!{LF}Tirala fuori! Tirala fooooori!{#Name="Mikhail"}`
 Ow! Ow! Ow! Zero! You stabbed me! It's stuck in me, Zero!{LF}Get it out! Get it oooooout!{#Name="Mikhail"}
 
 `Sta' fermo, accidenti, o giuro che—{#Name="Zero"}`
@@ -307,7 +307,7 @@ C'mon. Four's waiting.{#Name="Zero"}
 `Va bene...{#Name="Mikhail"}`
 Fine...{#Name="Mikhail"}
 
-`È stata una bella traversata burrascosa.{#Name="Dito"}`
+`E' stata una bella traversata burrascosa.{#Name="Dito"}`
 That was some rough sailing right there.{#Name="Dito"}
 
 `Dito? Che ci fai qui?{#Name="Zero"}`
