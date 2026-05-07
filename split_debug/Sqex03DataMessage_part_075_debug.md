@@ -103,10 +103,10 @@ The exit hasn't opened up.{#Name="Zero"}
 `Forse c'è qualcosa nascosto dentro{LF}le statue di Lady Three?{#Name="Octa"}`
 Is there something hidden within{LF}Lady Three's statues, perhaps?{#Name="Octa"}
 
-`Chiudete il becco, stupidi bastardi!:::{#Name="Dito"}`
+`Chiudete il becco, idioti!{#Name="Dito"}`
 Quit your yapping, you stupid mutts!{#Name="Dito"}
 
-`Pezzi di merda, sbrigatevi a morire!:::{#Name="Dito"}`
+`Questi pezzi di merda devono sbrigarsi a morire!{#Name="Dito"}`
 Pieces of shit need to hurry up and die!{#Name="Dito"}
 
 `Pezzi di merda? Così prevedibile.{LF}La prossima volta magari prova pustole incrostate di pus?{#Name="Cent"}`

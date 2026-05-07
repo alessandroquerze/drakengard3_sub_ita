@@ -22,7 +22,7 @@ Don't worry. Our Lady still has Decadus with her.{#Name="Soldier F"}
 `Decadus... Dicono che quel tizio possa sopportare qualsiasi dolore, per quanto atroce!{#Name="Soldier A"}`
 Decadus... They say that guy can withstand any pain, no matter how grueling!{#Name="Soldier A"}
 
-`Drago. Che ne dici di andare a bruciare un po' di merda?{#Name="Zero"}`
+`Drago. Che ne dici di andare a bruciare un po' di stronzi?{#Name="Zero"}`
 Dragon. What say you go burn some shit?{#Name="Zero"}
 
 `Eh? Ma... prenderanno tutti fuoco.{#Name="Mikhail"}`
@@ -286,10 +286,10 @@ OWWWWW!{#Name="Mikhail"}
 `Ahi! Ahi! Ahi! Zero! Mi hai pugnalato! E' rimasta conficcata, Zero!{LF}Tirala fuori! Tirala fooooori!{#Name="Mikhail"}`
 Ow! Ow! Ow! Zero! You stabbed me! It's stuck in me, Zero!{LF}Get it out! Get it oooooout!{#Name="Mikhail"}
 
-`Sta' fermo, accidenti, o giuro che—{#Name="Zero"}`
+`Sta' fermo, accidenti, o rischio di—{#Name="Zero"}`
 Sit still, dammit, or I'm gonna—{#Name="Zero"}
 
-`Cadooooo!{#Name="Zero"}`
+`Cadereeeeee!{#Name="Zero"}`
 Faaaaaall!{#Name="Zero"}
 
 `{06}>{#Name="Zero"}`

@@ -67,16 +67,16 @@ A ruthless sword that helps your{LF}Blood Gauge fill more quickly.
 `Una spada spietata che aiuta la tua{LF}Barra del Sangue a riempirsi più rapidamente.`
 A ruthless sword that helps your{LF}Blood Gauge fill more quickly.
 
-`Le favole narrano che questa spada corta fu usata{LF}per uccidere un certo mostro.`
+`Le favole narrano che questa spada corta fu{LF}usata per uccidere un certo mostro.`
 Fables say this short sword was used{LF}to slay a certain monster.
 
-`Le favole narrano che questa spada corta fu usata{LF}per uccidere un certo mostro.`
+`Le favole narrano che questa spada corta fu{LF}usata per uccidere un certo mostro.`
 Fables say this short sword was used{LF}to slay a certain monster.
 
-`Le favole narrano che questa spada corta fu usata{LF}per uccidere un certo mostro.`
+`Le favole narrano che questa spada corta fu{LF}usata per uccidere un certo mostro.`
 Fables say this short sword was used{LF}to slay a certain monster.
 
-`Le favole narrano che questa spada corta fu usata{LF}per uccidere un certo mostro.`
+`Le favole narrano che questa spada corta fu{LF}usata per uccidere un certo mostro.`
 Fables say this short sword was used{LF}to slay a certain monster.
 
 `Alcuni dicono che questa spada sia la più pesante{LF}tra tutte le armi da mischia del mondo.`
@@ -163,16 +163,16 @@ The sword of a man once called the{LF}"Holy Emperor." Effective vs. undead.
 `La spada di un uomo un tempo chiamato{LF}"Holy Emperor." Efficace contro i non morti.`
 The sword of a man once called the{LF}"Holy Emperor." Effective vs. undead.
 
-`Una lama proveniente da una terra lontana e maledetta.`
+`Una lama proveniente da una terra {LF}lontana e maledetta.`
 A blade from a far-off, cursed land.
 
-`Una lama proveniente da una terra lontana e maledetta.`
+`Una lama proveniente da una terra {LF}lontana e maledetta.`
 A blade from a far-off, cursed land.
 
-`Una lama proveniente da una terra lontana e maledetta.`
+`Una lama proveniente da una terra {LF}lontana e maledetta.`
 A blade from a far-off, cursed land.
 
-`Una lama proveniente da una terra lontana e maledetta.`
+`Una lama proveniente da una terra {LF}lontana e maledetta.`
 A blade from a far-off, cursed land.
 
 `Una spada elfica vincolata dalla tristezza.`

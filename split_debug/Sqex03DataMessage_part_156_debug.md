@@ -1,4 +1,4 @@
-`Un grande chakram riccamente decorato.`
+`Un grande chakram riccamente{LF}decorato.`
 A large, ornately decorated chakram.
 
 `Un chakram che si dice incarni la via{LF}degli dei.`
@@ -91,22 +91,22 @@ From the moment I was born, there was nothing.{LF}That's how I wound up with the
 `Provai e fallii a trovare un valore nella mia vita.{LF}Persino la religione mi deluse, perché avrei preferito{LF}combattere e uccidere un dio piuttosto che pregarlo.{#Name="Zero's Blade Lv. 2"}`
 I tried and failed to find value in my life.{LF}Even religion failed me, for I would have sooner{LF}fought and killed a god than prayed to it.{#Name="Zero's Blade Lv. 2"}
 
-`Toglievo vite e non provavo nulla. Uccidevo senza rimorso.{LF}Giusto? Sbagliato? Peccato? Redenzione? Non riuscivo nemmeno{LF}a trovare l'energia per importarmene.{#Name="Zero's Blade Lv. 3"}`
+`Toglievo vite e non provavo nulla. Uccidevo senza rimorso.{LF}Giusto? Sbagliato? Peccato? Redenzione?{LF} Non trovavo nemmeno la forza{LF}per fare in modo che mi importassero qualcosa.{#Name="Zero's Blade Lv. 3"}`
 I took lives and felt nothing. I killed without regret.{LF}Right? Wrong? Sin? Redemption? I couldn't even{LF}work up the energy to care.{#Name="Zero's Blade Lv. 3"}
 
-`Come una bambina, aspettavo e speravo. Speravo nel momento{LF}in cui questo triste guscio di vita sarebbe finalmente finito.{#Name="Zero's Blade Lv. 4"}`
+`Come una bambina, aspettavo e speravo. Speravo nel momento{LF}in cui questo triste involucro di vita sarebbe finalmente finito.{#Name="Zero's Blade Lv. 4"}`
 Like a child, I waited and hoped. Hoped for the moment{LF}when this sad shell of a life would finally be over.{#Name="Zero's Blade Lv. 4"}
 
-`Commisе un crimine. La carestia infuriava, le tasse aumentavano senza{LF}pietà, e i suoi genitori sparirono. Presto i suoi fratelli divennero{LF}scavati dalla fame, e per loro lui agì.{#Name="Sinful Scream Lv. 1"}`
+`Commise un crimine. La carestia infuriava, le tasse aumentavano senza{LF}pietà, e i suoi genitori sparirono. Presto i suoi fratelli divennero{LF}scavati dalla fame, e per loro lui agì.{#Name="Sinful Scream Lv. 1"}`
 He committed a crime. The famine raged, taxes rose without{LF}mercy, and his parents vanished. Soon his siblings grew{LF}gaunt with hunger, and for them, he took action.{#Name="Sinful Scream Lv. 1"}
 
-`Commisе un crimine. Divise il latte e il pane rubati{LF}con i suoi cinque fratellini, senza tenerne nulla per sé.{LF}Si limitò invece a guardarli divorare quel bottino.{#Name="Sinful Scream Lv. 2"}`
+`Commise un crimine. Divise il latte e il pane rubati{LF}con i suoi cinque fratellini, senza tenerne nulla per sé.{LF}Si limitò invece a guardarli divorare quel bottino.{#Name="Sinful Scream Lv. 2"}`
 He committed a crime. He shared the stolen milk and bread{LF}with his five young siblings, allowing himself none.{LF}Instead, he simply watched as they devoured the bounty.{#Name="Sinful Scream Lv. 2"}
 
-`Commisе un crimine. Quando i ricchi mercanti lo trovarono,{LF}non gli fu concesso morire per il suo peccato. Quell'onore toccò ai suoi{LF}fratelli, perché solo loro avevano consumato la merce rubata.{#Name="Sinful Scream Lv. 3"}`
+`Commise un crimine. Quando i ricchi mercanti lo trovarono,{LF}non gli fu concesso morire per il suo peccato.{LF}Quell'onore toccò ai suoi fratelli,{LF}perché solo loro avevano consumato la merce rubata.{#Name="Sinful Scream Lv. 3"}`
 He committed a crime. When the rich merchants found him,{LF}he was not allowed to die for his sin. That honor fell to his{LF}siblings, for they alone had consumed the stolen goods.{#Name="Sinful Scream Lv. 3"}
 
-`Commisе un crimine. I corpi martoriati dei suoi fratelli giacevano{LF}in strada. Li fissò, si strofinò le piaghe aperte lasciate{LF}dalla sua fustigazione pubblica, ed emise un singhiozzo senza voce.{#Name="Sinful Scream Lv. 4"}`
+`Commise un crimine. I corpi martoriati dei suoi fratelli giacevano{LF}in strada. Li fissò, si strofinò le piaghe aperte lasciate{LF}dalla sua fustigazione pubblica, ed emise un singhiozzo senza voce.{#Name="Sinful Scream Lv. 4"}`
 He committed a crime. His siblings' ravaged bodies lay in{LF}the street. He gazed upon them, rubbed the open sores from{LF}his own public whipping, and heaved a voiceless sob.{#Name="Sinful Scream Lv. 4"}
 
 `Un visitatore? Ah, sì. Vieni dunque ad ascoltare il canto. La locandiera{LF}e sua figlia ti accoglieranno calorosamente. Il loro cibo e le loro bevande{LF}non hanno eguali, e la ragazza è una gioia per gli occhi.{#Name="Eternal Voice Lv. 1"}`
@@ -136,7 +136,7 @@ My king kept this ceremonial blade close. And to the very{LF}end, he never suspe
 `Un tempo c'era una landa infernale coperta da cieli{LF}tuonanti. Passò di mano innumerevoli volte, e il suo popolo era{LF}tormentato da una fame infinita e da fulmini spietati.{#Name="Thunder Lord Lv. 1"}`
 Once there was a hellish wasteland covered by thundering{LF}skies. It changed hands countless times, and its people were{LF}tormented by unending hunger and merciless lightning.{#Name="Thunder Lord Lv. 1"}
 
-`Un giorno, un giovane barone valoroso giurò di conquistare la terra{LF}e trasformarla in un luogo d'abbondanza. Pochi dei suoi esausti{LF}sudditi gli credettero. Alcuni risero persino apertamente.{#Name="Thunder Lord Lv. 2"}`
+`Un giorno, un giovane barone valoroso giurò di conquistare la terra{LF}e trasformarla in un luogo d'abbondanza. Pochi dei suoi esausti{LF}sudditi gli credettero. Alcuni addirittura risero a pieni polmoni.{#Name="Thunder Lord Lv. 2"}`
 One day, a valiant young baron swore to conquer the land{LF}and turn it into a place of bounty. Few of his exhausted{LF}subjects believed him. Some even laughed openly.{#Name="Thunder Lord Lv. 2"}
 
 `Il barone fece forgiare una splendida spada d'argento, poi ordinò a un{LF}gruppo di vergini di pregare per tre giorni e tre notti. In cima a un colle,{LF}sollevò la spada in alto, poi la conficcò nel terreno.{#Name="Thunder Lord Lv. 3"}`
@@ -220,7 +220,7 @@ To burn is proof of witchery.{LF}And I am the one who lights the fire.{#Name="Ga
 `La spada di marmo fu infusa dell'anima{LF}ardente del fabbro. Bramava un padrone assetato di sangue.{LF}Che anelasse alla battaglia. Che avesse fame di guerra.{#Name="Moonfire Lv. 1"}`
 The marble sword was imbued with the blacksmith's{LF}blazing soul. It yearned for an owner who thirsted for blood.{LF}Who pined for battle. Who hungered for war.{#Name="Moonfire Lv. 1"}
 
-`Ma il suo filo di rasoio emanava un calore bruciante, sufficiente{LF}a ridurre in cenere qualunque valoroso guerriero la impugnasse.{#Name="Moonfire Lv. 2"}`
+`Ma il suo filo affilato come un rasoio emanava un calore bruciante, sufficiente{LF}a ridurre in cenere qualunque valoroso guerriero la impugnasse.{#Name="Moonfire Lv. 2"}`
 But its razor edge emitted searing heat, enough to{LF}reduce to ash any stalwart warrior who wielded it.{#Name="Moonfire Lv. 2"}
 
 `La spada attese un'anima forte che domasse il suo cuore{LF}ribollente. Attese il guerriero che avrebbe lasciato il sangue{LF}scorrere lungo la sua lama.{#Name="Moonfire Lv. 3"}`
@@ -250,7 +250,7 @@ A disciple at my level has more than strength, you know.{LF}He has enough bewitc
 `Il denaro fa davvero girare il mondo, no?{LF}Dovrei saperlo, vista l'enorme fortuna che comando.{LF}...Non che mi lascino ancora usarla. Il cielo sa perché.{#Name="Cries and Whispers Lv. 3"}`
 Money really does make the world go 'round, doesn't it?{LF}I should know, given the vast fortune I command.{LF}...Not that they let me use it yet. Lord knows why.{#Name="Cries and Whispers Lv. 3"}
 
-`Hm? C'è forse qualcosa di più importante nella vita della bellezza,{LF}della forza e del denaro...? Ah! Che burlone che sei!{LF}Voglio dire, c'è davvero bisogno di chiederlo?{#Name="Cries and Whispers Lv. 4"}`
+`Hm? C'è qualcosa di più importante nella vita della bellezza,{LF}della forza e del denaro...? Ah! Che burlone che sei!{LF}Voglio dire, c'è davvero bisogno di chiederlo?{#Name="Cries and Whispers Lv. 4"}`
 Hm? Is there anything more important in life than beauty,{LF}strength, and money...? Hah! What a kidder you are!{LF}I mean, do you even need to ask?{#Name="Cries and Whispers Lv. 4"}
 
 `La torre incombeva, la sua muratura bianca priva di una sola{LF}crepa o fenditura. Dentro, una ragazza viveva sola. Poiché nessuno dei{LF}suoi servitori le parlava, lei non sapeva nulla del linguaggio.{#Name="Once a Woman Lv. 1"}`

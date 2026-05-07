@@ -1,7 +1,7 @@
 `Ma non è nemmeno...{LF}Sei davvero senza speranza, Octa.{#Name="Dito"}`
 But that's not even...{LF}You really are hopeless, Octa.{#Name="Dito"}
 
-`Dimmi dov'è Two, o sei morto!{LF}E se non lo sai...sei comunque morto!{#Name="Zero"}`
+`Ditemi dov'è Two, o siete morti!{LF}E se non lo sapete...siete morti lo stesso!{#Name="Zero"}`
 Tell me where Two is, or you're dead!{LF}And if you don't know...you're still dead!{#Name="Zero"}
 
 `Ho ho! Sempre la solita Intoner agguerrita, eh?{#Name="Octa"}`
@@ -76,7 +76,7 @@ I've seen dogs who are pickier than that.{#Name="Dito"}
 `Un'Intoner più rozza di un cane?{LF}Oh ho! Questo tocca tutti i miei punti deboli!{#Name="Octa"}`
 An Intoner who's cruder than a dog?{LF}Oh ho! That pushes all my buttons!{#Name="Octa"}
 
-`State zitti prima che vi strappi tutte le lingue!{#Name="Zero"}`
+`State zitti prima che strappi a tutti la lingua!{#Name="Zero"}`
 Shut up before I pull out all your tongues!{#Name="Zero"}
 
 `Bel trucchetto. Chi è questo tizio?{#Name="Zero"}`

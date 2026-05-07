@@ -166,7 +166,7 @@ Cutscene{LF}The ancient dragon and Three are{LF}defeated, leaving Zero with one{
 `あらすじ第十一項　４３２０　一行目{LF}あらすじ第十一項　４３２０　二行目{LF}あらすじ第十一項　４３２０　三行目{LF}あらすじ第十一項　４３２０　四行目{LF}あらすじ第十一項　４３２０　五行目`
 あらすじ第十一項　４３２０　一行目{LF}あらすじ第十一項　４３２０　二行目{LF}あらすじ第十一項　４３２０　三行目{LF}あらすじ第十一項　４３２０　四行目{LF}あらすじ第十一項　４３２０　五行目
 
-`Accampamento{LF}Con Octa come unico discepolo rimasto,{LF}l'accampamento è davvero un luogo silenzioso. Zero{LF}decide di rompere il silenzio{LF}rivelando la verità sulla sua storia.`
+`Accampamento{LF}Con Octa come unico discepolo rimasto,{LF}l'accampamento è davvero un luogo silenzioso.{LF}Zero decide di rompere il silenzio{LF}rivelando la verità sulla sua storia.`
 Camp{LF}With Octa the only remaining disciple,{LF}camp is a quiet place indeed. Zero{LF}decides to break the silence by{LF}revealing the truth of her story.
 
 `Gioco{LF}Zero racconta finalmente la sua storia—il segreto{LF}dietro le Intoner, e la storia del{LF}fiore e della sua lotta contro l'umanità.`

@@ -1,70 +1,70 @@
-`SoldaX+16`
+`Soldati sconfitti!+16`
 Soldiers
 
-`SoldaX+17`
+`Soldati sconfitti!+17`
 Soldiers
 
-`SoldaX+18`
+`Soldati sconfitti!+18`
 Soldiers
 
-`SoldaX+19`
+`Soldati sconfitti!+19`
 Soldiers
 
-`Cannonieri`
+`Cannonieri sconfitti!+1`
 Cannoneers
 
-`Cannonieri`
+`Cannonieri sconfitti!+2`
 Cannoneers
 
-`Cannonieri`
+`Cannonieri sconfitti!+3`
 Cannoneers
 
-`Cannonieri`
+`Cannonieri sconfitti!+4`
 Cannoneers
 
-`Cannonieri`
+`Cannonieri sconfitti!+5`
 Cannoneers
 
 `-`
 -
 
-`Lupi`
+`Lupi sconfitti!+1`
 Wolves
 
-`Lupi delle Sabbie`
+`Lupi delle Sabbie sconfitti!+1`
 Sandwolves
 
 `-`
 -
 
-`Lupi`
+`Lupi sconfitti!+2`
 Wolves
 
-`Lupi delle Sabbie`
+`Lupi delle Sabbie sconfitti!+2`
 Sandwolves
 
 `-`
 -
 
-`Lancieri`
+`Lancieri sconfitti!+1`
 Lancers
 
-`Capitani Lancieri`
+`Capitani Lancieri sconfitti!+1`
 Lancer Captains
 
 `-`
 -
 
-`Spiriti`
+`Spiriti sconfitti!+1`
 Spirits
 
-`Spiriti Superiori`
+`Spiriti Superiori sconfitti!+1`
 Greater Spirits
 
 `-`
 -
 
-`Imp`
+`Imp sconfitti!+1`
 Imps
 
 `-`
@@ -73,46 +73,46 @@ Imps
 `-`
 -
 
-`Ogre`
+`Ogre sconfitti!+1`
 Ogres
 
-`Ogre delle Sabbie`
+`Ogre delle Sabbie sconfitti!+1`
 Sand Ogres
 
 `-`
 -
 
-`Troll`
+`Troll sconfitti!+1`
 Trolls
 
-`Troll Bruti`
+`Troll Bruti sconfitti!+1`
 Brute Trolls
 
 `-`
 -
 
-`Maghi`
+`Maghi sconfitti!+1`
 Wizards
 
 `-`
 -
 
-`Necromanti`
+`Necromanti sconfitti!+1`
 Necromancers
 
-`Stregoni`
+`Stregoni sconfitti!+1`
 Sorcerers
 
 `-`
 -
 
-`Non morti`
+`Non morti sconfitti!+1`
 Undead
 
-`Soldati non morti`
+`Soldati non morti sconfitti!+1`
 Undead Soldiers
 
-`Paladini non morti`
+`Paladini non morti sconfitti!+1`
 Undead Paladins
 
 `-`
@@ -121,7 +121,7 @@ Undead Paladins
 `-`
 -
 
-`Viverne`
+`Viverne sconfitte!+1`
 Wyverns
 
 `-`
@@ -130,7 +130,7 @@ Wyverns
 `-`
 -
 
-`Spettri`
+`Spettri sconfitti!+1`
 Specters
 
 `-`
@@ -139,58 +139,58 @@ Specters
 `-`
 -
 
-`Viverne`
+`Viverne sconfitte!+2`
 Wyverns
 
-`Viverne`
+`Viverne sconfitte!+3`
 Wyverns
 
 `-`
 -
 
-`Gigas`
+`Gigas sconfitti!+1`
 Gigantes
 
-`Gigas`
+`Gigas sconfitti!+2`
 Gigantes
 
-`Gigas non morti`
+`Gigas non morti sconfitti!+1`
 Undead Gigantes
 
 `-`
 -
 
-`Titan`
+`Titani sconfitti!+1`
 Titans
 
-`Signori titani`
+`Signori titani sconfitti!+1`
 Titan Lords
 
-`Arci titani`
+`Arci titani sconfitti!+1`
 Arch Titans
 
 `-`
 -
 
-`Cerberi`
+`Cerberi sconfitti!+1`
 Cerberuses
 
 `-`
 -
 
-`Cerberi di Fiamme`
+`Cerberi di Fiamme sconfitti!+1`
 Flame Cerberuses
 
-`Cerberi grigi`
+`Cerberi grigi sconfitti!+1`
 Gray Cerberuses
 
-`Golem`
+`Golem distrutti!+1`
 Golems
 
 `-`
 -
 
-`花（ワン）`
+`花（ワン)`
 花（ワン）
 
 `花（トウ）`
@@ -208,10 +208,10 @@ Golems
 `-`
 -
 
-`Centauri`
+`Centauri sconfitti!+1`
 Centaurs
 
-`Centauri di Fuoco`
+`Centauri di Fuoco sconfitti!+1`
 Flame Centaurs
 
 `-`
@@ -220,7 +220,7 @@ Flame Centaurs
 `-`
 -
 
-`Cubi Gargoyle`
+`Cubi Gargoyle distrutti!+1`
 Gargoyle Cubes
 
 `-`
@@ -232,84 +232,83 @@ Gargoyle Cubes
 `-`
 -
 
-`SoldaX+20`
+`Soldati confitti!+20`
 Soldiers
 
-`SoldaX+21`
+`Soldati sconfitti!+21`
 Soldiers
 
-`SoldaX+22`
+`Soldati sconfitti!+22`
 Soldiers
 
-`SoldaX+23`
+`Soldti sconfitti!+23`
 Soldiers
 
-`SoldaX+24`
+`Soldati sconfitti!+24`
 Soldiers
 
-`Bombardieri`
+`Bombardieri sconfitti!+1`
 Bombers
 
-`Phanuel`
+`Phanuel sconfitto!+1`
 Phanuel
 
-`Armaros`
+`Armaros sconfitto!+1`
 Armaros
 
-`Armaros`
+`Armaros sconfitto!+2`
 Armaros
 
-`Armaros`
+`Armaros sconfitto!+3`
 Armaros
 
-`Armaros`
+`Armaros sconfitto!+4`
 Armaros
 
-`Armaros`
+`Armaros sconfitto!+5`
 Armaros
 
-`Armaros`
+`Armaros sconfitto!+6`
 Armaros
 
 `-`
 -
 
-`Armisael`
+`Armisael sconfitti!+1`
 Armisaels
 
-`Armisael`
+`Armisael sconfitti!+2`
 Armisaels
 
-`Armisael`
+`Armisael sconfitti!+3`
 Armisaels
 
-`Egregori`
+`Egregori sconfitti!+1`
 Egregori
 
-`Gabriel`
+`Gabriel sconfitto!+1`
 Gabriel
 
-`Gabriel`
+`Gabriel sconfitto!+2`
 Gabriel
 
 `ガブリエル（傷）`
 ガブリエル（傷）
 
-`Zophiel`
+`Zophiel sconfitto!+1`
 Zophiel
 
 `花（ゼロ）`
 花（ゼロ）
 
-`Gigas superiori`
+`Gigas superiori sconfitti!+1`
 Greater Gigantes
 
-`False Zero`
+`False Zero sconfitte!+1`
 False Zeros
 
-`Homunculi`
+`Homunculi sconfitti!+1`
 Homunculi
 
-`Galgaliel`
+`Galgaliel sconfitti!+1`
 Galgaliels
-

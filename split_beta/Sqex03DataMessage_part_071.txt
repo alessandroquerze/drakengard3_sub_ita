@@ -32,7 +32,7 @@ Ogni volta che guardo Three, è come se...{LF}come se il corpo mi diventasse tut
 Mi viene questo strano dolore al petto e alla pancia,{LF}e comincio a sentirmi tutto formicolante...{#Name="Mikhail"}
 Che devo fare, Zero? Sono malato?{#Name="Mikhail"}
 Sì, si chiama "amore". Probabilmente terminale.{#Name="Zero"}
-No, Zero! Non è così! È una cosa seria!{LF}È... È più come...{#Name="Mikhail"}
+No, Zero! Non è così! E' una cosa seria!{LF}E'... E' più come...{#Name="Mikhail"}
 ミハ……イル{#Name="ゼロ"}
 ミハイル……{#Name="ゼロ"}
 ……ミハイル！！{#Name="ゼロ"}

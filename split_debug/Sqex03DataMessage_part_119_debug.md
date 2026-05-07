@@ -154,7 +154,7 @@ Cutscene{LF}Octa leads the way through an open{LF}gate to the Forest Shrine beyo
 `あらすじ第十一項　３０４０　一行目{LF}あらすじ第十一項　３０４０　二行目{LF}あらすじ第十一項　３０４０　三行目{LF}あらすじ第十一項　３０４０　四行目{LF}あらすじ第十一項　３０４０　五行目`
 あらすじ第十一項　３０４０　一行目{LF}あらすじ第十一項　３０４０　二行目{LF}あらすじ第十一項　３０４０　三行目{LF}あらすじ第十一項　３０４０　四行目{LF}あらすじ第十一項　３０４０　五行目
 
-`Mappa → Gioco{LF}Seguendo Octa, il gruppo si dirige verso{LF}il Santuario della Foresta di Three. Ma prima deve{LF}attraversare la Foresta Perduta,{LF}un luogo da cui pochi sono mai usciti vivi.`
+`Mappa → Gioco{LF}Seguendo Octa, il gruppo si dirige verso{LF}il Santuario della Foresta di Three.{LF}Ma prima deve attraversare la Foresta Perduta,{LF}un luogo da cui pochi sono mai usciti vivi.`
 Map → Game{LF}Following Octa, the group heads for{LF}Three's Forest Shrine. But they must{LF}first pass through the Lost Forest,{LF}a place few have ever left alive.
 
 `Cutscene → Gioco{LF}Mikhail è così emozionato nel vedere il proprio{LF}riflesso in un fiume che pesta i piedi su{LF}un ponte e cade in acqua.`

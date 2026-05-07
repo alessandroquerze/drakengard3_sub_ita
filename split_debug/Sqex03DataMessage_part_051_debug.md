@@ -289,7 +289,7 @@ Why are you so bent on taking down your sisters, Zero?{LF}Families are important
 `I draghi non hanno famiglie,{LF}e persino noi sappiamo che sono importanti.{#Name="Mikhail"}`
 Dragons don't have families,{LF}and even we know they're important.{#Name="Mikhail"}
 
-`Non per me.{#Name="Zero"}`
+`Beh, per me non lo sono.{#Name="Zero"}`
 Not to me, they're not.{#Name="Zero"}
 
 `Mi servirà un nuovo piano...{#Name="Zero"}`

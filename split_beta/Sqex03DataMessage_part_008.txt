@@ -28,7 +28,7 @@ Forbici? Ha... delle forbici!?{LF}Con le forbici si può provocare un dolore cos
 Ti piacciono parecchio le forbici, eh?{#Name="Zero"}
 Sì, se gli tagliano via l'arnese...{#Name="Dito"}
 Non vedo l'ora di vedere i giocattoli di Lady Three.{LF}Ehm, le sue forbici! Ahhh...{#Name="Decadus"}
-È proprio vivace ora che abbiamo tutti questi amici, eh?{#Name="Mikhail"}
+E' proprio vivace ora che abbiamo tutti questi amici, eh?{#Name="Mikhail"}
 Amici? Io non ho amici qui.{#Name="Zero"}
 Eh? E io? E Dito?{LF}E Decadus? E Octa?{#Name="Mikhail"}
 Uno scemo, uno psicopatico, un buono a nulla e un pervertito.{LF}Sì, siamo proprio una bella combriccola, certo.{#Name="Zero"}
@@ -91,7 +91,7 @@ Il bosco più avanti un tempo era molto più rigoglioso{LF}e verdeggiante di cos
 Dev'essere successo qualcosa dall'ultima volta che l'ho visitato.{LF}Lo sento!{#Name="Octa"}
 Lo "senti"? Santo cielo, che mucchio di{LF}sciocchezze superstiziose.{#Name="Cent"}
 Io, naturalmente, respingo simili follie mistiche{LF}in favore della scienza.{#Name="Cent"}
-Prove! Teorie! Sperimentazione!{LF}È così che funziona il mondo!{#Name="Cent"}
+Prove! Teorie! Sperimentazione!{LF}E' così che funziona il mondo!{#Name="Cent"}
 Maaa forse non dovrei aspettarmi che voi Neanderthal{LF}possiate capire qualcosa del genere.{#Name="Cent"}
 Chiudi il becco, professore.{#Name="Dito"}
 いいから、黙れ{#Name="ディト"}

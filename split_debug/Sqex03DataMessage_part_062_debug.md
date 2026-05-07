@@ -40,7 +40,7 @@ KA-BOOM! We did it! Intoner down! Intoner down! Did you see that? Nailed her rig
 `Lady Three sarà felicissima!{#Name="Soldier A"}`
 Lady Three's gonna be overjoyed!{#Name="Soldier A"}
 
-`Woo-hoo! Sì, baby, SÌ! Ha ha ha ha! (follow Japanese closely; some grunts and stuff mixed in here too(???:::)){#Name="Soldier A"}`
+`Woo-hoo! Sì, baby, SÌ! Ha ha ha ha! (follow Japanese closely; some grunts and stuff mixed in here too(???^)){#Name="Soldier A"}`
 Woo-hoo! Yeah, baby, YEAH! Ha ha ha ha! (follow Japanese closely; some grunts and stuff mixed in here too){#Name="Soldier A"}
 
 `Dopo tutta la fatica che ho fatto per procurarmi quella maledetta aeronave...{#Name="Zero"}`
@@ -139,7 +139,7 @@ Mmm... The pain is...delectable...{#Name="Decadus"}
 `Sei un uomo strano, Decadus.{LF}Lo sai, vero?{#Name="Dito"}`
 You're a strange man, Decadus.{LF}You know that, right?{#Name="Dito"}
 
-`Hmm... Quell'albero gigante si nota parecchio, eh?{#Name="Zero"}`
+`Hmm... Quell'albero gigante dà proprio nell'occhio, eh?{#Name="Zero"}`
 Hmm... That giant tree sure stands out, doesn't it?{#Name="Zero"}
 
 `In effetti. Forse Lady Three si trova lì?{#Name="Decadus"}`
@@ -160,7 +160,7 @@ Dammit! What the hell!?{#Name="Zero"}
 `Bloccati da muri di edera...{#Name="Decadus"}`
 Blocked in by walls of ivy...{#Name="Decadus"}
 
-`Questo mi sta seriamente facendo girare i coglioni!{#Name="Zero"}`
+`Questo mi sta seriamente facendo innervosire!{#Name="Zero"}`
 This is seriously getting on my nerves!{#Name="Zero"}
 
 `Lady Zero! Questi nemici sono non morti!{#Name="Decadus"}`

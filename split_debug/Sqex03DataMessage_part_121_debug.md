@@ -19,7 +19,7 @@ Cutscene{LF}As Mikhail lays dying from the poison,{LF}Zero uses her flower's for
 `あらすじ第十一項　３２５０　一行目{LF}あらすじ第十一項　３２５０　二行目{LF}あらすじ第十一項　３２５０　三行目{LF}あらすじ第十一項　３２５０　四行目{LF}あらすじ第十一項　３２５０　五行目`
 あらすじ第十一項　３２５０　一行目{LF}あらすじ第十一項　３２５０　二行目{LF}あらすじ第十一項　３２５０　三行目{LF}あらすじ第十一項　３２５０　四行目{LF}あらすじ第十一項　３２５０　五行目
 
-`Mappa Diramazioni → Gioco{LF}La Diramazione C inizia con fattori esterni{LF}che influenzano Mikhail, portando a{LF}risultati imprevedibili. Nonostante tutto,{LF}proseguono nella notte del deserto.`
+`Mappa Diramazioni → Gioco{LF}La Diramazione C inizia con fattori{LF}esterni che influenzano Mikhail, portando a{LF}risultati imprevedibili. Nonostante tutto,{LF}proseguono nella notte del deserto.`
 Branch Map → Game{LF}Branch C begins with external factors{LF}influencing Mikhail, which leads to{LF}unpredictable results. Regardless, they{LF}press on through the desert night.
 
 `Gioco{LF}Mikhail non si sente bene, forse a causa{LF}del freddo. Il gruppo continua a combattere{LF}mentre cerca di determinarne la causa.`
@@ -52,7 +52,7 @@ Cutscene{LF}As they attempt to enter the underground{LF}ruins, Mikhail suddenly 
 `あらすじ第十一項　４１１０　一行目{LF}あらすじ第十一項　４１１０　二行目{LF}あらすじ第十一項　４１１０　三行目{LF}あらすじ第十一項　４１１０　四行目{LF}あらすじ第十一項　４１１０　五行目`
 あらすじ第十一項　４１１０　一行目{LF}あらすじ第十一項　４１１０　二行目{LF}あらすじ第十一項　４１１０　三行目{LF}あらすじ第十一項　４１１０　四行目{LF}あらすじ第十一項　４１１０　五行目
 
-`Accampamento{LF}Temendo che la regressione di Mikhail{LF}possa essere una maledizione causata da un'Intoner, Zero{LF}si addentra nelle rovine in cerca di Two.`
+`Accampamento{LF}Temendo che la regressione di Mikhail{LF}possa essere una maledizione causata{LF}da un'Intoner, Zero si addentra nelle rovine{LF} in cerca di Two.`
 Camp{LF}As the group fears Mikhail's devolution{LF}may be an Intoner-driven curse, Zero{LF}heads into the ruins in search of Two.
 
 `Gioco{LF}Mentre il gruppo avanza, l'energia{LF}di Mikhail continua a diminuire.{LF}Il tempo è essenziale!`
@@ -85,7 +85,7 @@ Game{LF}The group hurries through the ruins,{LF}but is unable to locate Two. Cha
 `あらすじ第十一項　４１２０　一行目{LF}あらすじ第十一項　４１２０　二行目{LF}あらすじ第十一項　４１２０　三行目{LF}あらすじ第十一項　４１２０　四行目{LF}あらすじ第十一項　４１２０　五行目`
 あらすじ第十一項　４１２０　一行目{LF}あらすじ第十一項　４１２０　二行目{LF}あらすじ第十一項　４１２０　三行目{LF}あらすじ第十一項　４１２０　四行目{LF}あらすじ第十一項　４１２０　五行目
 
-`Gioco{LF}Il gruppo lascia che un Mikhail indebolito fugga{LF}nei cieli mentre attacca l'esercito di Two,{LF}che comincia a mostrare una fede bizzarramente{LF}devota nella propria Intoner.`
+`Gioco{LF}Il gruppo lascia che un Mikhail{LF}indebolito fugga nei cieli{LF}mentre attacca l'esercito di Two, che{LF}comincia a mostrare una fede{LF}bizzarramente devota nella propria Intoner.`
 Game{LF}The group lets a weakened Mikhail flee{LF}to the skies as they attack Two's army,{LF}which is beginning to show a bizarrely{LF}devout faith in their Intoner.
 
 `Gioco{LF}Respingendo soldati impazziti e una coppia{LF}di cerberi, il gruppo prosegue{LF}verso Cathedral City, dove si pensa che Two{LF}e One si nascondano.`
@@ -118,7 +118,7 @@ Cutscene{LF}Mikhail has devolved, disciples{LF}are abandoning their Intoners...{
 `あらすじ第十一項　４１３０　一行目{LF}あらすじ第十一項　４１３０　二行目{LF}あらすじ第十一項　４１３０　三行目{LF}あらすじ第十一項　４１３０　四行目{LF}あらすじ第十一項　４１３０　五行目`
 あらすじ第十一項　４１３０　一行目{LF}あらすじ第十一項　４１３０　二行目{LF}あらすじ第十一項　４１３０　三行目{LF}あらすじ第十一項　４１３０　四行目{LF}あらすじ第十一項　４１３０　五行目
 
-`Mappa Diramazioni → Gioco{LF}La natura di questa Diramazione ha portato {LF}soldati, Intoner e discepoli in uno{LF}stato mentale instabile. Nonostante tutto,{LF}il gruppo procede nel caos.`
+`Mappa Diramazioni → Gioco{LF}La natura di questa Diramazione ha{LF}portato soldati, Intoner e discepoli in uno{LF}stato mentale instabile. Nonostante tutto,{LF}il gruppo procede nel caos.`
 Branch Map → Game{LF}The nature of this branch has put {LF}soldiers, Intoners, and disciples in an{LF}unstable mental state. Regardless, the{LF}group proceeds through the chaos.
 
 `Cutscene → Gioco{LF}Zero trova Two e le ordina di{LF}sciogliere la maledizione su Mikhail. Tuttavia, sua{LF}sorella si comporta in modo ancora più strano del solito.`
@@ -151,7 +151,7 @@ Cutscene{LF}Two unleashes a trap on Zero's{LF}disciples, bringing their lives an
 `あらすじ第十一項　５１１０　一行目{LF}あらすじ第十一項　５１１０　二行目{LF}あらすじ第十一項　５１１０　三行目{LF}あらすじ第十一項　５１１０　四行目{LF}あらすじ第十一項　５１１０　五行目`
 あらすじ第十一項　５１１０　一行目{LF}あらすじ第十一項　５１１０　二行目{LF}あらすじ第十一項　５１１０　三行目{LF}あらすじ第十一項　５１１０　四行目{LF}あらすじ第十一項　５１１０　五行目
 
-`Gioco{LF}Anche con Two morta, la maledizione di Mikhail{LF}resta attiva. In cerca di risposte,{LF}Zero si addentra in un covo sotterraneo{LF}dall'arredamento discutibile.`
+`Gioco{LF}Anche con Two morta, la maledizione{LF}di Mikhail resta attiva. In cerca di risposte,{LF}Zero si addentra in un covo sotterraneo{LF}dall'arredamento discutibile.`
 Game{LF}Even with Two dead, Mikhail's curse{LF}remains in place. In search of answers,{LF}Zero heads into an underground lair{LF}with questionable decor.
 
 `Cutscene → Gioco{LF}Zero trova One ad attenderla. Lei{LF}dichiara che Zero aveva ragione e che tutte{LF}le Intoner—incluse loro stesse—devono{LF}morire. Le sorelle iniziano quindi a combattere.`
@@ -184,7 +184,7 @@ Cutscene{LF}Zero kills One, but with Mikhail and{LF}her disciples gone, her ment
 `あらすじ第十一項　５１２０　一行目{LF}あらすじ第十一項　５１２０　二行目{LF}あらすじ第十一項　５１２０　三行目{LF}あらすじ第十一項　５１２０　四行目{LF}あらすじ第十一項　５１２０　五行目`
 あらすじ第十一項　５１２０　一行目{LF}あらすじ第十一項　５１２０　二行目{LF}あらすじ第十一項　５１２０　三行目{LF}あらすじ第十一項　５１２０　四行目{LF}あらすじ第十一項　５１２０　五行目
 
-`Mappa Diramazioni → Accampamento{LF}Uh oh. Non avrò mica perso una registrazione{LF}per sbaglio, vero? Dai, è assurdo.{LF}Dov'è... Ah, eccola. Credo che{LF}la Terra dei Mari venisse prima, giusto?`
+`Mappa Diramazioni → Accampamento{LF}Uh oh. Non avrò mica perso una{LF}registrazione per sbaglio, vero? Dai, è assurdo.{LF}Dov'è... Ah, eccola. Credo che{LF}la Terra dei Mari venisse prima, giusto?`
 Branch Map → Camp{LF}Uh oh. I didn't lose a recording by{LF}accident, did I? Come on, this is silly.{LF}Where is... Ah, there we go. I think{LF}the Land of Seas came first, right?
 
 `Gioco{LF}Zero e il suo gruppo continuano a combattere nella Terra{LF}dei Mari. Sembrano diretti{LF}di nuovo verso la casa di Zero.`
@@ -283,7 +283,7 @@ Branch Map{LF}This concludes the supplemental repairs.{LF}All conditions are now
 `あらすじ第十一項　４５１０　一行目{LF}あらすじ第十一項　４５１０　二行目{LF}あらすじ第十一項　４５１０　三行目{LF}あらすじ第十一項　４５１０　四行目{LF}あらすじ第十一項　４５１０　五行目`
 あらすじ第十一項　４５１０　一行目{LF}あらすじ第十一項　４５１０　二行目{LF}あらすじ第十一項　４５１０　三行目{LF}あらすじ第十一項　４５１０　四行目{LF}あらすじ第十一項　４５１０　五行目
 
-`Mappa Diramazioni → Accampamento{LF}Il gruppo di Zero è vicino a scoprire{LF}la verità sulle Intoner, ma il loro viaggio{LF}non è ancora finito. La Diramazione D porterà{LF}distruzione...o salvezza?`
+`Mappa Diramazioni → Accampamento{LF}Il gruppo di Zero è vicino a scoprire{LF}la verità sulle Intoner, ma il loro viaggio{LF}non è ancora finito. La Diramazione D{LF}porterà distruzione...o salvezza?`
 Branch Map → Camp{LF}Zero's party is close to learning the{LF}truth of the Intoners, but their journey{LF}isn't over yet. Will Branch D bring{LF}about destruction...or salvation?
 
 `Gioco{LF}Il gruppo arriva nella Terra dei{LF}Monti in cerca di Four, e i suoi{LF}soldati rivelano che si nasconde{LF}dentro la sua fortezza.`

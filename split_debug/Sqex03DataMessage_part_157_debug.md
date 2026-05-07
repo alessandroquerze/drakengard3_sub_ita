@@ -91,16 +91,16 @@ The islanders decided to make a sacrifice to the god of{LF}the seas. As they deb
 `Un tempo la donna più bella dell'isola, ora aveva la pelle{LF}coperta di ustioni. Suo padre cercò di fermarla, ma lei indossò{LF}l'armatura cerimoniale e si gettò in mare.{#Name="Thunder Princess Lv. 3"}`
 Once the fairest woman on the island, her skin was now{LF}covered in burns. Her father tried to stop her, but she donned{LF}the ceremonial armor and threw herself into the sea.{#Name="Thunder Princess Lv. 3"}
 
-`Presto, le onde diminuirono e il mare si calmò. La grande{LF}lancia che la ragazza portò con sé si erge sola sul fondale,{LF}tremando a tratti al suono di tuoni lontani.{#Name="Thunder Princess Lv. 4"}`
+`Presto, le onde diminuirono e il mare si calmò. La grande{LF}lancia che la ragazza portò con sé si erge sola sul fondale,{LF}ogni tanto tremando al suono di tuoni lontani.{#Name="Thunder Princess Lv. 4"}`
 Soon, the waves lessened and the sea was calmed. The large{LF}spear the girl carried with her stands alone on the seabed,{LF}occasionally quivering to the sounds of distant thunder.{#Name="Thunder Princess Lv. 4"}
 
 `Vi siete perso, signore? Beh, mi spiace sentirlo.{LF}...Uno studioso, dite? Splendido! Questo villaggio{LF}ha una biblioteca eccellente. Scommetto che vi piacerà molto.{#Name="Eternal Wail Lv. 1"}`
 Didja get lost, sir? Well, I'm sorry to hear that.{LF}...A scholar, ya say? How excellent! This village{LF}has a fine library. I wager you'll like it very much.{#Name="Eternal Wail Lv. 1"}
 
-`C'è una signora gentile e bellissima che tiene la biblioteca{LF}in piedi. Ama quei libri, eccome. Passa tutto il giorno{LF}a copiare tomi per assicurarsi che non vadano perduti nel tempo.{#Name="Eternal Wail Lv. 2"}`
+`C'è una signora gentile e bellissima che tiene la biblioteca{LF}in piedi. Ama quei libri, li ama davvero tanto. Passa tutto il giorno{LF}a copiare tomi per assicurarsi che non vadano perduti nel tempo.{#Name="Eternal Wail Lv. 2"}`
 There's a kind and beautiful lady what keeps the library{LF}runnin'. She loves them books, she does. Spends all day{LF}copyin' tomes to make sure they ain't lost to time.{#Name="Eternal Wail Lv. 2"}
 
-`Ma tanta bellezza può essere letale! Già, sua sorella gemella canta{LF}presso la fontana del villaggio, e ti servirà la testa su un{LF}piatto se fai mosse sbagliate con la bibliotecaria.{#Name="Eternal Wail Lv. 3"}`
+`Ma tanta bellezza può essere letale! Già, sua sorella gemella canta{LF}presso la fontana del villaggio, e servirà la tua testa su un{LF}piatto se fai mosse sbagliate con la bibliotecaria.{#Name="Eternal Wail Lv. 3"}`
 But such beauty can be deadly! Aye, her twin sister sings{LF}by the village fountain, and she'll have yer head on a{LF}plate if ya make false moves on the librarian.{#Name="Eternal Wail Lv. 3"}
 
 `Quelle gemelle proteggono il villaggio, sì. ...Eh? Da quando?{LF}Oh, non saprei dirlo con certezza. Da tanto, tanto tempo. Credo{LF}che probabilmente continueranno fino alla fine dei tempi.{#Name="Eternal Wail Lv. 4"}`
@@ -163,7 +163,7 @@ Research Report 2. I refer to calling forth angels from{LF}nothing, without a ho
 `Rapporto di Ricerca 3. Se trasformarsi in un angelo è semplicemente{LF}scambiare una forma di vita di questo mondo con una di un altro,{LF}potremmo evocarli senza un corpus adatto da questa parte?{#Name="Sins of the Fallen Lv. 3"}`
 Research Report 3. If transforming into an angel is simply{LF}exchanging a lifeform from this world with one from another,{LF}could we summon them without a suitable corpus on this side?{#Name="Sins of the Fallen Lv. 3"}
 
-`Rapporto di Ricerca 4. Per eseguire una simile evocazione, devo{LF}evocare "me stesso" da un altro piano mantenendo il mio corpo{LF}qui. Un tale potere mi renderebbe il più grand [registrazione interrotta]{#Name="Sins of the Fallen Lv. 4"}`
+`Rapporto di Ricerca 4. Per eseguire una simile evocazione, devo{LF}evocare "me stesso" da un altro piano mantenendo il mio corpo{LF}qui. Un tale potere mi renderebbe il più grand- [registrazione interrotta]{#Name="Sins of the Fallen Lv. 4"}`
 Research Report 4. To perform such a summoning, I must{LF}summon "myself" from another plane while keeping my body{LF}here. Such power would make me the greates [record ends]{#Name="Sins of the Fallen Lv. 4"}
 
 `Il principe più giovane ambiva al trono. Ma suo{LF}fratello maggiore combatté una campagna di grandi battaglie e ottenne{LF}l'adorazione del popolo. E così, bisognava occuparsi di lui.{#Name="Seer's Lure Lv. 1"}`
@@ -229,7 +229,7 @@ The spear waits for the day its cry can once again ring out.{LF}It has seen the 
 `Fermo! Oh, ti prego, fermati! Se mi metti in quell'acqua bollente,{LF}mi brucerò dalla testa ai piedi! Come può qualcuno essere così crudele?{LF}Come può— Nnnnngh....{#Name="Masochistic Joy Lv. 1"}`
 Stop! Oh, please stop! If you put me in that boiling water,{LF}I'll be burned from head to toe! How can anyone be so cruel?{LF}How can— Nnnnngh....{#Name="Masochistic Joy Lv. 1"}
 
-`Augh! Perché? Perché mi colpisci con quella grossa sbarra di ferro?{LF}Non posso far altro che singhiozzare come un cucciolo abbandonato strappato{LF}alla mammella della madre. Nnnnngh...{#Name="Masochistic Joy Lv. 2"}`
+`Augh! Perché? Perché mi colpisci con quella grossa sbarra di ferro?{LF}Non posso far altro che singhiozzare come un cucciolo strappato{LF}dalla madre. Nnnnngh...{#Name="Masochistic Joy Lv. 2"}`
 Augh! Why? Why do you beat me with that thick iron pole?{LF}All I can do is sob like an abandoned puppy ripped from{LF}its mother's teat. Nnnnngh...{#Name="Masochistic Joy Lv. 2"}
 
 `No... No, è troppo grande! Mi spaccherai in due!{LF}Mi spezzerai corpo e anima! Solo immaginarlo mi fa{LF}venire voglia di... Voglia di... Nnnnngh...{#Name="Masochistic Joy Lv. 3"}`
@@ -253,19 +253,19 @@ Her prey are placed in ice, where they offer up their lives{LF}for eternity. Swo
 `In un povero villaggio nel profondo delle montagne aride viveva una devota{LF}monaca. Le sue preghiere silenziose lenivano i cuori della gente,{LF}un fiore solitario che sbocciava nelle lande desolate delle loro menti.{#Name="Golden Petals Lv. 1"}`
 In a poor village deep in the arid mountains lived a devoted{LF}nun. Her quiet prayers soothed the hearts of the people,{LF}a lone flower blossoming in the wastelands of their minds.{#Name="Golden Petals Lv. 1"}
 
-`Un giorno, una malattia colpì il villaggio. Le vittime avvizzivano{LF}diventando invalidi chiazzati prima di morire tra dolori enormi. E {LF}sebbene la monaca pregasse e pregasse, il morbo dilagò.{#Name="Golden Petals Lv. 2"}`
+`Un giorno, una malattia colpì il villaggio. Le vittime avvizzivano{LF}diventando invalidi screziati prima di morire tra dolori enormi. E {LF}sebbene la monaca pregasse e pregasse, il morbo dilagò.{#Name="Golden Petals Lv. 2"}`
 One day, disease struck the village. The victims shriveled{LF}into mottled invalids before dying in enormous pain. And {LF}though the nun prayed and prayed, the illness ran rampant.{#Name="Golden Petals Lv. 2"}
 
 `Mentre pregava, dai cadaveri iniziarono a germogliare boccioli. {LF}A ogni abitante caduto, crescevano nuovi fiori, e presto{LF}l'intero villaggio fu colmo del loro dolce aroma.{#Name="Golden Petals Lv. 3"}`
 As she prayed, buds began to sprout from the corpses. {LF}As each villager fell, new flowers grew, and soon,{LF}the entire village was filled with their sweet aroma.{#Name="Golden Petals Lv. 3"}
 
-`Nessuno sa cosa accadde dopo, ma dove un tempo sorgevano{LF}le case degli abitanti, ora si può vedere un vasto campo di fiori,{LF}con petali eternamente sbocciati che ondeggiano dolcemente nella brezza.{#Name="Golden Petals Lv. 4"}`
+`Nessuno sa cosa accadde dopo, ma dove un tempo sorgevano{LF}le case degli abitanti, ora si può vedere un vasto campo di fiori,{LF}i cui petali eternamente sbocciati ondeggiano dolcemente nella brezza.{#Name="Golden Petals Lv. 4"}`
 None know what happened after that, but where the villagers'{LF}homes once stood, a vast field of flowers can now be seen,{LF}their forever-blossoming petals fluttering gently in the breeze.{#Name="Golden Petals Lv. 4"}
 
 `La nuova nazione si estendeva su un paesaggio generoso,{LF}ma ospitava una guerra vasta e distruttiva. I vecchi servitori{LF}mormoravano tra sé, maledicendo l'avventato giovane re.{#Name="Imperial Claws Lv. 1"}`
 The new nation spread across a bountiful landscape,{LF}but it was home to a vast, destructive war. The old retainers{LF}muttered under their breath, cursing the brash young king.{#Name="Imperial Claws Lv. 1"}
 
-`"Non mi curo del passato," disse il re. "Per quanto sia difficile,{LF}dobbiamo andare avanti e portare fortuna alla terra!" E così{LF}iniziò una guerra senza fine contro i vicini.{#Name="Imperial Claws Lv. 2"}`
+`"Non mi curo del passato," disse il re. "Per quanto sia difficile,{LF}dobbiamo andare avanti e portare fortuna alla nostra terra!" E così{LF}iniziò una guerra senza fine contro i vicini.{#Name="Imperial Claws Lv. 2"}`
 "I care not for the past," said the king. "No matter how hard,{LF}we must move on and bring fortune to the land!" And so{LF}he began a never-ending war against their neighbors.{#Name="Imperial Claws Lv. 2"}
 
 `Le risorse della terra riempirono le casse del regno per un{LF}periodo, portando prosperità a tutti. Ma alla fine la terra{LF}iniziò a esaurirsi, e il popolo si stancò della guerra.{#Name="Imperial Claws Lv. 3"}`
@@ -292,10 +292,10 @@ Let me sing. Let me dance.{LF}Within the cold water at the bottom of the sea.{LF
 `Lasciami sperare. Lasciami pregare.{LF}Che il tuo cuore scorga il mio e i tuoi sentimenti si sciolgano.{LF}Mentre nuoto nell'acqua. Mentre galleggio nel mare.{#Name="Azure Arms Lv. 2"}`
 Let me hope. Let me pray.{LF}For your heart to spy mine and your feelings to melt.{LF}As I swim in the water. As I float in the sea.{#Name="Azure Arms Lv. 2"}
 
-`Lasciami maledire. Lasciami gemere.{LF}Se raggiungi quel luogo dove il dio dell'acqua non può vedere.{LF}E un'altra voce ti trova. E una nuova donna ti stringe.{#Name="Azure Arms Lv. 3"}`
+`Lasciami maledire. Lasciami gemere.{LF}Se raggiungi quel luogo dove il dio dell'acqua non può vedere.{LF}E un'altra voce ti trova. E una nuova donna ti stringa.{#Name="Azure Arms Lv. 3"}`
 Let me curse. Let me wail.{LF}If you reach that place where the water god cannot see.{LF}And another voice finds you. And a new woman holds you.{#Name="Azure Arms Lv. 3"}
 
-`Lasciami affondare. Lasciami attendere.{LF}Finché i tuoi occhi si chiudono e il tuo respiro si ferma.{LF}Ti vogliamo per noi. Vogliamo finirvi tutti.{#Name="Azure Arms Lv. 4"}`
+`Lasciami affondare. Lasciami attendere.{LF}Finché i tuoi occhi si chiudono e il tuo respiro si ferma.{LF}Vi vogliamo per noi. Vogliamo finirvi tutti.^{#Name="Azure Arms Lv. 4"}`
 Let me sink. Let me wait.{LF}Until your eyes close and your breathing stops.{LF}We want you for ourselves. We want to end you all.{#Name="Azure Arms Lv. 4"}
 
 `Le parole della maledizione si scavarono nelle mie orecchie.{LF}L'odio nascosto nelle ombre della giustizia divenne veleno.{#Name="Darklord's Flame Lv. 1"}`

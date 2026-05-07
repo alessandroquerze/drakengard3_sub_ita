@@ -54,7 +54,7 @@ e poi distruggere il fiore.{#Name="Zero"}
 Ho pensato che fossi stata io a dare inizio a tutto questo casino, sai?{#Name="Zero"}
 Tanto valeva finirlo.{#Name="Zero"}
 Quindi, in breve, è tutto qui.{#Name="Zero"}
-È di questo che parla tutta questa storia.{#Name="Zero"}
+E' di questo che parla tutta questa storia.{#Name="Zero"}
 Michael!{#Name="Zero"}
 Ti sento. Non serve urlare.{#Name="Michael"}
 Mentre cercavo un modo per uccidere le mie sorelle,{#Name="Zero"}
@@ -82,17 +82,17 @@ Accord
 Zero
  
 Michael
-È Zero! È qui!{#Name="Soldier B"}
+E' Zero! E' qui!{#Name="Soldier B"}
 Merda! Scappate tutti!{#Name="Soldier C"}
 Non ritirarti, idiota! Combattila! Combattila, adesso!{#Name="Soldier B"}
 Avanzate! Avanzaaate!{#Name="Soldier A"}
 Accidenti! Non riusciamo a trattenerla!{#Name="Soldier B"}
 Un'Intoner che può evocare draghi!?{#Name="Soldier C"}
 Quel fiore mi fa venire i brividi, amico!{#Name="Soldier D"}
-È troppo veloce per noi!{#Name="Soldier E"}
+E' troppo veloce per noi!{#Name="Soldier E"}
 Stiamo venendo puniti! Questa è una punizione divina!{#Name="Soldier F"}
 Dannazione! Ci sta falciando come mosche!{#Name="Soldier G"}
-È Zero! L'Intoner! ...E il suo DRAGO!{#Name="Soldier A"}
+E' Zero! L'Intoner! ...E il suo DRAGO!{#Name="Soldier A"}
 QUELLA è Zero!?{#Name="Soldier D"}
 Occhi avanti!{#Name="Soldier E"}
 Quello... quello è semplicemente...{#Name="Soldier G"}

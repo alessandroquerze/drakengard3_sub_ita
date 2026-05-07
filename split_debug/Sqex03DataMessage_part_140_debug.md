@@ -79,7 +79,7 @@ exp
 `Lv.`
 Lv.
 
-`Livello Successivo:`
+`Prossimo Lv:`
 Next Level:
 
 `Salute`

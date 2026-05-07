@@ -13,7 +13,7 @@ Tornare al menu principale?{#Name=" "}
 {04}{#Name=" "}
 La porta è chiusa.{#Name="Zero"}
 Hanno chiuso il cancello? Grazie mille, stronzi.{#Name="Zero"}
-*Merda. È chiuso.{#Name="Zero"}
+*Merda. E' chiuso.{#Name="Zero"}
 *Dev'essere stato il nemico a chiuderlo.{#Name="Zero"}
 *Chi continua a chiuderli? Che senso ha?{#Name="Zero"}
 *Devono averlo chiuso.{#Name="Zero"}
@@ -33,7 +33,7 @@ Chiudi{#Name=" "}
 Sei riuscito a raccogliere tutte le armi.{LF}La Diramazione D è ora sbloccata!{#Name=" "}
 La porta è chiusa.{#Name="Zero"}
 Hanno chiuso il cancello? Grazie mille, stronzi.{#Name="Zero"}
-*Merda. È chiuso.{#Name="Zero"}
+*Merda. E' chiuso.{#Name="Zero"}
 *Dev'essere stato il nemico a chiuderlo.{#Name="Zero"}
 *Chi continua a chiuderli? Che senso ha?{#Name="Zero"}
 *Devono averlo chiuso.{#Name="Zero"}
@@ -66,7 +66,7 @@ Seleziona un'arma per visualizzarne la storia e altri dettagli.
 Seleziona un personaggio da visualizzare.
 Seleziona un'animazione da visualizzare. CONFIRMED NOT USED 1126
 デモ
-Una Intoner dotata di abilità di combattimento sovrumane. È aperta{LF}e disinibita con gli uomini, ma di natura violenta e pigra.{LF}Dal suo occhio destro cresce uno strano fiore.{#Name="Zero"}
+Una Intoner dotata di abilità di combattimento sovrumane. E' aperta{LF}e disinibita con gli uomini, ma di natura violenta e pigra.{LF}Dal suo occhio destro cresce uno strano fiore.{#Name="Zero"}
 Un drago fieramente orgoglioso, considerato il più potente{LF}del mondo. Estremamente intelligente e forte oltre ogni misura,{LF}è l'unico vero confidente che Zero abbia mai avuto.{#Name="Michael"}
 La forma post-reincarnazione di Michael che viaggia{LF}con Zero. Idealista e pacifista, pensa che tutti{LF}i conflitti possano essere risolti solo con le parole.{#Name="Mikhail (Stage 1)"}
 La forma post-reincarnazione di Michael che viaggia{LF}con Zero. Idealista e pacifista, pensa che tutti{LF}i conflitti possano essere risolti solo con le parole.{#Name="Mikhail (Stage 2)"}
@@ -78,19 +78,19 @@ Un discepolo narcisista che combatte con lame gemelle. Nonostante{LF}la sua estr
 La più giovane delle Intoner, e sovrana della Terra dei Mari. Avida{LF}e superficiale, desidera tutto ciò che vede (inclusa Zero), ma{LF}perde interesse appena lo ottiene. Ama i doppi sensi sessuali.{#Name="Five"}
 L'unica Intoner vergine, e sovrana della Terra dei Monti.{LF}Finge un'aria di superiorità per nascondere il suo profondo{LF}complesso d'inferiorità e le sue inibizioni.{#Name="Four"}
 La svogliata Intoner che governa la Terra delle Foreste. Ha{LF}gusti sessuali contorti e una personalità distaccata e bizzarra.{LF}Le piace sperimentare sugli umani per trasformarli in bambole.{#Name="Three"}
-Una Intoner brillante e allegra che governa la Terra delle Sabbie.{LF}È innamorata di Cent, anche se un incidente sfortunato{LF}le ha spezzato la mente, lasciandola in uno stato infantile.{#Name="Two"}
-La Intoner che governa Cathedral City. È la più{LF}matura e intelligente delle sorelle, e anche l'unica{LF}che comprende pienamente le vere intenzioni di Zero.{#Name="One"}
+Una Intoner brillante e allegra che governa la Terra delle Sabbie.{LF}E' innamorata di Cent, anche se un incidente sfortunato{LF}le ha spezzato la mente, lasciandola in uno stato infantile.{#Name="Two"}
+La Intoner che governa Cathedral City. E' la più{LF}matura e intelligente delle sorelle, e anche l'unica{LF}che comprende pienamente le vere intenzioni di Zero.{#Name="One"}
 Il fratello gemello di One, creato da One stessa. Fu nascosto{LF}come misura di sicurezza per distruggere Zero e le altre Intoner.{LF}Idolatra One sia come sorella sia come madre.{#Name="One's Brother"}
 Una negoziante della Terra dei Mari che porta con sé una grande{LF}valigia. In quanto osservatrice e Recorder,{LF}considera Zero una "singolarità" di massimo livello nel suo lavoro.{#Name="Accord"}
 Un angelo evocato da Dito usando il potere della canzone di Five.{#Name="Phanuel"}
-Un angelo evocato da Decadus usando il potere della canzone di Four.{#Name="Armaros"}
+Un angelo evocato da Decadus usando il potere della canzone di {LF}Four.{#Name="Armaros"}
 Un angelo evocato da Octa usando il potere della canzone di Three.{#Name="Armisael"}
 Un angelo evocato da Cent usando il potere della canzone di Two.{#Name="Egregori"}
 Un drago trasformato in angelo da One.{#Name="Gabriel"}
 Un angelo evocato da Two e Cent.{#Name="Raphael"}
 Un angelo evocato da One.{#Name="Abdiel"}
-Un angelo draconico evocato da Four dopo che la sua mente si era spezzata.{#Name="Zophiel"}
-Un angelo evocato da Five dopo che la sua mente si era spezzata.{#Name="Galgaliel"}
+Un angelo draconico evocato da Four dopo che la sua mente si{LF}spezzò.{#Name="Zophiel"}
+Un angelo evocato da Five dopo che la sua mente si spezzò.{#Name="Galgaliel"}
 Un angelo — e un antico drago — richiamato da Three{LF}dopo che la sua mente si era spezzata.{#Name="Ezrael"}
 Zero
 Michael

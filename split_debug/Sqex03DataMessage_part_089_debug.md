@@ -103,7 +103,7 @@ Weakness?{#Name="Zero"}
 `Il vostro disgusto nel compiere lo stesso{LF}compito ancora e ancora e ancora.{#Name="Decadus"}`
 Your dislike of performing the same{LF}task over and over and over again.{#Name="Decadus"}
 
-`Chi te l'ha chiesto, maledetto storpio pervertito!:::{#Name="Zero"}`
+`Chi te l'ha chiesto, stupido sottomesso!{#Name="Zero"}`
 Who asked you, you freaky gimp!{#Name="Zero"}
 
 `Mi hai chiamato, Zero? Oh ragazzi, oh ragazzi, oh ragazzi!{#Name="Mikhail"}`

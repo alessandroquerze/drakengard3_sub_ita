@@ -16,7 +16,7 @@ You wanna die?{#Name="Zero"}
 `Quella dev'essere la cittadella di Four.{#Name="Zero"}`
 That must be Four's citadel there.{#Name="Zero"}
 
-`Ehm, Zero? Non credo che possiamo entrare nel modo normale.{#Name="Mikhail"}`
+`Ehm, Zero? Non credo che possiamo entrare normalmente.{#Name="Mikhail"}`
 Um, Zero? I don't think we can go in the normal way.{#Name="Mikhail"}
 
 `Che vuoi dire?{#Name="Zero"}`

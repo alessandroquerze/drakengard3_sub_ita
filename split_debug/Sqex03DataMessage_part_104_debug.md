@@ -4,7 +4,7 @@ You can upgrade weapons at the Battle Preparation{LF}menu. This requires both go
 `Pur avendo portata limitata, le spade permettono attacchi{LF}rapidi, rendendole armi versatili e pratiche.{LF}Possono essere particolarmente utili se ti ritrovi{LF}circondato da un grande numero di nemici.{#Name="Swords"}`
 Though limited in range, swords allow for swift{LF}attacks, making them handy all-around weapons.{LF}They can be especially useful if you find{LF}yourself surrounded by a large force.{#Name="Swords"}
 
-`La quantità di danni che subisci durante una{LF}missione diminuisce in base al numero di{LF}continua utilizzati. Se fallisci, continua a provare!{#Name="Continues"}`
+`La quantità di danni che subisci durante una{LF}missione diminuisce in base al numero di volte che premi{LF}"continua". Se fallisci, continua a provare!{#Name="Continues"}`
 The amount of damage you take within a{LF}mission decreases based on the number of{LF}continues used. If you fail, just keep trying!{#Name="Continues"}
 
 `Accord assegnerà ricompense man mano che completi le sue{LF}richieste. Ogni volta che porti a termine una richiesta per la{LF}prima volta, ti concederà un bonus aggiuntivo.{LF}Alcuni bonus, come la possibilità di trasportare più{LF}oggetti curativi, possono essere ottenuti solo in questo modo.{#Name="Accord's Requests"}`
@@ -244,7 +244,7 @@ Upgrading Weapons
 `Spade`
 Swords
 
-`Continua:::`
+`Continua`
 Continues
 
 `Richieste di Accord`

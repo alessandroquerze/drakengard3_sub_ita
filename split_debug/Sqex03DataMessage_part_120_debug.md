@@ -37,7 +37,7 @@ Cutscene{LF}With Two dead, Mikhail evolves a second{LF}time. Masterless and alon
 `あらすじ第十一項　４０４０　一行目{LF}あらすじ第十一項　４０４０　二行目{LF}あらすじ第十一項　４０４０　三行目{LF}あらすじ第十一項　４０４０　四行目{LF}あらすじ第十一項　４０４０　五行目`
 あらすじ第十一項　４０４０　一行目{LF}あらすじ第十一項　４０４０　二行目{LF}あらすじ第十一項　４０４０　三行目{LF}あらすじ第十一項　４０４０　四行目{LF}あらすじ第十一項　４０４０　五行目
 
-`Accampamento{LF}L'accampamento è diventato piuttosto{LF}animato. Dopo un po' di discussione,{LF}il gruppo decide di muovere contro{LF}la Città della Cattedrale di One dall'aria.`
+`Accampamento{LF}L'accampamento è diventato piuttosto{LF}animato. Dopo un po' di discussione,{LF}il gruppo decide di muovere contro{LF}la base One, Cathedral City, dall'aria.`
 Camp{LF}The campsite has become rather{LF}lively. After a bit of discussion,{LF}the group decides to move against{LF}One's Cathedral City from the air.
 
 `Mappa → Gioco{LF}Mentre Zero e Mikhail sorvolano {LF}Cathedral City, One e il suo drago,{LF}Gabriel, appaiono all'improvviso e iniziano{LF}ad affrontare Zero in battaglia.`
@@ -202,7 +202,7 @@ Cutscene{LF}Three suddenly appears before Zero and{LF}hints that One is waiting 
 `あらすじ第十一項　３２１０　一行目{LF}あらすじ第十一項　３２１０　二行目{LF}あらすじ第十一項　３２１０　三行目{LF}あらすじ第十一項　３２１０　四行目{LF}あらすじ第十一項　３２１０　五行目`
 あらすじ第十一項　３２１０　一行目{LF}あらすじ第十一項　３２１０　二行目{LF}あらすじ第十一項　３２１０　三行目{LF}あらすじ第十一項　３２１０　四行目{LF}あらすじ第十一項　３２１０　五行目
 
-`Accampamento{LF}Cent ha dimenticato Two, ma Decadus{LF}ricorda Four. Con le bizzarre{LF}parole di Three ancora fresche nella mente, Zero si spinge{LF}più a fondo nella foresta.`
+`Accampamento{LF}Cent ha dimenticato Two, ma Decadus{LF}ricorda Four. Con le bizzarre{LF}parole di Three ancora{LF} fresche nella mente, Zero si spinge{LF}più a fondo nella foresta.`
 Camp{LF}Cent has forgotten Two, but Decadus{LF}remembers Four. With Three's bizarre{LF}words fresh in her mind, Zero presses{LF}deeper into the forest.
 
 `Gioco{LF}La foresta diventa sempre più strana{LF}mentre un potere sconosciuto impedisce a Mikhail{LF}di contattare Zero.`
@@ -301,7 +301,7 @@ Cutscene{LF}Three appears again, only to fall down{LF}dead after some ominous la
 `あらすじ第十一項　３２４０　一行目{LF}あらすじ第十一項　３２４０　二行目{LF}あらすじ第十一項　３２４０　三行目{LF}あらすじ第十一項　３２４０　四行目{LF}あらすじ第十一項　３２４０　五行目`
 あらすじ第十一項　３２４０　一行目{LF}あらすじ第十一項　３２４０　二行目{LF}あらすじ第十一項　３２４０　三行目{LF}あらすじ第十一項　３２４０　四行目{LF}あらすじ第十一項　３２４０　五行目
 
-`Gioco{LF}La foresta diventa ancora più strana dopo{LF}la morte di Three, ma Zero continua semplicemente{LF}a falciare soldati come se non ci fosse{LF}un domani.`
+`Gioco{LF}La foresta diventa ancora più strana dopo{LF}la morte di Three, ma Zero continua{LF} semplicemente a falciare soldati{LF} come se non ci fosse un domani.`
 Game{LF}The forest gets even stranger after{LF}Three's death, but Zero just keeps{LF}mowing down soldiers like there's{LF}no tomorrow.
 
 `Cutscene → Gioco{LF}Il gruppo trova Two che danza vicino al{LF}cadavere di One in una radura aperta. Quella che dovrebbe{LF}essere una felice riunione con Cent invece{LF}porta solo disperazione.`

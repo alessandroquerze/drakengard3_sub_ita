@@ -25,7 +25,7 @@ Esperienza Totale Ottenuta:
 colpi
 esp
 Lv.
-Livello Successivo:
+Prossimo Lv:
 Salute
 Stamina
 Attacco

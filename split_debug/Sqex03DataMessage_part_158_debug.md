@@ -25,7 +25,7 @@ The land was ruled by an empress witch who used magic{LF}powers to govern her pe
 `Ma l'imperatrice era irrequieta. Torturare vittime, bere{LF}vini pregiati mentre urlavano... Era divertente, sì, ma anche{LF}il divertimento diventa tedioso quando si ripete troppo spesso.{#Name="Tyrant's Playthings Lv. 2"}`
 But the empress was restless. Torturing victims, drinking{LF}fine wines as they screamed... It was fun, yes, but even{LF}fun grows wearisome when repeated too often.{#Name="Tyrant's Playthings Lv. 2"}
 
-`Molti aspiranti eroi vennero al castello, uniti dal sogno{LF}della mia morte. I primi furono abbastanza divertenti, ma ora{LF}è solo una seccatura. Sono tutti così ottusi!{#Name="Tyrant's Playthings Lv. 3"}`
+`Molti aspiranti eroi vennero al castello, uniti dal sogno{LF}della mia morte. I primi furono abbastanza divertenti, ma ora{LF}è solo una seccatura. Sono tutti così babbei!{#Name="Tyrant's Playthings Lv. 3"}`
 Many would-be heroes came to the castle, united by dreams{LF}of my death. The first few were enjoyable enough, but now{LF}it's just a chore. They're all so simple-minded!{#Name="Tyrant's Playthings Lv. 3"}
 
 `Se nessun eroe è abbastanza forte da sconfiggermi, dovrò semplicemente{LF}crearne uno io stessa. Mi serve un figlio forte. Un eroe terrificante.{LF}Uno con abbastanza potere da rovesciare sua madre...{#Name="Tyrant's Playthings Lv. 4"}`
@@ -76,7 +76,7 @@ He cried to the captain, "This is for my brothers!"{LF}He made his way forward, 
 `Guardando dall'alto del suo destriero, il capitano ordinò ai suoi uomini{LF}di sbarazzarsi del corpo. Poi cavalcò via senza una parola,{LF}rifiutandosi di pensare a suo figlio disteso nella polvere dietro di lui.{#Name="Electroshocker Lv. 3"}`
 Looking down from his steed, the captain ordered his men{LF}to dispose of the body. Then he rode off without a word,{LF}refusing to think of his son lying in the dirt behind him.{#Name="Electroshocker Lv. 3"}
 
-`Al capitano restavano tre figli, e quello che lo avesse ucciso{LF}avrebbe ottenuto tutto ciò che possedeva. ...Che gioco ridicolo.{LF}Mentre cavalcava via, pregò che gli dei lo prendessero presto.{#Name="Electroshocker Lv. 4"}`
+`Al capitano restavano tre figli, e chi dei tre fosse riuscito a ucciderlo{LF}avrebbe ottenuto tutto ciò che possedeva. ...Che gioco ridicolo.{LF}Mentre cavalcava via, pregò che gli dei lo prendessero presto.{#Name="Electroshocker Lv. 4"}`
 The captain had three sons left, and the one who slew him{LF}would gain all that he owned. ...Such a ridiculous game.{LF}As he rode away, he prayed the gods would take him soon.{#Name="Electroshocker Lv. 4"}
 
 `Perché nessuno riconosce le mie arti arcane? Perché non{LF}mi rispettano? Non mi applaudono? Perché, perché, perché!? Lo odio!{LF}Voglio sbatterli tutti a terra!{#Name="Ring of Lament Lv. 1"}`
@@ -130,7 +130,7 @@ The Thirteenth Blade: "Thunderous King"{LF}May its power be as eternal as our be
 `Un tempo c'erano due galli fratelli. Il maggiore era{LF}coraggioso e possedeva artigli forti e affilati, mentre il{LF}minore era estremamente perspicace e intelligente.{#Name="Vidofnir's Blade Lv. 1"}`
 Once, there were two brother roosters. The elder was{LF}courageous and bore strong, sharp claws, while the{LF}younger was extremely quick-witted and intelligent.{#Name="Vidofnir's Blade Lv. 1"}
 
-`Un giorno, gli dei radunarono gli uccelli del mondo e dissero:{LF}"Concederò il diritto di governare all'uccello che ascenderà{LF}il World Tree." E così, gli uccelli partirono.{#Name="Vidofnir's Blade Lv. 2"}`
+`Un giorno, gli dei radunarono gli uccelli del mondo e dissero:{LF}"Concederò il diritto di governare all'uccello che ascenderà{LF}l'Albero del Mondo." E così, gli uccelli partirono.{#Name="Vidofnir's Blade Lv. 2"}`
 One day, the gods gathered the birds of the world and said,{LF}"I shall grant the right to rule to the bird who ascends the{LF}World Tree." And with that, the birds were off.{#Name="Vidofnir's Blade Lv. 2"}
 
 `Gli uccelli alati volarono in alto, ma furono bruciati dal sole.{LF}Gli uccelli artigliati scalarono, ma furono divorati dai serpenti.{LF}Solo i galli, lavorando insieme, riuscirono a raggiungere la cima.{#Name="Vidofnir's Blade Lv. 3"}`
@@ -142,13 +142,13 @@ The winged birds flew up, but were burned by the sun.{LF}The clawed birds climbe
 `La donna era vicina alla fine della sua vita. Aveva commesso{LF}crimini ed era stata arrestata. Dopo una lunga sessione di tortura,{LF}fu condannata a bruciare sul rogo.{#Name="Skyward Wind Lv. 1"}`
 The woman was near the end of her life. She had committed{LF}crimes and been arrested. After an extended torture session,{LF}she was sentenced to burn at the stake.{#Name="Skyward Wind Lv. 1"}
 
-`All'improvviso, un cavallo bianco dagli occhi blu tristi apparve davanti{LF}a lei. "Il re mi ha preso mio figlio!" urlò all'animale.{LF}"Prima di morire, lo ucciderò con le mie mani!"{#Name="Skyward Wind Lv. 2"}`
+`All'improvviso, un cavallo bianco dagli occhi blu tristi apparve davanti{LF}a lei. "Il re ha preso mio figlio!" urlò all'animale.{LF}"Prima di morire, lo ucciderò con le mie mani!"{#Name="Skyward Wind Lv. 2"}`
 Suddenly, a white horse with sad blue eyes appeared before{LF}her. "The king took my son!" she screamed at the animal.{LF}"Before I die, I will kill him with my own two hands!"{#Name="Skyward Wind Lv. 2"}
 
 `La donna urlò al cavallo finché crollò in{LF}singhiozzi. Subito dopo, si ritrovò in groppa al cavallo con{LF}una spada in mano, e il re tremante davanti a lei.{#Name="Skyward Wind Lv. 3"}`
 The woman screamed at the horse until she collapsed into{LF}sobs. The next thing she knew, she was atop the horse with{LF}a sword in her hand, and the king trembling in front of her.{#Name="Skyward Wind Lv. 3"}
 
-`Uccise il re e tentò di fuggire. Ma all'improvviso il suo cavallo{LF}era scomparso. Il suo corpo prese fuoco, e le fiamme infuriarono finché lei{LF}divenne un piccolo mucchio di cenere disperso dal vento.{#Name="Skyward Wind Lv. 4"}`
+`Uccise il re e tentò di fuggire. Ma all'improvviso il suo cavallo{LF}era scomparso. Il suo corpo prese fuoco, e le fiamme infuriarono finché lei{LF}non divenne che un piccolo mucchio di cenere disperso dal vento.{#Name="Skyward Wind Lv. 4"}`
 She slew the king and made to flee. But suddenly, her horse{LF}was gone. Her body burst into flames, which raged until she{LF}became a small pile of ashes scattered away by the wind.{#Name="Skyward Wind Lv. 4"}
 
 `Un tempo c'erano una ragazza e due ragazzi che erano amici.{LF}Uno dei ragazzi andò a lavorare per un giardiniere; l'altro divenne{LF}capitano dell'esercito. La ragazza crebbe diventando di straordinaria bellezza.{#Name="Widow's Sin Lv. 1"}`
@@ -157,7 +157,7 @@ Once, there was a girl and two boys who were friends.{LF}One boy went to work fo
 `Un giorno, il padre della ragazza morì. Per provvedere alla sua povera famiglia,{LF}decise di sposare il suo amico, il capitano dell'esercito. Lui doveva{LF}partire per il fronte il giorno dopo il matrimonio.{#Name="Widow's Sin Lv. 2"}`
 One day, the girl's father died. To provide for her poor family,{LF}she decided to marry her friend, the army captain. He was{LF}scheduled to head to the front lines the day after the wedding.{#Name="Widow's Sin Lv. 2"}
 
-`Il capitano sorrise e giurò di tornare. Fu l'ultima volta{LF}che la donna vide il suo nuovo marito sorridere. Morì poco dopo,{LF}lasciandola sola con la loro casa e il bel giardino.{#Name="Widow's Sin Lv. 3"}`
+`Il capitano sorrise e giurò di tornare. Fu l'ultima volta{LF}che la donna vide il suo nuovo marito sorridere. Morì poco dopo,{LF}lasciandola sola con la loro casa e un bel giardino.{#Name="Widow's Sin Lv. 3"}`
 The captain smiled and swore to return. It was the last time{LF}the woman saw her new husband smile. He died soon after,{LF}leaving her alone with their home and beautiful garden.{#Name="Widow's Sin Lv. 3"}
 
 `Il giardino cambiava con le stagioni, dando pace alla donna.{LF}Eppure, fino al giorno in cui una malattia la portò via in giovane età, non{LF}seppe mai che era l'altro amico d'infanzia a prendersene cura.{#Name="Widow's Sin Lv. 4"}`

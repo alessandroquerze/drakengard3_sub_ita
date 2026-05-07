@@ -79,7 +79,7 @@ Nucleo redentivo
 Pietra Acquamarina
 Pietra Rosa
 Pietra Focaia
-Pietra d’Ambra
+Pietra d'Ambra
 Pietra del Cibo
 Pietra del Movimento
 Pietra Fluttuante
@@ -98,7 +98,7 @@ Meteorite
 クエスト用宝石２０
 クエスト用宝石２１
 Libro della Speranza
-Libro dell’Ambizione
+Libro dell'Ambizione
 Libro della Reticenza
 Libro dello Stoicismo
 Libro della Santità

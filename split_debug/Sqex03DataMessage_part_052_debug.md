@@ -124,7 +124,7 @@ I don't think it's such a good idea to yell around here.{#Name="Dito"}
 `Che c'è? Hai paura?{#Name="Zero"}`
 What? You scared?{#Name="Zero"}
 
-`Tipico. Voi discepoli siete più fifoni di quanto pensassi.{#Name="Zero"}`
+`Tipico. Voi discepoli siete più senza palle di quanto pensassi.{#Name="Zero"}`
 Figures. You disciples are more chickenshit than I thought.{#Name="Zero"}
 
 `No, non è quello che—{#Name="Dito"}`

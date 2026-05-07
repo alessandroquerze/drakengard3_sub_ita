@@ -36,12 +36,12 @@ Quando vedi il marcatore arancione, è la tua{LF}occasione per attaccare Phanuel
 Gli attacchi basati sul fuoco sono in genere inefficaci{LF}sott'acqua, quindi prova a trascinare il nemico sulla terraferma{LF}prima di colpire. Travolgilo frontalmente prima che{LF}si immerga, così lo farai uscire.{#Name="Recording 1040_30: Phanuel"}
 Le scariche di energia che escono dai cerchi magici{LF}possono essere distrutte. Se ti ritrovi{LF}sopraffatto, prova a usare l'aggancio multiplo per{LF}abbatterle con più efficienza.{#Name="Recording 2060_10: Armaros"}
 Se ti trovi in difficoltà, prova ad attivare{LF}la Modalità Intoner. Non solo potrai infliggere{LF}molti più danni, ma diventerai anche{LF}invincibile per un breve periodo.{#Name="Recording 2060_20: Armaros"}
-È meglio distruggere rapidamente quei fastidiosi cannoni.{LF}Prova ad attaccarli mentre passi da una torre all'altra;{LF}una volta tolti di mezzo, potrai attaccare{LF}Armaros senza distrazioni inutili.{#Name="Recording 2060_30: Armaros"}
+E' meglio distruggere rapidamente quei fastidiosi cannoni.{LF}Prova ad attaccarli mentre passi da una torre all'altra;{LF}una volta tolti di mezzo, potrai attaccare{LF}Armaros senza distrazioni inutili.{#Name="Recording 2060_30: Armaros"}
 Il nucleo pulsante appeso sotto la fortezza è{LF}il suo punto debole. Non farti ingannare dai suoi movimenti;{LF}prova a prevedere dove andrà mentre attacchi.{#Name="Recording 2060_40: Armaros"}
 I colpi esplosivi possono essere distrutti prima{LF}che esplodano. Usa l'aggancio multiplo per provare{LF}ad abbatterli tutti in un solo colpo.{#Name="Recording 2060_50: Armaros"}
 Puoi usare {01}{0B} per provare a evitare gli attacchi{LF}che non riesci ad abbattere. Fai attenzione a non schivare{LF}troppo, però, o Four potrebbe riuscire a fuggire.{#Name="Recording 2060_60: Armaros"}
 Se una delle bambole di Armisael ti si aggrappa,{LF}alla fine esploderà e infliggerà danni.{LF}Usa salti, schivate e altre manovre rapide{LF}per provare a scrollartela di dosso.{#Name="Recording 3060_10: Armisael"}
-L'attacco a raggio di Armisael consuma molta{LF}della sua energia canora, indebolendolo per un certo{LF}periodo subito dopo. È la tua occasione per colpire!{#Name="Recording 3060_20: Armisael"}
+L'attacco a raggio di Armisael consuma molta{LF}della sua energia canora, indebolendolo per un certo{LF}periodo subito dopo. E' la tua occasione per colpire!{#Name="Recording 3060_20: Armisael"}
 Quando vedi il marcatore arancione, è la tua{LF}occasione per attaccare Armisael. Non sprecarla!{#Name="Recording 3060_30: Armisael"}
 Finché gli Egregori hanno la loro armatura,{LF}non puoi danneggiarli. Schiantati contro di loro{LF}per staccare l'armatura, poi colpisci.{#Name="Recording 4040_10: Egregori"}
 Rimuovere l'armatura degli Egregori li indebolisce,{LF}ma elimina anche ogni possibilità di colpirli{LF}con attacchi corpo a corpo. Passa invece al fuoco.{#Name="Recording 4040_20: Egregori"}

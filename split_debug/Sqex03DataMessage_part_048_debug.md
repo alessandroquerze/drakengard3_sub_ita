@@ -10,13 +10,13 @@ Some dogs just don't know when to give up.{#Name="Dito"}
 `Prendilo, Zero! Prendi quel... Cer-bava!{#Name="Mikhail"}`
 Get him, Zero! Get that sourbreath!{#Name="Mikhail"}
 
-`E' Cerberus, idiota!{#Name="Zero"}`
+`E' Cerbero, idiota!{#Name="Zero"}`
 It's cerberus, idiot!{#Name="Zero"}
 
 `Già, idiota. Sta' attento.{#Name="Dito"}`
 Yeah, idiot. Pay attention.{#Name="Dito"}
 
-`Prendi quel Cer... bavoso... Ehm, quel Cer... brutus... Aspetta!{#Name="Mikhail"}`
+`Prendi quel Cer... bavoso... Ehm, quel Cer... bruto... Aspetta!{#Name="Mikhail"}`
 Get that saber... Er, get that slobber... Hold on!{#Name="Mikhail"}
 
 `連携しっかり！{#Name="ゼロ"}`
@@ -223,7 +223,7 @@ Defeat the enemy soldiers!{#Name="説明文"}
 `Sconfiggi gli Ogre!{#Name="説明文"}`
 Defeat the Ogres!{#Name="説明文"}
 
-`Sconfiggi i Gigas!{#Name="説明文"}`
+`Sconfiggi il Gigas!{#Name="説明文"}`
 Defeat the Gigas!{#Name="説明文"}
 
 `Sconfiggi i soldati nemici!{#Name="説明文"}`

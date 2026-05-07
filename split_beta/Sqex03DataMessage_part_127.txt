@@ -86,20 +86,20 @@ Imp Potenziato
 Cerbero Potenziato
 Soldatessa
 Nemici
-Soldati
-Soldati
-Soldati
-Soldati
-Soldati Dorati
-Soldati Potenziati
-Soldati
-Soldati
-Soldati
-Soldati
-Soldati
-Soldati
-Soldati
-Soldati
-Soldati
-Soldati
-Soldati
+Soldati Sconfitti!+1
+Soldati Sconfitti!+2
+Soldati Sconfitti!+3
+Soldati Sconfitti!+4
+Soldati d'Oro Sconfitti!+1
+Soldati Potenziati sconfitti!
+Soldati Sconfitti!+5
+Soldati Sconfitti!+6
+Soldati Sconfitti!+7
+Soldati Sconfitti!+8
+Soldati Sconfitti!+9
+Soldati Sconfitti!+10
+Soldati Sconfitti!+11
+Soldati Sconfitti!+12
+Soldati Sconfitti!+13
+
+

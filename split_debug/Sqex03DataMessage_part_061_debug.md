@@ -10,7 +10,7 @@
 `Okay. Decisione esecutiva.{#Name="Zero"}`
 Okay. Executive decision.{#Name="Zero"}
 
-`La prossima volta che vediamo un cerberus,{LF}gli diamo in pasto Cent.{#Name="Zero"}`
+`La prossima volta che vediamo un cerbero,{LF}gli diamo in pasto Cent.{#Name="Zero"}`
 Next time we see a cerberus,{LF}we're gonna feed it Cent.{#Name="Zero"}
 
 `Ho un brutto presentimento.{#Name="Dito"}`

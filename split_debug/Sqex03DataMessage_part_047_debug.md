@@ -157,7 +157,7 @@ Don't know when to quit, huh?{LF}Reminds me of a certain someone...{#Name="Dito"
 `Beh, ecco una brutta notizia.{#Name="Zero"}`
 Well, here's a piece of bad news.{#Name="Zero"}
 
-`Un Cerberus, eh? Qual è il piano, capo?{#Name="Dito"}`
+`Un Cerbero, eh? Qual è il piano, capo?{#Name="Dito"}`
 A cerberus, huh? What's the plan, boss?{#Name="Dito"}
 
 `Il piano? Pensavo di ucciderlo.{#Name="Zero"}`

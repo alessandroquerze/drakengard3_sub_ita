@@ -20,37 +20,37 @@ Sfera sanguigna (S)
 Sfera sanguigna (L)
 Sfera ESP
 Materiale base di rame
-Materiale base d’argento
-Materiale base d’oro
+Materiale base d'argento
+Materiale base d'oro
 Materiale base bianco
 Materiale base nero
 海のメダル
 Moneta di rame arrugginita
 森のメダル
 Moneta di rame incrinata
-Moneta d’argento antica
+Moneta d'argento antica
 Moneta di rame lucidata
-Moneta d’oro antica
+Moneta d'oro antica
 剣兵のメダルC
-Moneta d’argento gessosa
+Moneta d'argento gessosa
 剣兵のメダルE
 Moneta Goblin di rame
 槍兵のメダルB
-Moneta Merrow d’argento
-Moneta Valkyrie d’oro
-Moneta Phoenix d’oro
+Moneta Merrow d'argento
+Moneta Valkyrie d'oro
+Moneta Phoenix d'oro
 Moneta Angelos di rame
-Moneta Arche d’argento
-Moneta Thrones d’argento
-Moneta Cherub d’argento
-Moneta Seraph d’argento
+Moneta Arche d'argento
+Moneta Thrones d'argento
+Moneta Cherub d'argento
+Moneta Seraph d'argento
 弓兵のメダルA
 Moneta della devozione
 弓兵のメダルC
 弓兵のメダルD
 Moneta della benevolenza
 Moneta della gentilezza
-Moneta dell’affetto
+Moneta dell'affetto
 砲兵のメダルC
 砲兵のメダルD
 砲兵のメダルE

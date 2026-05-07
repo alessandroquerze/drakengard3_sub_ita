@@ -265,7 +265,7 @@ Hmph.{#Name="Zero"}
 `Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}`
 Defeat the enemies blocking your way!{#Name="説明文"}
 
-`Sconfiggi i Gigas!{#Name="説明文"}`
+`Sconfiggi il Gigas!{#Name="説明文"}`
 Defeat the Gigas!{#Name="説明文"}
 
 `Sconfiggi i Cannonieri!{#Name="説明文"}`

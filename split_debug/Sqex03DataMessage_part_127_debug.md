@@ -262,54 +262,54 @@ Female Soldier
 `Nemici`
 Enemies
 
-`SoldaX+1`
+`Soldati Sconfitti!+1`
 Soldiers
 
-`SoldaX+2`
+`Soldati Sconfitti!+2`
 Soldiers
 
-`SoldaX+3`
+`Soldati Sconfitti!+3`
 Soldiers
 
-`SoldaX+4`
+`Soldati Sconfitti!+4`
 Soldiers
 
-`Soldati Dorati`
+`Soldati d'Oro Sconfitti!+1`
 Gold Soldiers
 
-`Soldati Potenziati`
+`Soldati Potenziati sconfitti!`
 Enhanced Soldiers
 
-`SoldaX+5`
+`Soldati Sconfitti!+5`
 Soldiers
 
-`SoldaX+6`
+`Soldati Sconfitti!+6`
 Soldiers
 
-`SoldaX+7`
+`Soldati Sconfitti!+7`
 Soldiers
 
-`SoldaX+8`
+`Soldati Sconfitti!+8`
 Soldiers
 
-`SoldaX+9`
+`Soldati Sconfitti!+9`
 Soldiers
 
-`SoldaX+10`
+`Soldati Sconfitti!+10`
 Soldiers
 
-`SoldaX+11`
+`Soldati Sconfitti!+11`
 Soldiers
 
-`SoldaX+12`
+`Soldati Sconfitti!+12`
 Soldiers
 
-`SoldaX+13`
+`Soldati Sconfitti!+13`
+
 Soldiers
 
-`SoldaX+14`
+`Soldati Sconfitti!+14`
 Soldiers
 
-`SoldaX+15`
+`Soldati Sconfitti!+15`
 Soldiers
-

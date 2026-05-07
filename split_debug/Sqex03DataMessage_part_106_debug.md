@@ -190,7 +190,7 @@ The Price{#Name="「代償」"}
 `Il prezzo{#Name="「代償」"}`
 The Price{#Name="「代償」"}
 
-`Emesis:::{#Name="「嘔吐」"}`
+`Emesis{#Name="「嘔吐」"}`
 Emesis{#Name="「嘔吐」"}
 
 `Il Fiore{#Name="「花」"}`

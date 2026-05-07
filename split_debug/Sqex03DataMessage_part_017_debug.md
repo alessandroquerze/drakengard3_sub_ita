@@ -253,7 +253,7 @@ A shopkeeper from the Land of Seas who carries a large{LF}suitcase around with h
 `Un angelo evocato da Dito usando il potere della canzone di Five.{#Name="Phanuel"}`
 An angel summoned by Dito using the power of Five's song.{#Name="Phanuel"}
 
-`Un angelo evocato da Decadus usando il potere della canzone di Four.{#Name="Armaros"}`
+`Un angelo evocato da Decadus usando il potere della canzone di {LF}Four.{#Name="Armaros"}`
 An angel summoned by Decadus using the power of Four's song.{#Name="Armaros"}
 
 `Un angelo evocato da Octa usando il potere della canzone di Three.{#Name="Armisael"}`
@@ -271,10 +271,10 @@ An angel summoned by Two and Cent.{#Name="Raphael"}
 `Un angelo evocato da One.{#Name="Abdiel"}`
 An angel summoned by One.{#Name="Abdiel"}
 
-`Un angelo draconico evocato da Four dopo che la sua mente si era spezzata.{#Name="Zophiel"}`
+`Un angelo draconico evocato da Four dopo che la sua mente si{LF}spezzò.{#Name="Zophiel"}`
 A dragon angel summoned by Four after her mind was broken.{#Name="Zophiel"}
 
-`Un angelo evocato da Five dopo che la sua mente si era spezzata.{#Name="Galgaliel"}`
+`Un angelo evocato da Five dopo che la sua mente si spezzò.{#Name="Galgaliel"}`
 An angel summoned by Five after her mind was broken.{#Name="Galgaliel"}
 
 `Un angelo — e un antico drago — richiamato da Three{LF}dopo che la sua mente si era spezzata.{#Name="Ezrael"}`

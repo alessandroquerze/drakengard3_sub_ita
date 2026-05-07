@@ -21,10 +21,10 @@ Una spada spietata che aiuta la tua{LF}Barra del Sangue a riempirsi più rapidam
 Una spada spietata che aiuta la tua{LF}Barra del Sangue a riempirsi più rapidamente.
 Una spada spietata che aiuta la tua{LF}Barra del Sangue a riempirsi più rapidamente.
 Una spada spietata che aiuta la tua{LF}Barra del Sangue a riempirsi più rapidamente.
-Le favole narrano che questa spada corta fu usata{LF}per uccidere un certo mostro.
-Le favole narrano che questa spada corta fu usata{LF}per uccidere un certo mostro.
-Le favole narrano che questa spada corta fu usata{LF}per uccidere un certo mostro.
-Le favole narrano che questa spada corta fu usata{LF}per uccidere un certo mostro.
+Le favole narrano che questa spada corta fu{LF}usata per uccidere un certo mostro.
+Le favole narrano che questa spada corta fu{LF}usata per uccidere un certo mostro.
+Le favole narrano che questa spada corta fu{LF}usata per uccidere un certo mostro.
+Le favole narrano che questa spada corta fu{LF}usata per uccidere un certo mostro.
 Alcuni dicono che questa spada sia la più pesante{LF}tra tutte le armi da mischia del mondo.
 Alcuni dicono che questa spada sia la più pesante{LF}tra tutte le armi da mischia del mondo.
 Alcuni dicono che questa spada sia la più pesante{LF}tra tutte le armi da mischia del mondo.
@@ -53,10 +53,10 @@ La spada di un uomo un tempo chiamato{LF}"Holy Emperor." Efficace contro i non m
 La spada di un uomo un tempo chiamato{LF}"Holy Emperor." Efficace contro i non morti.
 La spada di un uomo un tempo chiamato{LF}"Holy Emperor." Efficace contro i non morti.
 La spada di un uomo un tempo chiamato{LF}"Holy Emperor." Efficace contro i non morti.
-Una lama proveniente da una terra lontana e maledetta.
-Una lama proveniente da una terra lontana e maledetta.
-Una lama proveniente da una terra lontana e maledetta.
-Una lama proveniente da una terra lontana e maledetta.
+Una lama proveniente da una terra {LF}lontana e maledetta.
+Una lama proveniente da una terra {LF}lontana e maledetta.
+Una lama proveniente da una terra {LF}lontana e maledetta.
+Una lama proveniente da una terra {LF}lontana e maledetta.
 Una spada elfica vincolata dalla tristezza.
 Una spada elfica vincolata dalla tristezza.
 Una spada elfica vincolata dalla tristezza.

@@ -232,7 +232,7 @@ Oh ho ho! Well, there's a piece of fine news.{#Name="Octa"}
 `Sento già la mia mem—ehm,{LF}le mie emozioni agitarsi al solo pensiero!{#Name="Octa"}`
 I can already feel my mem—er,{LF}emotions stirring at the thought!{#Name="Octa"}
 
-`Cerberus, eh?{#Name="Dito"}`
+`Cerbero, eh?{#Name="Dito"}`
 Cerberus, huh?{#Name="Dito"}
 
 `Ehi, secondo voi ha un buon sapore?{#Name="Dito"}`

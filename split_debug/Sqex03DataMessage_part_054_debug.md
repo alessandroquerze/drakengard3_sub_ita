@@ -190,7 +190,7 @@ Because it's cold and you smell{LF}like a dead bear's ass?{#Name="Zero"}
 `...Oh. Allora che ne dici se sputo{LF}fuoco per scaldarti?{#Name="Mikhail"}`
 ...Oh. Then how 'bout I breathe{LF}fire to warm you up?{#Name="Mikhail"}
 
-`Pensiamoci un secondo{LF}a questo piano, ti va?{#Name="Zero"}`
+`Riflettiamo un secondo{LF}su questo piano, ti va?{#Name="Zero"}`
 Let's think about that plan{LF}for a second, shall we?{#Name="Zero"}
 
 `Ugh, che rottura di palle!{#Name="Zero"}`

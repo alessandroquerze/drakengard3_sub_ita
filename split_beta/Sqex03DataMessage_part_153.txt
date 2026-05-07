@@ -17,10 +17,10 @@ Impalatori Cremisi Lv. 1
 Impalatori Cremisi Lv. 2
 Impalatori Cremisi Lv. 3
 Impalatori Cremisi Lv. 4
-Stemmi Azzurri Lv. 1
-Stemmi Azzurri Lv. 2
-Stemmi Azzurri Lv. 3
-Stemmi Azzurri Lv. 4
+Armi Azzurre Lv. 1
+Armi Azzurre Lv. 2
+Armi Azzurre Lv. 3
+Armi Azzurre Lv. 4
 Fiamma del Signore Oscuro Lv. 1
 Fiamma del Signore Oscuro Lv. 2
 Fiamma del Signore Oscuro Lv. 3
@@ -37,54 +37,54 @@ Giocattoli del Tiranno Lv. 1
 Giocattoli del Tiranno Lv. 2
 Giocattoli del Tiranno Lv. 3
 Giocattoli del Tiranno Lv. 4
-Darkseal Order Lv. 1
-Darkseal Order Lv. 2
-Darkseal Order Lv. 3
-Darkseal Order Lv. 4
+Ordine del Sigillo Oscuro Lv. 1
+Ordine del Sigillo Oscuro Lv. 2
+Ordine del Sigillo Oscuro Lv. 3
+Ordine del Sigillo Oscuro Lv. 4
 格闘110
 格闘111
 格闘112
 格闘113
-Everlasting Ring Lv. 1
-Everlasting Ring Lv. 2
-Everlasting Ring Lv. 3
-Everlasting Ring Lv. 4
-Electroshocker Lv. 1
-Electroshocker Lv. 2
-Electroshocker Lv. 3
-Electroshocker Lv. 4
-Ring of Lament Lv. 1
-Ring of Lament Lv. 2
-Ring of Lament Lv. 3
-Ring of Lament Lv. 4
-Azure Cleaver Lv. 1
-Azure Cleaver Lv. 2
-Azure Cleaver Lv. 3
-Azure Cleaver Lv. 4
-Duchess's Dance Lv. 1
-Duchess's Dance Lv. 2
-Duchess's Dance Lv. 3
-Duchess's Dance Lv. 4
-Rule of Divine Law Lv. 1
-Rule of Divine Law Lv. 2
-Rule of Divine Law Lv. 3
-Rule of Divine Law Lv. 4
-Vidofnir's Blade Lv. 1
-Vidofnir's Blade Lv. 2
-Vidofnir's Blade Lv. 3
-Vidofnir's Blade Lv. 4
-Skyward Wind Lv. 1
-Skyward Wind Lv. 2
-Skyward Wind Lv. 3
-Skyward Wind Lv. 4
-Widow's Sin Lv. 1
-Widow's Sin Lv. 2
-Widow's Sin Lv. 3
-Widow's Sin Lv. 4
-Imperial Coffin Lv. 1
-Imperial Coffin Lv. 2
-Imperial Coffin Lv. 3
-Imperial Coffin Lv. 4
+Anello Eterno Lv. 1
+Anello Eterno Lv. 2
+Anello Eterno Lv. 3
+Anello Eterno Lv. 4
+Elettroshock Lv. 1
+Elettroshock Lv. 2
+Elettroshock Lv. 3
+Elettroshock Lv. 4
+Anello del Lamento Lv. 1
+Anello del Lamento Lv. 2
+Anello del Lamento Lv. 3
+Anello del Lamento Lv. 4
+Mannaia Azzurra Lv. 1
+Mannaia Azzurra Lv. 2
+Mannaia Azzurra Lv. 3
+Mannaia Azzurra Lv. 4
+Danza della Duchessa Lv. 1
+Danza della Duchessa Lv. 2
+Danza della Duchessa Lv. 3
+Danza della Duchessa Lv. 4
+Regola della Legge Divina Lv. 1
+Regola della Legge Divina Lv. 2
+Regola della Legge Divina Lv. 3
+Regola della Legge Divina Lv. 4
+Lama di Vidofnir Lv. 1
+Lama di Vidofnir Lv. 2
+Lama di Vidofnir Lv. 3
+Lama di Vidofnir Lv. 4
+Vento Celeste Lv. 1
+Vento Celeste Lv. 2
+Vento Celeste Lv. 3
+Vento Celeste Lv. 4
+Peccato della Vedova Lv. 1
+Peccato della Vedova Lv. 2
+Peccato della Vedova Lv. 3
+Peccato della Vedova Lv. 4
+Bara Imperiale Lv. 1
+Bara Imperiale Lv. 2
+Bara Imperiale Lv. 3
+Bara Imperiale Lv. 4
 戦輪100
 戦輪101
 戦輪102
@@ -94,10 +94,10 @@ Imperial Coffin Lv. 4
 戦輪112
 戦輪113
 Modalità Intoner
-La spada di Zero. Efficace contro le Intoner.{LF}Aumenta di livello man mano che il tuo drago cresce.
-La spada di Zero. Efficace contro le Intoner.{LF}Aumenta di livello man mano che il tuo drago cresce.
-La spada di Zero. Efficace contro le Intoner.{LF}Aumenta di livello man mano che il tuo drago cresce.
-La spada di Zero. Efficace contro le Intoner.{LF}Aumenta di livello man mano che il tuo drago cresce.
+La spada di Zero. Efficace contro le Intoner.{LF}Aumenta di livello man mano{LF}che il tuo drago cresce.
+La spada di Zero. Efficace contro le Intoner.{LF}Aumenta di livello man mano{LF}che il tuo drago cresce.
+La spada di Zero. Efficace contro le Intoner.{LF}Aumenta di livello man mano{LF}che il tuo drago cresce.
+La spada di Zero. Efficace contro le Intoner.{LF}Aumenta di livello man mano{LF}che il tuo drago cresce.
 Una spada da boia che emette{LF}un giudizio spietato sui peccatori.
 Una spada da boia che emette{LF}un giudizio spietato sui peccatori.
 Una spada da boia che emette{LF}un giudizio spietato sui peccatori.

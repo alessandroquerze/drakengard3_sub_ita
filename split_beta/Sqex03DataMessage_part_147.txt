@@ -65,7 +65,7 @@ Inizia una nuova campagna.
 Continua una campagna in corso.
 Regola varie impostazioni di gioco.
 Visualizza le armi e i personaggi che appaiono nella storia.
-Cambia il costume di Zero, l’aspetto di Mikhail o la musica di sottofondo.
+Cambia il costume di Zero, l'aspetto di Mikhail o la musica di sottofondo.
 Controllo dei dati attuali.{LF}Non spegnere il sistema PlayStation®3.
 Registrazione {04}
 Nuova Partita
@@ -83,7 +83,7 @@ Controllo dei contenuti scaricabili validi.{LF}Non spegnere il sistema PlayStati
 Comandi: Schivata
 Premi {01}{0B} per schivare nella direzione in cui sei rivolto.{LF}Usalo mentre hai agganciato un bersaglio per aggirare rapidamente i nemici.
 Comandi: Cambio Armi
-Premi {01}{09} o {01}{0C} per aprire il menu armi, poi premi{LF}il pulsante corrispondente all’arma che vuoi usare.
+Premi {01}{09} o {01}{0C} per aprire il menu armi, poi premi{LF}il pulsante corrispondente all'arma che vuoi usare.
 Armi di Zero: Lance
 Le lance non solo sono potenti e hanno una lunga portata,{LF}ma possono anche essere usate per sfondare la guardia nemica.
 Comandi: Guardia
@@ -95,7 +95,7 @@ Premi {01}{0A} e {01}{0D} contemporaneamente per attivare la Modalità Intoner.{
 エネミー / 盾兵
 盾兵は、{01}{04}によるスキル攻撃によって、{LF}盾を破壊する事ができます。
 Forzieri del Tesoro
-Attacca un forziere per rivelarne il contenuto.{LF}Controlla la schermata dei risultati alla fine dello stage per maggiori informazioni.
+Attacca un forziere per rivelarne il contenuto.{LF}Controlla la schermata dei risultati alla fine della missione per maggiori informazioni.
 ミハイルの操作２
 ジャンプ中に{01}{01}で、飛翔モードとなります。{LF}{01}{02}で、モードを解除して地上に降りることができます。
 Comandi: Azioni Base

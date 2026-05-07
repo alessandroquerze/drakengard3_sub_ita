@@ -90,16 +90,16 @@
 クエスト説明　１０１０＿１　　　　一行目{LF}クエスト説明　１０１０＿１　　　　二行目{LF}クエスト説明　１０１０＿１　　　　三行目
 Gli abitanti della Terra dei Mari adorano davvero le loro{LF}Pietra Acquamarina. Ho ricevuto una richiesta per sette di{LF}esse; riportamele e sarai ricompensato.
 I corni di bue sono oggetti molto usati per inviare{LF}messaggi nella Terra dei Mari, e ho{LF}un ordine per otto di essi. Puoi aiutarmi?
-Il Libro della Speranza è un testo sacro della Terra dei{LF}Mari. Si sa dell’esistenza di nove volumi, e ho bisogno{LF}che tu li trovi. Naturalmente, ti aspetta una ricompensa!
+Il Libro della Speranza è un testo sacro della Terra dei{LF}Mari. Si sa dell'esistenza di nove volumi, e ho bisogno{LF}che tu li trovi. Naturalmente, ti aspetta una ricompensa!
 クエスト説明　１０２０＿１　　　　一行目{LF}クエスト説明　１０２０＿１　　　　二行目{LF}クエスト説明　１０２０＿１　　　　三行目
 Hai mai sentito parlare delle Pietre Rosa? Gli abitanti della Terra dei{LF}Mari le usano come amuleti protettivi, e io posso{LF}venderle a caro prezzo. Portamene tre, okay?
 La gente della Terra delle Sabbie usa i Corni di Unicorno per{LF}comunicare tra loro a lunga distanza.{LF}Pensi di riuscire a raccoglierne tre per me?
 Il Libro delle Ambizioni è un tomo leggendario tra{LF}gli abitanti della Terra dei Mari, ma qualcuno lo ha diviso{LF}in tre volumi. Vorrei che tu li recuperassi.
-Come ringraziamento per tutto il tuo aiuto, ecco una dritta gratis:{LF}ho ricevuto segnalazioni di un gigas che protegge un grande{LF}mucchio d’oro. ...Presumo tu sappia cosa fare?
+Come ringraziamento per tutto il tuo aiuto, ecco una dritta gratis:{LF}ho ricevuto segnalazioni di un gigas che protegge un grande{LF}mucchio d'oro. ...Presumo tu sappia cosa fare?
 クエスト説明　１０３０＿２　　　　一行目{LF}クエスト説明　１０３０＿２　　　　二行目{LF}クエスト説明　１０３０＿２　　　　三行目
 クエスト説明　１０４０＿１　　　　一行目{LF}クエスト説明　１０４０＿１　　　　二行目{LF}クエスト説明　１０４０＿１　　　　三行目
 クエスト説明　１０４０＿２　　　　一行目{LF}クエスト説明　１０４０＿２　　　　二行目{LF}クエスト説明　１０４０＿２　　　　三行目
-Un Incontro di Sopravvivenza sta per cominciare{LF}nell’arena. Se riesci a sopravvivere a sette round,{LF}farò in modo che tu riceva una ricompensa come si deve.
-Un Incontro di Sopravvivenza sta per cominciare{LF}nell’arena. Se riesci a sopravvivere a otto round,{LF}farò in modo che tu riceva una ricompensa come si deve.
-Un Incontro di Sopravvivenza sta per cominciare{LF}nell’arena. Se riesci a sopravvivere a nove round,{LF}farò in modo che tu riceva una ricompensa come si deve.
-Un Incontro di Sopravvivenza sta per cominciare{LF}nell’arena. Se riesci a sopravvivere a dieci round,{LF}farò in modo che tu riceva una ricompensa come si deve.
+Un Incontro di Sopravvivenza sta per cominciare{LF}nell'arena. Se riesci a sopravvivere a sette round,{LF}farò in modo che tu riceva una ricompensa come si deve.
+Un Incontro di Sopravvivenza sta per cominciare{LF}nell'arena. Se riesci a sopravvivere a otto round,{LF}farò in modo che tu riceva una ricompensa come si deve.
+Un Incontro di Sopravvivenza sta per cominciare{LF}nell'arena. Se riesci a sopravvivere a nove round,{LF}farò in modo che tu riceva una ricompensa come si deve.
+Un Incontro di Sopravvivenza sta per cominciare{LF}nell'arena. Se riesci a sopravvivere a dieci round,{LF}farò in modo che tu riceva una ricompensa come si deve.

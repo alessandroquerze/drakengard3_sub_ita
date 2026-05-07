@@ -1,4 +1,4 @@
-`Maledizione, non riesco nemmeno a camminare qui dentro.{LF}Fottuta neve!{#Name="Zero"}`
+`Maledizione, non riesco nemmeno a camminare qui.{LF}Fottuta neve!{#Name="Zero"}`
 Son of a bitch, I can't even walk in this.{LF}Fuckin' snow!{#Name="Zero"}
 
 `Eheh. Bel pensiero, ma non succederà.{#Name="Dito"}`
@@ -22,7 +22,7 @@ We shoulda had your dumb dragon melt it for us.{#Name="Dito"}
 `Sì, certo. Probabilmente mancherebbe il bersaglio{LF}e ci ridurrebbe in cenere.{#Name="Zero"}`
 Yeah, right. He'd probably miss{LF}and burn us to cinders.{#Name="Zero"}
 
-`Ah! Sì, sembra proprio da Mikhail.{#Name="Dito"}`
+`Ah! Sì, sarebbe proprio da Mikhail.{#Name="Dito"}`
 Hah! Yeah, that sounds like Mikhail, all right.{#Name="Dito"}
 
 `Starà bene?{LF}Lassù la visibilità non può essere buona.{#Name="Dito"}`
@@ -85,7 +85,7 @@ No one "takes" a dragon. Even a stupid{LF}idiot dragon. He'll be fine.{#Name="Ze
 `Cavolo, sei proprio solare.{#Name="Dito"}`
 Man, you're so cheery.{#Name="Dito"}
 
-`Gya, sono stufa di questi stronzi!{LF}E DOV'E' IL MIO DRAGO!?{#Name="Zero"}`
+`Argh, sono stufa di questi stronzi!{LF}E DOV'E' IL MIO DRAGO!?{#Name="Zero"}`
 Gya, I'm sick of these fuckers!{LF}And WHERE'S MY DRAGON!?{#Name="Zero"}
 
 ` {#Name="ゼロ"}`

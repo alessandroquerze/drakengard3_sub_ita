@@ -4,16 +4,16 @@ A spear left behind by a grim-faced{LF}watchman.
 `Una lancia lasciata da un guardiano{LF}dal volto cupo.`
 A spear left behind by a grim-faced{LF}watchman.
 
-`Una lancia del tradimento un tempo appartenuta{LF}a un uomo che usurpò il trono.`
+`Una lancia del tradimento un tempo{LF}appartenuta a un uomo che usurpò il trono.`
 A spear of betrayal once owned by{LF}a man who usurped the throne.
 
-`Una lancia del tradimento un tempo appartenuta{LF}a un uomo che usurpò il trono.`
+`Una lancia del tradimento un tempo{LF}appartenuta a un uomo che usurpò il trono.`
 A spear of betrayal once owned by{LF}a man who usurped the throne.
 
-`Una lancia del tradimento un tempo appartenuta{LF}a un uomo che usurpò il trono.`
+`Una lancia del tradimento un tempo{LF}appartenuta a un uomo che usurpò il trono.`
 A spear of betrayal once owned by{LF}a man who usurped the throne.
 
-`Una lancia del tradimento un tempo appartenuta{LF}a un uomo che usurpò il trono.`
+`Una lancia del tradimento un tempo{LF}appartenuta a un uomo che usurpò il trono.`
 A spear of betrayal once owned by{LF}a man who usurped the throne.
 
 `Un bastone tramandato da{LF}un potente evocatore all'altro.`
@@ -112,16 +112,16 @@ A spear that informs its wielder of{LF}their impending doom.
 `-`
 -
 
-`Bracciali da combattimento usati dal discepolo{LF}Decadus.`
+`Bracciali da combattimento usati dal{LF}discepolo Decadus.`
 Combat bracers used by the disciple{LF}Decadus.
 
-`Bracciali da combattimento usati dal discepolo{LF}Decadus.`
+`Bracciali da combattimento usati dal{LF}discepolo Decadus.`
 Combat bracers used by the disciple{LF}Decadus.
 
-`Bracciali da combattimento usati dal discepolo{LF}Decadus.`
+`Bracciali da combattimento usati dal{LF}discepolo Decadus.`
 Combat bracers used by the disciple{LF}Decadus.
 
-`Bracciali da combattimento usati dal discepolo{LF}Decadus.`
+`Bracciali da combattimento usati dal{LF}discepolo Decadus.`
 Combat bracers used by the disciple{LF}Decadus.
 
 `Bracciali da combattimento ben affilati,{LF}apparentemente infusi di ghiaccio.`
@@ -172,28 +172,28 @@ Combat bracers made from spines{LF}that once grew on a monster's body.
 `Bracciali da combattimento ricavati da spine{LF}che un tempo crescevano sul corpo di un mostro.`
 Combat bracers made from spines{LF}that once grew on a monster's body.
 
-`Bracciali da combattimento un tempo affondati{LF}sotto il mare blu profondo.`
+`Bracciali da combattimento un tempo{LF}affondati sotto il mare blu profondo.`
 Combat bracers that once sunk{LF}beneath the deep-blue sea.
 
-`Bracciali da combattimento un tempo affondati{LF}sotto il mare blu profondo.`
+`Bracciali da combattimento un tempo{LF}affondati sotto il mare blu profondo.`
 Combat bracers that once sunk{LF}beneath the deep-blue sea.
 
-`Bracciali da combattimento un tempo affondati{LF}sotto il mare blu profondo.`
+`Bracciali da combattimento un tempo{LF}affondati sotto il mare blu profondo.`
 Combat bracers that once sunk{LF}beneath the deep-blue sea.
 
-`Bracciali da combattimento un tempo affondati{LF}sotto il mare blu profondo.`
+`Bracciali da combattimento un tempo{LF}affondati sotto il mare blu profondo.`
 Combat bracers that once sunk{LF}beneath the deep-blue sea.
 
-`Bracciali da combattimento un tempo usati da un{LF}famigerato signore delle tenebre.`
+`Bracciali da combattimento un tempo{LF}usati da un famigerato signore delle tenebre.`
 Combat bracers once used by a{LF}notorious lord of darkness.
 
-`Bracciali da combattimento un tempo usati da un{LF}famigerato signore delle tenebre.`
+`Bracciali da combattimento un tempo{LF}usati da un famigerato signore delle tenebre.`
 Combat bracers once used by a{LF}notorious lord of darkness.
 
-`Bracciali da combattimento un tempo usati da un{LF}famigerato signore delle tenebre.`
+`Bracciali da combattimento un tempo{LF}usati da un famigerato signore delle tenebre.`
 Combat bracers once used by a{LF}notorious lord of darkness.
 
-`Bracciali da combattimento un tempo usati da un{LF}famigerato signore delle tenebre.`
+`Bracciali da combattimento un tempo{LF}usati da un famigerato signore delle tenebre.`
 Combat bracers once used by a{LF}notorious lord of darkness.
 
 `Bracciali di ferro lasciati da un{LF}capitano cavaliere.`
@@ -220,16 +220,16 @@ Sharp bracers that were the favorite{LF}of a princess who slaughtered many.
 `Bracciali affilati che erano i preferiti{LF}di una principessa che massacrò molti.`
 Sharp bracers that were the favorite{LF}of a princess who slaughtered many.
 
-`Bracciali da combattimento maledetti lasciati{LF}da una strega.`
+`Bracciali da combattimento maledetti{LF}lasciati da una strega.`
 Cursed combat bracers left behind{LF}by a witch.
 
-`Bracciali da combattimento maledetti lasciati{LF}da una strega.`
+`Bracciali da combattimento maledetti{LF}lasciati da una strega.`
 Cursed combat bracers left behind{LF}by a witch.
 
-`Bracciali da combattimento maledetti lasciati{LF}da una strega.`
+`Bracciali da combattimento maledetti{LF}lasciati da una strega.`
 Cursed combat bracers left behind{LF}by a witch.
 
-`Bracciali da combattimento maledetti lasciati{LF}da una strega.`
+`Bracciali da combattimento maledetti{LF}lasciati da una strega.`
 Cursed combat bracers left behind{LF}by a witch.
 
 `I pesanti bracciali chiodati di un{LF}signore degli inferi esiliato.`
@@ -304,12 +304,12 @@ A chakram said to have been stained{LF}blue from reflecting ocean waves.
 `Un chakram che si dice sia stato tinto{LF}di blu riflettendo le onde dell'oceano.`
 A chakram said to have been stained{LF}blue from reflecting ocean waves.
 
-`Un grande chakram riccamente decorato.`
+`Un grande chakram riccamente{LF}decorato.`
 A large, ornately decorated chakram.
 
-`Un grande chakram riccamente decorato.`
+`Un grande chakram riccamente{LF}decorato.`
 A large, ornately decorated chakram.
 
-`Un grande chakram riccamente decorato.`
+`Un grande chakram riccamente{LF}decorato.`
 A large, ornately decorated chakram.
 

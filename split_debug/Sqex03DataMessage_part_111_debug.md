@@ -205,7 +205,7 @@ Part 4: The Warning{#Name=" "}
 `Parte 1: Il Canto di Accord{#Name=" "}`
 Part 1: Accord's Song{#Name=" "}
 
-`Parte 2: Frutto della Pazza:::{#Name=" "}`
+`Parte 2: Frutto del Pazzo{#Name=" "}`
 Part 2: Fruit of the Loon{#Name=" "}
 
 `Parte 3: Vite Parallele{#Name=" "}`

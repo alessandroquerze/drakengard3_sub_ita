@@ -1,4 +1,4 @@
-Libro dell’Innocenza
+Libro dell'Innocenza
 Libro della Dottrina
 Libro della Disciplina
 クエスト用本１１
@@ -36,10 +36,10 @@ Libro della Disciplina
 Corno di Bue
 Corno di Unicorno
 Artiglio di Falco
-Artiglio d’Aquila
+Artiglio d'Aquila
 Pungiglione di Rospo
 Zanna di Vipera
-Fossile d’Osso
+Fossile d'Osso
 Fossile Vegetale
 Manufatto del Vecchio Mondo
 Frammento del Vecchio Mondo
@@ -54,48 +54,48 @@ Frammento del Vecchio Mondo
 クエスト用武器１９
 クエスト用武器２０
 クエスト用武器２１
-Molto tempo fa, in un’epoca macchiata da conflitti infiniti,{#Name="Old Man"}
+Molto tempo fa, in un'epoca macchiata da conflitti infiniti,{#Name="Old Man"}
 cinque splendide dee discesero sulla terra.{#Name="Old Man"}
 Le dee intonarono canti mistici che riportarono{LF}pace e armonia nel nostro mondo spezzato.{#Name="Old Man"}
 La gente cominciò a venerare queste sacre cantatrici,{#Name="Old Man"}
 e iniziò a chiamarle "Intoner."{#Name="Old Man"}
 Grazie agli sforzi di queste Intoner,{LF}il caos della guerra divenne un ricordo lontano.{#Name="Old Man"}
-E così, l’umanità godette di un’epoca di dolce estasi,{#Name="Old Man"}
+E così, l'umanità godette di un'epoca di dolce estasi,{#Name="Old Man"}
 crogiolandosi nella nuova luce e belle—{#Name="Old Man"}
 T-Tu... selvaggia assassina...{#Name="Old Man"}
 Assassina? Credo tu voglia dire Intoner.{#Name="Zero"}
-È lì dentro! Abbattetela!{#Name="Soldier A"}
+E' lì dentro! Abbattetela!{#Name="Soldier A"}
 Uccidete il demone traditore!{#Name="Soldier C"}
 Michael...{#Name="Zero"}
-È ora...di mettere fine alle Intoner.{#Name="Zero"}
+E' ora...di mettere fine alle Intoner.{#Name="Zero"}
 ★ゼロと敵のやりとり。{#Name="ゼロ"}
 ★ゼロとミカエルのやりとり。{#Name="ゼロ"}
 ★ゼロがウタヒメである事、裏切り者である事の説明。{#Name="ゼロ"}
 Zero! Vai! Sconfiggi le tue sorelle!{#Name="Michael"}
 {06}>{#Name="Zero"}
 No! Non hai la forza per farlo!{#Name="Zero"}
-Questi fantocci non sono all’altezza di un drago!{#Name="Michael"}
+Questi fantocci non sono all'altezza di un drago!{#Name="Michael"}
 Bene. Basta che tu non muoia ora.{#Name="Zero"}
 Addio, sciocca...{#Name="Michael"}
 Tutti voi...{#Name="Zero"}
 Donne, bambini, anziani... Non importa.{LF}Se vi mettete sulla mia strada, morirete.{#Name="Zero"}
 343{#Name="343"}
 Se è questo che volete...allora mettetevi in fila!{#Name="Zero"}
-È lei! È Zero!{#Name="Soldier A"}
-Ha un aspetto così sinistro... È davvero una Intoner?{#Name="Soldier F"}
+E' lei! E' Zero!{#Name="Soldier A"}
+Ha un aspetto così sinistro... E' davvero una Intoner?{#Name="Soldier F"}
 Hyaaaa! Occhi aperti, uomini! Tenete al sicuro le nostre Intoners!{#Name="Soldier B"}
 Combattete con giudizio! Morire qui non servirà a niente!{#Name="Soldier E"}
 Il drago è troppo forte!{#Name="Soldier C"}
 Qualcuno mi aiuti!{#Name="Soldier D"}
 Una guerra tra Intoner... Il mondo è davvero impazzito.{#Name="Soldier F"}
-È finita... Moriremo tutti...{#Name="Soldier G"}
+E' finita... Moriremo tutti...{#Name="Soldier G"}
 Continuate così! Non perdete la speranza!{#Name="Soldier F"}
 Nessuna ritirata! Zero deve essere fermata!{#Name="Soldier A"}
 Il demone sta cercando di uccidere le sue sorelle!{#Name="Soldier B"}
 Uccidete la traditrice! Dobbiamo proteggere la nostra patria!{#Name="Soldier E"}
 Se continua così, il nostro mondo per come lo conosciamo finirà...{#Name="Soldier F"}
 Non glielo permetteremo!{#Name="Soldier B"}
-Merda, mi si è rotto l’arco!{#Name="Soldier G"}
+Merda, mi si è rotto l'arco!{#Name="Soldier G"}
 Ecco, usa il mio!{#Name="Soldier A"}
 Ma...{#Name="Soldier G"}
 Voi giovani reclute dovete vivere per combattere un altro giorno.{#Name="Soldier A"}

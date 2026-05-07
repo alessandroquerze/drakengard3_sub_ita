@@ -1,105 +1,105 @@
-Soldati
-Soldati
-Soldati
-Soldati
-Cannonieri
-Cannonieri
-Cannonieri
-Cannonieri
-Cannonieri
+Soldati sconfitti!+16
+Soldati sconfitti!+17
+Soldati sconfitti!+18
+Soldati sconfitti!+19
+Cannonieri sconfitti!+1
+Cannonieri sconfitti!+2
+Cannonieri sconfitti!+3
+Cannonieri sconfitti!+4
+Cannonieri sconfitti!+5
 -
-Lupi
-Lupi delle Sabbie
+Lupi sconfitti!+1
+Lupi delle Sabbie sconfitti!+1
 -
-Lupi
-Lupi delle Sabbie
+Lupi sconfitti!+2
+Lupi delle Sabbie sconfitti!+2
 -
-Lancieri
-Capitani Lancieri
+Lancieri sconfitti!+1
+Capitani Lancieri sconfitti!+1
 -
-Spiriti
-Spiriti Superiori
+Spiriti sconfitti!+1
+Spiriti Superiori sconfitti!+1
 -
-Imp
--
--
-Ogre
-Ogre delle Sabbie
--
-Troll
-Troll Bruti
--
-Maghi
--
-Necromanti
-Stregoni
--
-Non morti
-Soldati non morti
-Paladini non morti
+Imp sconfitti!+1
 -
 -
-Viverne
+Ogre sconfitti!+1
+Ogre delle Sabbie sconfitti!+1
+-
+Troll sconfitti!+1
+Troll Bruti sconfitti!+1
+-
+Maghi sconfitti!+1
+-
+Necromanti sconfitti!+1
+Stregoni sconfitti!+1
+-
+Non morti sconfitti!+1
+Soldati non morti sconfitti!+1
+Paladini non morti sconfitti!+1
 -
 -
-Spettri
+Viverne sconfitte!+1
 -
 -
-Viverne
-Viverne
+Spettri sconfitti!+1
 -
-Gigas
-Gigas
-Gigas non morti
 -
-Titan
-Signori titani
-Arci titani
+Viverne sconfitte!+2
+Viverne sconfitte!+3
 -
-Cerberi
+Gigas sconfitti!+1
+Gigas sconfitti!+2
+Gigas non morti sconfitti!+1
 -
-Cerberi di Fiamme
-Cerberi grigi
-Golem
+Titani sconfitti!+1
+Signori titani sconfitti!+1
+Arci titani sconfitti!+1
 -
-花（ワン）
+Cerberi sconfitti!+1
+-
+Cerberi di Fiamme sconfitti!+1
+Cerberi grigi sconfitti!+1
+Golem distrutti!+1
+-
+花（ワン)
 花（トウ）
 花（スリイ）
 花（フォウ）
 花（ファイブ）
 -
-Centauri
-Centauri di Fuoco
+Centauri sconfitti!+1
+Centauri di Fuoco sconfitti!+1
 -
 -
-Cubi Gargoyle
+Cubi Gargoyle distrutti!+1
 -
 -
 -
-Soldati
-Soldati
-Soldati
-Soldati
-Soldati
-Bombardieri
-Phanuel
-Armaros
-Armaros
-Armaros
-Armaros
-Armaros
-Armaros
+Soldati confitti!+20
+Soldati sconfitti!+21
+Soldati sconfitti!+22
+Soldti sconfitti!+23
+Soldati sconfitti!+24
+Bombardieri sconfitti!+1
+Phanuel sconfitto!+1
+Armaros sconfitto!+1
+Armaros sconfitto!+2
+Armaros sconfitto!+3
+Armaros sconfitto!+4
+Armaros sconfitto!+5
+Armaros sconfitto!+6
 -
-Armisael
-Armisael
-Armisael
-Egregori
-Gabriel
-Gabriel
+Armisael sconfitti!+1
+Armisael sconfitti!+2
+Armisael sconfitti!+3
+Egregori sconfitti!+1
+Gabriel sconfitto!+1
+Gabriel sconfitto!+2
 ガブリエル（傷）
-Zophiel
+Zophiel sconfitto!+1
 花（ゼロ）
-Gigas superiori
-False Zero
-Homunculi
-Galgaliel
+Gigas superiori sconfitti!+1
+False Zero sconfitte!+1
+Homunculi sconfitti!+1
+Galgaliel sconfitti!+1

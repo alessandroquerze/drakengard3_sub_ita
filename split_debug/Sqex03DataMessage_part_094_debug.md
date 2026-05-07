@@ -112,7 +112,7 @@ Th-There she is! We're under attack!{#Name="Soldier G"}
 `Restate calmi! Date tutto quello che avete!{#Name="Soldier B"}`
 Stay calm! Give it all you got!{#Name="Soldier B"}
 
-`Non lasciate che metta piede nella Cathedral!{#Name="Soldier C"}`
+`Non lasciate che metta piede nella Cattedrale!{#Name="Soldier C"}`
 Don't let her set foot in the Cathedral!{#Name="Soldier C"}
 
 `Sì! La vittoria sarà nostra!{#Name="Soldier D"}`
@@ -142,7 +142,7 @@ Do whatever it takes! Just kill her!{#Name="Soldier A"}
 `Deve essere fermata a ogni costo!{#Name="Soldier A"}`
 She must be stopped at all costs!{#Name="Soldier A"}
 
-`Oh, andiamo. Ancora altri?{#Name="Cent"}`
+`Oh, andiamo. Ma quanti sono?{#Name="Cent"}`
 Oh, come on now. More of them?{#Name="Cent"}
 
 `Fatevi sotto! Li farò a pezzi uno a uno!{#Name="Zero"}`
@@ -250,7 +250,7 @@ Maybe next time.{#Name="Zero"}
 `ディト…{#Name="デカート"}`
 ディト…{#Name="デカート"}
 
-`Il miglior drago, pare.:::{#Name="Zero"}`
+`Il miglior drago, a quanto pare.{#Name="Zero"}`
 The best dragon, at least.{#Name="Zero"}
 
 `Zero, tutto bene laggiù?{#Name="Mikhail"}`

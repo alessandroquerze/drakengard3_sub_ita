@@ -36,11 +36,11 @@ Premi {01}{04} mentre voli per eseguire un potente{LF}attacco caricato che consu
 Comandi: Navigazione
 Premi {01}{0D} per visualizzare una freccia di navigazione che{LF}punterà nella direzione del prossimo obiettivo.
 Comandi: Mini-mappa
-Usa la mini-mappa in alto a destra dello schermo per controllare{LF}l’ambiente circostante. Premi {01}{0A} per cambiare il livello di zoom.
+Usa la mini-mappa in alto a destra dello schermo per controllare{LF}l'ambiente circostante. Premi {01}{0A} per cambiare il livello di zoom.
 操作 / 通常攻撃
 {01}{03}ボタンを押すと通常攻撃を行います。{LF}連打することで攻撃が変化します。
 Comandi: Aggancio
-Premi {01}{08} per agganciare un nemico; premilo di nuovo per annullare.{LF}Usa la levetta destra per passare da un bersaglio all’altro.
+Premi {01}{08} per agganciare un nemico; premilo di nuovo per annullare.{LF}Usa la levetta destra per passare da un bersaglio all'altro.
 Comandi: Attacchi Stamina
 Premi {01}{04} per eseguire un attacco stamina, una mossa potente{LF}che consuma energia dalla Barra Stamina.
 Barra del Sangue
@@ -78,13 +78,13 @@ Tieni premuto {01}{04} e usa la levetta sinistra per agganciare più nemici.{LF}
 エネミー / 魔導士
 エネミー / 魔導士のチュートリアル
 Danni Solari
-Se entri nella luce solare potenziata dalla magia, subirai danni.{LF}Ritirati nelle zone d’ombra per recuperare salute.
+Se entri nella luce solare potenziata dalla magia, subirai danni.{LF}Ritirati nelle zone d'ombra per recuperare salute.
 使徒アビリティ / セント
 使徒アビリティ / セントのチュートリアル
 宝箱
 宝箱のチュートリアル
 Negozio di Armi: Acquisto e Potenziamento
-Fai scorta di oggetti e acquista o potenzia armi{LF}tra una missione e l’altra usando oro e materiali base.
+Fai scorta di oggetti e acquista o potenzia armi{LF}tra una missione e l'altra usando oro e materiali base.
 ショップ / 強化
 ショップ / 強化のチュートリアル
 Comandi: Cerchi di Evocazione

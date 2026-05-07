@@ -139,7 +139,7 @@ That's it? Really?{#Name="Dito"}
 `Combattere spiriti e non morti sembra{LF}una fatica da sciocchi.{#Name="Decadus"}`
 Battling spirits and the undead feels{LF}like something of a fool's errand.{#Name="Decadus"}
 
-`Sì. Ottimo spirito:::.{#Name="Cent"}`
+`Sì. Ottimo spirito.{#Name="Cent"}`
 Yeah. Good attitude there.{#Name="Cent"}
 
 `Ma suppongo che sia il massimo a cui un semplice soldato{LF}come te possa aspirare.{#Name="Cent"}`

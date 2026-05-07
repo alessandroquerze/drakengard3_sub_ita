@@ -1,25 +1,25 @@
-`Galgaliel`
+`Galgaliel sconfitti!+2`
 Galgaliels
 
-`Galgaliel`
+`Galgaliel sconfitti!+3`
 Galgaliels
 
-`Galgaliel`
+`Galgaliel sconfitti!+4`
 Galgaliels
 
-`Ezrael`
+`Ezrael sconfitto!+1`
 Ezrael
 
-`Raphael`
+`Raphael sconfitto!+2`
 Raphael
 
-`Abdiel`
+`Abdiel sconfitto!+1`
 Abdiel
 
-`Abdiel`
+`Abdiel sconfitto!+2`
 Abdiel
 
-`Abdiel`
+`Abdiel sconfitto!+3`
 Abdiel
 
 `Grossi Granchi Succosi`
@@ -31,13 +31,13 @@ Little Juicy Crabs
 `Michael`
 Michael
 
-`Aeronavi`
+`Aeronavi sconfitte!+1`
 Airships
 
-`Barche Volanti`
+`Barche Volanti sconfitte!+1`
 Air Skiffs
 
-`Navi Pirata degli Elfi Malvagi`
+`Navi Pirata degli Elfi Malvagi sconfitte!+1`
 Evil Elf Pirate Ships
 
 `-`
@@ -82,13 +82,13 @@ Three Statues
 `バリケード大 2`
 バリケード大 2
 
-`Cannoni`
+`Cannoni distrutti!+1`
 Cannons
 
-`Cannoni Pesanti`
+`Cannoni Pesanti distrutti!+1`
 Heavy Cannons
 
-`Ipercannoni`
+`Ipercannoni distrutti!+1`
 Hyper Cannons
 
 `戦艦大砲台`
@@ -136,10 +136,10 @@ Hyper Cannons
 `引っ込む蔦`
 引っ込む蔦
 
-`Mezzi da Sbarco`
+`Mezzi da Sbarco sconfitti!+1`
 Landing Crafts
 
-`Navi da Guerra`
+`Navi da Guerra sconfitti!+1`
 Battleships
 
 `木汎用`
@@ -163,49 +163,49 @@ ZH00 ゼロ家柱
 `Forzieri Metallici`
 Metallic Chests
 
-`Cannoni`
+`Cannoni distrutti!+1`
 Cannons
 
-`Ipercannoni`
+`Ipercannoni distrutti!+1`
 Hyper Cannons
 
-`Navi da Guerra`
+`Navi da Guerra sconfitte!+1`
 Battleships
 
-`Navi da Guerra`
+`Navi da Guerra sconfitte!+2`
 Battleships
 
-`SoldaX+25`
+`Soldati sconfitti!+25`
 Soldiers
 
-`Torri Meridionali`
+`Torri Meridionali distrutte!+1`
 Southern Towers
 
-`Torri Orientali`
+`Torri Orientali distrutte!+1`
 Eastern Towers
 
-`Torri Occidentali`
+`Torri Occidentali distrutte!+1`
 Western Towers
 
-`Torri Settentrionali`
+`Torri Settentrionali distrutte!+1`
 Northern Towers
 
-`SoldaX+26`
+`Soldati sconfitti!+26`
 Soldiers
 
-`SoldaX+27`
+`Soldati Sconfitti!`
 Soldiers
 
-`Ogre Potenziati`
+`Ogre Potenziati eliminati!+1`
 Enhanced Ogres
 
-`Imp Potenziati`
+`Imp Potenziati sconfitti!+1`
 Enhanced Imps
 
-`Cerberi Potenziati`
+`Cerberi Potenziati sconfitti!+1`
 Enhanced Cerberuses
 
-`Soldatesse`
+`Soldatesse sconfitte!+1`
 Female Soldiers
 
 `Attivo`

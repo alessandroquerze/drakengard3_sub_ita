@@ -52,7 +52,7 @@ Il modo in cui la mia lama ha tagliato in due{LF}quelle ridicole tettone? Era co
 Che modo di andarsene, eh? Avrei dovuto fare il macellaio.{LF}Ah ah ah ah ah!{#Name="Dito"}
 Ehi, Zero? Dobbiamo davvero andare a uccidere Four?{#Name="Mikhail"}
 Non di nuovo.{#Name="Zero"}
-È solo che... mi è dispiaciuto molto per Five, capisci?{#Name="Mikhail"}
+E' solo che... mi è dispiaciuto molto per Five, capisci?{#Name="Mikhail"}
 Stava piangendo. Piangeva tantissimo,{LF}e tu l'hai uccisa lo stesso.{#Name="Mikhail"}
 Sai che era solo una recita, vero?{#Name="Zero"}
 Sì, fidati- se c'era una cosa in cui Five era brava,{LF}era fingere.{#Name="Dito"}

@@ -2,18 +2,18 @@ Richieste di Accord: Caccia al Tesoro
 Respingi i nemici che ti attaccano e recupera gli oggetti{LF}rinchiusi nei forzieri che stanno sorvegliando.
 Richieste di Accord: Caccia al Tesoro
 Apri tutti i forzieri per ottenere una ricompensa da Accord,{LF}incluso uno speciale bonus di completamento valido solo la prima volta.
-Forzieri del Tesoro d’Acciaio
+Forzieri del Tesoro d'Acciaio
 I forzieri rinforzati in acciaio non si aprono facilmente come quelli normali;{LF}dovrai colpirli molte volte per rompere tutte le catene.
 Richieste di Accord: Sfide di Sopravvivenza
 Sconfiggi i nemici che ti attaccano in ogni round{LF}e cerca di restare vivo fino alla fine.
 Richieste di Accord: Sfide di Sopravvivenza
 Completa ogni round per ottenere una ricompensa da Accord,{LF}incluso uno speciale bonus di completamento valido solo la prima volta.
 Cerchi Sfida
-Vinci un round e apparirà un cerchio sfida. Raccogli l’esperienza{LF}e l’oro che emergono, poi scegli se continuare o ritirarti.
+Vinci un round e apparirà un cerchio sfida. Raccogli l'esperienza{LF}e l'oro che emergono, poi scegli se continuare o ritirarti.
 Richieste di Accord: Fallire una Sfida di Sopravvivenza
-Se fallisci in una Sfida di Sopravvivenza, perderai tutta l’esperienza e l’oro ottenuti.{LF}Se invece ti ritiri, potrai conservare ciò che hai guadagnato finora.
+Se fallisci in una Sfida di Sopravvivenza, perderai tutta l'esperienza e l'oro ottenuti.{LF}Se invece ti ritiri, potrai conservare ciò che hai guadagnato finora.
 Richieste di Accord: Raccolta di Oro
-Metti a segno attacchi sui nemici e lasceranno cadere monete d’oro.{LF}Sconfiggili e raccogli più oro che puoi!
+Metti a segno attacchi sui nemici e lasceranno cadere monete d'oro.{LF}Sconfiggili e raccogli più oro che puoi!
 Moltiplica il Denaro
 I Soldati Dorati valgono una fortuna—letteralmente! Sconfiggine quanti più{LF}possibile per aumentare il moltiplicatore del denaro ottenuto.
 M{#Name="Zero's Blade Lv. 1"}

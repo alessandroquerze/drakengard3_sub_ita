@@ -1,17 +1,17 @@
-Galgaliel
-Galgaliel
-Galgaliel
-Ezrael
-Raphael
-Abdiel
-Abdiel
-Abdiel
+Galgaliel sconfitti!+2
+Galgaliel sconfitti!+3
+Galgaliel sconfitti!+4
+Ezrael sconfitto!+1
+Raphael sconfitto!+2
+Abdiel sconfitto!+1
+Abdiel sconfitto!+2
+Abdiel sconfitto!+3
 Grossi Granchi Succosi
 Piccoli Granchi Succosi
 Michael
-Aeronavi
-Barche Volanti
-Navi Pirata degli Elfi Malvagi
+Aeronavi sconfitte!+1
+Barche Volanti sconfitte!+1
+Navi Pirata degli Elfi Malvagi sconfitte!+1
 -
 One
 One
@@ -26,9 +26,9 @@ Statue di Three
 バリケード中
 バリケード大
 バリケード大 2
-Cannoni
-Cannoni Pesanti
-Ipercannoni
+Cannoni distrutti!+1
+Cannoni Pesanti distrutti!+1
+Ipercannoni distrutti!+1
 戦艦大砲台
 戦艦長距離大砲台
 ハイパー砲台透明
@@ -44,8 +44,8 @@ Ipercannoni
 壊せる蔦壁小
 壊せる蔦壁大
 引っ込む蔦
-Mezzi da Sbarco
-Navi da Guerra
+Mezzi da Sbarco sconfitti!+1
+Navi da Guerra sconfitti!+1
 木汎用
 ZH00 ゼロ家柱
 アイテムボックス（木箱）
@@ -53,21 +53,21 @@ ZH00 ゼロ家柱
 宝箱
 爆弾（クエスト用）
 Forzieri Metallici
-Cannoni
-Ipercannoni
-Navi da Guerra
-Navi da Guerra
-Soldati
-Torri Meridionali
-Torri Orientali
-Torri Occidentali
-Torri Settentrionali
-Soldati
-Soldati
-Ogre Potenziati
-Imp Potenziati
-Cerberi Potenziati
-Soldatesse
+Cannoni distrutti!+1
+Ipercannoni distrutti!+1
+Navi da Guerra sconfitte!+1
+Navi da Guerra sconfitte!+2
+Soldati sconfitti!+25
+Torri Meridionali distrutte!+1
+Torri Orientali distrutte!+1
+Torri Occidentali distrutte!+1
+Torri Settentrionali distrutte!+1
+Soldati sconfitti!+26
+Soldati Sconfitti!
+Ogre Potenziati eliminati!+1
+Imp Potenziati sconfitti!+1
+Cerberi Potenziati sconfitti!+1
+Soldatesse sconfitte!+1
 Attivo
 Disattivo
 Max

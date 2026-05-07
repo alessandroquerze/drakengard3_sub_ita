@@ -1,5 +1,5 @@
 No... Miseria, no!{#Name="Soldier B"}
-Ugh. È troppo forte!{#Name="Soldier A"}
+Ugh. E' troppo forte!{#Name="Soldier A"}
 Di questo passo, raggiungerà presto le Intoner!{#Name="Soldier G"}
 Mai. Dobbiamo proteggerle a costo della vita!{#Name="Soldier A"}
 Come possiamo opporci a una Intoner e a un drago?{#Name="Soldier E"}
@@ -42,8 +42,8 @@ Toglietevi. Dalla. Mia. STRADA!{#Name="Zero"}
 Non lasciatela passare!{#Name="Soldier B"}
 Spostatevi!{#Name="Zero"}
 {06}>{#Name="Soldier B"}
-Non può essere una Intoner... È impossibile!{#Name="Soldier G"}
-È un dannato demone...{#Name="Soldier F"}
+Non può essere una Intoner... E' impossibile!{#Name="Soldier G"}
+E' un dannato demone...{#Name="Soldier F"}
 Non c'è modo di vincere...{LF}Moriremo tutti!{#Name="Soldier G"}
 Non è il momento della codardia!{LF}In piedi e combattete!{#Name="Soldier B"}
 Oh, Dio... No, no, no, no, noooo!{#Name="Soldier G"}
@@ -61,7 +61,7 @@ Cosa!? Se abbandoniamo le postazioni,{LF}le Intoner saranno in pericolo!{#Name="
 Credi davvero che me ne freghi qualcosa, adesso!?{#Name="Soldier A"}
 Riprenditi, patetico codardo!{LF}Sei un soldato!{#Name="Soldier B"}
 via, via, via, VIA!{#Name="Zero"}
-È Zero! Zero la traditrice!{#Name="Soldier E"}
+E' Zero! Zero la traditrice!{#Name="Soldier E"}
 Toglietevi dalle palle!{#Name="Zero"}
 Oh merda, è qui! Ritirata! Ritiraataa!{#Name="Soldier D"}
 Via di mezzo!{#Name="Soldier C"}
@@ -82,7 +82,7 @@ Soldato E
 Soldato D
 Soldato G
  
-È passato molto tempo, Zero.{#Name="One"}
+E' passato molto tempo, Zero.{#Name="One"}
 Davvero? Non me n'ero accorta.{#Name="Zero"}
 Non sei cambiata di una virgola. Sei ancora folle.{#Name="One"}
 Smettila. Mi metti in imbarazzo.{#Name="Zero"}

@@ -1,9 +1,9 @@
 あらすじ第九項　００２０　一行目{LF}あらすじ第九項　００２０　二行目{LF}あらすじ第九項　００２０　三行目{LF}あらすじ第九項　００２０　四行目{LF}あらすじ第九項　００２０　五行目
 あらすじ第十項　００２０　一行目{LF}あらすじ第十項　００２０　二行目{LF}あらすじ第十項　００２０　三行目{LF}あらすじ第十項　００２０　四行目{LF}あらすじ第十項　００２０　五行目
 あらすじ第十一項　００２０　一行目{LF}あらすじ第十一項　００２０　二行目{LF}あらすじ第十一項　００２０　三行目{LF}あらすじ第十一項　００２０　四行目{LF}あらすじ第十一項　００２０　五行目
-Mappa → Casa di Zero{LF}È passato un anno dalla sconfitta di Zero{LF}per mano delle sue sorelle. Dopo essersi ripresa{LF}nella Terra dei Mari, ora ha{LF}gli occhi puntati su un altro assalto.
+Mappa → Casa di Zero{LF}E' passato un anno dalla sconfitta di Zero{LF}per mano delle sue sorelle. Dopo essersi ripresa{LF}nella Terra dei Mari, ora ha{LF}gli occhi puntati su un altro assalto.
 Cutscene → Gioco{LF}Dopo essersi svegliata da un incubo, Zero viene{LF}accolta dal suo drago, regredito a{LF}una versione più giovane di sé chiamata Mikhail.{LF}Dopo che lei gli urla contro, lui scappa via piangendo.
-Gioco{LF}Una forza nemica tende un’imboscata a Zero nella{LF}Terra dei Mari. Spinta dalla rabbia verso le sue{LF}sorelle, Zero si fa strada combattendo attraverso {LF}l’esercito radunato.
+Gioco{LF}Una forza nemica tende un'imboscata a Zero nella{LF}Terra dei Mari. Spinta dalla rabbia verso le sue{LF}sorelle, Zero si fa strada combattendo attraverso {LF}l'esercito radunato.
 あらすじ第四項　１０１０　一行目{LF}あらすじ第四項　１０１０　二行目{LF}あらすじ第四項　１０１０　三行目{LF}あらすじ第四項　１０１０　四行目{LF}あらすじ第四項　１０１０　五行目
 あらすじ第五項　１０１０　一行目{LF}あらすじ第五項　１０１０　二行目{LF}あらすじ第五項　１０１０　三行目{LF}あらすじ第五項　１０１０　四行目{LF}あらすじ第五項　１０１０　五行目
 あらすじ第六項　１０１０　一行目{LF}あらすじ第六項　１０１０　二行目{LF}あらすじ第六項　１０１０　三行目{LF}あらすじ第六項　１０１０　四行目{LF}あらすじ第六項　１０１０　五行目
@@ -13,9 +13,9 @@ Gioco{LF}Una forza nemica tende un’imboscata a Zero nella{LF}Terra dei Mari. S
 あらすじ第十項　１０１０　一行目{LF}あらすじ第十項　１０１０　二行目{LF}あらすじ第十項　１０１０　三行目{LF}あらすじ第十項　１０１０　四行目{LF}あらすじ第十項　１０１０　五行目
 あらすじ第十一項　１０１０　一行目{LF}あらすじ第十一項　１０１０　二行目{LF}あらすじ第十一項　１０１０　三行目{LF}あらすじ第十一項　１０１０　四行目{LF}あらすじ第十一項　１０１０　五行目
 Accampamento{LF}Dopo essersi fatti strada combattendo nel profondo{LF}del dominio di Five, Zero e Mikhail si prendono{LF}una pausa per parlare di furti al{LF}negozio e di altre attività meritevoli. 
-Gioco{LF}Mentre Zero continua la sua avanzata sulla costa,{LF}il nemico rifiuta di cedere. Alla fine,{LF}schiera i suoi mezzi da sbarco, una{LF}manovra che irrita Zero all’infinito.
+Gioco{LF}Mentre Zero continua la sua avanzata sulla costa,{LF}il nemico rifiuta di cedere. Alla fine,{LF}schiera i suoi mezzi da sbarco, una{LF}manovra che irrita Zero all'infinito.
 Gioco{LF}Zero e Mikhail si dirigono verso il Santuario{LF}dei Mari attraverso uno stretto canyon. Ma{LF}più avanti, un certo nemico li attende...
-Cutscene{LF}Con il nemico sconfitto, una rovina di{LF}una civiltà sconosciuta emerge dalle{LF}onde. È una trappola? O Five sta solo{LF}stendendo il tappeto di benvenuto?
+Cutscene{LF}Con il nemico sconfitto, una rovina di{LF}una civiltà sconosciuta emerge dalle{LF}onde. E' una trappola? O Five sta solo{LF}stendendo il tappeto di benvenuto?
 あらすじ第五項　１０２０　一行目{LF}あらすじ第五項　１０２０　二行目{LF}あらすじ第五項　１０２０　三行目{LF}あらすじ第五項　１０２０　四行目{LF}あらすじ第五項　１０２０　五行目
 あらすじ第六項　１０２０　一行目{LF}あらすじ第六項　１０２０　二行目{LF}あらすじ第六項　１０２０　三行目{LF}あらすじ第六項　１０２０　四行目{LF}あらすじ第六項　１０２０　五行目
 あらすじ第七項　１０２０　一行目{LF}あらすじ第七項　１０２０　二行目{LF}あらすじ第七項　１０２０　三行目{LF}あらすじ第七項　１０２０　四行目{LF}あらすじ第七項　１０２０　五行目
@@ -34,7 +34,7 @@ Gioco{LF}Il nemico si fa più feroce mentre Zero si avvicina{LF}al santuario. Pr
 あらすじ第九項　１０３０　一行目{LF}あらすじ第九項　１０３０　二行目{LF}あらすじ第九項　１０３０　三行目{LF}あらすじ第九項　１０３０　四行目{LF}あらすじ第九項　１０３０　五行目
 あらすじ第十項　１０３０　一行目{LF}あらすじ第十項　１０３０　二行目{LF}あらすじ第十項　１０３０　三行目{LF}あらすじ第十項　１０３０　四行目{LF}あらすじ第十項　１０３０　五行目
 あらすじ第十一項　１０３０　一行目{LF}あらすじ第十一項　１０３０　二行目{LF}あらすじ第十一項　１０３０　三行目{LF}あらすじ第十一項　１０３０　四行目{LF}あらすじ第十一項　１０３０　五行目
-Cutscene → Gioco{LF}Zero raggiunge finalmente il Santuario dei Mari,{LF}costruito sui resti di una vecchia arena.{LF}Ma Five la sta aspettando, e usa il suo canto{LF}per evocare l’angelo Phanuel.
+Cutscene → Gioco{LF}Zero raggiunge finalmente il Santuario dei Mari,{LF}costruito sui resti di una vecchia arena.{LF}Ma Five la sta aspettando, e usa il suo canto{LF}per evocare l'angelo Phanuel.
 Cutscene{LF}Zero sconfigge sua sorella e si prepara ad{LF}andarsene. Ma prima, il discepolo di Five, Dito,{LF}ha una faccenda in sospeso con{LF}il cadavere della sua ex Intoner.
 あらすじ第三項　１０４０　一行目{LF}あらすじ第三項　１０４０　二行目{LF}あらすじ第三項　１０４０　三行目{LF}あらすじ第三項　１０４０　四行目{LF}あらすじ第三項　１０４０　五行目
 あらすじ第四項　１０４０　一行目{LF}あらすじ第四項　１０４０　二行目{LF}あらすじ第四項　１０４０　三行目{LF}あらすじ第四項　１０４０　四行目{LF}あらすじ第四項　１０４０　五行目
@@ -47,8 +47,8 @@ Cutscene{LF}Zero sconfigge sua sorella e si prepara ad{LF}andarsene. Ma prima, i
 あらすじ第十一項　１０４０　一行目{LF}あらすじ第十一項　１０４０　二行目{LF}あらすじ第十一項　１０４０　三行目{LF}あらすじ第十一項　１０４０　四行目{LF}あらすじ第十一項　１０４０　五行目
 Mappa → Accampamento{LF}Con Five sconfitta, Zero, Dito{LF}e Mikhail si dirigono verso la Terra dei{LF}Monti, una regione aspra sotto{LF}il controllo della sorella di Zero, Four.
 Gioco{LF}Il gruppo si fa strada a colpi di lama attraverso un vasto esercito{LF}mentre continua a salire la montagna.{LF}Ben presto, la scalata apparentemente infinita{LF}inizia a mettere alla prova la pazienza di Zero.
-Gioco{LF}L’esercito di seguaci di Four scaglia contro Zero{LF}tutto ciò che ha, incluso un cerbero{LF}particolarmente scontroso—e letale.
-Cutscene{LF}Zero viene gravemente ferita dopo lo scontro{LF}con il cerbero, ma una sua abilità sconvolgente{LF}la salva dall’orlo della morte.
+Gioco{LF}L'esercito di seguaci di Four scaglia contro Zero{LF}tutto ciò che ha, incluso un cerbero{LF}particolarmente scontroso—e letale.
+Cutscene{LF}Zero viene gravemente ferita dopo lo scontro{LF}con il cerbero, ma una sua abilità sconvolgente{LF}la salva dall'orlo della morte.
 あらすじ第五項　２０１０　一行目{LF}あらすじ第五項　２０１０　二行目{LF}あらすじ第五項　２０１０　三行目{LF}あらすじ第五項　２０１０　四行目{LF}あらすじ第五項　２０１０　五行目
 あらすじ第六項　２０１０　一行目{LF}あらすじ第六項　２０１０　二行目{LF}あらすじ第六項　２０１０　三行目{LF}あらすじ第六項　２０１０　四行目{LF}あらすじ第六項　２０１０　五行目
 あらすじ第七項　２０１０　一行目{LF}あらすじ第七項　２０１０　二行目{LF}あらすじ第七項　２０１０　三行目{LF}あらすじ第七項　２０１０　四行目{LF}あらすじ第七項　２０１０　五行目
@@ -59,7 +59,7 @@ Cutscene{LF}Zero viene gravemente ferita dopo lo scontro{LF}con il cerbero, ma u
 Accampamento{LF}Dopo aver usato le sue inquietanti capacità di recupero{LF}per guarirsi, Zero segue il consiglio di Mikhail{LF}e si dirige verso la zona settentrionale{LF}della Terra dei Monti.
 Mappa → Gioco{LF}Zero affronta una forte resistenza presso la caserma{LF}nemica vicino alla fortezza. Persino Mikhail{LF}finisce nei guai quando il nemico rivolge{LF}contro di lui i suoi potenti cannoni.
 Cutscene → Gioco{LF}Mikhail fa del suo meglio per occuparsi di una {LF}barricata che blocca la strada a Zero. Ma{LF}purtroppo, il suo meglio è...problematico.
-Gioco{LF}Lo scontro si sposta in una miniera il cui scopo{LF}originario era portare prosperità alla{LF}terra. Ma l’unica a prosperare ora è{LF}Zero, che ride mentre abbatte i nemici.
+Gioco{LF}Lo scontro si sposta in una miniera il cui scopo{LF}originario era portare prosperità alla{LF}terra. Ma l'unica a prosperare ora è{LF}Zero, che ride mentre abbatte i nemici.
 あらすじ第五項　２０２０　一行目{LF}あらすじ第五項　２０２０　二行目{LF}あらすじ第五項　２０２０　三行目{LF}あらすじ第五項　２０２０　四行目{LF}あらすじ第五項　２０２０　五行目
 あらすじ第六項　２０２０　一行目{LF}あらすじ第六項　２０２０　二行目{LF}あらすじ第六項　２０２０　三行目{LF}あらすじ第六項　２０２０　四行目{LF}あらすじ第六項　２０２０　五行目
 あらすじ第七項　２０２０　一行目{LF}あらすじ第七項　２０２０　二行目{LF}あらすじ第七項　２０２０　三行目{LF}あらすじ第七項　２０２０　四行目{LF}あらすじ第七項　２０２０　五行目
@@ -79,7 +79,7 @@ Gioco{LF}Quando il gruppo arriva alla fortezza e{LF}scopre che Four non è mai s
 あらすじ第十項　２０３０　一行目{LF}あらすじ第十項　２０３０　二行目{LF}あらすじ第十項　２０３０　三行目{LF}あらすじ第十項　２０３０　四行目{LF}あらすじ第十項　２０３０　五行目
 あらすじ第十一項　２０３０　一行目{LF}あらすじ第十一項　２０３０　二行目{LF}あらすじ第十一項　２０３０　三行目{LF}あらすじ第十一項　２０３０　四行目{LF}あらすじ第十一項　２０３０　五行目
 Mappa → Accampamento{LF}Il gruppo segue le tracce di Four fino a una catena{LF}montuosa innevata, dove Dito insegna{LF}a Mikhail alcune frasi che probabilmente{LF}farebbe meglio a non conoscere.
-Gioco{LF}Quando una bufera si abbatte sulle montagne,{LF}l’odore di Mikhail diventa troppo per Zero{LF}da sopportare, e lei prosegue a piedi.{LF}Dev’essere davvero una puzza seria...
+Gioco{LF}Quando una bufera si abbatte sulle montagne,{LF}l'odore di Mikhail diventa troppo per Zero{LF}da sopportare, e lei prosegue a piedi.{LF}Dev'essere davvero una puzza seria...
 Cutscene → Gioco{LF}Zero urla chiamando Mikhail, rendendo Dito{LF}nervoso. Se solo i due sapessero{LF}del destino portentoso che li attende...{LF}(Sembra emozionante, vero!?)
 Gioco{LF}Il gruppo continua a combattere tra la neve,{LF}avanzando a fatica verso la destinazione{LF}finale: Mt. Quello che è.
 あらすじ第五項　２０４０　一行目{LF}あらすじ第五項　２０４０　二行目{LF}あらすじ第五項　２０４０　三行目{LF}あらすじ第五項　２０４０　四行目{LF}あらすじ第五項　２０４０　五行目
@@ -90,7 +90,7 @@ Gioco{LF}Il gruppo continua a combattere tra la neve,{LF}avanzando a fatica vers
 あらすじ第十項　２０４０　一行目{LF}あらすじ第十項　２０４０　二行目{LF}あらすじ第十項　２０４０　三行目{LF}あらすじ第十項　２０４０　四行目{LF}あらすじ第十項　２０４０　五行目
 あらすじ第十一項　２０４０　一行目{LF}あらすじ第十一項　２０４０　二行目{LF}あらすじ第十一項　２０４０　三行目{LF}あらすじ第十一項　２０４０　四行目{LF}あらすじ第十一項　２０４０　五行目
 Mappa → Gioco{LF}Il gruppo si dirige verso Mt. Quello che è.{LF}{LF}...Sai, questa mappa è molto più {LF}complicata del necessario.
-Gioco{LF}Zero scala l’imponente scalinata che{LF}sale lungo Mt. Quello che è. Nel frattempo,{LF}il gruppo si stanca di fare la stessa {LF}cosa ancora e ancora e ancora.
+Gioco{LF}Zero scala l'imponente scalinata che{LF}sale lungo Mt. Quello che è. Nel frattempo,{LF}il gruppo si stanca di fare la stessa {LF}cosa ancora e ancora e ancora.
 あらすじ第三項　２０５０　一行目{LF}あらすじ第三項　２０５０　二行目{LF}あらすじ第三項　２０５０　三行目{LF}あらすじ第三項　２０５０　四行目{LF}あらすじ第三項　２０５０　五行目
 あらすじ第四項　２０５０　一行目{LF}あらすじ第四項　２０５０　二行目{LF}あらすじ第四項　２０５０　三行目{LF}あらすじ第四項　２０５０　四行目{LF}あらすじ第四項　２０５０　五行目
 あらすじ第五項　２０５０　一行目{LF}あらすじ第五項　２０５０　二行目{LF}あらすじ第五項　２０５０　三行目{LF}あらすじ第五項　２０５０　四行目{LF}あらすじ第五項　２０５０　五行目
@@ -100,6 +100,6 @@ Gioco{LF}Zero scala l’imponente scalinata che{LF}sale lungo Mt. Quello che è.
 あらすじ第九項　２０５０　一行目{LF}あらすじ第九項　２０５０　二行目{LF}あらすじ第九項　２０５０　三行目{LF}あらすじ第九項　２０５０　四行目{LF}あらすじ第九項　２０５０　五行目
 あらすじ第十項　２０５０　一行目{LF}あらすじ第十項　２０５０　二行目{LF}あらすじ第十項　２０５０　三行目{LF}あらすじ第十項　２０５０　四行目{LF}あらすじ第十項　２０５０　五行目
 あらすじ第十一項　２０５０　一行目{LF}あらすじ第十一項　２０５０　二行目{LF}あらすじ第十一項　２０５０　三行目{LF}あらすじ第十一項　２０５０　四行目{LF}あらすじ第十一項　２０５０　五行目
-Gioco{LF}Zero e Mikhail sfrecciano nei{LF}cieli all’inseguimento di Four in fuga,{LF}durante il quale Mikhail rende{LF}perfettamente chiaro il suo odio per le viverne.
-Cutscene{LF}Zero arriva all’aeronave di Four. Nonostante{LF}le suppliche di Four per la pace, il suo discepolo,{LF}Decadus, inizia a intonare il suo{LF}incantesimo di evocazione.
-Gioco{LF}L’angelo evocato da Decadus e Four{LF}si rivela essere un’enorme fortezza{LF}volante che inizia a tempestare il povero{LF}Mikhail di cannonate.
+Gioco{LF}Zero e Mikhail sfrecciano nei{LF}cieli all'inseguimento di Four in fuga,{LF}durante il quale Mikhail rende{LF}perfettamente chiaro il suo odio per le viverne.
+Cutscene{LF}Zero arriva all'aeronave di Four. Nonostante{LF}le suppliche di Four per la pace, il suo discepolo,{LF}Decadus, inizia a intonare il suo{LF}incantesimo di evocazione.
+Gioco{LF}L'angelo evocato da Decadus e Four{LF}si rivela essere un'enorme fortezza{LF}volante che inizia a tempestare il povero{LF}Mikhail di cannonate.

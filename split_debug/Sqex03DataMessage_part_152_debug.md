@@ -214,16 +214,16 @@ Robber King Lv. 3
 `Re Ladro Lv. 4`
 Robber King Lv. 4
 
-`Staffa del Prestigiatore Lv. 1`
+`Bastone dell'Evocatore Lv. 1`
 Conjurer's Staff Lv. 1
 
-`Staffa del Prestigiatore Lv. 2`
+`Bastone dell'Evocatore Lv. 2`
 Conjurer's Staff Lv. 2
 
-`Staffa del Prestigiatore Lv. 3`
+`Bastone dell'Evocatore Lv. 3`
 Conjurer's Staff Lv. 3
 
-`Staffa del Prestigiatore Lv. 4`
+`Bastone dell'Evocatore Lv. 4`
 Conjurer's Staff Lv. 4
 
 `Fiamma del Sangue di Viverna Lv. 1`

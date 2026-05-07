@@ -10,7 +10,7 @@ Cutscene{LF}Zero consegna Four sconfitta{LF}a Mikhail, che la divora ed evolve{L
 あらすじ第九項　２３２０　一行目{LF}あらすじ第九項　２３２０　二行目{LF}あらすじ第九項　２３２０　三行目{LF}あらすじ第九項　２３２０　四行目{LF}あらすじ第九項　２３２０　五行目
 あらすじ第十項　２３２０　一行目{LF}あらすじ第十項　２３２０　二行目{LF}あらすじ第十項　２３２０　三行目{LF}あらすじ第十項　２３２０　四行目{LF}あらすじ第十項　２３２０　五行目
 あらすじ第十一項　２３２０　一行目{LF}あらすじ第十一項　２３２０　二行目{LF}あらすじ第十一項　２３２０　三行目{LF}あらすじ第十一項　２３２０　四行目{LF}あらすじ第十一項　２３２０　五行目
-Mappa Diramazioni → Accampamento{LF}Ma guarda un po’. Chi è questa donna affascinante e{LF}bellissima che parla di draghi{LF}e Intoner con il gruppo di Zero? È {LF}di certo una gioia per gli occhi, mmm?
+Mappa Diramazioni → Accampamento{LF}Ma guarda un po'. Chi è questa donna affascinante e{LF}bellissima che parla di draghi{LF}e Intoner con il gruppo di Zero? E' {LF}di certo una gioia per gli occhi, mmm?
 Gioco{LF}Il gruppo resta turbato nello scoprire che{LF}i draghi divorano le Intoner per puro{LF}istinto, ma continua ad avanzare attraverso{LF}la Terra delle Foreste.
 Gioco{LF}La strada del gruppo è bloccata da mostri{LF}non morti così orrendi da mandare Dito in{LF}spasmi di gioia. Che altro potrebbe{LF}attenderli più avanti?
 あらすじ第四項　３３１０　一行目{LF}あらすじ第四項　３３１０　二行目{LF}あらすじ第四項　３３１０　三行目{LF}あらすじ第四項　３３１０　四行目{LF}あらすじ第四項　３３１０　五行目
@@ -21,9 +21,9 @@ Gioco{LF}La strada del gruppo è bloccata da mostri{LF}non morti così orrendi d
 あらすじ第九項　３３１０　一行目{LF}あらすじ第九項　３３１０　二行目{LF}あらすじ第九項　３３１０　三行目{LF}あらすじ第九項　３３１０　四行目{LF}あらすじ第九項　３３１０　五行目
 あらすじ第十項　３３１０　一行目{LF}あらすじ第十項　３３１０　二行目{LF}あらすじ第十項　３３１０　三行目{LF}あらすじ第十項　３３１０　四行目{LF}あらすじ第十項　３３１０　五行目
 あらすじ第十一項　３３１０　一行目{LF}あらすじ第十一項　３３１０　二行目{LF}あらすじ第十一項　３３１０　三行目{LF}あらすじ第十一項　３３１０　四行目{LF}あらすじ第十一項　３３１０　五行目
-Gioco{LF}Decadus è infastidito dal terribile{LF}stato della foresta, ma Dito è{LF}elettrizzato all’inverosimile dagli orrori{LF}che essa contiene.
+Gioco{LF}Decadus è infastidito dal terribile{LF}stato della foresta, ma Dito è{LF}elettrizzato all'inverosimile dagli orrori{LF}che essa contiene.
 Cutscene → Gioco{LF}Il gruppo viene accolto da Five, che avrebbe{LF}dovuto essere morta. La sua carne putrefatta{LF}e il suo esercito di zombie bastano a{LF}far impazzire Dito di gioia.
-Cutscene{LF}Five viene uccisa, ma quando Dito e Cent{LF}evocano angeli senza il potere{LF}di un’Intoner, scoprono che c’è un prezzo da{LF}pagare per certe cose...
+Cutscene{LF}Five viene uccisa, ma quando Dito e Cent{LF}evocano angeli senza il potere{LF}di un'Intoner, scoprono che c'è un prezzo da{LF}pagare per certe cose...
 あらすじ第四項　３３２０　一行目{LF}あらすじ第四項　３３２０　二行目{LF}あらすじ第四項　３３２０　三行目{LF}あらすじ第四項　３３２０　四行目{LF}あらすじ第四項　３３２０　五行目
 あらすじ第五項　３３２０　一行目{LF}あらすじ第五項　３３２０　二行目{LF}あらすじ第五項　３３２０　三行目{LF}あらすじ第五項　３３２０　四行目{LF}あらすじ第五項　３３２０　五行目
 あらすじ第六項　３３２０　一行目{LF}あらすじ第六項　３３２０　二行目{LF}あらすじ第六項　３３２０　三行目{LF}あらすじ第六項　３３２０　四行目{LF}あらすじ第六項　３３２０　五行目
@@ -54,8 +54,8 @@ Cutscene{LF}Il drago antico e Three vengono{LF}sconfitti, lasciando a Zero un{LF
 あらすじ第九項　４３２０　一行目{LF}あらすじ第九項　４３２０　二行目{LF}あらすじ第九項　４３２０　三行目{LF}あらすじ第九項　４３２０　四行目{LF}あらすじ第九項　４３２０　五行目
 あらすじ第十項　４３２０　一行目{LF}あらすじ第十項　４３２０　二行目{LF}あらすじ第十項　４３２０　三行目{LF}あらすじ第十項　４３２０　四行目{LF}あらすじ第十項　４３２０　五行目
 あらすじ第十一項　４３２０　一行目{LF}あらすじ第十一項　４３２０　二行目{LF}あらすじ第十一項　４３２０　三行目{LF}あらすじ第十一項　４３２０　四行目{LF}あらすじ第十一項　４３２０　五行目
-Accampamento{LF}Con Octa come unico discepolo rimasto,{LF}l’accampamento è davvero un luogo silenzioso. Zero{LF}decide di rompere il silenzio{LF}rivelando la verità sulla sua storia.
-Gioco{LF}Zero racconta finalmente la sua storia—il segreto{LF}dietro le Intoner, e la storia del{LF}fiore e della sua lotta contro l’umanità.
+Accampamento{LF}Con Octa come unico discepolo rimasto,{LF}l'accampamento è davvero un luogo silenzioso.{LF}Zero decide di rompere il silenzio{LF}rivelando la verità sulla sua storia.
+Gioco{LF}Zero racconta finalmente la sua storia—il segreto{LF}dietro le Intoner, e la storia del{LF}fiore e della sua lotta contro l'umanità.
 Gioco{LF}Le Intoner sono semi che porteranno{LF}la fine del mondo, e solo un drago può{LF}ucciderle. Armata di questa informazione, Zero{LF}fece visita a qualcuno due anni fa.
 あらすじ第四項　１３１０　一行目{LF}あらすじ第四項　１３１０　二行目{LF}あらすじ第四項　１３１０　三行目{LF}あらすじ第四項　１３１０　四行目{LF}あらすじ第四項　１３１０　五行目
 あらすじ第五項　１３１０　一行目{LF}あらすじ第五項　１３１０　二行目{LF}あらすじ第五項　１３１０　三行目{LF}あらすじ第五項　１３１０　四行目{LF}あらすじ第五項　１３１０　五行目
@@ -68,7 +68,7 @@ Gioco{LF}Le Intoner sono semi che porteranno{LF}la fine del mondo, e solo un dra
 Mappa Diramazioni → Cutscene{LF}Mentre ci avviciniamo alla fine di questa{LF}Diramazione, Zero lascia Gabriel a{LF}Mikhail e si dirige da sola verso{LF}Cathedral City.
 Gioco{LF}Mikhail e Gabriel combattono nel cielo,{LF}mentre Zero e Octa procedono a terra.{LF}Ma Zero comincia a faticare mentre il{LF}fiore continua a consumarla. 
 Cutscene → Gioco{LF}Zero è pronta ad affrontare sua sorella One.{LF}Due cadaveri, un tempo mossi solo dal{LF}fiore, hanno acquisito una volontà propria,{LF}e ora scelgono il proprio futuro.
-Cutscene{LF}Zero mette One alle strette. Octa si sacrifica{LF}evocando un angelo. E un’osservatrice{LF}a cui è proibito interferire con gli eventi{LF}si fa avanti...
+Cutscene{LF}Zero mette One alle strette. Octa si sacrifica{LF}evocando un angelo. E un'osservatrice{LF}a cui è proibito interferire con gli eventi{LF}si fa avanti...
 あらすじ第五項　５３１０　一行目{LF}あらすじ第五項　５３１０　二行目{LF}あらすじ第五項　５３１０　三行目{LF}あらすじ第五項　５３１０　四行目{LF}あらすじ第五項　５３１０　五行目
 あらすじ第六項　５３１０　一行目{LF}あらすじ第六項　５３１０　二行目{LF}あらすじ第六項　５３１０　三行目{LF}あらすじ第六項　５３１０　四行目{LF}あらすじ第六項　５３１０　五行目
 あらすじ第七項　５３１０　一行目{LF}あらすじ第七項　５３１０　二行目{LF}あらすじ第七項　５３１０　三行目{LF}あらすじ第七項　５３１０　四行目{LF}あらすじ第七項　５３１０　五行目

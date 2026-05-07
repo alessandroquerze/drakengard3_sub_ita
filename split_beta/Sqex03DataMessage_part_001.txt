@@ -43,7 +43,7 @@ Tutti i cuori raccolti!
 Torna al menu principale
 Abbandonare la missione attuale e tornare al menu principale?
 Nemici sconfitti!
-Soldati nemici sconfitti!
+Soldati sconfitti!
 宝石を入手！
 Campagna
 クエスト
