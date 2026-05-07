@@ -250,7 +250,7 @@ Zero!{#Name="Mikhail"}
 `Bel posto per un pisolino.{#Name="Zero"}`
 Nice place for a nap.{#Name="Zero"}
 
-`No! Mi hanno preso! Mi hanno preso qui, okay?{#Name="Mikhail"}`
+`No! Mi hanno preso! Mi hanno intrappolato qui, okay?{#Name="Mikhail"}`
 No! They caught me! They caught me here, okay?{#Name="Mikhail"}
 
 `Lo vedo.{#Name="Zero"}`

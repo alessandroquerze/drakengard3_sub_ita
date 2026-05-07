@@ -82,8 +82,8 @@ Three Statues
 `バリケード大 2`
 バリケード大 2
 
-`Cannoni distrutti!+1`
-Cannons
+`Cannoni distrutti!`
+Cannons //capitolo 1, prima nave mikhail
 
 `Cannoni Pesanti distrutti!+1`
 Heavy Cannons
