@@ -307,12 +307,12 @@
 `名前無し`
 名前無し
 
-`Pozione curativa (S)`
+`Pozione Curativa (S)`
 Recovery Potion (S)
 
-`Pozione curativa (M)`
+`Pozione Curativa (M)`
 Recovery Potion (M)
 
-`Pozione curativa (L)`
+`Pozione Curativa (L)`
 Recovery Potion (L)
 

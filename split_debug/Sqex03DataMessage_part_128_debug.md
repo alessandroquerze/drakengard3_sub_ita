@@ -1,70 +1,70 @@
-`Soldati sconfitti!+16`
+`Soldati sconfitti!+016`
 Soldiers
 
-`Soldati sconfitti!+17`
+`Soldati sconfitti!+017`
 Soldiers
 
-`Soldati sconfitti!+18`
+`Soldati sconfitti!+018`
 Soldiers
 
-`Soldati sconfitti!+19`
+`Soldati sconfitti!+019`
 Soldiers
 
-`Cannonieri sconfitti!+1`
+`Cannonieri sconfitti!+01`
 Cannoneers
 
-`Cannonieri sconfitti!+2`
+`Cannonieri sconfitti!`
 Cannoneers
 
-`Cannonieri sconfitti!+3`
+`Cannonieri sconfitti!+03`
 Cannoneers
 
-`Cannonieri sconfitti!+4`
+`Cannonieri sconfitti!+04`
 Cannoneers
 
-`Cannonieri sconfitti!+5`
+`Cannonieri sconfitti!+05`
 Cannoneers
 
 `-`
 -
 
-`Lupi sconfitti!+1`
+`Lupi sconfitti!+01`
 Wolves
 
-`Lupi delle Sabbie sconfitti!+1`
+`Lupi delle Sabbie sconfitti!+01`
 Sandwolves
 
 `-`
 -
 
-`Lupi sconfitti!+2`
+`Lupi sconfitti!+02`
 Wolves
 
-`Lupi delle Sabbie sconfitti!+2`
+`Lupi delle Sabbie sconfitti!+02`
 Sandwolves
 
 `-`
 -
 
-`Lancieri sconfitti!+1`
+`Lancieri sconfitti!+01`
 Lancers
 
-`Capitani Lancieri sconfitti!+1`
+`Capitani Lancieri sconfitti!+01`
 Lancer Captains
 
 `-`
 -
 
-`Spiriti sconfitti!+1`
-Spirits
+`Spiriti sconfitti!`
+Spirits //primi spiriti nella foresta, prima del re fata
 
-`Spiriti Superiori sconfitti!+1`
+`Spiriti Superiori sconfitti!+01`
 Greater Spirits
 
 `-`
 -
 
-`Imp sconfitti!+1`
+`Imp sconfitti!+01`
 Imps
 
 `-`
@@ -73,46 +73,46 @@ Imps
 `-`
 -
 
-`Ogre sconfitti!+1`
+`Ogre sconfitti!`
 Ogres
 
-`Ogre delle Sabbie sconfitti!+1`
+`Ogre delle Sabbie sconfitti!+01`
 Sand Ogres
 
 `-`
 -
 
-`Troll sconfitti!+1`
-Trolls
+`Troll sconfitti!`
+Trolls //primi troll nella foresta
 
-`Troll Bruti sconfitti!+1`
+`Troll Bruti sconfitti!+01`
 Brute Trolls
 
 `-`
 -
 
-`Maghi sconfitti!+1`
+`Maghi sconfitti!+01`
 Wizards
 
 `-`
 -
 
-`Necromanti sconfitti!+1`
+`Necromanti sconfitti!+01`
 Necromancers
 
-`Stregoni sconfitti!+1`
+`Stregoni sconfitti!+01`
 Sorcerers
 
 `-`
 -
 
-`Non morti sconfitti!+1`
-Undead
+`Non morti sconfitti!`
+Undead //primi non morti nella foresta (cap3)
 
-`Soldati non morti sconfitti!+1`
+`Soldati non morti sconfitti!+01`
 Undead Soldiers
 
-`Paladini non morti sconfitti!+1`
+`Paladini non morti sconfitti!+01`
 Undead Paladins
 
 `-`
@@ -121,7 +121,7 @@ Undead Paladins
 `-`
 -
 
-`Viverne sconfitte!+1`
+`Viverne sconfitte!+01`
 Wyverns
 
 `-`
@@ -130,7 +130,7 @@ Wyverns
 `-`
 -
 
-`Spettri sconfitti!+1`
+`Spettri sconfitti!+01`
 Specters
 
 `-`
@@ -139,52 +139,52 @@ Specters
 `-`
 -
 
-`Viverne sconfitte!+2`
+`Viverne sconfitte!+02`
 Wyverns
 
-`Viverne sconfitte!+3`
+`Viverne sconfitte!+03`
 Wyverns
 
 `-`
 -
 
-`Gigas sconfitti!+1`
+`Gigas sconfitti!`
+Gigantes //primi gigas cap2 (mikhail)
+
+`Gigas sconfitti!+02`
 Gigantes
 
-`Gigas sconfitti!+2`
-Gigantes
-
-`Gigas non morti sconfitti!+1`
+`Gigas non morti sconfitti!+01`
 Undead Gigantes
 
 `-`
 -
 
-`Titani sconfitti!+1`
+`Titani sconfitti!+01`
 Titans
 
-`Signori titani sconfitti!+1`
+`Signori titani sconfitti!+01`
 Titan Lords
 
-`Arci titani sconfitti!+1`
+`Arci titani sconfitti!+01`
 Arch Titans
 
 `-`
 -
 
-`Cerberi sconfitti!+1`
+`Cerberi sconfitti!+01`
 Cerberuses
 
 `-`
 -
 
-`Cerberi di Fiamme sconfitti!+1`
+`Cerberi di Fiamme sconfitti!+01`
 Flame Cerberuses
 
-`Cerberi grigi sconfitti!+1`
+`Cerberi grigi sconfitti!+01`
 Gray Cerberuses
 
-`Golem distrutti!+1`
+`Golem distrutti!+01`
 Golems
 
 `-`
@@ -208,10 +208,10 @@ Golems
 `-`
 -
 
-`Centauri sconfitti!+1`
+`Centauri sconfitti!+01`
 Centaurs
 
-`Centauri di Fuoco sconfitti!+1`
+`Centauri di Fuoco sconfitti!+01`
 Flame Centaurs
 
 `-`
@@ -220,7 +220,7 @@ Flame Centaurs
 `-`
 -
 
-`Cubi Gargoyle distrutti!+1`
+`Cubi Gargoyle distrutti!+01`
 Gargoyle Cubes
 
 `-`
@@ -232,83 +232,83 @@ Gargoyle Cubes
 `-`
 -
 
-`Soldati confitti!+20`
+`Soldati confitti!+020`
 Soldiers
 
-`Soldati sconfitti!+21`
+`Soldati sconfitti!+021`
 Soldiers
 
-`Soldati sconfitti!+22`
+`Soldati sconfitti!+022`
 Soldiers
 
-`Soldti sconfitti!+23`
+`Soldti sconfitti!+023`
 Soldiers
 
-`Soldati sconfitti!+24`
+`Soldati sconfitti!+024`
 Soldiers
 
-`Bombardieri sconfitti!+1`
+`Bombardieri sconfitti!+01`
 Bombers
 
-`Phanuel sconfitto!+1`
+`Phanuel sconfitto!+01`
 Phanuel
 
-`Armaros sconfitto!+1`
+`Armaros sconfitto!+01`
 Armaros
 
-`Armaros sconfitto!+2`
+`Armaros sconfitto!+02`
 Armaros
 
-`Armaros sconfitto!+3`
+`Armaros sconfitto!+03`
 Armaros
 
-`Armaros sconfitto!+4`
+`Armaros sconfitto!+04`
 Armaros
 
-`Armaros sconfitto!+5`
+`Armaros sconfitto!+05`
 Armaros
 
-`Armaros sconfitto!+6`
+`Armaros sconfitto!+06`
 Armaros
 
 `-`
 -
 
-`Armisael sconfitti!+1`
+`Armisael sconfitti!+01`
 Armisaels
 
-`Armisael sconfitti!+2`
+`Armisael sconfitti!+02`
 Armisaels
 
-`Armisael sconfitti!+3`
+`Armisael sconfitti!+03`
 Armisaels
 
-`Egregori sconfitti!+1`
+`Egregori sconfitti!+01`
 Egregori
 
-`Gabriel sconfitto!+1`
+`Gabriel sconfitto!+01`
 Gabriel
 
-`Gabriel sconfitto!+2`
+`Gabriel sconfitto!+02`
 Gabriel
 
 `ガブリエル（傷）`
 ガブリエル（傷）
 
-`Zophiel sconfitto!+1`
+`Zophiel sconfitto!+01`
 Zophiel
 
 `花（ゼロ）`
 花（ゼロ）
 
-`Gigas superiori sconfitti!+1`
+`Gigas superiori sconfitti!+01`
 Greater Gigantes
 
-`False Zero sconfitte!+1`
+`False Zero sconfitte!+01`
 False Zeros
 
-`Homunculi sconfitti!+1`
+`Homunculi sconfitti!+01`
 Homunculi
 
-`Galgaliel sconfitti!+1`
+`Galgaliel sconfitti!+01`
 Galgaliels

@@ -25,7 +25,7 @@ What do you mean?{#Name="Zero"}
 `La sua canzone sta creando una specie di barriera invisibile!{#Name="Mikhail"}`
 Her song's putting up some kind of invisible barrier!{#Name="Mikhail"}
 
-`Hmph. Crede di essere così fottutamente furba, eh?{#Name="Zero"}`
+`Hmph. Crede di essere così dannatamente furba, eh?{#Name="Zero"}`
 Hmph. Thinks she's so goddamn clever, does she?{#Name="Zero"}
 
 `Noi ci faremo strada da qui.{LF}Tu vola su e trova un'altra via.{#Name="Zero"}`
@@ -139,7 +139,7 @@ Look, it's a grown-up thing, all right?{#Name="Zero"}
 `Ugh, ce ne sono altri? Non finisce mai...{#Name="Zero"}`
 Ugh, there's more? This never ends...{#Name="Zero"}
 
-`Le mie spalle mi stanno uccidendo.{#Name="Zero"}`
+`Le spalle mi stanno uccidendo.{#Name="Zero"}`
 My shoulders are killing me.{#Name="Zero"}
 
 `Stanotte ti faccio un massaggio.{LF}Tu ammazzali tutti!{#Name="Dito"}`

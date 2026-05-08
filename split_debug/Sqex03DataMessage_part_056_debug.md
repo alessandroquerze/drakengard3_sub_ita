@@ -115,7 +115,7 @@ And, um...it's cold and it's yummy and it's...fun?{#Name="Mikhail"}
 `Io... mi dispiace! Mi concentrerò sulla battaglia!{#Name="Mikhail"}`
 I...I'm sorry! I'll focus on the battle!{#Name="Mikhail"}
 
-`Dannato posto, qui fuori non vedo niente...{#Name="Zero"}`
+`Dannato posto, qua sopra non vedo niente...{#Name="Zero"}`
 Dammit, I can't see anything out here...{#Name="Zero"}
 
 `あ。ゼロさん、あぶない！{#Name="ディト"}`
@@ -220,7 +220,7 @@ Those square ring thingies are magic!{#Name="Mikhail"}
 `Il potere della sua canzone mi rende difficile volare!{#Name="Mikhail"}`
 Her song's power is making it hard for me to fly!{#Name="Mikhail"}
 
-`Mi sta attirando dentro!{#Name="Mikhail"}`
+`Mi sta attirando all'interno!{#Name="Mikhail"}`
 It's pulling me in!{#Name="Mikhail"}
 
 `Fantastico. Ora dobbiamo eliminare{LF}tutti questi dannati cannoni...{#Name="Zero"}`

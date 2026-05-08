@@ -271,7 +271,7 @@ ZERO
 `Parare con {01}{02} blocca gli attacchi da tutte le direzioni.{LF}Tuttavia, parare consuma stamina, quindi fai attenzione{LF}a non bloccare troppi attacchi di seguito o{LF}rischierai che la tua guardia venga spezzata.{#Name="Guarding"}`
 Guarding with {01}{02} blocks attacks in all directions.{LF}However, guarding saps stamina, so be careful{LF}not to block too many attacks in succession or{LF}you'll run the risk of having your guard broken.{#Name="Guarding"}
 
-`Per eseguire un parry, premi {01}{02} appena prima che un attacco colpisca.{LF}Se devii la freccia di un nemico con un parry, puoi{LF}riflettere la freccia verso il tuo avversario.{#Name="Parrying"}`
+`Per eseguire una parata, premi {01}{02} appena prima che un attacco colpisca.{LF}Se devii la freccia di un nemico con una parata, puoi{LF}riflettere la freccia verso il tuo avversario.{#Name="Parrying"}`
 To parry, press {01}{02} just before an attack lands.{LF}If you parry an enemy's arrow, you can{LF}deflect the arrow back toward your foe.{#Name="Parrying"}
 
 `Usa la mini-mappa in alto a destra dello{LF}schermo per vedere la tua posizione attuale.{LF}Puoi premere {01}{0A} per zoomare avanti e indietro; se ti{LF}perdi, prova ad allontanare lo zoom per vedere tutta la mappa.{#Name="The Mini-map"}`

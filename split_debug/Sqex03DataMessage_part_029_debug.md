@@ -67,7 +67,7 @@
 `森の宝石`
 森の宝石
 
-`Gioiello rotto`
+`Gioiello Rotto`
 Broken Jewel
 
 `教会の宝石`
@@ -76,16 +76,16 @@ Broken Jewel
 `剣兵の宝石A`
 剣兵の宝石A
 
-`Gioiello scheggiato`
+`Gioiello Scheggiato`
 Chipped Jewel
 
 `剣兵の宝石C`
 剣兵の宝石C
 
-`Gioiello opaco`
+`Gioiello Opaco`
 Clouded Jewel
 
-`Gioiello levigato`
+`Gioiello Levigato`
 Polished Jewel
 
 `槍兵の宝石A`
@@ -109,28 +109,28 @@ Salamander Jewel
 `盾兵の宝石B`
 盾兵の宝石B
 
-`Pietrafiamma di Wyrm`
+`Pietrafiamma di Viverna`
 Wyrm Flamestone
 
-`Pietra fatata`
+`Pietra Fatata`
 Faerie Stone
 
-`Agata sacra`
+`Agata Sacra`
 Saintly Agate
 
-`Topazio vivido`
+`Topazio Vivido`
 Vivid Topaz
 
-`Diaspro enigmatico`
+`Diaspro Enigmatico`
 Perplexing Jasper
 
-`Onice silente`
+`Onice Silente`
 Silent Onyx
 
-`Zaffiro abissale`
+`Zaffiro Abissale`
 Abyssal Sapphire
 
-`Smeraldo striato`
+`Smeraldo Striato`
 Streaked Emerald
 
 `Gioiello di Nornir`
@@ -145,7 +145,7 @@ Aurora Jewel
 `Gioiello di Serket`
 Serket Jewel
 
-`Gioiello celestiale`
+`Gioiello Celestiale`
 Heavenly Jewel
 
 `魔導師の宝石`

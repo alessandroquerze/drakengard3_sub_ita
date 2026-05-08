@@ -1,4 +1,4 @@
-`Maledizione, non riesco nemmeno a camminare qui.{LF}Fottuta neve!{#Name="Zero"}`
+`Maledizione, non riesco nemmeno a camminare in sta roba.{LF}Fottuta neve!{#Name="Zero"}`
 Son of a bitch, I can't even walk in this.{LF}Fuckin' snow!{#Name="Zero"}
 
 `Eheh. Bel pensiero, ma non succederà.{#Name="Dito"}`
@@ -25,7 +25,7 @@ Yeah, right. He'd probably miss{LF}and burn us to cinders.{#Name="Zero"}
 `Ah! Sì, sarebbe proprio da Mikhail.{#Name="Dito"}`
 Hah! Yeah, that sounds like Mikhail, all right.{#Name="Dito"}
 
-`Starà bene?{LF}Lassù la visibilità non può essere buona.{#Name="Dito"}`
+`Starà bene?{LF}Lassù la visibilità non deve essere ottima.{#Name="Dito"}`
 Is he gonna be okay?{LF}Visibility can't be good up there.{#Name="Dito"}
 
 `Starà bene. In realtà è più resistente di quanto sembri.{#Name="Zero"}`

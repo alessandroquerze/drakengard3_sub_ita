@@ -103,7 +103,7 @@ Accord
 `Non temere, perché non combatti da sola.{#Name="Michael"}`
 Fear not, for you do not fight alone.{#Name="Michael"}
 
-`La protezione del tuo drago dev'essere davvero una cosa gradita.{LF}Dovresti ringraziarlo.{#Name="Michael"}`
+`La protezione del tuo drago sembra una cosa gradita, in effetti.{LF}Dovresti ringraziarlo.{#Name="Michael"}`
 Your dragon's protection must be a welcome thing indeed.{LF}You should thank him.{#Name="Michael"}
 
 `Sto... sognando di nuovo...{#Name="Zero"}`

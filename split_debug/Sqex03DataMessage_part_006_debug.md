@@ -19,7 +19,7 @@ Yep. Now shut up.{#Name="Zero"}
 `Hai un braccio finto, puoi rigenerare il corpo...{LF}Sei incredibile, Zero!{#Name="Mikhail"}`
 You got a fake arm, you can regrow your body...{LF}You're amazing, Zero!{#Name="Mikhail"}
 
-`Tutto quello che abbiamo trovato in quella zona è stato uno stupido cagnaccio.^{#Name="Zero"}`
+`Tutto quello che abbiamo trovato in quella zona è stato uno stupido cagnaccio.{#Name="Zero"}`
 All we wound up finding in that region was a lousy mutt.{#Name="Zero"}
 
 `Ehi, Zero!{#Name="Mikhail"}`
@@ -157,7 +157,7 @@ Zero, I sleep and I sleep, and yet still I'm so tired...{#Name="Mikhail"}
 `D'accordo. Si parte.{#Name="Zero"}`
 All right. We're off.{#Name="Zero"}
 
-`Tu entri dall'alto, d'accordo?{#Name="Zero"}`
+`Tu andrai dall'alto, d'accordo?{#Name="Zero"}`
 You go in from up high, all right?{#Name="Zero"}
 
 `Noooioso. Vorrei poter volare in giro come quel bambinone là...{#Name="Dito"}`

@@ -64,16 +64,16 @@ A spear that once threatened the royal{LF}throne. Strikes fear in weaker foes.
 `Una lancia che un tempo minacciò il trono{LF}reale. Incute paura ai nemici più deboli.`
 A spear that once threatened the royal{LF}throne. Strikes fear in weaker foes.
 
-`L'ultima lancia lasciata dal{LF}Holy Emperor. Efficace contro i non morti.`
+`L'ultima lancia lasciata dall'Imperatore{LF} Sacro. Efficace contro i non morti.`
 The last spear left behind by the{LF}Holy Emperor. Effective vs. undead.
 
-`L'ultima lancia lasciata dal{LF}Holy Emperor. Efficace contro i non morti.`
+`L'ultima lancia lasciata dall'Imperatore{LF} Sacro. Efficace contro i non morti.`
 The last spear left behind by the{LF}Holy Emperor. Effective vs. undead.
 
-`L'ultima lancia lasciata dal{LF}Holy Emperor. Efficace contro i non morti.`
+`L'ultima lancia lasciata dall'Imperatore{LF} Sacro. Efficace contro i non morti.`
 The last spear left behind by the{LF}Holy Emperor. Effective vs. undead.
 
-`L'ultima lancia lasciata dal{LF}Holy Emperor. Efficace contro i non morti.`
+`L'ultima lancia lasciata dall'Imperatore{LF} Sacro. Efficace contro i non morti.`
 The last spear left behind by the{LF}Holy Emperor. Effective vs. undead.
 
 `Una lancia che informa chi la impugna{LF}della sua rovina imminente.`
@@ -148,16 +148,16 @@ Heavy, clawlike bracers seemingly{LF}modeled after flowers.
 `Bracciali pesanti, simili ad artigli,{LF}apparentemente modellati sui fiori.`
 Heavy, clawlike bracers seemingly{LF}modeled after flowers.
 
-`Bracciali da combattimento lasciati dal{LF}Holy Emperor. Efficaci contro i non morti.`
+`Bracciali da combattimento lasciati dall'Imperatore{LF} Sacro. Efficaci contro i non morti.`
 Combat bracers left behind by the{LF}Holy Emperor. Effective vs. undead.
 
-`Bracciali da combattimento lasciati dal{LF}Holy Emperor. Efficaci contro i non morti.`
+`Bracciali da combattimento lasciati dall'Imperatore{LF} Sacro. Efficaci contro i non morti.`
 Combat bracers left behind by the{LF}Holy Emperor. Effective vs. undead.
 
-`Bracciali da combattimento lasciati dal{LF}Holy Emperor. Efficaci contro i non morti.`
+`Bracciali da combattimento lasciati dall'Imperatore{LF} Sacro. Efficaci contro i non morti.`
 Combat bracers left behind by the{LF}Holy Emperor. Effective vs. undead.
 
-`Bracciali da combattimento lasciati dal{LF}Holy Emperor. Efficaci contro i non morti.`
+`Bracciali da combattimento lasciati dall'Imperatore{LF} Sacro. Efficaci contro i non morti.`
 Combat bracers left behind by the{LF}Holy Emperor. Effective vs. undead.
 
 `Bracciali da combattimento ricavati da spine{LF}che un tempo crescevano sul corpo di un mostro.`

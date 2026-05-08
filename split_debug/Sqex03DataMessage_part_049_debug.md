@@ -265,7 +265,7 @@ Ooh! Let me help! Let me help, Zero!{#Name="Mikhail"}
 `あのくらいのバリケードなら壊せると思うよ！{#Name="379"}`
 あのくらいのバリケードなら壊せると思うよ！{#Name="379"}
 
-`Vai.{#Name="Zero"}`
+`Accomodati.{#Name="Zero"}`
 Go for it.{#Name="Zero"}
 
 `わかった！{#Name="91"}`
@@ -283,7 +283,7 @@ Aaah! Zerooo!{#Name="Mikhail"}
 `AIIIIIAAAAA!{#Name="Mikhail"}`
 OWWWWW!{#Name="Mikhail"}
 
-`Ahi! Ahi! Ahi! Zero! Mi hai pugnalato! E' rimasta conficcata, Zero!{LF}Tirala fuori! Tirala fooooori!{#Name="Mikhail"}`
+`Ahi! Ahi! Ahi! Zero! Mi hai pugnalato! E' rimasta conficcata, Zero!{LF}Tirala fuori! Tirala fuooooori!{#Name="Mikhail"}`
 Ow! Ow! Ow! Zero! You stabbed me! It's stuck in me, Zero!{LF}Get it out! Get it oooooout!{#Name="Mikhail"}
 
 `Sta' fermo, accidenti, o rischio di—{#Name="Zero"}`

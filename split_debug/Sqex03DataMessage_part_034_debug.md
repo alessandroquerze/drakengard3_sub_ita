@@ -223,13 +223,13 @@ Zero! Go! Defeat your sisters!{#Name="Michael"}
 `{06}>{#Name="Zero"}`
 {06}>{#Name="Zero"}
 
-`No! Non hai la forza per farlo!{#Name="Zero"}`
+`No! Non hai la forza per questo!{#Name="Zero"}`
 No! You don't have the strength for this!{#Name="Zero"}
 
 `Questi fantocci non sono all'altezza di un drago!{#Name="Michael"}`
 These puppets are no match for a dragon!{#Name="Michael"}
 
-`Bene. Basta che tu non muoia ora.{#Name="Zero"}`
+`Va bene. Non morire proprio ora.{#Name="Zero"}`
 Fine. Just don't die on me.{#Name="Zero"}
 
 `Addio, sciocca...{#Name="Michael"}`

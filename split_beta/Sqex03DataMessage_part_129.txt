@@ -26,7 +26,7 @@ Statue di Three
 バリケード中
 バリケード大
 バリケード大 2
-Cannoni distrutti!+1
+Cannoni distrutti!
 Cannoni Pesanti distrutti!+1
 Ipercannoni distrutti!+1
 戦艦大砲台

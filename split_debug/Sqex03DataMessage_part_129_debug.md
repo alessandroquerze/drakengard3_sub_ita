@@ -82,8 +82,8 @@ Three Statues
 `バリケード大 2`
 バリケード大 2
 
-`Cannoni distrutti!`
-Cannons //capitolo 1, prima nave mikhail
+`Cannoni distrutti!+1`
+Cannons 
 
 `Cannoni Pesanti distrutti!+1`
 Heavy Cannons
@@ -163,8 +163,8 @@ ZH00 ゼロ家柱
 `Forzieri Metallici`
 Metallic Chests
 
-`Cannoni distrutti!+1`
-Cannons
+`Cannoni distrutti!`
+Cannons //capitolo 1, prima nave mikhail
 
 `Ipercannoni distrutti!+1`
 Hyper Cannons
@@ -193,7 +193,7 @@ Northern Towers
 `Soldati sconfitti!+26`
 Soldiers
 
-`Soldati Sconfitti!`
+`Soldati sconfitti!`
 Soldiers
 
 `Ogre Potenziati eliminati!+1`

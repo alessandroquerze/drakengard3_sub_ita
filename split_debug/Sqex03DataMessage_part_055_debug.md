@@ -1,4 +1,4 @@
-`Secondo te è il padrone di quel botolo di prima?{#Name="Dito"}`
+`Secondo te è il padrone di quel cagnaccio di prima?{#Name="Dito"}`
 Think he's the owner of that mutt from before?{#Name="Dito"}
 
 `Non lo so e non mi interessa.{#Name="Zero"}`
@@ -43,7 +43,7 @@ I can't take it. Here, gimme your clothes.{#Name="Zero"}
 `Cosa? Perché!? Non ti starebbero nemmeno!{#Name="Dito"}`
 What? Why!? They won't even fit you!{#Name="Dito"}
 
-`Non li indosserò. Li farò bruciare a scemo{LF}per scaldarmi.{#Name="Zero"}`
+`Non li indosserò. Li farò bruciare a quello scemo{LF}per scaldarmi.{#Name="Zero"}`
 I'm not wearing them. I'm gonna have dummy{LF}burn 'em for warmth.{#Name="Zero"}
 
 `Sei davvero un demone...{#Name="Dito"}`
@@ -76,7 +76,7 @@ Here, get on!{#Name="Mikhail"}
 `Ugh. Fa freddo e puzzi, ma immagino non ci sia scelta.{#Name="Zero"}`
 Ugh. It's cold and you stink, but I suppose there's no choice.{#Name="Zero"}
 
-`Ehi! Fa male!{#Name="Mikhail"}`
+`Ehi! Mi ferisci!{#Name="Mikhail"}`
 Hey! That hurts!{#Name="Mikhail"}
 
 `E' qui! Zero è arrivata!{#Name="Soldier A"}`

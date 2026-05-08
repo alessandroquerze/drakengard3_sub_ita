@@ -247,7 +247,7 @@ Book Club: Hope{#Name=" "}
 `Pellegrinaggio della Pietra rosa{#Name=" "}`
 Pinkstone Pilgrimage{#Name=" "}
 
-`Communicorns{#Name=" "}`
+`Communicorni{#Name=" "}`
 Communicorns{#Name=" "}
 
 `Club del libro: Ambizione{#Name=" "}`
@@ -286,7 +286,7 @@ The Final Survival{#Name=" "}
 `2020_1{#Name=" "}`
 2020_1{#Name=" "}
 
-`Turno di selce{#Name=" "}`
+`Periodo di selce{#Name=" "}`
 Flint Stint{#Name=" "}
 
 `Sussurratore di falchi{#Name=" "}`

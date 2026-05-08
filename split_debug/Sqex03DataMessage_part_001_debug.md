@@ -178,7 +178,7 @@ You need to collect every weapon before you can choose this branch.{LF}Your curr
 `Non guadagnerai esperienza durante questa missione.{LF}Vuoi comunque procedere?`
 You won't earn any experience during this mission.{LF}Do you still wish to proceed?
 
-`Devi soddisfare {04}`
+`Ancora da completare {04}`
 You need to fulfill {04}
 
 `Descrizione`

@@ -33,7 +33,7 @@ Mikhail
 ゼロ
 Accord
 Non temere, perché non combatti da sola.{#Name="Michael"}
-La protezione del tuo drago dev'essere davvero una cosa gradita.{LF}Dovresti ringraziarlo.{#Name="Michael"}
+La protezione del tuo drago sembra una cosa gradita, in effetti.{LF}Dovresti ringraziarlo.{#Name="Michael"}
 Sto... sognando di nuovo...{#Name="Zero"}
 Non tutti i draghi sono come te, Michael.{LF}...Purtroppo.{#Name="Zero"}
 消去{#Name=" "}

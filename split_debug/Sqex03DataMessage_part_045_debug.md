@@ -67,7 +67,7 @@ If that's when the branch occurred, I'm already too late.{#Name="Zero"}
 `Potrebbe davvero esistere un mondo senza questo fiore?{#Name="Zero"}`
 Could there really be a world without this flower?{#Name="Zero"}
 
-`Mi chiedo come sia l'altra me. O come siano le mie sorelle.{LF}...Sempre che io abbia davvero delle sorelle.{#Name="Zero"}`
+`Mi chiedo come sia l'altra me. O come siano le mie sorelle.{LF}...io HO delle sorelle, da quelle parti?.{#Name="Zero"}`
 I wonder what I'm like over there? Or what my sisters are like.{LF}...Do I even HAVE sisters?{#Name="Zero"}
 
 `Bah, inutile starci a pensare.{#Name="Zero"}`

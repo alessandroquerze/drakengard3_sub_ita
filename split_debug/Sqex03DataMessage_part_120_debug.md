@@ -37,7 +37,7 @@ Cutscene{LF}With Two dead, Mikhail evolves a second{LF}time. Masterless and alon
 `あらすじ第十一項　４０４０　一行目{LF}あらすじ第十一項　４０４０　二行目{LF}あらすじ第十一項　４０４０　三行目{LF}あらすじ第十一項　４０４０　四行目{LF}あらすじ第十一項　４０４０　五行目`
 あらすじ第十一項　４０４０　一行目{LF}あらすじ第十一項　４０４０　二行目{LF}あらすじ第十一項　４０４０　三行目{LF}あらすじ第十一項　４０４０　四行目{LF}あらすじ第十一項　４０４０　五行目
 
-`Accampamento{LF}L'accampamento è diventato piuttosto{LF}animato. Dopo un po' di discussione,{LF}il gruppo decide di muovere contro{LF}la base One, Cathedral City, dall'aria.`
+`Accampamento{LF}L'accampamento è diventato piuttosto{LF}animato. Dopo un po' di discussione,{LF}il gruppo decide di muovere contro{LF}la base di One, Cathedral City, dall'aria.`
 Camp{LF}The campsite has become rather{LF}lively. After a bit of discussion,{LF}the group decides to move against{LF}One's Cathedral City from the air.
 
 `Mappa → Gioco{LF}Mentre Zero e Mikhail sorvolano {LF}Cathedral City, One e il suo drago,{LF}Gabriel, appaiono all'improvviso e iniziano{LF}ad affrontare Zero in battaglia.`

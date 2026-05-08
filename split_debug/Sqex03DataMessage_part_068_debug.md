@@ -217,7 +217,7 @@ Ha ha! The classic excuse!{#Name="Dito"}
 `Aww, non è vero! Non è affatto vero!{#Name="Mikhail"}`
 Aww, that's not true! That's not true at all!{#Name="Mikhail"}
 
-`E' vero! E' proprio COMPLETAMENTE vero!{#Name="Dito"}`
+`E' vero! E' COMPLETAMENTE vero!{#Name="Dito"}`
 It IS true! It IS true at all!{#Name="Dito"}
 
 `Ehi!{#Name="Mikhail"}`

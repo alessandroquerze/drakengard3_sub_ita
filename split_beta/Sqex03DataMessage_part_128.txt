@@ -1,66 +1,66 @@
-Soldati sconfitti!+16
-Soldati sconfitti!+17
-Soldati sconfitti!+18
-Soldati sconfitti!+19
-Cannonieri sconfitti!+1
-Cannonieri sconfitti!+2
-Cannonieri sconfitti!+3
-Cannonieri sconfitti!+4
-Cannonieri sconfitti!+5
+Soldati sconfitti!+016
+Soldati sconfitti!+017
+Soldati sconfitti!+018
+Soldati sconfitti!+019
+Cannonieri sconfitti!+01
+Cannonieri sconfitti!
+Cannonieri sconfitti!+03
+Cannonieri sconfitti!+04
+Cannonieri sconfitti!+05
 -
-Lupi sconfitti!+1
-Lupi delle Sabbie sconfitti!+1
+Lupi sconfitti!+01
+Lupi delle Sabbie sconfitti!+01
 -
-Lupi sconfitti!+2
-Lupi delle Sabbie sconfitti!+2
+Lupi sconfitti!+02
+Lupi delle Sabbie sconfitti!+02
 -
-Lancieri sconfitti!+1
-Capitani Lancieri sconfitti!+1
+Lancieri sconfitti!+01
+Capitani Lancieri sconfitti!+01
 -
-Spiriti sconfitti!+1
-Spiriti Superiori sconfitti!+1
+Spiriti sconfitti!+01
+Spiriti Superiori sconfitti!+01
 -
-Imp sconfitti!+1
--
--
-Ogre sconfitti!+1
-Ogre delle Sabbie sconfitti!+1
--
-Troll sconfitti!+1
-Troll Bruti sconfitti!+1
--
-Maghi sconfitti!+1
--
-Necromanti sconfitti!+1
-Stregoni sconfitti!+1
--
-Non morti sconfitti!+1
-Soldati non morti sconfitti!+1
-Paladini non morti sconfitti!+1
+Imp sconfitti!+01
 -
 -
-Viverne sconfitte!+1
+Ogre sconfitti!+01
+Ogre delle Sabbie sconfitti!+01
+-
+Troll sconfitti!+01
+Troll Bruti sconfitti!+01
+-
+Maghi sconfitti!+01
+-
+Necromanti sconfitti!+01
+Stregoni sconfitti!+01
+-
+Non morti sconfitti!+01
+Soldati non morti sconfitti!+01
+Paladini non morti sconfitti!+01
 -
 -
-Spettri sconfitti!+1
+Viverne sconfitte!+01
 -
 -
-Viverne sconfitte!+2
-Viverne sconfitte!+3
+Spettri sconfitti!+01
 -
-Gigas sconfitti!+1
-Gigas sconfitti!+2
-Gigas non morti sconfitti!+1
 -
-Titani sconfitti!+1
-Signori titani sconfitti!+1
-Arci titani sconfitti!+1
+Viverne sconfitte!+02
+Viverne sconfitte!+03
 -
-Cerberi sconfitti!+1
+Gigas sconfitti!+01
+Gigas sconfitti!+02
+Gigas non morti sconfitti!+01
 -
-Cerberi di Fiamme sconfitti!+1
-Cerberi grigi sconfitti!+1
-Golem distrutti!+1
+Titani sconfitti!+01
+Signori titani sconfitti!+01
+Arci titani sconfitti!+01
+-
+Cerberi sconfitti!+01
+-
+Cerberi di Fiamme sconfitti!+01
+Cerberi grigi sconfitti!+01
+Golem distrutti!+01
 -
 花（ワン)
 花（トウ）
@@ -68,38 +68,38 @@ Golem distrutti!+1
 花（フォウ）
 花（ファイブ）
 -
-Centauri sconfitti!+1
-Centauri di Fuoco sconfitti!+1
+Centauri sconfitti!+01
+Centauri di Fuoco sconfitti!+01
 -
 -
-Cubi Gargoyle distrutti!+1
+Cubi Gargoyle distrutti!+01
 -
 -
 -
-Soldati confitti!+20
-Soldati sconfitti!+21
-Soldati sconfitti!+22
-Soldti sconfitti!+23
-Soldati sconfitti!+24
-Bombardieri sconfitti!+1
-Phanuel sconfitto!+1
-Armaros sconfitto!+1
-Armaros sconfitto!+2
-Armaros sconfitto!+3
-Armaros sconfitto!+4
-Armaros sconfitto!+5
-Armaros sconfitto!+6
+Soldati confitti!+020
+Soldati sconfitti!+021
+Soldati sconfitti!+022
+Soldti sconfitti!+023
+Soldati sconfitti!+024
+Bombardieri sconfitti!+01
+Phanuel sconfitto!+01
+Armaros sconfitto!+01
+Armaros sconfitto!+02
+Armaros sconfitto!+03
+Armaros sconfitto!+04
+Armaros sconfitto!+05
+Armaros sconfitto!+06
 -
-Armisael sconfitti!+1
-Armisael sconfitti!+2
-Armisael sconfitti!+3
-Egregori sconfitti!+1
-Gabriel sconfitto!+1
-Gabriel sconfitto!+2
+Armisael sconfitti!+01
+Armisael sconfitti!+02
+Armisael sconfitti!+03
+Egregori sconfitti!+01
+Gabriel sconfitto!+01
+Gabriel sconfitto!+02
 ガブリエル（傷）
-Zophiel sconfitto!+1
+Zophiel sconfitto!+01
 花（ゼロ）
-Gigas superiori sconfitti!+1
-False Zero sconfitte!+1
-Homunculi sconfitti!+1
-Galgaliel sconfitti!+1
+Gigas superiori sconfitti!+01
+False Zero sconfitte!+01
+Homunculi sconfitti!+01
+Galgaliel sconfitti!+01

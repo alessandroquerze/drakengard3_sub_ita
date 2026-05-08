@@ -43,7 +43,7 @@
 `海のナイフ`
 海のナイフ
 
-`Artiglio fragile`
+`Artiglio Fragile`
 Fragile Claw
 
 `森のナイフ`
@@ -67,31 +67,31 @@ Crimson Claw
 `剣兵の剣E`
 剣兵の剣E
 
-`Artiglio del morto`
+`Artiglio dell'Uomo Morto`
 Dead Man's Claw
 
 `槍兵の剣B`
 槍兵の剣B
 
-`Artiglio d'argento`
+`Artiglio d'Argento`
 Silver Claw
 
-`Tallone splendido`
+`Artiglio Splendido`
 Beautiful Talon
 
-`Tallone affilato`
+`Artiglio affilato`
 Sharp Talon
 
 `盾兵の剣A`
 盾兵の剣A
 
-`Tallone di smeraldo`
+`Artiglio di Smeraldo`
 Emerald Talon
 
-`Tallone di Roc`
+`Artiglio di Roc`
 Roc Talon
 
-`Zoccolo dello spirito acquatico`
+`Zoccolo dello Spirito Acquatico`
 Water Spirit Hoof
 
 `Zoccolo di Pegasus`
@@ -100,7 +100,7 @@ Pegasus Hoof
 `弓兵の剣A`
 弓兵の剣A
 
-`Frammento di zoccolo fulmineo`
+`Frammento di Zoccolo Fulmineo`
 Lightning Hoof Fragment
 
 `弓兵の剣C`
@@ -109,13 +109,13 @@ Lightning Hoof Fragment
 `弓兵の剣D`
 弓兵の剣D
 
-`Zoccolo millenario`
+`Zoccolo Millenario`
 Millennial Hoof
 
-`Frammento di zoccolo fiammeggiante`
+`Frammento di Zoccolo Fiammeggiante`
 Flame Hoof Fragment
 
-`Zoccolo celestiale`
+`Zoccolo Celestiale`
 Heaven-sent Hoof
 
 `砲兵の剣C`
@@ -127,16 +127,16 @@ Heaven-sent Hoof
 `砲兵の剣E`
 砲兵の剣E
 
-`Costola di bambino`
+`Costola di Bambino`
 Child's Rib
 
-`Femore di uomo`
+`Femore di Uomo`
 Man's Femur
 
-`Teschio di ragazza`
+`Teschio di Ragazza`
 Girl's Skull
 
-`Bacino di donna`
+`Bacino di Donna`
 Woman's Pelvis
 
 `アンデッド２の剣`

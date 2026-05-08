@@ -1,83 +1,83 @@
-Soldato
-Soldato
-Soldato
-Soldato
-Soldato dorato
-Soldato potenziato
-Soldato
-Soldato
-Soldato
-Soldato
-Soldato
-Soldato
-Soldato
-Soldato
-Soldato
-Soldato
-Soldato
-Soldato
-Soldato
-Soldato
-Soldato
-Cannoniere
-Cannoniere
-Cannoniere
-Cannoniere
-Cannoniere
+Soldato sconfitto!+100
+Soldato sconfitto!+200
+Soldato sconfitto!+30
+Soldato sconfitto!+400
+Soldato dorato sconfitto!+100
+Soldato potenziato sconfitto!+100
+Soldato sconfitto!+500
+Soldato sconfitto!+600
+Soldato sconfitto!+700
+Soldato sconfitto!+800
+Soldato sconfitto!+900
+Soldato sconfitto!+1000
+Soldato sconfitto!+1100
+Soldato sconfitto!+1200
+Soldato sconfitto!+1300
+Soldato sconfitto!+1400
+Soldato sconfitto!+1500
+Soldato sconfitto!+1600
+Soldato sconfitto!+1700
+Soldato sconfitto!+1800
+Soldato sconfitto!+1900
+Cannoniere sconfitto!+100
+Cannoniere sconfitto!+200
+Cannoniere sconfitto!+300
+Cannoniere sconfitto!+400
+Cannoniere sconfitto!+500
 -
-Lupo
-Lupo delle sabbie
+Lupo sconfitto!+100
+Lupo delle sabbie sconfitto!+100
 -
-Lupo
-Lupo delle sabbie
+Lupo sconfitto!+200
+Lupo delle sabbie sconfitto!+200
 -
-Lanciere
-Capitano lanciere
+Lanciere sconfitto!+100
+Capitano lanciere sconfitto!+100
 -
-Spirito
-Spirito superiore
+Spirito sconfitto!+100
+Spirito superiore sconfitto!+100
 -
-Imp
--
--
-Ogre
-Ogre delle sabbie
--
-Troll
-Troll brutale
--
-Mago
--
-Necromante
-Stregone
--
-Non morto
-Soldato non morto
-Paladino non morto
+Imp sconfitto!+100
 -
 -
-Viverna
+Ogre sconfitto!+100
+Ogre delle sabbie sconfitto!+100
+-
+Troll sconfitto!+100
+Troll brutale sconfitto!+100
+-
+Mago sconfitto!+100
+-
+Necromante sconfitto!+100
+Stregone sconfitto!+100
+-
+Non morto sconfitto!+100
+Soldato non morto sconfitto!+100
+Paladino non morto sconfitto!+100
 -
 -
-Spettro
+Viverna sconfitta!+100
 -
 -
-Viverna
-Viverna
+Spettro sconfitto!+100
 -
-Gigas
-Gigas
-Gigas non morto
 -
-Titano
-Signore Titano
-Arci Titano
+Viverna sconfitta!+200
+Viverna sconfitta!+300
 -
-Cerbero
+Gigas sconfitto!+100
+Gigas sconfitto!+200
+Gigas non morto sconfitto!+100
 -
-Cerbero di Fiamme
-Cerbero grigio
-Golem
+Titano sconfitto!+100
+Signore Titano sconfitto!+100
+Arci Titano sconfitto!+100
+-
+Cerbero sconfitto!+100
+-
+Cerbero di Fiamme sconfitto!+100
+Cerbero grigio sconfitto!+100
+Golem distrutto!+100
 -
 花（ワン）
 花（トウ）
@@ -85,21 +85,21 @@ Golem
 花（フォウ）
 花（ファイブ）
 -
-Centauro
-Centauro di Fuoco
+Centauro sconfitto!+100
+Centauro di Fuoco sconfitto!+100
 -
 -
-Cubo Gargoyle
+Cubo Gargoyle distrutto!+100
 -
 -
 -
-Soldato
-Soldato
-Soldato
-Soldato
-Soldato
-Bombardiere
-Phanuel
-Armaros
-Armaros
-Armaros
+Soldato sconfitto!+2000
+Soldato sconfitto!+2100
+Soldato sconfitto!+2200
+Soldato sconfitto!+2300
+Soldato sconfitto!+2400
+Bombardiere sconfitto!+100
+Phanuel sconfitto!+100
+Armaros sconfitto!+100
+Armaros sconfitto!+200
+Armaros sconfitto!+300

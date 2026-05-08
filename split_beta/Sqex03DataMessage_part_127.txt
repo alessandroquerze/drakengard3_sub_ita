@@ -1,51 +1,51 @@
-Armaros
-Armaros
-Armaros
+Armaros sconfitto!+1
+Armaros sconfitto!+2
+Armaros sconfitto!+3
 -
-Armisael
-Armisael
-Armisael
-Egregori
-Gabriel
-Gabriel
-Gabriel
-Zophiel
-Zero
-Gigas superiore
-Falsa Zero
-Homunculus
-Galgaliel
-Galgaliel
-Galgaliel
-Galgaliel
-Ezrael
-Raphael
-Abdiel
-Abdiel
-Abdiel
-Grosso Granchio Succoso
-Piccolo Granchio Succoso
-Michael
-Aeronave
-Barca Volante
-Nave Pirata degli Elfi Malvagi
+Armisael sconfitto!+1
+Armisael sconfitto!+2
+Armisael sconfitto!+3
+Egregori sconfitti!+1
+Gabriel sconfitto!+1
+Gabriel sconfitto!+2
+Gabriel sconfitto!+3
+Zophiel sconfitto!+1
+Zero sconfitta!+1
+Gigas superiore sconfitto!+1
+Falsa Zero sconfitta!+1
+Homunculus sconfitto!+1
+Galgaliel sconfitto!+1
+Galgaliel sconfitto!+2
+Galgaliel sconfitto!+3
+Galgaliel sconfitto!+4
+Ezrael sconfitto!+1
+Raphael sconfitto!+1
+Abdiel sconfitti!+1
+Abdiel sconfitti!+2
+Abdiel sconfitti!+3
+Grosso Granchio Succoso sconfitto!+1
+Piccolo Granchio Succoso sconfitto!+1
+Michael sconfitto!+1
+Aeronave distrutta!+1
+Barca Volante distrutta!+1
+Nave Pirata degli Elfi Malvagi distrutta!+1
 -
-One
-One
-Two
-Three
-Four
-Five
-Zero
-Cent
-Statua di Three
+One sconfitta!+1
+One sconfitta!+2
+Two sconfitta!+1
+Three sconfitta!+1
+Four sconfitta!+1
+Five sconfitta!+1
+Zero sconfitta!+2
+Cent sconfitto!+1
+Statua di Three distrutta!+1
 バリケード小
 バリケード中
 バリケード大
 バリケード大 2
-Cannone
-Cannone Pesante
-Ipercannone
+Cannone distrutto!+1
+Cannone Pesante distrutto!+1
+Ipercannone distrutto!+1
 戦艦大砲台
 戦艦長距離大砲台
 ハイパー砲台透明
@@ -61,45 +61,45 @@ Ipercannone
 壊せる蔦壁小
 壊せる蔦壁大
 引っ込む蔦
-Mezzo da Sbarco
-Nave da Guerra
+Mezzo da Sbarco distrutto!+1
+Nave da Guerra distrutta!+1
 木汎用
 ZH00 ゼロ家柱
 アイテムボックス（木箱）
 ワイバーンの岩
 宝箱
 爆弾（クエスト用）
-Forziere Metallico
-Cannone
-Ipercannone
-Nave da Guerra
-Nave da Guerra
-Soldato
-Torre Meridionale
-Torre Orientale
-Torre Occidentale
-Torre Settentrionale
-Soldato
-Soldato
-Ogre Potenziato
-Imp Potenziato
-Cerbero Potenziato
-Soldatessa
-Nemici
-Soldati Sconfitti!+1
-Soldati Sconfitti!+2
-Soldati Sconfitti!+3
-Soldati Sconfitti!+4
-Soldati d'Oro Sconfitti!+1
-Soldati Potenziati sconfitti!
-Soldati Sconfitti!+5
-Soldati Sconfitti!+6
-Soldati Sconfitti!+7
-Soldati Sconfitti!+8
-Soldati Sconfitti!+9
-Soldati Sconfitti!+10
-Soldati Sconfitti!+11
-Soldati Sconfitti!+12
-Soldati Sconfitti!+13
+Forziere Metallico distrutto!+1
+Cannone distrutto!+2
+Ipercannone distrutto!+2
+Nave da Guerra distrutta!+2
+Nave da Guerra distrutta!+3
+Soldato sconfitto!+1
+Torre Meridionale distrutta!+1
+Torre Orientale distrutta!+1
+Torre Occidentale distrutta!+1
+Torre Settentrionale distrutta!+1
+Soldato sconfitto!+2
+Soldato sconfitto!+3
+Ogre Potenziato sconfitto!+1
+Imp Potenziato sconfitto!+1
+Cerbero Potenziato sconfitto!+1
+Soldatessa sconfitta!+1
+Nemici sconfitti!+1
+Soldati sconfitti!+1
+Soldati sconfitti!+2
+Soldati sconfitti!+3
+Soldati sconfitti!+4
+Soldati d'Oro sconfitti!+1
+Soldati Potenziati sconfitti!+1
+Soldati sconfitti!+5
+Soldati sconfitti!+6
+Soldati sconfitti!+7
+Soldati sconfitti!+8
+Soldati sconfitti!+9
+Soldati sconfitti!+10
+Soldati sconfitti!+11
+Soldati sconfitti!+12
+Soldati sconfitti!+13
 
 

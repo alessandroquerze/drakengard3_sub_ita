@@ -70,7 +70,7 @@ Tee hee. Farewell, nobodies! Life is one big dance,{LF}and we must dance it unti
 `Presto incontreremo il Re Fata , eh?{#Name="Mikhail"}`
 We get to meet the Faerie King soon, huh?{#Name="Mikhail"}
 
-`Già. Non è che abbiamo scelta.{#Name="Zero"}`
+`Già. Non che abbiamo scelta.{#Name="Zero"}`
 Yeah. Not like we have a choice.{#Name="Zero"}
 
 `Cosa? Non vuoi?{#Name="Mikhail"}`

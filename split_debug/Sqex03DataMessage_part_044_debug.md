@@ -253,7 +253,7 @@ Sorry, but I'm not that talented.{#Name="Accord"}
 `...Capisco.{#Name="Zero"}`
 ...I see.{#Name="Zero"}
 
-`Ooh, che paura.{#Name="Accord"}`
+`Oooh, spaventosa{#Name="Accord"}`
 Ooh, scary.{#Name="Accord"}
 
 `Bene, alla prossima.{#Name="Accord"}`

@@ -66,7 +66,7 @@ Toglietevi dalle palle!{#Name="Zero"}
 Oh merda, è qui! Ritirata! Ritiraataa!{#Name="Soldier D"}
 Via di mezzo!{#Name="Soldier C"}
 Com'è... com'è potuto succedere...?{#Name="Soldier D"}
-Aspettate, mie amate sorelle.{LF}Sto venendo a uccidervi tutte.{#Name="Zero"}
+Preparatevi, mie amate sorelle.{LF}Sto venendo a uccidervi tutte.{#Name="Zero"}
 Sconfiggi il Titano!{#Name=" "}
 Trova e sconfiggi le tue sorelle alla Cattedrale.{#Name=" "}
 Vecchio

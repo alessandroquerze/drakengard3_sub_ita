@@ -202,7 +202,7 @@ Outta my way!{#Name="Soldier C"}
 `Com'è... com'è potuto succedere...?{#Name="Soldier D"}`
 How...how could this happen...?{#Name="Soldier D"}
 
-`Aspettate, mie amate sorelle.{LF}Sto venendo a uccidervi tutte.{#Name="Zero"}`
+`Preparatevi, mie amate sorelle.{LF}Sto venendo a uccidervi tutte.{#Name="Zero"}`
 Hold on, my beloved sisters.{LF}I'm coming to kill you all.{#Name="Zero"}
 
 `Sconfiggi il Titano!{#Name=" "}`
@@ -256,7 +256,7 @@ It's been a long time, Zero.{#Name="One"}
 `Davvero? Non me n'ero accorta.{#Name="Zero"}`
 Has it? I didn't notice.{#Name="Zero"}
 
-`Non sei cambiata di una virgola. Sei ancora folle.{#Name="One"}`
+`Non sei cambiata di una virgola. Sei ancora pazza.{#Name="One"}`
 You haven't changed a bit. You're still insane.{#Name="One"}
 
 `Smettila. Mi metti in imbarazzo.{#Name="Zero"}`

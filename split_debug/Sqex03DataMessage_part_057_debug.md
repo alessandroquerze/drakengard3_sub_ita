@@ -43,7 +43,7 @@ This can't end in bloodshed! It can't!{#Name="Four"}
 `Puoi scommetterci il culo che può! Credi che sia venuta{LF}fin qui per un fottuto picnic?{#Name="Zero"}`
 You bet your ass it can! You think I came{LF}all the way here for a fucking picnic?{#Name="Zero"}
 
-`Non me ne vado finché non avrò sparso le tue{LF}budella vergini su questa maledetta neve!{#Name="Zero"}`
+`Non me ne vado finché non avrò sparso le tue{LF}budella vergini sopra tutta questa maledetta neve!{#Name="Zero"}`
 I'm not leaving until I've strewn your{LF}virgin guts all over the goddamned snow!{#Name="Zero"}
 
 `Non puoi... Non puoi...{#Name="Four"}`
@@ -70,7 +70,7 @@ Cast your blighted sins upon these very skies!{#Name="Decadus"}
 `Io, Decadus, ti evoco nel mio nome...{#Name="Decadus"}`
 I, Decadus, summon thee in my name...{#Name="Decadus"}
 
-`Armaros, sorreggi!{#Name="Decadus"}`
+`Armaros, sorgi!{#Name="Decadus"}`
 Armaros, uphold!{#Name="Decadus"}
 
 `Ricordi quando quei ragazzi mi tormentavano, Zero?{#Name="Four"}`

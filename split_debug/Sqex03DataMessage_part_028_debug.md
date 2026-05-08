@@ -1,7 +1,7 @@
 `生命の小瓶`
 生命の小瓶
 
-`Pozione curativa (Max)`
+`Pozione Curativa (Max)`
 Recovery Potion (Max)
 
 `神秘の欠片`
@@ -16,13 +16,13 @@ Recovery Potion (Max)
 `再生の刃`
 再生の刃
 
-`Pozione di forza`
+`Pozione di Forza`
 Strength Potion
 
 `高揚のコロン`
 高揚のコロン
 
-`Pozione di difesa`
+`Pozione di Difesa`
 Defense Potion
 
 `精力のコロン`
@@ -43,103 +43,103 @@ Defense Potion
 `予備`
 予備
 
-`Sfera curativa (S)`
+`Sfera Curativa (S)`
 Healsphere (S)
 
-`Sfera curativa (M)`
+`Sfera Curativa (M)`
 Healsphere (M)
 
-`Sfera curativa (L)`
+`Sfera Curativa (L)`
 Healsphere (L)
 
-`Sfera sanguigna (S)`
+`Sfera Sanguigna (S)`
 Bloodsphere (S)
 
-`Sfera sanguigna (L)`
+`Sfera Sanguigna (L)`
 Bloodsphere (L)
 
 `Sfera ESP`
 EXP Sphere
 
-`Materiale base di rame`
+`Materiale Base di Rame`
 Copper Base Material
 
-`Materiale base d'argento`
+`Materiale Base d'Argento`
 Silver Base Material
 
-`Materiale base d'oro`
+`Materiale Base d'Oro`
 Gold Base Material
 
-`Materiale base bianco`
+`Materiale Base Bianco`
 White Base Material
 
-`Materiale base nero`
+`Materiale Base Nero`
 Black Base Material
 
 `海のメダル`
 海のメダル
 
-`Moneta di rame arrugginita`
+`Moneta di Rame Arrugginita`
 Rusted Copper Coin
 
 `森のメダル`
 森のメダル
 
-`Moneta di rame incrinata`
+`Moneta di Rame Incrinata`
 Cracked Copper Coin
 
-`Moneta d'argento antica`
+`Moneta d'Argento Antica`
 Antique Silver Coin
 
-`Moneta di rame lucidata`
+`Moneta di Rame Lucidata`
 Polished Copper Coin
 
-`Moneta d'oro antica`
+`Moneta d'Oro Antica`
 Antique Gold Coin
 
 `剣兵のメダルC`
 剣兵のメダルC
 
-`Moneta d'argento gessosa`
+`Moneta d'Argento Gessosa`
 Chalky Silver Coin
 
 `剣兵のメダルE`
 剣兵のメダルE
 
-`Moneta Goblin di rame`
+`Moneta Goblin di Rame`
 Copper Goblin Coin
 
 `槍兵のメダルB`
 槍兵のメダルB
 
-`Moneta Merrow d'argento`
+`Moneta Merrow d'Argento`
 Silver Merrow Coin
 
-`Moneta Valkyrie d'oro`
+`Moneta Valkyrie d'Oro`
 Gold Valkyrie Coin
 
-`Moneta Phoenix d'oro`
+`Moneta Phoenix d'Oro`
 Gold Phoenix Coin
 
-`Moneta Angelos di rame`
+`Moneta Angelos di Rame`
 Copper Angelos Coin
 
-`Moneta Arche d'argento`
+`Moneta Arche d'Argento`
 Silver Arche Coin
 
-`Moneta Thrones d'argento`
+`Moneta Thrones d'Argento`
 Silver Thrones Coin
 
-`Moneta Cherub d'argento`
+`Moneta Cherub d'Argento`
 Silver Cherub Coin
 
-`Moneta Seraph d'argento`
+`Moneta Seraph d'Argento`
 Silver Seraph Coin
 
 `弓兵のメダルA`
 弓兵のメダルA
 
-`Moneta della devozione`
+`Moneta della Devozione`
 Devotion Coin
 
 `弓兵のメダルC`
@@ -148,13 +148,13 @@ Devotion Coin
 `弓兵のメダルD`
 弓兵のメダルD
 
-`Moneta della benevolenza`
+`Moneta della Benevolenza`
 Benevolence Coin
 
-`Moneta della gentilezza`
+`Moneta della Gentilezza`
 Kindness Coin
 
-`Moneta dell'affetto`
+`Moneta dell'Affetto`
 Affection Coin
 
 `砲兵のメダルC`

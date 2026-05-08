@@ -208,7 +208,7 @@ Accord
 `Sembra che questa stanza sia chiusa a chiave.{#Name="Zero"}`
 Seems like this room is locked.{#Name="Zero"}
 
-`C'è una mappa laggiù.{#Name="Dito"}`
+`C'è una mappa quaggiù.{#Name="Dito"}`
 There's a map over here.{#Name="Dito"}
 
 `Immagino che ci serva una chiave, eh?{#Name="Dito"}`

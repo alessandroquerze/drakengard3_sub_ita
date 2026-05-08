@@ -64,7 +64,7 @@ I detest ugly things. I hate the putrid breath of{LF}monsters, and I hate people
 `La morale? La morale mi fa vomitare. Tirare fuori verità e giustizia?{LF}Amore per il prossimo? Pffft. Che mucchio di stronzate.{LF}Come fa la gente a vivere in un posto disgustoso come questo?{#Name="Twisted Hunger Lv. 2"}`
 Morals? Morals make me puke. Trotting out truth and justice?{LF}Love for your fellow man? Pffft. What a crock of shit.{LF}How can people live in a disgusting place like this?{#Name="Twisted Hunger Lv. 2"}
 
-`La vita è brutta, e le persone non sono altro che idioti.{LF}Perché il mondo doveva finire così?{#Name="Twisted Hunger Lv. 3"}`
+`La vita è brutta, e le persone non sono altro che idioti.{LF}Perché il mondo è finito ad essere così?{#Name="Twisted Hunger Lv. 3"}`
 Life is ugly, and people are nothing but fools.{LF}Why did the world have to end up this way?{#Name="Twisted Hunger Lv. 3"}
 
 `Il frutto marcio è quello dal sapore più dolce.{LF}Un corpo marcio è la bellezza personificata.{LF}Perché nessuno riesce a notare queste cose?{#Name="Twisted Hunger Lv. 4"}`
@@ -235,7 +235,7 @@ Augh! Why? Why do you beat me with that thick iron pole?{LF}All I can do is sob 
 `No... No, è troppo grande! Mi spaccherai in due!{LF}Mi spezzerai corpo e anima! Solo immaginarlo mi fa{LF}venire voglia di... Voglia di... Nnnnngh...{#Name="Masochistic Joy Lv. 3"}`
 No... No, that's far too large! I'm going to be split in two!{LF}I'll be broken heart and soul! Just imagining it makes{LF}me want to... Want to... Nnnnngh...{#Name="Masochistic Joy Lv. 3"}
 
-`Uh, no. Temo che nemmeno io possa farlo.{#Name="Masochistic Joy Lv. 4"}`
+`Uh, no. Temo che questo nemmeno io possa farlo.{#Name="Masochistic Joy Lv. 4"}`
 Uh, no. I'm afraid even I can't do that.{#Name="Masochistic Joy Lv. 4"}
 
 `Hai mai guardato nei suoi occhi? Sono ipnotici,{LF}come se racchiudessero un intero arcobaleno. Ti imprigionano{LF}in catene fugaci e ti lasciano cadere sempre più in basso.{#Name="Iceborn Slayers Lv. 1"}`

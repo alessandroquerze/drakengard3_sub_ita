@@ -151,16 +151,16 @@ A sword infused with the prayers of{LF}a young girl.
 `Una spada infusa delle preghiere di{LF}una giovane ragazza.`
 A sword infused with the prayers of{LF}a young girl.
 
-`La spada di un uomo un tempo chiamato{LF}"Holy Emperor." Efficace contro i non morti.`
+`La spada di un uomo un tempo chiamato{LF}"Imperatore Sacro." Efficace contro i non morti.`
 The sword of a man once called the{LF}"Holy Emperor." Effective vs. undead.
 
-`La spada di un uomo un tempo chiamato{LF}"Holy Emperor." Efficace contro i non morti.`
+`La spada di un uomo un tempo chiamato{LF}"Imperatore Sacro." Efficace contro i non morti.`
 The sword of a man once called the{LF}"Holy Emperor." Effective vs. undead.
 
-`La spada di un uomo un tempo chiamato{LF}"Holy Emperor." Efficace contro i non morti.`
+`La spada di un uomo un tempo chiamato{LF}"Imperatore Sacro." Efficace contro i non morti.`
 The sword of a man once called the{LF}"Holy Emperor." Effective vs. undead.
 
-`La spada di un uomo un tempo chiamato{LF}"Holy Emperor." Efficace contro i non morti.`
+`La spada di un uomo un tempo chiamato{LF}"Imperatore Sacro." Efficace contro i non morti.`
 The sword of a man once called the{LF}"Holy Emperor." Effective vs. undead.
 
 `Una lama proveniente da una terra {LF}lontana e maledetta.`

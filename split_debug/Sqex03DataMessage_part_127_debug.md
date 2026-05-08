@@ -1,124 +1,124 @@
-`Armaros`
+`Armaros sconfitto!+1`
 Armaros
 
-`Armaros`
+`Armaros sconfitto!+2`
 Armaros
 
-`Armaros`
+`Armaros sconfitto!+3`
 Armaros
 
 `-`
 -
 
-`Armisael`
+`Armisael sconfitto!+1`
 Armisael
 
-`Armisael`
+`Armisael sconfitto!+2`
 Armisael
 
-`Armisael`
+`Armisael sconfitto!+3`
 Armisael
 
-`Egregori`
+`Egregori sconfitti!+1`
 Egregori
 
-`Gabriel`
+`Gabriel sconfitto!+1`
 Gabriel
 
-`Gabriel`
+`Gabriel sconfitto!+2`
 Gabriel
 
-`Gabriel`
+`Gabriel sconfitto!+3`
 Gabriel
 
-`Zophiel`
+`Zophiel sconfitto!+1`
 Zophiel
 
-`Zero`
+`Zero sconfitta!+1`
 Zero
 
-`Gigas superiore`
+`Gigas superiore sconfitto!+1`
 Greater Gigas
 
-`Falsa Zero`
+`Falsa Zero sconfitta!+1`
 False Zero
 
-`Homunculus`
+`Homunculus sconfitto!+1`
 Homunculus
 
-`Galgaliel`
+`Galgaliel sconfitto!+1`
 Galgaliel
 
-`Galgaliel`
+`Galgaliel sconfitto!+2`
 Galgaliel
 
-`Galgaliel`
+`Galgaliel sconfitto!+3`
 Galgaliel
 
-`Galgaliel`
+`Galgaliel sconfitto!+4`
 Galgaliel
 
-`Ezrael`
+`Ezrael sconfitto!+1`
 Ezrael
 
-`Raphael`
+`Raphael sconfitto!+1`
 Raphael
 
-`Abdiel`
+`Abdiel sconfitti!+1`
 Abdiel
 
-`Abdiel`
+`Abdiel sconfitti!+2`
 Abdiel
 
-`Abdiel`
+`Abdiel sconfitti!+3`
 Abdiel
 
-`Grosso Granchio Succoso`
+`Grosso Granchio Succoso sconfitto!+1`
 Big, Juicy Crab
 
-`Piccolo Granchio Succoso`
+`Piccolo Granchio Succoso sconfitto!+1`
 Little Juicy Crab
 
-`Michael`
+`Michael sconfitto!+1`
 Michael
 
-`Aeronave`
+`Aeronave distrutta!+1`
 Airship
 
-`Barca Volante`
+`Barca Volante distrutta!+1`
 Air Skiff
 
-`Nave Pirata degli Elfi Malvagi`
+`Nave Pirata degli Elfi Malvagi distrutta!+1`
 Evil Elf Pirate Ship
 
 `-`
 -
 
-`One`
+`One sconfitta!+1`
 One
 
-`One`
+`One sconfitta!+2`
 One
 
-`Two`
+`Two sconfitta!+1`
 Two
 
-`Three`
+`Three sconfitta!+1`
 Three
 
-`Four`
+`Four sconfitta!+1`
 Four
 
-`Five`
+`Five sconfitta!+1`
 Five
 
-`Zero`
+`Zero sconfitta!+2`
 Zero
 
-`Cent`
+`Cent sconfitto!+1`
 Cent
 
-`Statua di Three`
+`Statua di Three distrutta!+1`
 Three Statue
 
 `バリケード小`
@@ -133,13 +133,13 @@ Three Statue
 `バリケード大 2`
 バリケード大 2
 
-`Cannone`
+`Cannone distrutto!+1`
 Cannon
 
-`Cannone Pesante`
+`Cannone Pesante distrutto!+1`
 Heavy Cannon
 
-`Ipercannone`
+`Ipercannone distrutto!+1`
 Hyper Cannon
 
 `戦艦大砲台`
@@ -187,10 +187,10 @@ Hyper Cannon
 `引っ込む蔦`
 引っ込む蔦
 
-`Mezzo da Sbarco`
+`Mezzo da Sbarco distrutto!+1`
 Landing Craft
 
-`Nave da Guerra`
+`Nave da Guerra distrutta!+1`
 Battleship
 
 `木汎用`
@@ -211,105 +211,105 @@ ZH00 ゼロ家柱
 `爆弾（クエスト用）`
 爆弾（クエスト用）
 
-`Forziere Metallico`
+`Forziere Metallico distrutto!+1`
 Metallic Chest
 
-`Cannone`
+`Cannone distrutto!+2`
 Cannon
 
-`Ipercannone`
-Hyper Cannon
+`Ipercannone distrutto!`
+Hyper Cannon //primo ipercannone cap2
 
-`Nave da Guerra`
+`Nave da Guerra distrutta!`
+Battleship //prima nave da guerra con mikhail 
+
+`Nave da Guerra distrutta!+3`
 Battleship
 
-`Nave da Guerra`
-Battleship
-
-`Soldato`
+`Soldato sconfitto!+1`
 Soldier
 
-`Torre Meridionale`
+`Torre Meridionale distrutta!+1`
 Southern Tower
 
-`Torre Orientale`
+`Torre Orientale distrutta!+1`
 Eastern Tower
 
-`Torre Occidentale`
+`Torre Occidentale distrutta!+1`
 Western Tower
 
-`Torre Settentrionale`
+`Torre Settentrionale distrutta!+1`
 Northern Tower
 
-`Soldato`
+`Soldato sconfitto!+2`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+3`
 Soldier
 
-`Ogre Potenziato`
+`Ogre Potenziato sconfitto!+1`
 Enhanced Ogre
 
-`Imp Potenziato`
+`Imp Potenziato sconfitto!+1`
 Enhanced Imp
 
-`Cerbero Potenziato`
+`Cerbero Potenziato sconfitto!+1`
 Enhanced Cerberus
 
-`Soldatessa`
+`Soldatessa sconfitta!+1`
 Female Soldier
 
-`Nemici`
-Enemies
+`Nemici sconfitti!`
+Enemies //primi nemici nella neve
 
-`Soldati Sconfitti!+1`
+`Soldati sconfitti!+1`
 Soldiers
 
-`Soldati Sconfitti!+2`
+`Soldati sconfitti!+2`
 Soldiers
 
-`Soldati Sconfitti!+3`
+`Soldati sconfitti!+3`
 Soldiers
 
-`Soldati Sconfitti!+4`
+`Soldati sconfitti!+4`
 Soldiers
 
-`Soldati d'Oro Sconfitti!+1`
+`Soldati d'Oro sconfitti!+1`
 Gold Soldiers
 
-`Soldati Potenziati sconfitti!`
+`Soldati Potenziati sconfitti!+1`
 Enhanced Soldiers
 
-`Soldati Sconfitti!+5`
+`Soldati sconfitti!+5`
 Soldiers
 
-`Soldati Sconfitti!+6`
+`Soldati sconfitti!+6`
 Soldiers
 
-`Soldati Sconfitti!+7`
+`Soldati sconfitti!+7`
 Soldiers
 
-`Soldati Sconfitti!+8`
+`Soldati sconfitti!+8`
 Soldiers
 
-`Soldati Sconfitti!+9`
+`Soldati sconfitti!+9`
 Soldiers
 
-`Soldati Sconfitti!+10`
+`Soldati sconfitti!+10`
 Soldiers
 
-`Soldati Sconfitti!+11`
+`Soldati sconfitti!+11`
 Soldiers
 
-`Soldati Sconfitti!+12`
+`Soldati sconfitti!+12`
 Soldiers
 
-`Soldati Sconfitti!+13`
+`Soldati sconfitti!+13`
 
 Soldiers
 
-`Soldati Sconfitti!+14`
+`Soldati sconfitti!+14`
 Soldiers
 
-`Soldati Sconfitti!+15`
+`Soldati sconfitti!+15`
 Soldiers

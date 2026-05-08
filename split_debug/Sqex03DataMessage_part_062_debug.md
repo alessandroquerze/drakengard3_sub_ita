@@ -184,7 +184,7 @@ Nnnngh...{#Name="Decadus"}
 `Calmati. Zero ti pianterà un ginocchio{LF}nelle palle se ti ecciti troppo.{#Name="Dito"}`
 Take it easy. Zero's gonna knee you{LF}in the junk if you get too excited.{#Name="Dito"}
 
-`Lo... lo FARÀ? Oh, solo a pensarci...{LF}Unnnghhh...{#Name="Decadus"}`
+`Lo... lo FARA'? Oh, solo a pensarci...{LF}Unnnghhh...{#Name="Decadus"}`
 She...she WILL? Oh, just the thought...{LF}Unnnghhh...{#Name="Decadus"}
 
 `くそっ、面倒な場所に逃げこみやがって！{#Name="ゼロ"}`
@@ -256,7 +256,7 @@ I'll draw Zero's attention!{LF}You try to get behind her!{#Name="Soldier B"}
 `Ricevuto!{#Name="Soldier C"}`
 Got it!{#Name="Soldier C"}
 
-`Che piano carino. Peccato che vi senta, idioti!{#Name="Zero"}`
+`Che piano carino. Peccato riesca a sentirvi, idioti!{#Name="Zero"}`
 Cute plan. Too bad I can hear you, dumbass!{#Name="Zero"}
 
 `Senti, è da un po' che non vedo il tuo stupido drago.{#Name="Dito"}`
@@ -283,7 +283,7 @@ He's fine. Idiots like him never die young.{#Name="Zero"}
 `Diavolo, più camminiamo, più questo posto{LF}diventa verde. Mi ha stufato!{#Name="Zero"}`
 Dammit, the more we walk, the greener{LF}this place gets. I'm sick of it!{#Name="Zero"}
 
-`Ti lagni un sacco, Z. Lo sai?{#Name="Dito"}`
+`Certo che ti lagni un sacco, Z. Lo sai?{#Name="Dito"}`
 You sure do bitch a lot, Z. You know that?{#Name="Dito"}
 
 `Sembra che la nostra signora stia{LF}diventando sempre più furiosa.{#Name="Decadus"}`

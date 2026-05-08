@@ -1,121 +1,121 @@
-`Soldato`
+`Soldato sconfitto!+100`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+200`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+30`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+400`
 Soldier
 
-`Soldato dorato`
+`Soldato dorato sconfitto!+100`
 Gold Soldier
 
-`Soldato potenziato`
+`Soldato potenziato sconfitto!+100`
 Enhanced Soldier
 
-`Soldato`
+`Soldato sconfitto!+500`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+600`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+700`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+800`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+900`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+1000`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+1100`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+1200`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+1300`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+1400`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+1500`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+1600`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+1700`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+1800`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+1900`
 Soldier
 
-`Cannoniere`
+`Cannoniere sconfitto!+100`
 Cannoneer
 
-`Cannoniere`
+`Cannoniere sconfitto!+200`
 Cannoneer
 
-`Cannoniere`
+`Cannoniere sconfitto!+300`
 Cannoneer
 
-`Cannoniere`
+`Cannoniere sconfitto!+400`
 Cannoneer
 
-`Cannoniere`
+`Cannoniere sconfitto!+500`
 Cannoneer
 
 `-`
 -
 
-`Lupo`
+`Lupo sconfitto!+100`
 Wolf
 
-`Lupo delle sabbie`
+`Lupo delle sabbie sconfitto!+100`
 Sandwolf
 
 `-`
 -
 
-`Lupo`
+`Lupo sconfitto!+200`
 Wolf
 
-`Lupo delle sabbie`
+`Lupo delle sabbie sconfitto!+200`
 Sandwolf
 
 `-`
 -
 
-`Lanciere`
+`Lanciere sconfitto!+100`
 Lancer
 
-`Capitano lanciere`
+`Capitano lanciere sconfitto!+100`
 Lancer Captain
 
 `-`
 -
 
-`Spirito`
+`Spirito sconfitto!+100`
 Spirit
 
-`Spirito superiore`
+`Spirito superiore sconfitto!+100`
 Greater Spirit
 
 `-`
 -
 
-`Imp`
+`Imp sconfitto!+100`
 Imp
 
 `-`
@@ -124,46 +124,46 @@ Imp
 `-`
 -
 
-`Ogre`
+`Ogre sconfitto!+100`
 Ogre
 
-`Ogre delle sabbie`
+`Ogre delle sabbie sconfitto!+100`
 Sand Ogre
 
 `-`
 -
 
-`Troll`
+`Troll sconfitto!+100`
 Troll
 
-`Troll brutale`
+`Troll brutale sconfitto!+100`
 Brute Troll
 
 `-`
 -
 
-`Mago`
+`Mago sconfitto!+100`
 Wizard
 
 `-`
 -
 
-`Necromante`
+`Necromante sconfitto!+100`
 Necromancer
 
-`Stregone`
+`Stregone sconfitto!+100`
 Sorcerer
 
 `-`
 -
 
-`Non morto`
+`Non morto sconfitto!+100`
 Undead
 
-`Soldato non morto`
+`Soldato non morto sconfitto!+100`
 Undead Soldier
 
-`Paladino non morto`
+`Paladino non morto sconfitto!+100`
 Undead Paladin
 
 `-`
@@ -172,7 +172,7 @@ Undead Paladin
 `-`
 -
 
-`Viverna`
+`Viverna sconfitta!+100`
 Wyvern
 
 `-`
@@ -181,7 +181,7 @@ Wyvern
 `-`
 -
 
-`Spettro`
+`Spettro sconfitto!+100`
 Specter
 
 `-`
@@ -190,52 +190,52 @@ Specter
 `-`
 -
 
-`Viverna`
+`Viverna sconfitta!+200`
 Wyvern
 
-`Viverna`
+`Viverna sconfitta!+300`
 Wyvern
 
 `-`
 -
 
-`Gigas`
+`Gigas sconfitto!`
+Gigas //primo gigas nel capitolo 2
+
+`Gigas sconfitto!+200`
 Gigas
 
-`Gigas`
-Gigas
-
-`Gigas non morto`
+`Gigas non morto sconfitto!+100`
 Undead Gigas
 
 `-`
 -
 
-`Titano`
-Titan
+`Titano sconfitto!`
+Titan //primo titano nella neve
 
-`Signore Titano`
+`Signore Titano sconfitto!+100`
 Titan Lord
 
-`Arci Titano`
+`Arci Titano sconfitto!+100`
 Arch Titan
 
 `-`
 -
 
-`Cerbero`
-Cerberus
+`Cerbero sconfitto!`
+Cerberus //primo cerbero nella torre con neve (cap2)
 
 `-`
 -
 
-`Cerbero di Fiamme`
+`Cerbero di Fiamme sconfitto!+100`
 Flame Cerberus
 
-`Cerbero grigio`
-Gray Cerberus
+`Cerbero grigio sconfitto!`
+Gray Cerberus //primo incontro in cap2 verso perduto
 
-`Golem`
+`Golem distrutto!+100`
 Golem
 
 `-`
@@ -259,10 +259,10 @@ Golem
 `-`
 -
 
-`Centauro`
+`Centauro sconfitto!+100`
 Centaur
 
-`Centauro di Fuoco`
+`Centauro di Fuoco sconfitto!+100`
 Flame Centaur
 
 `-`
@@ -271,7 +271,7 @@ Flame Centaur
 `-`
 -
 
-`Cubo Gargoyle`
+`Cubo Gargoyle distrutto!+100`
 Gargoyle Cube
 
 `-`
@@ -283,33 +283,32 @@ Gargoyle Cube
 `-`
 -
 
-`Soldato`
+`Soldato sconfitto!+2000`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+2100`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+2200`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+2300`
 Soldier
 
-`Soldato`
+`Soldato sconfitto!+2400`
 Soldier
 
-`Bombardiere`
+`Bombardiere sconfitto!+100`
 Bomber
 
-`Phanuel`
+`Phanuel sconfitto!+100`
 Phanuel
 
-`Armaros`
+`Armaros sconfitto!+100`
 Armaros
 
-`Armaros`
+`Armaros sconfitto!+200`
 Armaros
 
-`Armaros`
+`Armaros sconfitto!+300`
 Armaros
-

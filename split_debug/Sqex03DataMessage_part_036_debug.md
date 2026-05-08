@@ -133,7 +133,7 @@ Silly girl.{#Name="One"}
 `{06}>{#Name="One"}`
 {06}>{#Name="One"}
 
-`Ora... Cantiamo la fine del mondo.{#Name="One"}`
+`Ora... Cantiamo della fine del mondo.{#Name="One"}`
 Now... Let us sing of the world's end.{#Name="One"}
 
 `Uccidi le tue sorelle.{#Name="説明文"}`

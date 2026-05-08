@@ -49,16 +49,16 @@ A large chakram with multiple spikes{LF}designed to bewilder foes.
 `Un grande chakram con molte punte{LF}pensato per disorientare i nemici.`
 A large chakram with multiple spikes{LF}designed to bewilder foes.
 
-`Un chakram lasciato dal{LF}Holy Emperor. Efficace contro i non morti.`
+`Un chakram lasciato dall'Imperatore{LF} Sacro. Efficace contro i non morti.`
 A chakram left behind by the{LF}Holy Emperor. Effective vs. undead.
 
-`Un chakram lasciato dal{LF}Holy Emperor. Efficace contro i non morti.`
+`Un chakram lasciato dall'Imperatore{LF} Sacro. Efficace contro i non morti.`
 A chakram left behind by the{LF}Holy Emperor. Effective vs. undead.
 
-`Un chakram lasciato dal{LF}Holy Emperor. Efficace contro i non morti.`
+`Un chakram lasciato dall'Imperatore{LF} Sacro. Efficace contro i non morti.`
 A chakram left behind by the{LF}Holy Emperor. Effective vs. undead.
 
-`Un chakram lasciato dal{LF}Holy Emperor. Efficace contro i non morti.`
+`Un chakram lasciato dall'Imperatore{LF} Sacro. Efficace contro i non morti.`
 A chakram left behind by the{LF}Holy Emperor. Effective vs. undead.
 
 `-`
