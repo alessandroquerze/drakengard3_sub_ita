@@ -217,8 +217,8 @@ Titan //primo titano nella neve
 `Signore Titano sconfitto!+100`
 Titan Lord
 
-`Arci Titano sconfitto!+100`
-Arch Titan
+`Arci Titano sconfitto!`
+Arch Titan //primo singolo arci titano branch b
 
 `-`
 -

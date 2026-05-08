@@ -49,8 +49,8 @@ Sandwolves //lupi alfa nel deserto
 `Lancieri sconfitti!`
 Lancers //lancieri a cathedral city branch a
 
-`Capitani Lancieri sconfitti!+01`
-Lancer Captains
+`Capitani Lancieri sconfitti!`
+Lancer Captains //cap branch b
 
 `-`
 -
@@ -97,8 +97,8 @@ Wizards //primi maghi nel deserto cap4
 `-`
 -
 
-`Necromanti sconfitti!+01`
-Necromancers
+`Necromanti sconfitti!`
+Necromancers //primi necromanti branch b
 
 `Stregoni sconfitti!+01`
 Sorcerers
@@ -166,8 +166,8 @@ Titans
 `Signori titani sconfitti!+01`
 Titan Lords
 
-`Arci titani sconfitti!+01`
-Arch Titans
+`Arci titani sconfitti!`
+Arch Titans //arci titani morte fiore di zero
 
 `-`
 -

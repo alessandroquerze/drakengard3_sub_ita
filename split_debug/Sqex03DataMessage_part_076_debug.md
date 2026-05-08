@@ -25,7 +25,7 @@ I'll...I'll try hard... Real hard...{#Name="Mikhail"}
 `Maledizione!{#Name="Zero"}`
 Goddammit!{#Name="Zero"}
 
-`Esci da lì, idiota!{#Name="Zero"}`
+`Vai via da lì, idiota!{#Name="Zero"}`
 Get outta there, idiot!{#Name="Zero"}
 
 `Muoviti! Il veleno sta per... Tu stai per...{#Name="Zero"}`
@@ -226,7 +226,7 @@ Dammit. Hang in there!{#Name="Zero"}
 `E' vulnerabile dopo aver sputato quel veleno...{#Name="Zero"}`
 He's vulnerable after he spits that poison...{#Name="Zero"}
 
-`Aspetta che si scopra, poi scatena tutto!{#Name="Zero"}`
+`Aspetta che si scopra, poi scatenati!{#Name="Zero"}`
 Wait until he's open, then let loose!{#Name="Zero"}
 
 `Attento a quel filo!{#Name="Zero"}`

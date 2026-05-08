@@ -118,7 +118,7 @@ There are supposed to be faeries in this area.{#Name="Octa"}
 `Io non vedo niente.{#Name="Zero"}`
 I don't see anything.{#Name="Zero"}
 
-`Ah HA! Visto? Il gas velenoso le ha uccise tutte fino all'ultima—{#Name="Cent"}`
+`Ah HA! Visto? Il gas velenoso le ha uccise tutte fino all'ultim—{#Name="Cent"}`
 Ah HA! See? The poison gas has killed every last—{#Name="Cent"}
 
 `Sta' zitto, per favore.{#Name="Dito"}`
@@ -157,7 +157,7 @@ And that she holds a secret of some sort?{#Name="Decadus"}
 `I misteri si moltiplicano tra loro...{#Name="Decadus"}`
 The mysteries multiply amongst themselves...{#Name="Decadus"}
 
-`Anch'io ho riflettuto{LF}a lungo su questa questione.{#Name="Octa"}`
+`Anch'io ho riflettuto{LF}a lungo sulla questione.{#Name="Octa"}`
 I, too, have been considering{LF}this question at some length.{#Name="Octa"}
 
 `Ma ahimè, ogni volta che penso a Lady Three,{LF}la mia mente viene distratta da immagini continue{LF}dei nostri epici convegni carnali notturni...{#Name="Octa"}`
@@ -292,7 +292,7 @@ Pursue Three.{#Name="説明文"}
 `Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}`
 Defeat the enemies blocking your way!{#Name="説明文"}
 
-`Distruggi le tre statue!{#Name="説明文"}`
+`Distruggi le statue di Three!{#Name="説明文"}`
 Destroy the Three Statues!{#Name="説明文"}
 
 `Sconfiggi il Cerbero grigio!{#Name="説明文"}`

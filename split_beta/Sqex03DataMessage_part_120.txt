@@ -48,7 +48,7 @@ Gioco{LF}Mentre Zero si infiltra nella cattedrale,{LF}Mikhail capisce che, anche
 Gioco{LF}Zero si avvicina alla sua destinazione finale...{LF}Sua sorella, One.
 Cutscene → Gioco{LF}Quando Zero e One si ritrovano, Gabriel{LF}appare e rovina la festa. {LF}La battaglia finale attende. 
 Cutscene → Gioco{LF}Zero supplica Mikhail, ferito mortalmente, di{LF}reincarnarsi, ma lui usa invece il suo ultimo desiderio{LF}per finire Gabriel, lasciando{LF}Zero ad affrontare sua sorella da sola.
-Cutscene{LF}Zero uccide l'ultima delle sue sorelle.{LF}Chissà cosa vide quando{LF}"quello" rimasto indietro{LF}compì il suo ultimo dovere?
+Cutscene{LF}Zero uccide l'ultima delle sue sorelle.{LF}Chissà cosa vide quando{LF}"quello" rimasto nascosto{LF}compì il suo ultimo dovere?
 あらすじ第六項　５０４０　一行目{LF}あらすじ第六項　５０４０　二行目{LF}あらすじ第六項　５０４０　三行目{LF}あらすじ第六項　５０４０　四行目{LF}あらすじ第六項　５０４０　五行目
 あらすじ第七項　５０４０　一行目{LF}あらすじ第七項　５０４０　二行目{LF}あらすじ第七項　５０４０　三行目{LF}あらすじ第七項　５０４０　四行目{LF}あらすじ第七項　５０４０　五行目
 あらすじ第八項　５０４０　一行目{LF}あらすじ第八項　５０４０　二行目{LF}あらすじ第八項　５０４０　三行目{LF}あらすじ第八項　５０４０　四行目{LF}あらすじ第八項　５０４０　五行目

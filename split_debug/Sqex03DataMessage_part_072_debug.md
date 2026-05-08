@@ -40,7 +40,7 @@ How about some trivia time! Did you know{LF}faeries purify the air by burping?{#
 `Oh? Non ne avevo idea.{#Name="Octa"}`
 Oh? I had no idea.{#Name="Octa"}
 
-`Non fare l'impressionato. Se le tira tutte{LF}fuori dal culo.{#Name="Zero"}`
+`Non essere impressionato. Se le tira tutte{LF}fuori dal culo.{#Name="Zero"}`
 Don't be impressed. He pulls all this{LF}shit out of his ass.{#Name="Zero"}
 
 `Tsk. Suvvia. Questa foresta è contaminata perché{LF}mancano le fate. Non lo vedete? Possibile che sia{LF}l'unico ad accorgersene?{#Name="Cent"}`
@@ -199,7 +199,7 @@ What a nice surprise! They say only those of{LF}pure heart can see these little 
 `Smetti di parlare e combatti!{#Name="Zero"}`
 Stop talking and fight already!{#Name="Zero"}
 
-`Ugh, questa cosa mi sta facendo impazzire!{#Name="Zero"}`
+`Ugh, mi sta facendo impazzire!{#Name="Zero"}`
 Ugh, this is driving me crazy!{#Name="Zero"}
 
 `Sono dei piccoli bastardi insistenti, eh?{#Name="Dito"}`
@@ -214,7 +214,7 @@ Patience, my lady. 'Tis better to bend like a reed{LF}in the wind than to topple
 `Di che diavolo stai parlando?{LF}Stai iniziando a sembrare Cent!{#Name="Zero"}`
 What the hell are you talking about?{LF}You're starting to sound like Cent!{#Name="Zero"}
 
-`Arrrgh, odio questa rottura di palle! Lo odio, lo odio, lo odio!{#Name="Zero"}`
+`Arrrgh, odio tutto questo! Lo odio, lo odio, lo odio!{#Name="Zero"}`
 Arrrgh, I hate this! Hate it, hate it, hate it!{#Name="Zero"}
 
 `Oh ho! Pare che la mia signora non sia abituata{LF}a un lavoro così tedioso.{#Name="Octa"}`

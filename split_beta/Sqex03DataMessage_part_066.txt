@@ -99,7 +99,7 @@ Oh sì. Però la sua mente è affilata.{LF}Quasi quanto le sue lame! Oh oh oh!{#
 Ehi, avete visto di recente il coso... come-si-chiama?{#Name="Zero"}
 Presumo intendiate Mikhail?{LF}No, non l'ho visto.{#Name="Decadus"}
 Volete che torni indietro{LF}a cercarlo, mia signora?{#Name="Decadus"}
-No. Fallo una volta e poi se lo aspetterà sempre.{LF}Quell'idiota probabilmente si è solo perso di nuovo.{#Name="Zero"}
+No. Fallo una volta e poi se lo aspetterà sempre.{LF}Si sarà solo perso di nuovo.{#Name="Zero"}
 ミハイル知らない？お子ちゃまドラゴンなんだけど{#Name="ディト"}
 さあ？さすがのオクタも、ドラゴンとヤッたことはありませぬ{#Name="オクタ"}
 ヤッたかどうかは聞いてないよ{#Name="ディト"}

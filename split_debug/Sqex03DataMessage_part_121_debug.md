@@ -1,4 +1,4 @@
-`Cutscene{LF}Mentre Mikhail giace morente per il veleno,{LF}Zero usa la forza del suo fiore per salvarlo, {LF}creando così per la prima volta il concetto{LF}di “patto”.`
+`Cutscene{LF}Mentre Mikhail giace morente per il veleno,{LF}Zero usa la forza del suo fiore per salvarlo, {LF}creando così per la prima volta il concetto{LF}di "patto".`
 Cutscene{LF}As Mikhail lays dying from the poison,{LF}Zero uses her flower's force to save {LF}him, thereby creating the concept{LF}of a "pact" for the first time.
 
 `あらすじ第六項　３２５０　一行目{LF}あらすじ第六項　３２５０　二行目{LF}あらすじ第六項　３２５０　三行目{LF}あらすじ第六項　３２５０　四行目{LF}あらすじ第六項　３２５０　五行目`

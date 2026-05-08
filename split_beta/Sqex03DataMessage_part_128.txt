@@ -14,13 +14,13 @@ Lupi delle Sabbie sconfitti!+01
 Lupi sconfitti!
 Lupi delle Sabbie sconfitti!
 -
-Lancieri sconfitti!+01
+Lancieri sconfitti!
 Capitani Lancieri sconfitti!+01
 -
 Spiriti sconfitti!
 Spiriti Superiori sconfitti!+01
 -
-Imp sconfitti!+01
+Imp sconfitti!
 -
 -
 Ogre sconfitti!
@@ -29,7 +29,7 @@ Ogre delle Sabbie sconfitti!+01
 Troll sconfitti!
 Troll Bruti sconfitti!+01
 -
-Maghi sconfitti!+01
+Maghi sconfitti!
 -
 Necromanti sconfitti!+01
 Stregoni sconfitti!+01
@@ -60,7 +60,7 @@ Cerberi sconfitti!
 -
 Cerberi di Fiamme sconfitti!+01
 Cerberi grigi sconfitti!+01
-Golem distrutti!+01
+Golem distrutti!
 -
 花（ワン)
 花（トウ）

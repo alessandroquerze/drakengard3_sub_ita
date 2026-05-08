@@ -46,7 +46,7 @@ Divergence: Branch B{#Name="Accord"}
 `Nel flusso della storia post-Cataclisma,{#Name="Accord"}`
 In the flow of post-Cataclysm history,{#Name="Accord"}
 
-`se si riunisce una serie unica di condizioni note come "singolarità",{#Name="Accord"}`
+`se si riunisce una serie di condizioni uniche note come "singolarità",{#Name="Accord"}`
 if a unique set of conditions known as "singularities" come together,{#Name="Accord"}
 
 `nel tempo si verificano scissioni, dando origine al fenomeno della divergenza tra realtà.{#Name="Accord"}`

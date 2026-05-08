@@ -67,7 +67,7 @@ Five
 `Cent`
 Cent
 
-`Statue di Three`
+`Statue di Three distrutte`
 Three Statues
 
 `バリケード小`

@@ -11,7 +11,7 @@ Per i suoi soldati e per il suo discepolo, un'Intoner è una presenza divina.{#N
 Che strano che Mikhail debba essere la tua rovina...{#Name="Octa"}
 Non credere mai a ciò che ti dice il nemico.{#Name="Zero"}
 Ma abbiamo visto tutti cosa ha fatto a Lady Three, un'altra Intoner.{#Name="Octa"}
-Vuoi dormire e basta, per favore?{#Name="Zero"}
+Vai a dormire e basta, ti va?{#Name="Zero"}
 竜の行為は暴走ではないと？{#Name="オクタ"}
 ……もう寝ろ{#Name="ゼロ"}
 Puoi anche liquidarle, ma le mie preoccupazioni su Mikhail sono sincere...{#Name="Octa"}
@@ -36,7 +36,7 @@ Ci penso io, Zero! Ci penso io!{#Name="Mikhail"}
 初回会話{#Name=" "}
 ループ会話{#Name=" "}
 Mi sono appena ricordato una cosa. Un golem mi ha detto{LF}che Two è nel Santuario delle Sabbie!{#Name="Mikhail"}
-Un golem te l'ha "detto"? I golem non parlano, idiota.{LF}Sono di pietra.{#Name="Zero"}
+Un golem te l'ha "detto"? I golem non parlano, scemo.{LF}Sono di pietra.{#Name="Zero"}
 Beh, non ha parlato o roba del genere.{LF}E' stato più come se la sua anima mi avesse parlato.{#Name="Mikhail"}
 L'anima non esiste.{#Name="Zero"}
 Mi sono appena ricordato una cosa. Un golem mi ha detto{LF}che Two è nel Santuario delle Sabbie!{#Name="Mikhail"}

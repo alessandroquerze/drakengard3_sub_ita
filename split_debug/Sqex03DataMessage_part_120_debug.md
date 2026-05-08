@@ -148,7 +148,7 @@ Cutscene → Game{LF}As Zero and One reunite, Gabriel{LF}appears and crashes the
 `Cutscene → Gioco{LF}Zero supplica Mikhail, ferito mortalmente, di{LF}reincarnarsi, ma lui usa invece il suo ultimo desiderio{LF}per finire Gabriel, lasciando{LF}Zero ad affrontare sua sorella da sola.`
 Cutscene → Game{LF}Zero begs a mortally wounded Mikhail to{LF}reincarnate, but he uses his last wish{LF}to finish off Gabriel instead, leaving{LF}Zero to deal with her sister alone.
 
-`Cutscene{LF}Zero uccide l'ultima delle sue sorelle.{LF}Chissà cosa vide quando{LF}"quello" rimasto indietro{LF}compì il suo ultimo dovere?`
+`Cutscene{LF}Zero uccide l'ultima delle sue sorelle.{LF}Chissà cosa vide quando{LF}"quello" rimasto nascosto{LF}compì il suo ultimo dovere?`
 Cutscene{LF}Zero kills the last of her sisters.{LF}I wonder what she saw when the{LF}"one" who remained behind{LF}performed his final duty?
 
 `あらすじ第六項　５０４０　一行目{LF}あらすじ第六項　５０４０　二行目{LF}あらすじ第六項　５０４０　三行目{LF}あらすじ第六項　５０４０　四行目{LF}あらすじ第六項　５０４０　五行目`

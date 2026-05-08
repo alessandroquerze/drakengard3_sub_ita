@@ -124,7 +124,7 @@ Defeat the Arch Titans!{#Name="説明文"}
 `Zero! Ehi! Ehi, Zero!{#Name="Mikhail"}`
 Zero! Hey! Hey, Zero!{#Name="Mikhail"}
 
-`*Sigh* Senti, perché non prendi il volo{LF}e cerchi One e Three, okay?{#Name="Zero"}`
+`*Sospiro* Senti, perché non prendi il volo{LF}e cerchi One e Three, okay?{#Name="Zero"}`
 *Sigh* Look, why don't you take to the{LF}skies and look for One and Three, okay?{#Name="Zero"}
 
 `Awww! Perché? Non ti piace stare con me?{#Name="Mikhail"}`

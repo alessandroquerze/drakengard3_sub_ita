@@ -851,7 +851,7 @@ Come posso dimenticare una persona che non ho mai incontrato?{#Name="Cent"}
 Sono abbastanza sicuro che ricorderei un nome ridicolo come "Two".{#Name="Cent"}
 Va bene, ragazzi. E' ora di andare.{#Name="Zero"}
 Vuoi che vada a fare una pattuculo davanti, Zero?{#Name="Mikhail"}
-Si dice "pattuglia", idiota! Non "pattuculo"!{#Name="Zero"}
+Si dice "pattuglia", scemo! Non "pattuculo"!{#Name="Zero"}
 E' quello che ho detto! Ho detto proprio quello!{#Name="Mikhail"}
 Sai, continuo ad aspettare che diventi più intelligente,{LF}ma proprio non succede.{#Name="Dito"}
 Che ne dici, Cent? Vuoi aggiungere un po' di sarcasmo pungente{LF}alla situazione?{#Name="Dito"}
@@ -888,11 +888,11 @@ Wow. Ora mi fa quasi pena.{#Name="Dito"}
 Sai, ultimamente non ci siamo visti molto.{LF}Non ti... manco?{#Name="Dito"}
 ......{#Name="Decadus"}
 Ehi?{#Name="Zero"}
-Oh! Mi scusi, mia Lady! Non volevo ignorarla.{#Name="Decadus"}
+Oh! Mi scusi, mia signora! Non volevo ignorarla.{#Name="Decadus"}
 Su cosa stavi fantasticando stavolta?{#Name="Zero"}
-N-Nulla, mia Lady. Stavo solo... pensando a Lady Four. {#Name="Decadus"}
+N-Nulla, mia signora. Stavo solo... pensando a Lady Four. {#Name="Decadus"}
 Oh? Ci tieni abbastanza da ricordarla, eh?{#Name="Zero"}
-Non si preoccupi, mia Lady. Il mio cuore appartiene solo a lei.{#Name="Decadus"}
+Non si preoccupi, mia signora. Il mio cuore appartiene solo a lei.{#Name="Decadus"}
 Si comportava in modo parecchio strano, eh?{#Name="Zero"}
 Immagino che vi riferiate a Lady Three?{#Name="Octa"}
 A essere sincero, non ne sono sicuro.{LF}E' sempre stata un po' eccentrica.{#Name="Octa"}
@@ -1084,7 +1084,7 @@ Ho bisogno di lui.{#Name="Zero"}
 Eh!?{#Name="Mikhail"}
 Beh, okay. Non è che abbia proprio bisogno di lui.{#Name="Zero"}
 Ma ho bisogno di un drago, e lui è l'unico che ho.{#Name="Zero"}
-Seguirò la vostra guida, mia lady, qualunque{LF}direzione essa prenda.{#Name="Decadus"}
+Seguirò la vostra guida, mia signora, qualunque{LF}direzione essa prenda.{#Name="Decadus"}
 Ehi, Zero! Non ascoltare quello che ha detto quella strana ragazza, okay?{#Name="Mikhail"}
 Intendi la parte in cui diceva che mi mangerai?{#Name="Zero"}
 Sì! E' scortese! Io non ti mangerei mai, Zero!{LF}Mai!{#Name="Mikhail"}
@@ -1177,7 +1177,7 @@ Per i suoi soldati e per il suo discepolo, un'Intoner è una presenza divina.{#N
 Che strano che Mikhail debba essere la tua rovina...{#Name="Octa"}
 Non credere mai a ciò che ti dice il nemico.{#Name="Zero"}
 Ma abbiamo visto tutti cosa ha fatto a Lady Three, un'altra Intoner.{#Name="Octa"}
-Vuoi dormire e basta, per favore?{#Name="Zero"}
+Vai a dormire e basta, ti va?{#Name="Zero"}
 竜の行為は暴走ではないと？{#Name="オクタ"}
 ……もう寝ろ{#Name="ゼロ"}
 Puoi anche liquidarle, ma le mie preoccupazioni su Mikhail sono sincere...{#Name="Octa"}
@@ -1202,7 +1202,7 @@ Ci penso io, Zero! Ci penso io!{#Name="Mikhail"}
 初回会話{#Name=" "}
 ループ会話{#Name=" "}
 Mi sono appena ricordato una cosa. Un golem mi ha detto{LF}che Two è nel Santuario delle Sabbie!{#Name="Mikhail"}
-Un golem te l'ha "detto"? I golem non parlano, idiota.{LF}Sono di pietra.{#Name="Zero"}
+Un golem te l'ha "detto"? I golem non parlano, scemo.{LF}Sono di pietra.{#Name="Zero"}
 Beh, non ha parlato o roba del genere.{LF}E' stato più come se la sua anima mi avesse parlato.{#Name="Mikhail"}
 L'anima non esiste.{#Name="Zero"}
 Mi sono appena ricordato una cosa. Un golem mi ha detto{LF}che Two è nel Santuario delle Sabbie!{#Name="Mikhail"}
@@ -1276,7 +1276,7 @@ La situazione del povero Mikhail...{#Name="Decadus"}
 271{#Name="271"}
 163{#Name="163"}
 163{#Name="163"}
-Mi dispiace per voi, mia lady. Farò tutto ciò che è in mio potere per salvare Mikhail.{#Name="Decadus"}
+Mi dispiace per voi, mia signora. Farò tutto ciò che è in mio potere per salvare Mikhail.{#Name="Decadus"}
 Zero, mi dispiace. Mi dispiace davvero.{#Name="Mikhail"}
 Smettila di scusarti. Se ti senti in colpa, pensa solo a guarire.{#Name="Zero"}
 Va bene. Voglio stare meglio, Zero.{LF}Meglio e più forte. Lo voglio davvero.{#Name="Mikhail"}
@@ -1504,7 +1504,7 @@ Allora? Siamo pronti per la grande partenza?{#Name="Cent"}
 Hmm... Che strano. Non riesco a smettere di tremare.{#Name="Octa"}
 Che c'è? Nervoso?{#Name="Zero"}
 Per quanto sia vergognoso ammetterlo...{#Name="Octa"}
-Ma sa, my lady, i dottori dicono che una notte appassionata di{LF}incastri amorosi è la cura perfetta per simili mali! Mmm?{#Name="Octa"}
+Ma sa, mia signora, i dottori dicono che una notte appassionata di{LF}incastri amorosi è la cura perfetta per simili mali! Mmm?{#Name="Octa"}
 Lascia perdere.{#Name="Zero"}
 Allora mi concederebbe tre giorni?{#Name="Octa"}
 Ho bisogno di 72 ore filate di piacere solitario prima{LF}di essere pronto al combattimento.{#Name="Octa"}
@@ -1515,15 +1515,15 @@ Io personalmente apprezzo la compagnia.{LF}La trovo... vivace.{#Name="Decadus"}
 Vivace? Serve solo a farci notare più facilmente{LF}da qualche mostro!{#Name="Dito"}
 Finché Lady Zero è al sicuro, nient'altro ha importanza.{#Name="Decadus"}
 Oh, ora ho capito. Vuoi solo dare a Zero{LF}qualche scudo di carne in più, eh?{#Name="Dito"}
-Più discepoli significa più gente da maltrattare per lei.{LF}E' così, mostriciattolo?{#Name="Dito"}
+Più discepoli significa più gente da maltrattare per lei.{LF}E' così, svitato?{#Name="Dito"}
 Le amicizie finte mi fanno schifo.{#Name="Dito"}
 Il nostro viaggio è davvero diventato lungo.{#Name="Decadus"}
 Ho sempre saputo che lo sarebbe stato.{#Name="Zero"}
-Naturalmente, my lady. Solo lei poteva prevedere simili cose.{#Name="Decadus"}
+Naturalmente, mia signora. Solo lei poteva prevedere simili cose.{#Name="Decadus"}
 Prego che stanotte possa godere di un sonno profondo e ristoratore.{#Name="Decadus"}
 Resterò al suo fianco e la proteggerò{LF}da qualunque cosa possa accadere.{#Name="Decadus"}
 Già. Farò del mio meglio.{#Name="Zero"}
-Sono ai suoi ordini, my lady.{LF}Farò qualunque cosa desideri.{#Name="Decadus"}
+Sono ai suoi ordini, mia signora.{LF}Farò qualunque cosa desideri.{#Name="Decadus"}
 E' rimasta solo una sorella, eh, Zero?{#Name="Mikhail"}
 Finalmente siamo arrivati a One.{#Name="Zero"}
 Quindi immagino che ora la ucciderai, eh?{#Name="Mikhail"}
@@ -1532,14 +1532,14 @@ E' solo che... ormai abbiamo ucciso un sacco di persone, sai?{#Name="Mikhail"}
 E allora?{#Name="Zero"}
 Beh, quando provo a dormire, a volte io...{LF}Riesco ancora a sentirli urlare.{#Name="Mikhail"}
 Tu, Zero? Tu li senti urlare?{#Name="Mikhail"}
-No.{#Name="Zero"}
+No, non li sento.{#Name="Zero"}
 Wow, Zero. Sei davvero forte.{#Name="Mikhail"}
 Uccideremo ancora...{#Name="Mikhail"}
 Andiamo?{#Name="Zero"}
 Lady One è nella Cathedral City, protetta{LF}da una potente rete difensiva.{#Name="Octa"}
 Perciò, credo che un'invasione aerea sarebbe la nostra strategia migliore.{#Name="Octa"}
 Huh. Beh, almeno servi a qualcosa.{#Name="Zero"}
-Ma my lady, lei sa già che sono di grande utilità{LF}durante queste lunghe, buie notti!{#Name="Octa"}
+Ma mia signora, lei sa già che sono di grande utilità{LF}durante queste lunghe, buie notti!{#Name="Octa"}
 ははっ……{#Name="ゼロ"}
 Quindi... combattiamo di nuovo?{#Name="Mikhail"}
 Sì.{#Name="Zero"}
@@ -1558,7 +1558,7 @@ Andiamo?{#Name="Zero"}
 Lady One è nella Cathedral City, protetta{LF}da una potente rete difensiva.{#Name="Octa"}
 Perciò, credo che un'invasione aerea sarebbe la nostra strategia migliore.{#Name="Octa"}
 Huh. Beh, almeno servi a qualcosa.{#Name="Zero"}
-Ma my lady, lei sa già che sono di grande utilità{LF}durante queste lunghe, buie notti!{#Name="Octa"}
+Ma mia signora, lei sa già che sono di grande utilità{LF}durante queste lunghe, buie notti!{#Name="Octa"}
 Heh.{#Name="Zero"}
 Quindi... combattiamo di nuovo?{#Name="Mikhail"}
 Sì.{#Name="Zero"}
@@ -3859,7 +3859,7 @@ Io mi occupo della feccia a terra.{#Name="Zero"}
 面倒臭いけど{#Name="ゼロ"}
 Va bene, vado verso la nave.{#Name="Mikhail"}
 Fa' attenzione, Zero!{#Name="Mikhail"}
-Pensa a te stesso, idiota.{#Name="Zero"}
+Pensa a te stesso, scemo.{#Name="Zero"}
 E resta concentrato!{#Name="Zero"}
 E' lei! E' Zero!{#Name="Soldier A"}
 E' una vergogna per il nome degli Intoner!{#Name="Soldier B"}
@@ -3870,7 +3870,7 @@ Questo è il potere di un Intoner...{#Name="Soldier F"}
 Chiunque mi intralci perderà la testa!{#Name="Zero"}
 {06}>{#Name="Soldier G"}
 Smettila di pisciarti addosso e lasciati uccidere!{#Name="Zero"}
-Sta' attento, idiota!{#Name="Zero"}
+Sta' attento, scemo!{#Name="Zero"}
 Ora siamo nel territorio di Five!{#Name="Zero"}
 Ricevuto!{#Name="Mikhail"}
 Ah, e se mi rallenti, sei morto.{#Name="Zero"}
@@ -4114,7 +4114,7 @@ Sono solo questi vermi di soldati a farmi incazzare.{#Name="Zero"}
 Vermi? Ehi, ti piacciono i vermi, Zero?{#Name="Mikhail"}
 Che razza di domanda è? Certo che no.{#Name="Zero"}
 Oh. Pensavo magari ne avessi qualcuno.{LF}Ho un po' fame...{#Name="Mikhail"}
-Non mangiare vermi, idiota!{#Name="Zero"}
+Non mangiare vermi, scemo!{#Name="Zero"}
 Mi sto un po' stancando...{#Name="Mikhail"}
 Smettila di piagnucolare.{#Name="Zero"}
 Ehi, volare è piuttosto difficile, sai?{#Name="Mikhail"}
@@ -4180,7 +4180,7 @@ VISTO!? Le navi da guerra sono davvero super forti!{#Name="Mikhail"}
 Non possono essere più forti di un drago.{#Name="Zero"}
 Ehm...{#Name="Mikhail"}
 Forza! Forza!{#Name="Mikhail"}
-Stai volando troppo piano, idiota!{#Name="Zero"}
+Stai volando troppo piano, scemo!{#Name="Zero"}
 Ci sto provando, Zero! Ci sto provando davvero!{#Name="Mikhail"}
 Allora provaci di più.{#Name="Zero"}
 Voglio risultati, non scuse.{#Name="Zero"}
@@ -4201,7 +4201,7 @@ Difficile? Un vero drago potrebbe farlo nel sonno.{#Name="Zero"}
 Ehi, mi stai paragonando di nuovo a Michael,{LF}vero?{#Name="Mikhail"}
 Non lo farei mai.{#Name="Zero"}
 Davvero?{#Name="Mikhail"}
-Sì, davvero. Perché Michael era straordinario,{LF}e tu sei un grosso idiota.{#Name="Zero"}
+Sì, davvero. Perché Michael era straordinario,{LF}e tu sei un grosso scemo.{#Name="Zero"}
 Vorrei che usassi il mio nome come usi il suo...{#Name="Mikhail"}
 Beh, sta' a vedere. Combatterò così{LF}duramente che DOVRAI usare il mio nome!{#Name="Mikhail"}
 Eccolo. Five è in quel santuario.{#Name="Zero"}
@@ -5958,7 +5958,7 @@ Il raro potere concesso a noi soli...{#Name="Decadus"}
 La solida cittadella che ci protegge...{#Name="Decadus"}
 Scaglia i tuoi peccati corrotti su questi stessi cieli!{#Name="Decadus"}
 Io, Decadus, ti evoco nel mio nome...{#Name="Decadus"}
-Armaros, sorgi!{#Name="Decadus"}
+Armaros, sorreggici!{#Name="Decadus"}
 Ricordi quando quei ragazzi mi tormentavano, Zero?{#Name="Four"}
 Io piangevo, e tu restavi con me{LF}finché non mi sentivo meglio...{#Name="Four"}
 Credo che tu abbia sbagliato persona.{#Name="Zero"}
@@ -6989,7 +6989,7 @@ Oh sì. Però la sua mente è affilata.{LF}Quasi quanto le sue lame! Oh oh oh!{#
 Ehi, avete visto di recente il coso... come-si-chiama?{#Name="Zero"}
 Presumo intendiate Mikhail?{LF}No, non l'ho visto.{#Name="Decadus"}
 Volete che torni indietro{LF}a cercarlo, mia signora?{#Name="Decadus"}
-No. Fallo una volta e poi se lo aspetterà sempre.{LF}Quell'idiota probabilmente si è solo perso di nuovo.{#Name="Zero"}
+No. Fallo una volta e poi se lo aspetterà sempre.{LF}Si sarà solo perso di nuovo.{#Name="Zero"}
 ミハイル知らない？お子ちゃまドラゴンなんだけど{#Name="ディト"}
 さあ？さすがのオクタも、ドラゴンとヤッたことはありませぬ{#Name="オクタ"}
 ヤッたかどうかは聞いてないよ{#Name="ディト"}
@@ -8608,7 +8608,7 @@ No, credo che "rozzo" sia la parola migliore qui.{#Name="Dito"}
 Voglio dire, diamine, prima ha mangiato carne cruda{LF}dal pavimento!{#Name="Dito"}
 Ho visto cani più schizzinosi di lei.{#Name="Dito"}
 Un'Intoner più rozza di un cane?{LF}Oh ho! Questo tocca tutti i miei punti deboli!{#Name="Octa"}
-State zitti prima che strappi a tutti la lingua!{#Name="Zero"}
+Silenzio prima che strappi a tutti la lingua!{#Name="Zero"}
 Bel trucchetto. Chi è questo tizio?{#Name="Zero"}
 Sembrerebbe un mago.{#Name="Octa"}
 E' diverso da uno stregone?{LF}Non riesco a tenere il conto di questi stronzi.{#Name="Zero"}
@@ -8758,15 +8758,15 @@ Non è un caso. C'è qualcosa{LF}di strano qui.{#Name="Zero"}
 Forse i nostri nemici stanno usando la magia{LF}per amplificare i raggi del sole.{#Name="Decadus"}
 Eccoci di nuovo con la magia.{LF}Davvero fottutamente comodo!{#Name="Zero"}
 Scommetto che potrebbe esserci un mago{LF}che lancia incantesimi qui vicino.{#Name="Octa"}
-Nascosto come una piccolo stronzetto, eh? Tipico.{#Name="Dito"}
+Nascosto come un piccolo stronzetto, eh? Tipico.{#Name="Dito"}
 Gli aprirò un secondo buco del culo! E poi un terzo!{#Name="Zero"}
 Ha ha ha! Questa è la mia Z!{#Name="Dito"}
-Questa luce solare odiosa è qualcosa di tremendo.{LF}Basterebbe a far ammosciare persino me!{#Name="Octa"}
+Questa odiosa luce solare è proprio tremenda.{LF}Basterebbe a far ammosciare persino me!{#Name="Octa"}
 Faremmo meglio a restare all'ombra per conservare le energie.{#Name="Decadus"}
 Che c'è? Non dovresti{LF}lamentarti di qualcosa?{#Name="Zero"}
 Troppo caldo. Non riesco a parlare.{#Name="Dito"}
 Forse una storia aiuterebbe!{LF}Lasciate che vi racconti di quella volta in un bordello{LF}con un cactus e tre splendide seduttrici...{#Name="Octa"}
-Basta. Peggiora le cose.{#Name="Dito"}
+Basta. Peggiori le cose.{#Name="Dito"}
 La luce del sole non vi dà fastidio, mia signora?{#Name="Decadus"}
 Ci vuole più di un po' di sole per farmi male. {#Name="Zero"}
 Tuttavia, vi prego di non esagerare.{LF}Meglio restare all'ombra.{#Name="Decadus"}
@@ -8775,7 +8775,7 @@ Non è che abbiamo scelta.{LF}Questo sole ammazza i discepoli!{#Name="Dito"}
 Non siamo tutti invincibili come te, ricordi?{#Name="Dito"}
 Beh, mi fa comunque incazzare.{#Name="Zero"}
 Lady Zero, guardate dove mettete i piedi.{#Name="Octa"}
-Nnngh! Ci sta mettendo un'eternità!{LF}Quanto è grande quest'area!?{#Name="Zero"}
+Nnngh! Ci stiamo mettendo un'eternità!{LF}Quanto è grande quest'area!?{#Name="Zero"}
 Ho ho. Viaggiare è come il dolce amore: un viaggio{LF}terribilmente lungo per un climax fin troppo breve!{#Name="Octa"}
 Smettila di tentare di fare il profondo, Octa.{LF}Non ti si addice.{#Name="Zero"}
 *Anf, anf...*{#Name="Decadus"}
@@ -8783,7 +8783,7 @@ In difficoltà, Decadus?{#Name="Dito"}
 Nnngh... In effetti, sì... Ma...{LF}affronterò qualunque prova per la mia signora.{#Name="Decadus"}
  {#Name="デカート"}
 Sicuro che sia per lei? Sembri terribilmente eccitato.{#Name="Dito"}
-Sono questi stronzi che hanno evocato{LF}quella luce solare. Uccideteli!{#Name="Zero"}
+Questi sono gli stronzi che hanno evocato{LF}quella luce solare. Uccideteli!{#Name="Zero"}
 Oh ho ho! Faremmo meglio a stare attenti.{LF}Vedo un altro sole evocato laggiù!{#Name="Octa"}
 Oh, meraviglioso.{#Name="Zero"}
 Credo che sto per impazzire.{#Name="Zero"}
@@ -8907,7 +8907,7 @@ Ma mi sono assicurato di fare i miei bisogni{LF}prima di venire da te!{#Name="Mi
 E li ho coperti con la sabbia proprio come mi hai insegnato!{#Name="Mikhail"}
 Va bene, no? Va bene vero?!{#Name="Mikhail"}
 *Sigh*{#Name="Zero"}
-Ehi, Zero? Che cos'ha Two,{LF}comunque?{#Name="Mikhail"}
+Ehi, Zero? Cos'ha che non va Two,{LF}comunque?{#Name="Mikhail"}
 Ha combattuto contro i suoi stessi poteri e ha perso.{#Name="Zero"}
 Serve una mente forte per resistere{LF}al potere di un canto.{#Name="Zero"}
 Lei non ce l'aveva.{#Name="Zero"}
@@ -9901,13 +9901,13 @@ Zero!{#Name="Mikhail"}
 Non preoccuparti per me!{#Name="Zero"}
 Tu occupati di quello stronzo nero!{#Name="Zero"}
 O-Okay!{#Name="Mikhail"}
-E torna sano e salvo!{#Name="Zero"}
+E non morire!{#Name="Zero"}
 {06}>{#Name="Mikhail"}
 R-Ricevuto!{#Name="Mikhail"}
 よっ{#Name="ディト"}
 Accidenti, questa stupida polvere mi sta entrando{LF}in tutte le fessure.{#Name="Dito"}
 Presto mi servirà un bagno.{#Name="Dito"}
-Che ne dici, Z? Vuoi unirti a me?{#Name="Dito"}
+Che ne dici, Z? Ti va di unirti?{#Name="Dito"}
 Magari la prossima volta.{#Name="Zero"}
 ついに、ここまで！？{#Name="兵士Ｆ"}
 全員、配置につけ！！{#Name="兵士Ａ"}
@@ -9926,7 +9926,7 @@ Magari la prossima volta.{#Name="Zero"}
 死んだ？ねえねえ、死んだ？わっ。きったない死体！{#Name="ディト"}
 救護班呼ぶ前にさぁ、せっかくだから、オマエも死んどけば？{#Name="ディト"}
 ディト…{#Name="デカート"}
-Il miglior drago, a quanto pare.{#Name="Zero"}
+Il miglior drago, al massimo.{#Name="Zero"}
 Zero, tutto bene laggiù?{#Name="Mikhail"}
 Sto bene. Vai a distruggere quel cannone per me.{#Name="Zero"}
 Ricevuto! Rice—{#Name="Mikhail"}
@@ -10038,13 +10038,13 @@ Non credo proprio. E' la prima volta{LF}che lo sento anch'io.{#Name="Cent"}
 Com'è che finisco sempre a combattere{LF}di nuovo queste stupide battaglie?{#Name="Dito"}
 Oh ho ho! Tutto per Lady Zero, ovviamente.{#Name="Octa"}
 La semplice verità è che siamo tutti completamente{LF}indifesi davanti al suo fascino...{#Name="Octa"}
-Mi prendi per il culo...{#Name="Dito"}
+Non puoi essere serio...{#Name="Dito"}
 *Anf, anf...*{#Name="Zero"}
 Zero, stai bene? La forza del{LF}fiore sta diventando più forte!{#Name="Mikhail"}
 Continua...ad andare...{#Name="Zero"}
 Ma...{#Name="Mikhail"}
 Chiudi il becco e continua ad andare, qualunque cosa accada!{LF}Mi hai sentito!?{#Name="Zero"}
-Cane marcio... Ti ammazzo!{LF}E poi ti ammazzo di nuovo!{#Name="Dito"}
+Cane marcito... Ti ammazzo!{LF}E poi ti ammazzo di nuovo!{#Name="Dito"}
 Nonostante tutta la tua spacconeria antisociale,{LF}Dito, vedo che stai ancora combattendo con impegno.{#Name="Decadus"}
 Eh, già che sono qui, tanto vale dare una mano{LF}a Z.{#Name="Dito"}
 Vedi, Dito? Il potere della vera{LF}amicizia conquista tutto!{#Name="Decadus"}
@@ -10085,7 +10085,7 @@ Sapevo che prima o poi sareste venuti strisciando{LF}dal caro vecchio Cent!{#Nam
 Octa? Posso chiederti un favore?{#Name="Decadus"}
 Mi ignori, eh? Una simile timidezza{LF}è davvero sconveniente...{#Name="Cent"}
 E' morto? Ehi, ehi, è morto?{LF}Whoa, guarda tutto quel sangue!{#Name="Dito"}
-Ha ha! Fammi un favore e lascia perdere i medici.^{#Name="Dito"}
+Ha ha! Fammi un favore e lascia perdere le cure.{#Name="Dito"}
 Fantastico. Un altro scherzo della natura.{#Name="Zero"}
 Bestie volanti. Imp, immagino.{#Name="Octa"}
 Si dice che banchettino con il fegato degli umani.{#Name="Octa"}
@@ -10174,7 +10174,7 @@ C'è un uomo a terra anche qui!{#Name="Soldier D"}
 自分達でなんとかしろ！救護班もやられておる{#Name="兵士Ｆ"}
 Via! State lontani da meee!{#Name="Soldier G"}
 Calmati! Sei fuori formazione!{#Name="Soldier E"}
-Non arrendetevi! Continuate a spingere!{#Name="Soldier B"}
+Non arrendetevi! Continuate a lottare!{#Name="Soldier B"}
 Fermatela! Fermatela adesso!{#Name="Soldier A"}
 Intoner o no, come può una sola donna{LF}respingere tutte queste truppe?{#Name="Soldier F"}
 Sta cercando di porre fine al mondo da sola.{LF}E' ovvio che sia fottutamente forte!{#Name="Soldier E"}
@@ -10273,7 +10273,7 @@ Accidenti...{#Name="One"}
 Addio, Gabriel...{#Name="One"}
 Mi...dispiace...{#Name="One"}
 ......{#Name="Zero"}
-Quindi è...{#Name="One"}
+Quindi...Questa è...{#Name="One"}
 Addio...{#Name="One"}
 Sì. Lo è.{#Name="Zero"}
 Mikhail... E' finita.{#Name="Zero"}
@@ -12564,7 +12564,7 @@ Cutscene{LF}Anche se Decadus è preoccupato per la ferita{LF}della sua Intoner, 
 あらすじ第十項　４０２０　一行目{LF}あらすじ第十項　４０２０　二行目{LF}あらすじ第十項　４０２０　三行目{LF}あらすじ第十項　４０２０　四行目{LF}あらすじ第十項　４０２０　五行目
 あらすじ第十一項　４０２０　一行目{LF}あらすじ第十一項　４０２０　二行目{LF}あらすじ第十一項　４０２０　三行目{LF}あらすじ第十一項　４０２０　四行目{LF}あらすじ第十一項　４０２０　五行目
 Mappa → Gioco{LF}Il gruppo si ritrova bloccato{LF}dal calore generato dalla magia lungo la strada{LF}per il Santuario delle Sabbie. Sconfiggono{LF}gli stregoni responsabili e proseguono.
-Gioco{LF}Dopo una feroce battaglia con un centauro{LF}di fiamma, il gruppo riesce finalmente{LF}a entrare nel Santuario delle Sabbie.
+Gioco{LF}Dopo una feroce battaglia con un centauro{LF}di fiamme, il gruppo riesce finalmente{LF}a entrare nel Santuario delle Sabbie.
 あらすじ第三項　４０３０　一行目{LF}あらすじ第三項　４０３０　二行目{LF}あらすじ第三項　４０３０　三行目{LF}あらすじ第三項　４０３０　四行目{LF}あらすじ第三項　４０３０　五行目
 あらすじ第四項　４０３０　一行目{LF}あらすじ第四項　４０３０　二行目{LF}あらすじ第四項　４０３０　三行目{LF}あらすじ第四項　４０３０　四行目{LF}あらすじ第四項　４０３０　五行目
 あらすじ第五項　４０３０　一行目{LF}あらすじ第五項　４０３０　二行目{LF}あらすじ第五項　４０３０　三行目{LF}あらすじ第五項　４０３０　四行目{LF}あらすじ第五項　４０３０　五行目
@@ -12622,7 +12622,7 @@ Gioco{LF}Mentre Zero si infiltra nella cattedrale,{LF}Mikhail capisce che, anche
 Gioco{LF}Zero si avvicina alla sua destinazione finale...{LF}Sua sorella, One.
 Cutscene → Gioco{LF}Quando Zero e One si ritrovano, Gabriel{LF}appare e rovina la festa. {LF}La battaglia finale attende. 
 Cutscene → Gioco{LF}Zero supplica Mikhail, ferito mortalmente, di{LF}reincarnarsi, ma lui usa invece il suo ultimo desiderio{LF}per finire Gabriel, lasciando{LF}Zero ad affrontare sua sorella da sola.
-Cutscene{LF}Zero uccide l'ultima delle sue sorelle.{LF}Chissà cosa vide quando{LF}"quello" rimasto indietro{LF}compì il suo ultimo dovere?
+Cutscene{LF}Zero uccide l'ultima delle sue sorelle.{LF}Chissà cosa vide quando{LF}"quello" rimasto nascosto{LF}compì il suo ultimo dovere?
 あらすじ第六項　５０４０　一行目{LF}あらすじ第六項　５０４０　二行目{LF}あらすじ第六項　５０４０　三行目{LF}あらすじ第六項　５０４０　四行目{LF}あらすじ第六項　５０４０　五行目
 あらすじ第七項　５０４０　一行目{LF}あらすじ第七項　５０４０　二行目{LF}あらすじ第七項　５０４０　三行目{LF}あらすじ第七項　５０４０　四行目{LF}あらすじ第七項　５０４０　五行目
 あらすじ第八項　５０４０　一行目{LF}あらすじ第八項　５０４０　二行目{LF}あらすじ第八項　５０４０　三行目{LF}あらすじ第八項　５０４０　四行目{LF}あらすじ第八項　５０４０　五行目
@@ -12677,7 +12677,7 @@ Gioco{LF}La foresta diventa ancora più strana dopo{LF}la morte di Three, ma Zer
 Cutscene → Gioco{LF}Il gruppo trova Two che danza vicino al{LF}cadavere di One in una radura aperta. Quella che dovrebbe{LF}essere una felice riunione con Cent invece{LF}porta solo disperazione.
 Cutscene{LF}Mentre i discepoli cadono uno dopo l'altro,{LF}anche Two e Cent si ritrovano{LF}sull'orlo del baratro. I due usano l'ultimo frammento{LF}del loro potere per evocare un angelo.
 Gioco{LF}Combattere Raphael nella foresta piena di veleno{LF}inizia a pesare su Mikhail...
-Cutscene{LF}Mentre Mikhail giace morente per il veleno,{LF}Zero usa la forza del suo fiore per salvarlo, {LF}creando così per la prima volta il concetto{LF}di “patto”.
+Cutscene{LF}Mentre Mikhail giace morente per il veleno,{LF}Zero usa la forza del suo fiore per salvarlo, {LF}creando così per la prima volta il concetto{LF}di "patto".
 あらすじ第六項　３２５０　一行目{LF}あらすじ第六項　３２５０　二行目{LF}あらすじ第六項　３２５０　三行目{LF}あらすじ第六項　３２５０　四行目{LF}あらすじ第六項　３２５０　五行目
 あらすじ第七項　３２５０　一行目{LF}あらすじ第七項　３２５０　二行目{LF}あらすじ第七項　３２５０　三行目{LF}あらすじ第七項　３２５０　四行目{LF}あらすじ第七項　３２５０　五行目
 あらすじ第八項　３２５０　一行目{LF}あらすじ第八項　３２５０　二行目{LF}あらすじ第八項　３２５０　三行目{LF}あらすじ第八項　３２５０　四行目{LF}あらすじ第八項　３２５０　五行目
@@ -13290,7 +13290,7 @@ Golem distrutto!
 花（ファイブ）
 -
 Centauro sconfitto!
-Centauro di Fuoco sconfitto!+100
+Centauro di Fuoco sconfitto!
 -
 -
 Cubo Gargoyle distrutto!+100
@@ -13428,13 +13428,13 @@ Lupi delle Sabbie sconfitti!+01
 Lupi sconfitti!
 Lupi delle Sabbie sconfitti!
 -
-Lancieri sconfitti!+01
+Lancieri sconfitti!
 Capitani Lancieri sconfitti!+01
 -
 Spiriti sconfitti!
 Spiriti Superiori sconfitti!+01
 -
-Imp sconfitti!+01
+Imp sconfitti!
 -
 -
 Ogre sconfitti!
@@ -13443,7 +13443,7 @@ Ogre delle Sabbie sconfitti!+01
 Troll sconfitti!
 Troll Bruti sconfitti!+01
 -
-Maghi sconfitti!+01
+Maghi sconfitti!
 -
 Necromanti sconfitti!+01
 Stregoni sconfitti!+01
@@ -13474,7 +13474,7 @@ Cerberi sconfitti!
 -
 Cerberi di Fiamme sconfitti!+01
 Cerberi grigi sconfitti!+01
-Golem distrutti!+01
+Golem distrutti!
 -
 花（ワン)
 花（トウ）
@@ -13853,7 +13853,7 @@ Impossibile usare questo oggetto.
 全てのギガース兵を倒せ！
 全てのギガース兵を倒せ！
 兵士たちを殲滅せよ！
-“チュートリアル”
+"チュートリアル"
 『魔法の発動』
 癒しの水
 体力が20%回復する

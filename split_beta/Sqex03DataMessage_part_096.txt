@@ -31,7 +31,7 @@ Sapevo che prima o poi sareste venuti strisciando{LF}dal caro vecchio Cent!{#Nam
 Octa? Posso chiederti un favore?{#Name="Decadus"}
 Mi ignori, eh? Una simile timidezza{LF}è davvero sconveniente...{#Name="Cent"}
 E' morto? Ehi, ehi, è morto?{LF}Whoa, guarda tutto quel sangue!{#Name="Dito"}
-Ha ha! Fammi un favore e lascia perdere i medici.^{#Name="Dito"}
+Ha ha! Fammi un favore e lascia perdere le cure.{#Name="Dito"}
 Fantastico. Un altro scherzo della natura.{#Name="Zero"}
 Bestie volanti. Imp, immagino.{#Name="Octa"}
 Si dice che banchettino con il fegato degli umani.{#Name="Octa"}

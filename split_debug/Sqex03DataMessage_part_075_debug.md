@@ -37,7 +37,7 @@ I'm tired of this shit. How's that?{#Name="Zero"}
 `Il cane agile emerge dagli inferi,{LF}facendo risuonare un tamburo dall'erba...{#Name="Three"}`
 The nimble dog arises from the underworld,{LF}sounding a drumbeat from the grass...{#Name="Three"}
 
-`Lo sapevo che avrebbe ripreso.{#Name="Zero"}`
+`Puntuale come al solito...{#Name="Zero"}`
 I knew that was coming.{#Name="Zero"}
 
 `I passi di una fanciulla calpestano l'erba,{LF}lasciando spazio alle spine.{#Name="Three"}`
@@ -121,7 +121,7 @@ Is that a...a cerberus?{#Name="Decadus"}
 `Un esemplare particolarmente brutto e orrido{LF}della specie.{#Name="Octa"}`
 A particularly ugly and horrid{LF}example of the species.{#Name="Octa"}
 
-`Finché muore come tutti gli altri, per me va bene.{#Name="Zero"}`
+`Finché muore come tutti gli altri, io sono a posto.{#Name="Zero"}`
 So long as it dies like all the rest, I'm good.{#Name="Zero"}
 
 `説明文`

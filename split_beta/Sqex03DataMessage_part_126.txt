@@ -86,7 +86,7 @@ Golem distrutto!
 花（ファイブ）
 -
 Centauro sconfitto!
-Centauro di Fuoco sconfitto!+100
+Centauro di Fuoco sconfitto!
 -
 -
 Cubo Gargoyle distrutto!+100

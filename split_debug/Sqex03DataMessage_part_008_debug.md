@@ -226,7 +226,7 @@ Proceed to the next mission?{#Name=" "}
 `みんなで一つの場所に集まるデモ{#Name=" "}`
 みんなで一つの場所に集まるデモ{#Name=" "}
 
-`Potrebbe essere ancora PIÙ umido, qui intorno?{LF}Persino il mio sudore sta sudando.{#Name="Dito"}`
+`Potrebbe essere ancora PIU' umido, qui intorno?{LF}Persino il mio sudore sta sudando.{#Name="Dito"}`
 Could it BE any more damp around here?{LF}Even my sweat is sweaty.{#Name="Dito"}
 
 `Urrrgh...{#Name="Decadus"}`
