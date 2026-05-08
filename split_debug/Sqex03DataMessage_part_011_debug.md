@@ -76,7 +76,7 @@ Well, okay. I don't necessarily need him.{#Name="Zero"}
 `Ma ho bisogno di un drago, e lui è l'unico che ho.{#Name="Zero"}`
 But I need a dragon, and he's the only one I got.{#Name="Zero"}
 
-`Seguirò la vostra guida, mia lady, qualunque{LF}direzione essa prenda.{#Name="Decadus"}`
+`Seguirò la vostra guida, mia signora, qualunque{LF}direzione essa prenda.{#Name="Decadus"}`
 I shall follow your lead, my lady, no matter{LF}where it may take me.{#Name="Decadus"}
 
 `Ehi, Zero! Non ascoltare quello che ha detto quella strana ragazza, okay?{#Name="Mikhail"}`

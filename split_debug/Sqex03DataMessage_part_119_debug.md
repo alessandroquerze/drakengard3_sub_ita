@@ -289,7 +289,7 @@ Cutscene{LF}Though Decadus is worried about his{LF}Intoner's injury, Zero inform
 `Mappa → Gioco{LF}Il gruppo si ritrova bloccato{LF}dal calore generato dalla magia lungo la strada{LF}per il Santuario delle Sabbie. Sconfiggono{LF}gli stregoni responsabili e proseguono.`
 Map → Game{LF}The group finds themselves blocked{LF}in by magic-induced heat en route{LF}to the Shrine of Sands. They defeat{LF}the wizards responsible and move on.
 
-`Gioco{LF}Dopo una feroce battaglia con un centauro{LF}di fiamma, il gruppo riesce finalmente{LF}a entrare nel Santuario delle Sabbie.`
+`Gioco{LF}Dopo una feroce battaglia con un centauro{LF}di fiamme, il gruppo riesce finalmente{LF}a entrare nel Santuario delle Sabbie.`
 Game{LF}After a fierce battle with a flame{LF}centaur, the group finally manages{LF}to enter the Shrine of Sands.
 
 `あらすじ第三項　４０３０　一行目{LF}あらすじ第三項　４０３０　二行目{LF}あらすじ第三項　４０３０　三行目{LF}あらすじ第三項　４０３０　四行目{LF}あらすじ第三項　４０３０　五行目`

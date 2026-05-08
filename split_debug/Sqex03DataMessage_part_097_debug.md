@@ -49,7 +49,7 @@ Get away! Get away from meee!{#Name="Soldier G"}
 `Calmati! Sei fuori formazione!{#Name="Soldier E"}`
 Calm down! You're out of formation!{#Name="Soldier E"}
 
-`Non arrendetevi! Continuate a spingere!{#Name="Soldier B"}`
+`Non arrendetevi! Continuate a lottare!{#Name="Soldier B"}`
 Don't give up! Keep pushing!{#Name="Soldier B"}
 
 `Fermatela! Fermatela adesso!{#Name="Soldier A"}`

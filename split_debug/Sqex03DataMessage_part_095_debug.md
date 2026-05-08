@@ -271,7 +271,7 @@ Oh ho ho! It's all for Lady Zero, of course.{#Name="Octa"}
 `La semplice verità è che siamo tutti completamente{LF}indifesi davanti al suo fascino...{#Name="Octa"}`
 The simple truth is, we're all completely{LF}helpless against her charms...{#Name="Octa"}
 
-`Mi prendi per il culo...{#Name="Dito"}`
+`Non puoi essere serio...{#Name="Dito"}`
 You gotta be kiddin' me...{#Name="Dito"}
 
 `*Anf, anf...*{#Name="Zero"}`
@@ -289,7 +289,7 @@ But...{#Name="Mikhail"}
 `Chiudi il becco e continua ad andare, qualunque cosa accada!{LF}Mi hai sentito!?{#Name="Zero"}`
 Shut up and keep going no matter what!{LF}You hear me!?{#Name="Zero"}
 
-`Cane marcio... Ti ammazzo!{LF}E poi ti ammazzo di nuovo!{#Name="Dito"}`
+`Cane marcito... Ti ammazzo!{LF}E poi ti ammazzo di nuovo!{#Name="Dito"}`
 You rotten dog... I'll kill ya!{LF}And then I'll kill ya again!{#Name="Dito"}
 
 `Nonostante tutta la tua spacconeria antisociale,{LF}Dito, vedo che stai ancora combattendo con impegno.{#Name="Decadus"}`

@@ -211,7 +211,7 @@ Here we go again with the magic.{LF}Real fuckin' convenient!{#Name="Zero"}
 `Scommetto che potrebbe esserci un mago{LF}che lancia incantesimi qui vicino.{#Name="Octa"}`
 I wager there might be a wizard{LF}casting spells nearby.{#Name="Octa"}
 
-`Nascosto come una piccolo stronzetto, eh? Tipico.{#Name="Dito"}`
+`Nascosto come un piccolo stronzetto, eh? Tipico.{#Name="Dito"}`
 Hiding like a little bitch, huh? Figures.{#Name="Dito"}
 
 `Gli aprirò un secondo buco del culo! E poi un terzo!{#Name="Zero"}`
@@ -220,7 +220,7 @@ I'll tear him a new asshole! And then a third!{#Name="Zero"}
 `Ha ha ha! Questa è la mia Z!{#Name="Dito"}`
 Ha ha ha! That's my Z!{#Name="Dito"}
 
-`Questa luce solare odiosa è qualcosa di tremendo.{LF}Basterebbe a far ammosciare persino me!{#Name="Octa"}`
+`Questa odiosa luce solare è proprio tremenda.{LF}Basterebbe a far ammosciare persino me!{#Name="Octa"}`
 This odious sunlight is something else.{LF}It's enough to make even me go limp!{#Name="Octa"}
 
 `Faremmo meglio a restare all'ombra per conservare le energie.{#Name="Decadus"}`
@@ -235,7 +235,7 @@ Too hot. Can't talk.{#Name="Dito"}
 `Forse una storia aiuterebbe!{LF}Lasciate che vi racconti di quella volta in un bordello{LF}con un cactus e tre splendide seduttrici...{#Name="Octa"}`
 Perhaps a story would help!{LF}Let me tell you of the time I was in a brothel{LF}with a cactus and three lovely vixens...{#Name="Octa"}
 
-`Basta. Peggiora le cose.{#Name="Dito"}`
+`Basta. Peggiori le cose.{#Name="Dito"}`
 Stop. Making it worse.{#Name="Dito"}
 
 `La luce del sole non vi dà fastidio, mia signora?{#Name="Decadus"}`
@@ -262,7 +262,7 @@ Well, it still pisses me off.{#Name="Zero"}
 `Lady Zero, guardate dove mettete i piedi.{#Name="Octa"}`
 Lady Zero, watch where you step.{#Name="Octa"}
 
-`Nnngh! Ci sta mettendo un'eternità!{LF}Quanto è grande quest'area!?{#Name="Zero"}`
+`Nnngh! Ci stiamo mettendo un'eternità!{LF}Quanto è grande quest'area!?{#Name="Zero"}`
 Nnngh! This is taking forever!{LF}How big IS this area!?{#Name="Zero"}
 
 `Ho ho. Viaggiare è come il dolce amore: un viaggio{LF}terribilmente lungo per un climax fin troppo breve!{#Name="Octa"}`
@@ -286,7 +286,7 @@ Nnngh... Indeed, I am... But...{LF}I will face any trial for my lady's sake.{#Na
 `Sicuro che sia per lei? Sembri terribilmente eccitato.{#Name="Dito"}`
 You sure it's for her? You seem awfully excited.{#Name="Dito"}
 
-`Sono questi stronzi che hanno evocato{LF}quella luce solare. Uccideteli!{#Name="Zero"}`
+`Questi sono gli stronzi che hanno evocato{LF}quella luce solare. Uccideteli!{#Name="Zero"}`
 These are the fuckers who conjured{LF}up that sunlight. Kill 'em!{#Name="Zero"}
 
 `Oh ho ho! Faremmo meglio a stare attenti.{LF}Vedo un altro sole evocato laggiù!{#Name="Octa"}`

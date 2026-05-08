@@ -28,7 +28,7 @@ That's good, right? That's really good!{#Name="Mikhail"}
 `*Sigh*{#Name="Zero"}`
 *Sigh*{#Name="Zero"}
 
-`Ehi, Zero? Che cos'ha Two,{LF}comunque?{#Name="Mikhail"}`
+`Ehi, Zero? Cos'ha che non va Two,{LF}comunque?{#Name="Mikhail"}`
 Hey, Zero? What's wrong with Two,{LF}anyway?{#Name="Mikhail"}
 
 `Ha combattuto contro i suoi stessi poteri e ha perso.{#Name="Zero"}`

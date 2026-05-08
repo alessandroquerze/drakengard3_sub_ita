@@ -46,8 +46,8 @@ Sandwolves //lupi alfa nel deserto
 `-`
 -
 
-`Lancieri sconfitti!+01`
-Lancers
+`Lancieri sconfitti!`
+Lancers //lancieri a cathedral city branch a
 
 `Capitani Lancieri sconfitti!+01`
 Lancer Captains
@@ -64,8 +64,8 @@ Greater Spirits
 `-`
 -
 
-`Imp sconfitti!+01`
-Imps
+`Imp sconfitti!`
+Imps //primi imp cattedrale branch a
 
 `-`
 -
@@ -91,8 +91,8 @@ Brute Trolls
 `-`
 -
 
-`Maghi sconfitti!+01`
-Wizards
+`Maghi sconfitti!`
+Wizards //primi maghi nel deserto cap4
 
 `-`
 -
@@ -184,8 +184,8 @@ Flame Cerberuses
 `Cerberi grigi sconfitti!+01`
 Gray Cerberuses
 
-`Golem distrutti!+01`
-Golems
+`Golem distrutti!`
+Golems //primi due golem nel sotteraneo del deserto
 
 `-`
 -

@@ -16,7 +16,7 @@ The situation with poor Mikhail...{#Name="Decadus"}
 `163{#Name="163"}`
 163{#Name="163"}
 
-`Mi dispiace per voi, mia lady. Farò tutto ciò che è in mio potere per salvare Mikhail.{#Name="Decadus"}`
+`Mi dispiace per voi, mia signora. Farò tutto ciò che è in mio potere per salvare Mikhail.{#Name="Decadus"}`
 I feel for you, my lady. I will do all in my power to save Mikhail.{#Name="Decadus"}
 
 `Zero, mi dispiace. Mi dispiace davvero.{#Name="Mikhail"}`

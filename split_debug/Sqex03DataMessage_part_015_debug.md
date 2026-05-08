@@ -64,7 +64,7 @@ What's wrong? Nervous?{#Name="Zero"}
 `Per quanto sia vergognoso ammetterlo...{#Name="Octa"}`
 As shameful as it is to admit...{#Name="Octa"}
 
-`Ma sa, my lady, i dottori dicono che una notte appassionata di{LF}incastri amorosi è la cura perfetta per simili mali! Mmm?{#Name="Octa"}`
+`Ma sa, mia signora, i dottori dicono che una notte appassionata di{LF}incastri amorosi è la cura perfetta per simili mali! Mmm?{#Name="Octa"}`
 But you know, my lady, doctors say a passionate night of{LF}log-jamming is the perfect cure for such ailments! Mmm?{#Name="Octa"}
 
 `Lascia perdere.{#Name="Zero"}`
@@ -97,7 +97,7 @@ So long as Lady Zero is safe, nothing else matters.{#Name="Decadus"}
 `Oh, ora ho capito. Vuoi solo dare a Zero{LF}qualche scudo di carne in più, eh?{#Name="Dito"}`
 Oh, now I get it. You just wanna give Zero{LF}a few more meat-shields, huh?{#Name="Dito"}
 
-`Più discepoli significa più gente da maltrattare per lei.{LF}E' così, mostriciattolo?{#Name="Dito"}`
+`Più discepoli significa più gente da maltrattare per lei.{LF}E' così, svitato?{#Name="Dito"}`
 More disciples means more people for her to abuse.{LF}That how it is, freakshow?{#Name="Dito"}
 
 `Le amicizie finte mi fanno schifo.{#Name="Dito"}`
@@ -109,7 +109,7 @@ Our journey has become long indeed.{#Name="Decadus"}
 `Ho sempre saputo che lo sarebbe stato.{#Name="Zero"}`
 I always knew it would.{#Name="Zero"}
 
-`Naturalmente, my lady. Solo lei poteva prevedere simili cose.{#Name="Decadus"}`
+`Naturalmente, mia signora. Solo lei poteva prevedere simili cose.{#Name="Decadus"}`
 Of course, my lady. Such things only you could have foreseen.{#Name="Decadus"}
 
 `Prego che stanotte possa godere di un sonno profondo e ristoratore.{#Name="Decadus"}`
@@ -121,7 +121,7 @@ I shall remain by your side and guard you{LF}from whatever may occur.{#Name="Dec
 `Già. Farò del mio meglio.{#Name="Zero"}`
 Right. I'll do my best.{#Name="Zero"}
 
-`Sono ai suoi ordini, my lady.{LF}Farò qualunque cosa desideri.{#Name="Decadus"}`
+`Sono ai suoi ordini, mia signora.{LF}Farò qualunque cosa desideri.{#Name="Decadus"}`
 I am yours to command, my lady.{LF}I shall do anything you desire.{#Name="Decadus"}
 
 `E' rimasta solo una sorella, eh, Zero?{#Name="Mikhail"}`
@@ -148,7 +148,7 @@ Well, when I try to sleep, sometimes I...{LF}I can still hear them screaming.{#N
 `Tu, Zero? Tu li senti urlare?{#Name="Mikhail"}`
 Do you, Zero? Do you hear them scream?{#Name="Mikhail"}
 
-`No.{#Name="Zero"}`
+`No, non li sento.{#Name="Zero"}`
 No, I don't.{#Name="Zero"}
 
 `Wow, Zero. Sei davvero forte.{#Name="Mikhail"}`
@@ -169,7 +169,7 @@ Thus, I believe an aerial invasion would be our best strategy.{#Name="Octa"}
 `Huh. Beh, almeno servi a qualcosa.{#Name="Zero"}`
 Huh. Well, at least you're good for something.{#Name="Zero"}
 
-`Ma my lady, lei sa già che sono di grande utilità{LF}durante queste lunghe, buie notti!{#Name="Octa"}`
+`Ma mia signora, lei sa già che sono di grande utilità{LF}durante queste lunghe, buie notti!{#Name="Octa"}`
 But my lady, you already know that I'm of great use{LF}during these long, dark nights!{#Name="Octa"}
 
 `ははっ……{#Name="ゼロ"}`
@@ -226,7 +226,7 @@ Thus, I believe an aerial invasion would be our best strategy.{#Name="Octa"}
 `Huh. Beh, almeno servi a qualcosa.{#Name="Zero"}`
 Huh. Well, at least you're good for something.{#Name="Zero"}
 
-`Ma my lady, lei sa già che sono di grande utilità{LF}durante queste lunghe, buie notti!{#Name="Octa"}`
+`Ma mia signora, lei sa già che sono di grande utilità{LF}durante queste lunghe, buie notti!{#Name="Octa"}`
 But my lady, you already know that I'm of great use{LF}during these long, dark nights!{#Name="Octa"}
 
 `Heh.{#Name="Zero"}`

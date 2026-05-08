@@ -142,7 +142,7 @@ Er...{#Name="Mikhail"}
 `Forza! Forza!{#Name="Mikhail"}`
 Come on! Come on!{#Name="Mikhail"}
 
-`Stai volando troppo piano, idiota!{#Name="Zero"}`
+`Stai volando troppo piano, scemo!{#Name="Zero"}`
 You're flying too slow, dummy!{#Name="Zero"}
 
 `Ci sto provando, Zero! Ci sto provando davvero!{#Name="Mikhail"}`
@@ -205,7 +205,7 @@ I would never do that.{#Name="Zero"}
 `Davvero?{#Name="Mikhail"}`
 Really?{#Name="Mikhail"}
 
-`Sì, davvero. Perché Michael era straordinario,{LF}e tu sei un grosso idiota.{#Name="Zero"}`
+`Sì, davvero. Perché Michael era straordinario,{LF}e tu sei un grosso scemo.{#Name="Zero"}`
 Yes, really. Because Michael was amazing,{LF}and you're a big dummy.{#Name="Zero"}
 
 `Vorrei che usassi il mio nome come usi il suo...{#Name="Mikhail"}`

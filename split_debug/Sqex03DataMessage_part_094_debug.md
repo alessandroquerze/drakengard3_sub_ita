@@ -175,7 +175,7 @@ You take that black piece of shit!{#Name="Zero"}
 `O-Okay!{#Name="Mikhail"}`
 O-Okay!{#Name="Mikhail"}
 
-`E torna sano e salvo!{#Name="Zero"}`
+`E non morire!{#Name="Zero"}`
 And get back safe!{#Name="Zero"}
 
 `{06}>{#Name="Mikhail"}`
@@ -193,7 +193,7 @@ Man, this stupid dust is gettin'{LF}into all my cracks.{#Name="Dito"}
 `Presto mi servirà un bagno.{#Name="Dito"}`
 I'm gonna need a bath soon.{#Name="Dito"}
 
-`Che ne dici, Z? Vuoi unirti a me?{#Name="Dito"}`
+`Che ne dici, Z? Ti va di unirti?{#Name="Dito"}`
 Whaddya say, Z? Wanna join me?{#Name="Dito"}
 
 `Magari la prossima volta.{#Name="Zero"}`
@@ -250,7 +250,7 @@ Maybe next time.{#Name="Zero"}
 `ディト…{#Name="デカート"}`
 ディト…{#Name="デカート"}
 
-`Il miglior drago, a quanto pare.{#Name="Zero"}`
+`Il miglior drago, al massimo.{#Name="Zero"}`
 The best dragon, at least.{#Name="Zero"}
 
 `Zero, tutto bene laggiù?{#Name="Mikhail"}`

@@ -133,7 +133,7 @@ All right, I'm going after the ship.{#Name="Mikhail"}
 `Fa' attenzione, Zero!{#Name="Mikhail"}`
 Be careful, Zero!{#Name="Mikhail"}
 
-`Pensa a te stesso, idiota.{#Name="Zero"}`
+`Pensa a te stesso, scemo.{#Name="Zero"}`
 Just worry about yourself, dummy.{#Name="Zero"}
 
 `E resta concentrato!{#Name="Zero"}`
@@ -166,7 +166,7 @@ Anybody in my way's gonna lose a head!{#Name="Zero"}
 `Smettila di pisciarti addosso e lasciati uccidere!{#Name="Zero"}`
 Quit pissing yourself and let me kill you!{#Name="Zero"}
 
-`Sta' attento, idiota!{#Name="Zero"}`
+`Sta' attento, scemo!{#Name="Zero"}`
 Watch yourself, dummy!{#Name="Zero"}
 
 `Ora siamo nel territorio di Five!{#Name="Zero"}`

@@ -70,7 +70,7 @@ Cast your blighted sins upon these very skies!{#Name="Decadus"}
 `Io, Decadus, ti evoco nel mio nome...{#Name="Decadus"}`
 I, Decadus, summon thee in my name...{#Name="Decadus"}
 
-`Armaros, sorgi!{#Name="Decadus"}`
+`Armaros, sorreggici!{#Name="Decadus"}`
 Armaros, uphold!{#Name="Decadus"}
 
 `Ricordi quando quei ragazzi mi tormentavano, Zero?{#Name="Four"}`

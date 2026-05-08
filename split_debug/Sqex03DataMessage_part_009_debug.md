@@ -13,7 +13,7 @@ All right, guys. Time to go.{#Name="Zero"}
 `Vuoi che vada a fare una pattuculo davanti, Zero?{#Name="Mikhail"}`
 You want me to go butt roll ahead, Zero?{#Name="Mikhail"}
 
-`Si dice "pattuglia", idiota! Non "pattuculo"!{#Name="Zero"}`
+`Si dice "pattuglia", scemo! Non "pattuculo"!{#Name="Zero"}`
 It's "patrol," dummy! Not "butt roll!"{#Name="Zero"}
 
 `E' quello che ho detto! Ho detto proprio quello!{#Name="Mikhail"}`
@@ -124,19 +124,19 @@ You know, we haven't seen much of each other lately.{LF}Don't you...miss me?{#Na
 `Ehi?{#Name="Zero"}`
 Hello?{#Name="Zero"}
 
-`Oh! Mi scusi, mia Lady! Non volevo ignorarla.{#Name="Decadus"}`
+`Oh! Mi scusi, mia signora! Non volevo ignorarla.{#Name="Decadus"}`
 Oh! My apologies, my lady! I did not mean to ignore you.{#Name="Decadus"}
 
 `Su cosa stavi fantasticando stavolta?{#Name="Zero"}`
 What were you fantasizing about this time?{#Name="Zero"}
 
-`N-Nulla, mia Lady. Stavo solo... pensando a Lady Four. {#Name="Decadus"}`
+`N-Nulla, mia signora. Stavo solo... pensando a Lady Four. {#Name="Decadus"}`
 N-Nothing, my lady. Just...thinking about Lady Four. {#Name="Decadus"}
 
 `Oh? Ci tieni abbastanza da ricordarla, eh?{#Name="Zero"}`
 Oh? You care enough to remember her, huh?{#Name="Zero"}
 
-`Non si preoccupi, mia Lady. Il mio cuore appartiene solo a lei.{#Name="Decadus"}`
+`Non si preoccupi, mia signora. Il mio cuore appartiene solo a lei.{#Name="Decadus"}`
 Worry not, my lady. My heart is yours alone.{#Name="Decadus"}
 
 `Si comportava in modo parecchio strano, eh?{#Name="Zero"}`

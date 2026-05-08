@@ -76,7 +76,7 @@ I've seen dogs who are pickier than that.{#Name="Dito"}
 `Un'Intoner più rozza di un cane?{LF}Oh ho! Questo tocca tutti i miei punti deboli!{#Name="Octa"}`
 An Intoner who's cruder than a dog?{LF}Oh ho! That pushes all my buttons!{#Name="Octa"}
 
-`State zitti prima che strappi a tutti la lingua!{#Name="Zero"}`
+`Silenzio prima che strappi a tutti la lingua!{#Name="Zero"}`
 Shut up before I pull out all your tongues!{#Name="Zero"}
 
 `Bel trucchetto. Chi è questo tizio?{#Name="Zero"}`

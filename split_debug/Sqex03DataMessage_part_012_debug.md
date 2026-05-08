@@ -37,7 +37,7 @@ Never believe what your enemy tells you.{#Name="Zero"}
 `Ma abbiamo visto tutti cosa ha fatto a Lady Three, un'altra Intoner.{#Name="Octa"}`
 But we all saw what he did to Lady Three, a fellow Intoner.{#Name="Octa"}
 
-`Vuoi dormire e basta, per favore?{#Name="Zero"}`
+`Vai a dormire e basta, ti va?{#Name="Zero"}`
 Go to sleep already, would you?{#Name="Zero"}
 
 `竜の行為は暴走ではないと？{#Name="オクタ"}`
@@ -112,7 +112,7 @@ You got it, Zero! You got it!{#Name="Mikhail"}
 `Mi sono appena ricordato una cosa. Un golem mi ha detto{LF}che Two è nel Santuario delle Sabbie!{#Name="Mikhail"}`
 I just remembered something. A golem told me{LF}that Two is in the Shrine of Sands!{#Name="Mikhail"}
 
-`Un golem te l'ha "detto"? I golem non parlano, idiota.{LF}Sono di pietra.{#Name="Zero"}`
+`Un golem te l'ha "detto"? I golem non parlano, scemo.{LF}Sono di pietra.{#Name="Zero"}`
 A golem "told" you? Golems can't talk, dummy.{LF}They're stone.{#Name="Zero"}
 
 `Beh, non ha parlato o roba del genere.{LF}E' stato più come se la sua anima mi avesse parlato.{#Name="Mikhail"}`

@@ -262,8 +262,8 @@ Golem //golem delle sabbie
 `Centauro sconfitto!`
 Centaur //primo centauro, dopo foresta perduta
 
-`Centauro di Fuoco sconfitto!+100`
-Flame Centaur
+`Centauro di Fuoco sconfitto!`
+Flame Centaur //centauro di fuoco nel deserto
 
 `-`
 -

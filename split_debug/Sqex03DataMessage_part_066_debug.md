@@ -301,7 +301,7 @@ I assume you mean Mikhail?{LF}No, I have not.{#Name="Decadus"}
 `Volete che torni indietro{LF}a cercarlo, mia signora?{#Name="Decadus"}`
 Would you like me to turn back{LF}and look for him, my lady?{#Name="Decadus"}
 
-`No. Fallo una volta e poi se lo aspetterà sempre.{LF}Quell'idiota probabilmente si è solo perso di nuovo.{#Name="Zero"}`
+`No. Fallo una volta e poi se lo aspetterà sempre.{LF}Si sarà solo perso di nuovo.{#Name="Zero"}`
 No. Do it once and he'll expect it.{LF}Dummy's probably just lost again.{#Name="Zero"}
 
 `ミハイル知らない？お子ちゃまドラゴンなんだけど{#Name="ディト"}`

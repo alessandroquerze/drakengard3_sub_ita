@@ -97,7 +97,7 @@ Ignoring me, eh? Such bashfulness{LF}really is unbecoming...{#Name="Cent"}
 `E' morto? Ehi, ehi, è morto?{LF}Whoa, guarda tutto quel sangue!{#Name="Dito"}`
 Is he dead? Hey, hey, is he dead?{LF}Whoa, look at all the blood!{#Name="Dito"}
 
-`Ha ha! Fammi un favore e lascia perdere i medici.^{#Name="Dito"}`
+`Ha ha! Fammi un favore e lascia perdere le cure.{#Name="Dito"}`
 Ha ha! Do me a favor and skip the medics,{LF}would you?{#Name="Dito"}
 
 `Fantastico. Un altro scherzo della natura.{#Name="Zero"}`

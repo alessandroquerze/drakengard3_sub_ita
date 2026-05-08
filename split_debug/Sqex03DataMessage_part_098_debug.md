@@ -31,7 +31,7 @@ I'm...sorry...{#Name="One"}
 `......{#Name="Zero"}`
 ......{#Name="Zero"}
 
-`Quindi è...{#Name="One"}`
+`Quindi...Questa è...{#Name="One"}`
 So this is...{#Name="One"}
 
 `Addio...{#Name="One"}`

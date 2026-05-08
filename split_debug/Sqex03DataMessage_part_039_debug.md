@@ -262,7 +262,7 @@ What kind of question is that? Of course not.{#Name="Zero"}
 `Oh. Pensavo magari ne avessi qualcuno.{LF}Ho un po' fame...{#Name="Mikhail"}`
 Oh. I thought maybe you had some.{LF}I'm kinda hungry...{#Name="Mikhail"}
 
-`Non mangiare vermi, idiota!{#Name="Zero"}`
+`Non mangiare vermi, scemo!{#Name="Zero"}`
 Don't eat maggots, dummy!{#Name="Zero"}
 
 `Mi sto un po' stancando...{#Name="Mikhail"}`
