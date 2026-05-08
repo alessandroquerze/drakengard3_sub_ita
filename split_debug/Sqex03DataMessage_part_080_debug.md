@@ -196,7 +196,7 @@ Help...help me...{#Name="Soldier D"}
 `D-Dannazione... La mia gamba...{#Name="Soldier A"}`
 D-Damn... My leg...{#Name="Soldier A"}
 
-`ALTRI lupi!? Sta diventando ri-dannatamente-dicolo.{#Name="Zero"}`
+`ALTRI lupi!? Sta diventando ri-dannatamente ridicolo.{#Name="Zero"}`
 MORE wolves!? This is getting ri-goddamn-diculous.{#Name="Zero"}
 
 `L'hai detto. Stupide palle di pelo...{#Name="Dito"}`

@@ -31,7 +31,7 @@ Zero, look! Look! Now we can go through that tree!{#Name="Mikhail"}
 `Uh, beh, sì, cioè... No?{#Name="Mikhail"}`
 Uh, well, yeah, I mean... Right?{#Name="Mikhail"}
 
-`Tu non ci passi in quel buco minuscolo, idiota.{#Name="Zero"}`
+`Tu non ci passi in quel buco minuscolo, scemo.{#Name="Zero"}`
 You can't fit in that tiny hole, dummy.{#Name="Zero"}
 
 `Awwwwww!{#Name="Mikhail"}`
@@ -100,7 +100,7 @@ Um, guys? Maybe we should stay away{LF}from Zero for a bit...{#Name="Mikhail"}
 `Questa cosa comincia davvero a farmi incazzare.{LF}Voglio solo uccidere mia sorella e farla finita!{#Name="Zero"}`
 This is really starting to piss me off.{LF}I just wanna kill my sister and be done with it!{#Name="Zero"}
 
-`Su col morale. L'attesa è metà del divertimento di un omicidio!{LF}Ah ah!{#Name="Dito"}`
+`Su col morale. L'attesa è metà del divertimento di un omicidio!{LF}Ah ah ah!{#Name="Dito"}`
 Aw, chin up. Anticipation is half the fun of murder!{LF}Ha ha!{#Name="Dito"}
 
 `L'impazienza di Zero le impedì di apprendere qualsiasi cosa dalle fate.{#Name="Accord"}`

@@ -71,8 +71,8 @@ ZH00 ゼロ家柱
 爆弾（クエスト用）
 Forziere Metallico distrutto!+1
 Cannone distrutto!+2
-Ipercannone distrutto!+2
-Nave da Guerra distrutta!+2
+Ipercannone distrutto!
+Nave da Guerra distrutta!
 Nave da Guerra distrutta!+3
 Soldato sconfitto!+1
 Torre Meridionale distrutta!+1
@@ -85,7 +85,7 @@ Ogre Potenziato sconfitto!+1
 Imp Potenziato sconfitto!+1
 Cerbero Potenziato sconfitto!+1
 Soldatessa sconfitta!+1
-Nemici sconfitti!+1
+Nemici sconfitti!
 Soldati sconfitti!+1
 Soldati sconfitti!+2
 Soldati sconfitti!+3

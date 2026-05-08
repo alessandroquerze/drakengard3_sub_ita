@@ -1,22 +1,22 @@
 予備の本３３
-Stoffa lacera
-Stoffa consumata
-Stoffa morbida
-Stoffa insanguinata
-Stoffa robusta
-Tessuto di trifoglio
+Stoffa Lacera
+Stoffa Consumata
+Stoffa Morbida
+Stoffa Insanguinata
+Stoffa Robusta
+Tessuto di Trifoglio
 剣兵の服B
-Tessuto panacea
-Tessuto dell'abbondanza
-Tessuto antipioggia
+Tessuto Panacea
+Tessuto dell'Abbondanza
+Tessuto Antipioggia
 Intreccio di Gleipnir
 槍兵の服B
-Intreccio del Vello d'oro
+Intreccio del Vello d'Oro
 槍兵の服D
-Intreccio dell'Albero del mondo
+Intreccio dell'Albero del Mondo
 Sudario antico
 盾兵の服B
-Veste mandata dal cielo
+Veste Mandata dal Cielo
 盾兵の服D
 盾兵の服E
 弓兵の服A

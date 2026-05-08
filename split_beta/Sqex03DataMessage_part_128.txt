@@ -11,22 +11,22 @@ Cannonieri sconfitti!+05
 Lupi sconfitti!+01
 Lupi delle Sabbie sconfitti!+01
 -
-Lupi sconfitti!+02
-Lupi delle Sabbie sconfitti!+02
+Lupi sconfitti!
+Lupi delle Sabbie sconfitti!
 -
 Lancieri sconfitti!+01
 Capitani Lancieri sconfitti!+01
 -
-Spiriti sconfitti!+01
+Spiriti sconfitti!
 Spiriti Superiori sconfitti!+01
 -
 Imp sconfitti!+01
 -
 -
-Ogre sconfitti!+01
+Ogre sconfitti!
 Ogre delle Sabbie sconfitti!+01
 -
-Troll sconfitti!+01
+Troll sconfitti!
 Troll Bruti sconfitti!+01
 -
 Maghi sconfitti!+01
@@ -34,7 +34,7 @@ Maghi sconfitti!+01
 Necromanti sconfitti!+01
 Stregoni sconfitti!+01
 -
-Non morti sconfitti!+01
+Non morti sconfitti!
 Soldati non morti sconfitti!+01
 Paladini non morti sconfitti!+01
 -
@@ -48,7 +48,7 @@ Spettri sconfitti!+01
 Viverne sconfitte!+02
 Viverne sconfitte!+03
 -
-Gigas sconfitti!+01
+Gigas sconfitti!
 Gigas sconfitti!+02
 Gigas non morti sconfitti!+01
 -
@@ -56,7 +56,7 @@ Titani sconfitti!+01
 Signori titani sconfitti!+01
 Arci titani sconfitti!+01
 -
-Cerberi sconfitti!+01
+Cerberi sconfitti!
 -
 Cerberi di Fiamme sconfitti!+01
 Cerberi grigi sconfitti!+01

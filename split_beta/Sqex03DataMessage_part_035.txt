@@ -84,7 +84,7 @@ Soldato G
  
 E' passato molto tempo, Zero.{#Name="One"}
 Davvero? Non me n'ero accorta.{#Name="Zero"}
-Non sei cambiata di una virgola. Sei ancora folle.{#Name="One"}
+Non sei cambiata di una virgola. Sei ancora pazza.{#Name="One"}
 Smettila. Mi metti in imbarazzo.{#Name="Zero"}
 Non era un complimento.{#Name="One"}
 Ehi, è Zero! Ehi, Zeeerooo!{#Name="Two"}

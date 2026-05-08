@@ -1,56 +1,56 @@
 生命の小瓶
-Pozione curativa (Max)
+Pozione Curativa (Max)
 神秘の欠片
 神秘の結晶
 霊長薬
 再生の刃
-Pozione di forza
+Pozione di Forza
 高揚のコロン
-Pozione di difesa
+Pozione di Difesa
 精力のコロン
 加虐の丸薬
 被虐の丸薬
 絶倫の丸薬
 衆愚の丸薬
 予備
-Sfera curativa (S)
-Sfera curativa (M)
-Sfera curativa (L)
-Sfera sanguigna (S)
-Sfera sanguigna (L)
+Sfera Curativa (S)
+Sfera Curativa (M)
+Sfera Curativa (L)
+Sfera Sanguigna (S)
+Sfera Sanguigna (L)
 Sfera ESP
-Materiale base di rame
-Materiale base d'argento
-Materiale base d'oro
-Materiale base bianco
-Materiale base nero
+Materiale Base di Rame
+Materiale Base d'Argento
+Materiale Base d'Oro
+Materiale Base Bianco
+Materiale Base Nero
 海のメダル
-Moneta di rame arrugginita
+Moneta di Rame Arrugginita
 森のメダル
-Moneta di rame incrinata
-Moneta d'argento antica
-Moneta di rame lucidata
-Moneta d'oro antica
+Moneta di Rame Incrinata
+Moneta d'Argento Antica
+Moneta di Rame Lucidata
+Moneta d'Oro Antica
 剣兵のメダルC
-Moneta d'argento gessosa
+Moneta d'Argento Gessosa
 剣兵のメダルE
-Moneta Goblin di rame
+Moneta Goblin di Rame
 槍兵のメダルB
-Moneta Merrow d'argento
-Moneta Valkyrie d'oro
-Moneta Phoenix d'oro
-Moneta Angelos di rame
-Moneta Arche d'argento
-Moneta Thrones d'argento
-Moneta Cherub d'argento
-Moneta Seraph d'argento
+Moneta Merrow d'Argento
+Moneta Valkyrie d'Oro
+Moneta Phoenix d'Oro
+Moneta Angelos di Rame
+Moneta Arche d'Argento
+Moneta Thrones d'Argento
+Moneta Cherub d'Argento
+Moneta Seraph d'Argento
 弓兵のメダルA
-Moneta della devozione
+Moneta della Devozione
 弓兵のメダルC
 弓兵のメダルD
-Moneta della benevolenza
-Moneta della gentilezza
-Moneta dell'affetto
+Moneta della Benevolenza
+Moneta della Gentilezza
+Moneta dell'Affetto
 砲兵のメダルC
 砲兵のメダルD
 砲兵のメダルE

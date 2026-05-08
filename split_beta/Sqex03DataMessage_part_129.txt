@@ -26,7 +26,7 @@ Statue di Three
 バリケード中
 バリケード大
 バリケード大 2
-Cannoni distrutti!
+Cannoni distrutti!+1
 Cannoni Pesanti distrutti!+1
 Ipercannoni distrutti!+1
 戦艦大砲台
@@ -53,7 +53,7 @@ ZH00 ゼロ家柱
 宝箱
 爆弾（クエスト用）
 Forzieri Metallici
-Cannoni distrutti!+1
+Cannoni distrutti!
 Ipercannoni distrutti!+1
 Navi da Guerra sconfitte!+1
 Navi da Guerra sconfitte!+2
@@ -63,7 +63,7 @@ Torri Orientali distrutte!+1
 Torri Occidentali distrutte!+1
 Torri Settentrionali distrutte!+1
 Soldati sconfitti!+26
-Soldati Sconfitti!
+Soldati sconfitti!
 Ogre Potenziati eliminati!+1
 Imp Potenziati sconfitti!+1
 Cerberi Potenziati sconfitti!+1

@@ -157,8 +157,8 @@ Sorcerer
 `-`
 -
 
-`Non morto sconfitto!+100`
-Undead
+`Non morto sconfitto!`
+Undead //primo non morto singolo nella foresta perduta 
 
 `Soldato non morto sconfitto!+100`
 Undead Soldier
@@ -235,8 +235,8 @@ Flame Cerberus
 `Cerbero grigio sconfitto!`
 Gray Cerberus //primo incontro in cap2 verso perduto
 
-`Golem distrutto!+100`
-Golem
+`Golem distrutto!`
+Golem //golem delle sabbie
 
 `-`
 -
@@ -259,8 +259,8 @@ Golem
 `-`
 -
 
-`Centauro sconfitto!+100`
-Centaur
+`Centauro sconfitto!`
+Centaur //primo centauro, dopo foresta perduta
 
 `Centauro di Fuoco sconfitto!+100`
 Flame Centaur

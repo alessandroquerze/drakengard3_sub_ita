@@ -1,4 +1,4 @@
- `Quel bambinone dei tuoi finisce spesso{LF}legato, eh.{#Name="Dito"}`
+`Quel bambinone dei tuoi finisce spesso{LF}legato, eh.{#Name="Dito"}`
 That big baby of yours sure{LF}does get tied up a lot.{#Name="Dito"}
 
 `Se Lady Three lo prende,{LF}potrebbe fare esperimenti sul suo corpo.{#Name="Octa"}`

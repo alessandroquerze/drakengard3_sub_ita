@@ -79,7 +79,7 @@ You're nobody! Nobody does that!{#Name="Zero"}
 `1, 4, 7, 9, 12, 16, 19...{#Name="Three"}`
 1, 4, 7, 9, 12, 16, 19...{#Name="Three"}
 
-`Oh, ma cosa stracazzo sarebbe questo adesso?{#Name="Zero"}`
+`Oh, ma cosa stracazzo significa questo?{#Name="Zero"}`
 Oh, what the sweet crispy fuck is this?{#Name="Zero"}
 
 `22, 10.789, 99.980. ...Cosa viene dopo?{#Name="Three"}`
@@ -157,7 +157,7 @@ Oh, it's not like that. My incredible skill was{LF}enough to melt her, body AND 
 `Ma ahimè, il suo pieno potenziale andava oltre{LF}persino la mia sordida immaginazione.{#Name="Octa"}`
 But alas, her full potential was beyond{LF}even my own sordid imagination.{#Name="Octa"}
 
-`Solo la vista della sua dispensa dell'amore bastava{LF}a far balzare il mio serpente fuori dal barattolo...{#Name="Octa"}`
+`Solo la vista della sua dispensa d'amore bastava{LF}a far balzare il mio serpente fuori dal barattolo...{#Name="Octa"}`
 Just the sight of her love pantry was enough{LF}to make my snake spring from the can...{#Name="Octa"}
 
 `Ahh... Che bello essere giovani!{#Name="Octa"}`
@@ -175,7 +175,7 @@ Huh? I'M 22. How can you be the same age as me!?{#Name="Dito"}
 `E' la verità! Pare che le mie estese scorribande erotiche{LF}abbiano estinto la mia essenza giovanile.{#Name="Octa"}`
 It's true! It seems my extensive erotic escapades{LF}have extinguished my youthful essence.{#Name="Octa"}
 
-`Ma che diavolo, amico... Sembra che tu sia fuori di testa{LF}quanto l'Intoner che servivi.{#Name="Dito"}`
+`Ma che diavolo, amico... Suoni fuori di testa{LF}quanto l'Intoner che servivi.{#Name="Dito"}`
 The hell, man... Sounds like you're just as freaky{LF}as the Intoner you served.{#Name="Dito"}
 
 `Le tue azioni sono crimini, Zero?{LF}O le consideri giustizia?{#Name="Three"}`

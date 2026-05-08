@@ -58,7 +58,7 @@ Non hai soddisfatto le condizioni necessarie per scegliere questa missione.
 Devi raccogliere tutte le armi prima di poter scegliere questa Diramazione.{LF}La tua percentuale attuale di completamento armi è {04}
 現在の武器収集率は{04}
 Non guadagnerai esperienza durante questa missione.{LF}Vuoi comunque procedere?
-Devi soddisfare {04}
+Ancora da completare {04}
 Descrizione
 Condizioni
 Giorni al prossimo pagamento: {04}

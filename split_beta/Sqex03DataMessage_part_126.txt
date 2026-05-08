@@ -51,7 +51,7 @@ Mago sconfitto!+100
 Necromante sconfitto!+100
 Stregone sconfitto!+100
 -
-Non morto sconfitto!+100
+Non morto sconfitto!
 Soldato non morto sconfitto!+100
 Paladino non morto sconfitto!+100
 -
@@ -65,19 +65,19 @@ Spettro sconfitto!+100
 Viverna sconfitta!+200
 Viverna sconfitta!+300
 -
-Gigas sconfitto!+100
+Gigas sconfitto!
 Gigas sconfitto!+200
 Gigas non morto sconfitto!+100
 -
-Titano sconfitto!+100
+Titano sconfitto!
 Signore Titano sconfitto!+100
 Arci Titano sconfitto!+100
 -
-Cerbero sconfitto!+100
+Cerbero sconfitto!
 -
 Cerbero di Fiamme sconfitto!+100
-Cerbero grigio sconfitto!+100
-Golem distrutto!+100
+Cerbero grigio sconfitto!
+Golem distrutto!
 -
 花（ワン）
 花（トウ）
@@ -85,7 +85,7 @@ Golem distrutto!+100
 花（フォウ）
 花（ファイブ）
 -
-Centauro sconfitto!+100
+Centauro sconfitto!
 Centauro di Fuoco sconfitto!+100
 -
 -

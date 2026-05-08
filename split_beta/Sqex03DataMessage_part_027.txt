@@ -101,6 +101,6 @@
  {#Name="クエスト用武器２０"}
  {#Name="クエスト用武器２１"}
 名前無し
-Pozione curativa (S)
-Pozione curativa (M)
-Pozione curativa (L)
+Pozione Curativa (S)
+Pozione Curativa (M)
+Pozione Curativa (L)

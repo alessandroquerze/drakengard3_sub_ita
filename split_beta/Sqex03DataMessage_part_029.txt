@@ -21,13 +21,13 @@
 海の宝石
 山の宝石
 森の宝石
-Gioiello rotto
+Gioiello Rotto
 教会の宝石
 剣兵の宝石A
-Gioiello scheggiato
+Gioiello Scheggiato
 剣兵の宝石C
-Gioiello opaco
-Gioiello levigato
+Gioiello Opaco
+Gioiello Levigato
 槍兵の宝石A
 Gioiello di Hypnos
 Gioiello di Sylph
@@ -35,19 +35,19 @@ Gioiello di Undine
 Gioiello di Gnome
 Gioiello di Salamander
 盾兵の宝石B
-Pietrafiamma di Wyrm
-Pietra fatata
-Agata sacra
-Topazio vivido
-Diaspro enigmatico
-Onice silente
-Zaffiro abissale
-Smeraldo striato
+Pietrafiamma di Viverna
+Pietra Fatata
+Agata Sacra
+Topazio Vivido
+Diaspro Enigmatico
+Onice Silente
+Zaffiro Abissale
+Smeraldo Striato
 Gioiello di Nornir
 b
 Gioiello di Aurora
 Gioiello di Serket
-Gioiello celestiale
+Gioiello Celestiale
 魔導師の宝石
 魔導師２の宝石
 魔導師３の宝石

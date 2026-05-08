@@ -49,19 +49,19 @@ Fragile Claw
 `森のナイフ`
 森のナイフ
 
-`Artiglio morbido`
+`Artiglio Morbido`
 Soft Claw
 
-`Artiglio lungo`
+`Artiglio Lungo`
 Long Claw
 
-`Artiglio appuntito`
+`Artiglio Appuntito`
 Pointed Claw
 
-`Artiglio mangiasogni`
+`Artiglio Mangiasogni`
 Dreameater Claw
 
-`Artiglio cremisi`
+`Artiglio Cremisi`
 Crimson Claw
 
 `剣兵の剣E`

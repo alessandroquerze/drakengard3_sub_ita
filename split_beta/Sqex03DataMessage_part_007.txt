@@ -68,7 +68,7 @@ Cent
  
 Accord
 Sembra che questa stanza sia chiusa a chiave.{#Name="Zero"}
-C'è una mappa laggiù.{#Name="Dito"}
+C'è una mappa quaggiù.{#Name="Dito"}
 Immagino che ci serva una chiave, eh?{#Name="Dito"}
 L'ultima cosa di cui ho bisogno è una stupida missione da fattorino.{#Name="Zero"}
 Guarda quante stanze ci sono laggiù...{LF}Scommetto che questo posto è pieno zeppo di bottino!{#Name="Dito"}

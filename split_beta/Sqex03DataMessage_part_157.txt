@@ -20,7 +20,7 @@
 -{#Name="剣233"}
 Detesto le cose brutte. Odio il respiro putrido{LF}dei mostri, e odio le persone corrotte dal desiderio.{LF}Come fanno anche solo a sopportare di vivere così?{#Name="Twisted Hunger Lv. 1"}
 La morale? La morale mi fa vomitare. Tirare fuori verità e giustizia?{LF}Amore per il prossimo? Pffft. Che mucchio di stronzate.{LF}Come fa la gente a vivere in un posto disgustoso come questo?{#Name="Twisted Hunger Lv. 2"}
-La vita è brutta, e le persone non sono altro che idioti.{LF}Perché il mondo doveva finire così?{#Name="Twisted Hunger Lv. 3"}
+La vita è brutta, e le persone non sono altro che idioti.{LF}Perché il mondo è finito ad essere così?{#Name="Twisted Hunger Lv. 3"}
 Il frutto marcio è quello dal sapore più dolce.{LF}Un corpo marcio è la bellezza personificata.{LF}Perché nessuno riesce a notare queste cose?{#Name="Twisted Hunger Lv. 4"}
 In una nazione povera vivevano due cavalieri: uno vestito d'armatura d'avorio,{LF}l'altro di nero ebano. Combatterono per portare fortuna alla{LF}terra, condividendo talvolta sogni davanti a un otre di vino.{#Name="Spear of Empathy Lv. 1"}
 Ma col tempo litigarono. Il cavaliere d'ebano iniziò a{LF}diffidare del suo re dispotico, mentre il cavaliere d'avorio si sforzò di{LF}mantenere il proprio giuramento. E presto, gli amici divennero acerrimi rivali.{#Name="Spear of Empathy Lv. 2"}
@@ -77,7 +77,7 @@ La lancia attende il giorno in cui il suo grido potrà risuonare ancora.{LF}Ha v
 Fermo! Oh, ti prego, fermati! Se mi metti in quell'acqua bollente,{LF}mi brucerò dalla testa ai piedi! Come può qualcuno essere così crudele?{LF}Come può— Nnnnngh....{#Name="Masochistic Joy Lv. 1"}
 Augh! Perché? Perché mi colpisci con quella grossa sbarra di ferro?{LF}Non posso far altro che singhiozzare come un cucciolo strappato{LF}dalla madre. Nnnnngh...{#Name="Masochistic Joy Lv. 2"}
 No... No, è troppo grande! Mi spaccherai in due!{LF}Mi spezzerai corpo e anima! Solo immaginarlo mi fa{LF}venire voglia di... Voglia di... Nnnnngh...{#Name="Masochistic Joy Lv. 3"}
-Uh, no. Temo che nemmeno io possa farlo.{#Name="Masochistic Joy Lv. 4"}
+Uh, no. Temo che questo nemmeno io possa farlo.{#Name="Masochistic Joy Lv. 4"}
 Hai mai guardato nei suoi occhi? Sono ipnotici,{LF}come se racchiudessero un intero arcobaleno. Ti imprigionano{LF}in catene fugaci e ti lasciano cadere sempre più in basso.{#Name="Iceborn Slayers Lv. 1"}
 Hai mai accarezzato la sua pelle? Liscia, come neve fresca{LF}che si scioglie sotto le dita. Ne resti rapito,{LF}lasciato ad attendere finché il cuore marcisce in una piccola massa scura.{#Name="Iceborn Slayers Lv. 2"}
 Hai mai sentito la sua voce? Una voce limpida e pungente{LF}come una pesca matura. La sua condanna a morte ti invita in un{LF}mondo di perversione dolce come un vino perfettamente invecchiato.{#Name="Iceborn Slayers Lv. 3"}

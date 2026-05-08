@@ -9,7 +9,7 @@ Eh, già... Ma non è proprio questo il punto?{LF}Che ti piace essere frustato e
 Zero, guarda! Guarda! Ora possiamo passare attraverso quell'albero!{#Name="Mikhail"}
 ...Possiamo?{#Name="Zero"}
 Uh, beh, sì, cioè... No?{#Name="Mikhail"}
-Tu non ci passi in quel buco minuscolo, idiota.{#Name="Zero"}
+Tu non ci passi in quel buco minuscolo, scemo.{#Name="Zero"}
 Awwwwww!{#Name="Mikhail"}
 Questa foresta è... inquietante. {#Name="Decadus"}
 Ehi, bestione, ti sei già spaventato?{#Name="Dito"}
@@ -32,7 +32,7 @@ Oh-oh. Credo che sia impazzita del tutto.{#Name="Dito"}
 199{#Name="199"}
 Um, ragazzi? Forse dovremmo stare lontani{LF}da Zero per un po'...{#Name="Mikhail"}
 Questa cosa comincia davvero a farmi incazzare.{LF}Voglio solo uccidere mia sorella e farla finita!{#Name="Zero"}
-Su col morale. L'attesa è metà del divertimento di un omicidio!{LF}Ah ah!{#Name="Dito"}
+Su col morale. L'attesa è metà del divertimento di un omicidio!{LF}Ah ah ah!{#Name="Dito"}
 L'impazienza di Zero le impedì di apprendere qualsiasi cosa dalle fate.{#Name="Accord"}
 Così, il gruppo fu costretto a vagare nella Terra delle Foreste in cerca di Three.{#Name="Accord"}
 Senza sapere che un discepolo dalla potenza spaventosa li attendeva in agguato...{#Name="Accord"}

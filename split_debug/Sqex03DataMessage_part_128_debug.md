@@ -37,11 +37,11 @@ Sandwolves
 `-`
 -
 
-`Lupi sconfitti!+02`
-Wolves
+`Lupi sconfitti!`
+Wolves //lupi alfa nella foresta
 
-`Lupi delle Sabbie sconfitti!+02`
-Sandwolves
+`Lupi delle Sabbie sconfitti!`
+Sandwolves //lupi alfa nel deserto
 
 `-`
 -
@@ -172,8 +172,8 @@ Arch Titans
 `-`
 -
 
-`Cerberi sconfitti!+01`
-Cerberuses
+`Cerberi sconfitti!`
+Cerberuses //subito dopo i lupi alfa nella foresta
 
 `-`
 -

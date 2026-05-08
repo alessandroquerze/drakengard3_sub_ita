@@ -130,7 +130,7 @@ Game{LF}As Octa regales the group with tales of{LF}Three's recreational activiti
 `Gioco{LF}Il gruppo combatte altri cubi mentre la voce di Three{LF}li tormenta con enigmi. Lo shock più grande{LF}di tutti, però, arriva quando Octa{LF}rivela di avere appena vent'anni. `
 Game{LF}The group battles more cubes as Three's{LF}voice pesters them with riddles. The biggest{LF}shock of all, however, comes when Octa{LF}reveals that he's only in his twenties. 
 
-`Cutscene{LF}Octa guida il gruppo attraverso un cancello{LF}aperto verso il Santuario della Foresta oltre,{LF}mentre Mikhail si occupa di alcuni{LF}suoi affari urgenti.`
+`Cutscene{LF}Octa guida il gruppo attraverso un cancello{LF}aperto verso il Santuario della Foresta,{LF}mentre Mikhail si occupa di alcuni{LF}suoi affari urgenti.`
 Cutscene{LF}Octa leads the way through an open{LF}gate to the Forest Shrine beyond,{LF}while Mikhail takes care of some{LF}pressing business of his own.
 
 `あらすじ第五項　３０４０　一行目{LF}あらすじ第五項　３０４０　二行目{LF}あらすじ第五項　３０４０　三行目{LF}あらすじ第五項　３０４０　四行目{LF}あらすじ第五項　３０４０　五行目`

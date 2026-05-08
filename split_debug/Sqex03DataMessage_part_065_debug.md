@@ -187,7 +187,7 @@ Oh really?{#Name="Zero"}
 `Davvero gentile da parte tua venire da me.{#Name="Zero"}`
 That's awfully nice of you to come to me.{#Name="Zero"}
 
-`Quelle maledette fate cominciavano a farmi girare le palle.{#Name="Zero"}`
+`Quelle maledette fate cominciavano a farmi incazzare.{#Name="Zero"}`
 Those goddamn faeries were starting to piss me off.{#Name="Zero"}
 
 `Bene, nonnetto, sei pronto a farti schiacciare?{#Name="Zero"}`

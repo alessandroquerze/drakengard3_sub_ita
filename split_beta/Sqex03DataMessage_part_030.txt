@@ -13,38 +13,38 @@
 予備の宝石３２
 予備の宝石３３
 海のナイフ
-Artiglio fragile
+Artiglio Fragile
 森のナイフ
-Artiglio morbido
-Artiglio lungo
-Artiglio appuntito
-Artiglio mangiasogni
-Artiglio cremisi
+Artiglio Morbido
+Artiglio Lungo
+Artiglio Appuntito
+Artiglio Mangiasogni
+Artiglio Cremisi
 剣兵の剣E
-Artiglio del morto
+Artiglio dell'Uomo Morto
 槍兵の剣B
-Artiglio d'argento
-Tallone splendido
-Tallone affilato
+Artiglio d'Argento
+Artiglio Splendido
+Artiglio affilato
 盾兵の剣A
-Tallone di smeraldo
-Tallone di Roc
-Zoccolo dello spirito acquatico
+Artiglio di Smeraldo
+Artiglio di Roc
+Zoccolo dello Spirito Acquatico
 Zoccolo di Pegasus
 弓兵の剣A
-Frammento di zoccolo fulmineo
+Frammento di Zoccolo Fulmineo
 弓兵の剣C
 弓兵の剣D
-Zoccolo millenario
-Frammento di zoccolo fiammeggiante
-Zoccolo celestiale
+Zoccolo Millenario
+Frammento di Zoccolo Fiammeggiante
+Zoccolo Celestiale
 砲兵の剣C
 砲兵の剣D
 砲兵の剣E
-Costola di bambino
-Femore di uomo
-Teschio di ragazza
-Bacino di donna
+Costola di Bambino
+Femore di Uomo
+Teschio di Ragazza
+Bacino di Donna
 アンデッド２の剣
 アンデッド３の剣
 オーガの角

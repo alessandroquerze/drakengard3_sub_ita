@@ -89,7 +89,7 @@ Accord
 ZERO
 １節　００１０　目的
 Parare con {01}{02} blocca gli attacchi da tutte le direzioni.{LF}Tuttavia, parare consuma stamina, quindi fai attenzione{LF}a non bloccare troppi attacchi di seguito o{LF}rischierai che la tua guardia venga spezzata.{#Name="Guarding"}
-Per eseguire un parry, premi {01}{02} appena prima che un attacco colpisca.{LF}Se devii la freccia di un nemico con un parry, puoi{LF}riflettere la freccia verso il tuo avversario.{#Name="Parrying"}
+Per eseguire una parata, premi {01}{02} appena prima che un attacco colpisca.{LF}Se devii la freccia di un nemico con una parata, puoi{LF}riflettere la freccia verso il tuo avversario.{#Name="Parrying"}
 Usa la mini-mappa in alto a destra dello{LF}schermo per vedere la tua posizione attuale.{LF}Puoi premere {01}{0A} per zoomare avanti e indietro; se ti{LF}perdi, prova ad allontanare lo zoom per vedere tutta la mappa.{#Name="The Mini-map"}
 Premi {01}{0A} + {01}{0D} per attivare la Modalità Intoner.{LF}Premili di nuovo in qualsiasi momento per uscire da questa modalità{LF}mantenendo la Barra del Sangue al livello attuale.{#Name="Intoner Mode"}
 Puoi concatenare attacchi combo speciali{LF}premendo {01}{03} e {01}{04} in varie sequenze.{LF}Consulta la Lista Combo nel Menu di Pausa per vedere tutte{LF}le possibili rotte combo per una determinata arma.{#Name="Combo Attacks"}
