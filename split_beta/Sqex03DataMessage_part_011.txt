@@ -46,7 +46,7 @@ Cosa farai adesso?{#Name="Accord"}
 Rintraccerò Three e la ucciderò.{#Name="Zero"}
 Ah, e se mi segui, ucciderò anche te.{#Name="Zero"}
 Non preoccuparti. Non ho il permesso di interferire in battaglia.{#Name="Accord"}
-Bene, allora.{#Name="Zero"}
+Bene allora.{#Name="Zero"}
 Abbi cura di te.{#Name="Accord"}
 Questa Diramazione in cui ti trovi è gravemente danneggiata, e il mondo{LF}diventerà solo più caotico man mano che andrai avanti.{#Name="Accord"}
 Grazie per il... consiglio.{#Name="Zero"}
@@ -54,7 +54,7 @@ Naturalmente, questo significa anche che c'è una possibilità maggiore{LF}di sa
 Le sorelle stanno crollando.{#Name="Accord"}
 Mikhail si è evoluto all'improvviso di due livelli in una volta.{#Name="Accord"}
 In mezzo a tutte queste anomalie,{#Name="Accord"}
-Zero si sta dirigendo verso La Terra delle Foreste.{#Name="Accord"}
+Zero si sta dirigendo verso la Terra delle Foreste.{#Name="Accord"}
  
 Accord
 Mikhail

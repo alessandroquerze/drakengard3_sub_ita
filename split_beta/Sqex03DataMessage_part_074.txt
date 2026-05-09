@@ -38,7 +38,7 @@ Beh, questo è strano.{#Name="Octa"}
 Cosa?{#Name="Zero"}
 In quest'area dovrebbero esserci delle fate.{#Name="Octa"}
 Io non vedo niente.{#Name="Zero"}
-Ah HA! Visto? Il gas velenoso le ha uccise tutte fino all'ultima—{#Name="Cent"}
+Ah HA! Visto? Il gas velenoso le ha uccise tutte fino all'ultim—{#Name="Cent"}
 Sta' zitto, per favore.{#Name="Dito"}
 Santo cielo. Quelli sono troll?{#Name="Octa"}
 Ugh. Troll. Brutti, puzzolenti e stupidi...{LF}Meritano di morire.{#Name="Dito"}
@@ -51,7 +51,7 @@ Mi chiedo cosa Lady Three stesse{LF}cercando di dirci prima.{#Name="Decadus"}
 Ha detto che Lady One è in questa foresta, giusto?{#Name="Decadus"}
 E che custodisce un segreto di qualche tipo?{#Name="Decadus"}
 I misteri si moltiplicano tra loro...{#Name="Decadus"}
-Anch'io ho riflettuto{LF}a lungo su questa questione.{#Name="Octa"}
+Anch'io ho riflettuto{LF}a lungo sulla questione.{#Name="Octa"}
 Ma ahimè, ogni volta che penso a Lady Three,{LF}la mia mente viene distratta da immagini continue{LF}dei nostri epici convegni carnali notturni...{#Name="Octa"}
 Non ci stai nemmeno provando, vero?{#Name="Zero"}
 Lady Zero, attenta!{#Name="Decadus"}
@@ -96,7 +96,7 @@ Soldato D
 Soldato G
 Insegui Three.{#Name="説明文"}
 Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}
-Distruggi le tre statue!{#Name="説明文"}
+Distruggi le statue di Three!{#Name="説明文"}
 Sconfiggi il Cerbero grigio!{#Name="説明文"}
 （リザーブ）{#Name="（リザーブ）"}
 （リザーブ）{#Name="（リザーブ）"}

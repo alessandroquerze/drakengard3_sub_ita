@@ -1,6 +1,6 @@
 Lascia fare a me.{#Name="Decadus"}
 Il mio angelo ha il potere di rallentare notevolmente i suoi movimenti.{#Name="Decadus"}
-Sembra ottimo. Procedi!{#Name="Zero"}
+Sembra ottimo. Vai pure!{#Name="Zero"}
 Ehm... Ma se uso tale potere, tornerò a essere un uccello...{#Name="Decadus"}
 La vostra mancanza di pietà è inebriante...{#Name="Decadus"}
 Cosa, vuoi lasciar perdere?{#Name="Zero"}

@@ -74,7 +74,7 @@ A proposito, Octa. Hai mai pensato semplicemente di...{LF}sai. Soddisfarti da so
 Oh ho! E perché dovrei farlo, quando ho{LF}il mondo intero come amante?{#Name="Octa"}
 Il mondo intero... Aspetta, cosa?{#Name="Zero"}
 Beh, un'Intoner è la scelta migliore, ovviamente.{LF}Ma se non ce n'è una disponibile, un umano può bastare.{#Name="Octa"}
-Se non sono disponibili né l'una né l'altro, ****** andrà bene. Anche ***** vanno bene,{LF}anzi, ultimamente mi sto proprio godendo i ******* !{#Name="Octa"}
+Se non sono disponibili né l'una né l'altro, ****** andrà bene. Anche ***** vanno bene,{LF}in effetti, ultimamente mi sto proprio godendo i ******* !{#Name="Octa"}
 Splendido.{#Name="Zero"}
 Sai, cosa mi piacerebbe davvero provare prima o poi? Un ******!{#Name="Octa"}
 Voi non dormite mai? Vi sento sempre tutti e tre{LF}urlare e fare versi strani di notte...{#Name="Mikhail"}

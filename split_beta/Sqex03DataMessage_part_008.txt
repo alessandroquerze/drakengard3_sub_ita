@@ -74,7 +74,7 @@ Octa
  
 Procedere alla prossima missione?{#Name=" "}
 みんなで一つの場所に集まるデモ{#Name=" "}
-Potrebbe essere ancora PIÙ umido, qui intorno?{LF}Persino il mio sudore sta sudando.{#Name="Dito"}
+Potrebbe essere ancora PIU' umido, qui intorno?{LF}Persino il mio sudore sta sudando.{#Name="Dito"}
 Urrrgh...{#Name="Decadus"}
 Vero? Questo posto fa vomitare.{#Name="Dito"}
 Sì, ma questo disagio è in qualche modo... esaltante...{#Name="Decadus"}

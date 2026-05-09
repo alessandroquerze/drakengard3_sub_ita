@@ -15,28 +15,28 @@ Lupi sconfitti!
 Lupi delle Sabbie sconfitti!
 -
 Lancieri sconfitti!
-Capitani Lancieri sconfitti!+01
+Capitani Lancieri sconfitti!
 -
 Spiriti sconfitti!
-Spiriti Superiori sconfitti!+01
+Spiriti Superiori sconfitti!
 -
 Imp sconfitti!
 -
 -
 Ogre sconfitti!
-Ogre delle Sabbie sconfitti!+01
+Ogre delle Sabbie sconfitti!
 -
 Troll sconfitti!
-Troll Bruti sconfitti!+01
+Troll Bruti sconfitti!
 -
 Maghi sconfitti!
 -
-Necromanti sconfitti!+01
-Stregoni sconfitti!+01
+Necromanti sconfitti!
+Stregoni sconfitti!
 -
 Non morti sconfitti!
-Soldati non morti sconfitti!+01
-Paladini non morti sconfitti!+01
+Soldati non morti sconfitti!
+Paladini non morti sconfitti!
 -
 -
 Viverne sconfitte!+01
@@ -50,11 +50,11 @@ Viverne sconfitte!+03
 -
 Gigas sconfitti!
 Gigas sconfitti!+02
-Gigas non morti sconfitti!+01
+Gigas non morti sconfitti!
 -
-Titani sconfitti!+01
+Titani sconfitti!
 Signori titani sconfitti!+01
-Arci titani sconfitti!+01
+Arci titani sconfitti!
 -
 Cerberi sconfitti!
 -
@@ -76,7 +76,7 @@ Cubi Gargoyle distrutti!+01
 -
 -
 -
-Soldati confitti!+020
+Soldati sconfitti!
 Soldati sconfitti!+021
 Soldati sconfitti!+022
 Soldti sconfitti!+023

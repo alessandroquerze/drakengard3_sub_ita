@@ -31,7 +31,7 @@
 `砂の本`
 砂の本
 
-`Libro strappato`
+`Libro Strappato`
 Torn-up Book
 
 `剣兵の本A`
@@ -43,13 +43,13 @@ Torn-up Book
 `剣兵の本C`
 剣兵の本C
 
-`Libro macchiato`
+`Libro Macchiato`
 Stained Book
 
 `剣兵の本E`
 剣兵の本E
 
-`Libro antico`
+`Libro Antico`
 Ancient Book
 
 `槍兵の本B`

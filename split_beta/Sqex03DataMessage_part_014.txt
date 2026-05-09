@@ -26,7 +26,7 @@ Inoltre, quel dolce aroma di maschio mi mette davvero dell'umore giusto...{#Name
 Lavati o sparisci.{#Name="Zero"}
 Cielo, questo sì che è davvero un bel dilemma...{#Name="Octa"}
 ...Davvero?{#Name="Zero"}
-Se nessuno dei due è disponibile, andranno bene le piante. Anche gli alberi vanno bene,{LF}anzi, ultimamente mi sto davvero godendo i mango!{#Name="Octa"}
+Se nessuno dei due è disponibile, andranno bene le piante. Anche gli alberi vanno bene,{LF}in effetti, ultimamente mi sto davvero godendo i mango!{#Name="Octa"}
 Sai cosa mi piacerebbe davvero provare, prima o poi? Un durian!{#Name="Octa"}
 こんなクソみたいな砂漠で迷うとは……{#Name="ゼロ"}
 Noi siamo Recorders.{#Name="Accord"}

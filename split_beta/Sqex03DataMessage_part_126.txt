@@ -28,78 +28,78 @@ Cannoniere sconfitto!+500
 Lupo sconfitto!+100
 Lupo delle sabbie sconfitto!+100
 -
-Lupo sconfitto!+200
-Lupo delle sabbie sconfitto!+200
--
-Lanciere sconfitto!+100
-Capitano lanciere sconfitto!+100
--
-Spirito sconfitto!+100
-Spirito superiore sconfitto!+100
--
-Imp sconfitto!+100
--
--
-Ogre sconfitto!+100
-Ogre delle sabbie sconfitto!+100
--
-Troll sconfitto!+100
-Troll brutale sconfitto!+100
--
-Mago sconfitto!+100
--
-Necromante sconfitto!+100
-Stregone sconfitto!+100
--
-Non morto sconfitto!
-Soldato non morto sconfitto!+100
-Paladino non morto sconfitto!+100
--
--
-Viverna sconfitta!+100
--
--
-Spettro sconfitto!+100
--
--
-Viverna sconfitta!+200
-Viverna sconfitta!+300
--
-Gigas sconfitto!
-Gigas sconfitto!+200
-Gigas non morto sconfitto!+100
--
-Titano sconfitto!
-Signore Titano sconfitto!+100
-Arci Titano sconfitto!+100
--
-Cerbero sconfitto!
--
-Cerbero di Fiamme sconfitto!+100
-Cerbero grigio sconfitto!
-Golem distrutto!
--
-花（ワン）
-花（トウ）
-花（スリイ）
-花（フォウ）
-花（ファイブ）
--
-Centauro sconfitto!
-Centauro di Fuoco sconfitto!
--
--
-Cubo Gargoyle distrutto!+100
--
--
--
-Soldato sconfitto!+2000
-Soldato sconfitto!+2100
-Soldato sconfitto!+2200
-Soldato sconfitto!+2300
-Soldato sconfitto!+2400
-Bombardiere sconfitto!+100
-Phanuel sconfitto!+100
-Armaros sconfitto!+100
-Armaros sconfitto!+200
-Armaros sconfitto!+300
+Lupo sconfitto!
+Lupo delle sabbie sconfitto!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

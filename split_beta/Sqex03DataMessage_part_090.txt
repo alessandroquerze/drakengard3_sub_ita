@@ -1,7 +1,7 @@
 Voglio solo ammazzare Three e farla finita!{#Name="Zero"}
 Voglio solo ammazzare Three e farla finita!{#Name="Zero"}
-Spostati o muori! Vanno bene entrambe!{#Name="Zero"}
-Porca miseria...{#Name="Zero"}
+Spostatevi o morite! Vanno bene entrambe!{#Name="Zero"}
+Dannazione...{#Name="Zero"}
 Respirate piuttosto pesantemente,{LF}mia signora. Il fiore è...ehm...{#Name="Octa"}
 Sto bene.{#Name="Zero"}
 Zero! Sento il potere di un canto! Lo sento quassù!{#Name="Mikhail"}
@@ -83,7 +83,7 @@ Che c'è?{#Name="Zero"}
 Quei cubi richiedono enormi quantità{LF}di energia magica per funzionare.{#Name="Octa"}
 E' molto improbabile che Lady Three{LF}possa alimentarli da sola.{#Name="Octa"}
 Dev'esserci una qualche fonte di energia qui vicino.{#Name="Octa"}
-Heh heh... Ma ovvio che c'è. COME SEMPRE!{#Name="Zero"}
+Heh heh... Ma ovvio che c'è. OVVIAMENTE!{#Name="Zero"}
 スリイは元々ちょっとオカシイ奴だったからな{#Name="ゼロ"}
 自我の破壊をもろともせず、{LF}強力な花を咲かせたのかもしれない{#Name="ゼロ"}
 面倒臭い{#Name="ゼロ"}
@@ -100,6 +100,6 @@ Dannazione! Come può una cosa così maledettamente grossa essere così maledett
 {06}>{#Name="Mikhail"}
 Decadus? Come sei arrivato qui?{#Name="Zero"}
 Mi sono fatto dare una spinta da Octa.{#Name="Decadus"}
-E'...quasi impressionante.{#Name="Zero"}
+E'...davvero impressionante.{#Name="Zero"}
 Mi sembra che siate in difficoltà.{#Name="Decadus"}
 Sì, non riesco a colpire questo figlio di puttana saltellante.{#Name="Zero"}

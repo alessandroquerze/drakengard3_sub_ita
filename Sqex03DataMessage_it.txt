@@ -51,7 +51,7 @@ Missioni scaricabili
 Archivio
 Flusso della storia
 Cambia scheda
-Seleziona/Cambia scheda
+Seleziona/Cambia
 Tornare al menu principale?
 Non hai soddisfatto le condizioni necessarie per scegliere questa missione.
 未読です
@@ -816,7 +816,7 @@ Octa
  
 Procedere alla prossima missione?{#Name=" "}
 みんなで一つの場所に集まるデモ{#Name=" "}
-Potrebbe essere ancora PIÙ umido, qui intorno?{LF}Persino il mio sudore sta sudando.{#Name="Dito"}
+Potrebbe essere ancora PIU' umido, qui intorno?{LF}Persino il mio sudore sta sudando.{#Name="Dito"}
 Urrrgh...{#Name="Decadus"}
 Vero? Questo posto fa vomitare.{#Name="Dito"}
 Sì, ma questo disagio è in qualche modo... esaltante...{#Name="Decadus"}
@@ -862,7 +862,7 @@ Io proprio... non riesco a smettere di pensare a questa Two...{#Name="Cent"}
 Il tempo non scorre sempre in un'unica direzione.{#Name="Accord"}
 Divergenza: Diramazione B{#Name="Accord"}
 Nel flusso della storia post-Cataclisma,{#Name="Accord"}
-se si riunisce una serie unica di condizioni note come "singolarità",{#Name="Accord"}
+se si riunisce una serie di condizioni uniche note come "singolarità",{#Name="Accord"}
 nel tempo si verificano scissioni, dando origine al fenomeno della divergenza tra realtà.{#Name="Accord"}
 Ora è il 1º aprile dell'anno 1000 d.C.,{#Name="Accord"}
 28 giorni da quando la singolarità nota come Zero ha ripreso l'attività.{#Name="Accord"}
@@ -1040,7 +1040,7 @@ Detto questo, alcuni di loro riescono a controllare questi impulsi.{#Name="Accor
 E' per questo che Mikhail, per esempio,{LF}riesce a restare calmo vicino a Zero.{#Name="Accord"}
 Sì! Riesco a controllarlo! Sono fortissimo!{#Name="Mikhail"}
 Hmmm... Ho ancora alcune domande senza risposta.{#Name="Octa"}
-E' vero, questo spiega perché i draghi sembrano intenzionati{LF}a divorare gli Intoner.{#Name="Octa"}
+Se vero, questo spiega perché i draghi sembrano intenzionati{LF}a divorare gli Intoner.{#Name="Octa"}
 Ma perché dovrebbero avere un desiderio simile, tanto per cominciare?{#Name="Octa"}
 Temo di non potervelo dire.{#Name="Accord"}
 Quindi, cioè, tu chi saresti, esattamente?{#Name="Dito"}
@@ -1106,7 +1106,7 @@ Cosa farai adesso?{#Name="Accord"}
 Rintraccerò Three e la ucciderò.{#Name="Zero"}
 Ah, e se mi segui, ucciderò anche te.{#Name="Zero"}
 Non preoccuparti. Non ho il permesso di interferire in battaglia.{#Name="Accord"}
-Bene, allora.{#Name="Zero"}
+Bene allora.{#Name="Zero"}
 Abbi cura di te.{#Name="Accord"}
 Questa Diramazione in cui ti trovi è gravemente danneggiata, e il mondo{LF}diventerà solo più caotico man mano che andrai avanti.{#Name="Accord"}
 Grazie per il... consiglio.{#Name="Zero"}
@@ -1114,7 +1114,7 @@ Naturalmente, questo significa anche che c'è una possibilità maggiore{LF}di sa
 Le sorelle stanno crollando.{#Name="Accord"}
 Mikhail si è evoluto all'improvviso di due livelli in una volta.{#Name="Accord"}
 In mezzo a tutte queste anomalie,{#Name="Accord"}
-Zero si sta dirigendo verso La Terra delle Foreste.{#Name="Accord"}
+Zero si sta dirigendo verso la Terra delle Foreste.{#Name="Accord"}
  
 Accord
 Mikhail
@@ -1255,7 +1255,7 @@ Oh, dai?{#Name="Zero"}
 Beh, suppongo che si potrebbe dire, più o meno, forse?{#Name="Cent"}
 Dov'è Lady Two adesso?{#Name="Decadus"}
 E come diavolo farei a saperlo?{#Name="Cent"}
-L'ho vista l'ultima volta nelle rovine del deserto, maaa...{LF}cielo, è stato un tempo infinitamente lungo fa. {#Name="Cent"}
+L'ho vista l'ultima volta nelle rovine del deserto, maaa...{LF}cielo, è stato moltissimo tempo fa. {#Name="Cent"}
 Perché l'hai lasciata?{#Name="Zero"}
 Oh, lo sai! Ogni uccello deve librarsi dalla{LF}gabbia dell'iniquità e... cose così.{#Name="Cent"}
 Non capisco metà delle stronzate che dici.{#Name="Zero"}
@@ -1346,7 +1346,7 @@ A proposito, Octa. Hai mai pensato semplicemente di...{LF}sai. Soddisfarti da so
 Oh ho! E perché dovrei farlo, quando ho{LF}il mondo intero come amante?{#Name="Octa"}
 Il mondo intero... Aspetta, cosa?{#Name="Zero"}
 Beh, un'Intoner è la scelta migliore, ovviamente.{LF}Ma se non ce n'è una disponibile, un umano può bastare.{#Name="Octa"}
-Se non sono disponibili né l'una né l'altro, ****** andrà bene. Anche ***** vanno bene,{LF}anzi, ultimamente mi sto proprio godendo i ******* !{#Name="Octa"}
+Se non sono disponibili né l'una né l'altro, ****** andrà bene. Anche ***** vanno bene,{LF}in effetti, ultimamente mi sto proprio godendo i ******* !{#Name="Octa"}
 Splendido.{#Name="Zero"}
 Sai, cosa mi piacerebbe davvero provare prima o poi? Un ******!{#Name="Octa"}
 Voi non dormite mai? Vi sento sempre tutti e tre{LF}urlare e fare versi strani di notte...{#Name="Mikhail"}
@@ -1404,7 +1404,7 @@ Inoltre, quel dolce aroma di maschio mi mette davvero dell'umore giusto...{#Name
 Lavati o sparisci.{#Name="Zero"}
 Cielo, questo sì che è davvero un bel dilemma...{#Name="Octa"}
 ...Davvero?{#Name="Zero"}
-Se nessuno dei due è disponibile, andranno bene le piante. Anche gli alberi vanno bene,{LF}anzi, ultimamente mi sto davvero godendo i mango!{#Name="Octa"}
+Se nessuno dei due è disponibile, andranno bene le piante. Anche gli alberi vanno bene,{LF}in effetti, ultimamente mi sto davvero godendo i mango!{#Name="Octa"}
 Sai cosa mi piacerebbe davvero provare, prima o poi? Un durian!{#Name="Octa"}
 こんなクソみたいな砂漠で迷うとは……{#Name="ゼロ"}
 Noi siamo Recorders.{#Name="Accord"}
@@ -4110,7 +4110,7 @@ Dirigiti al Santuario dei Mari.{#Name="説明文"}
 Distruggi la Nave da Battaglia!{#Name="説明文"}
 Stai bene, Zero?{#Name="Mikhail"}
 Sì, sto bene.{#Name="Zero"}
-Sono solo questi vermi di soldati a farmi incazzare.{#Name="Zero"}
+Sono questi vermi di soldati a farmi incazzare.{#Name="Zero"}
 Vermi? Ehi, ti piacciono i vermi, Zero?{#Name="Mikhail"}
 Che razza di domanda è? Certo che no.{#Name="Zero"}
 Oh. Pensavo magari ne avessi qualcuno.{LF}Ho un po' fame...{#Name="Mikhail"}
@@ -4456,7 +4456,7 @@ Bene, bene. Mi fa piacere vedere che finalmente ti interessa ascoltarmi.{#Name="
 Già.{#Name="Zero"}
 Anche se potresti sembrare almeno un po' più riconoscente...{#Name="Accord"}
 Comincia a parlare prima che ti faccia a pezzi.{#Name="Zero"}
-Oooh, che paura!{#Name="Accord"}
+Oooh, spaventosa!{#Name="Accord"}
 Va bene, va bene. Ascolta.{#Name="Accord"}
 Per cominciare, parliamo delle tue sorelle, ti va?{#Name="Accord"}
 Sai, no? Le sorelle maledette che sei destinata ad affrontare?{#Name="Accord"}
@@ -4472,7 +4472,7 @@ Non sono più viva nel vero senso della parola.{#Name="Zero"}
 Questo fiore è una calamità che{LF}minaccia il mondo intero.{#Name="Zero"}
 Sta crescendo. Nutrendosi di me.{#Name="Zero"}
 Prima o poi mi consumerà completamente,{#Name="Zero"}
-e indovina cosa succederà, quando sarà maturato del tutto?{#Name="Zero"}
+e una volta che succederà, una volta che sarà cresciuto del tutto?{#Name="Zero"}
 ...Distruggerà ogni cosa.{#Name="Zero"}
 Heh. Proprio un brutto affare, eh?{#Name="Zero"}
 Quando capii di essere stata infettata da un fiore{LF}che avrebbe messo fine al mondo...{#Name="Zero"}
@@ -4500,11 +4500,11 @@ Ma vuoi sapere qual è la parte migliore?{#Name="Zero"}
 Dopo un po', le mie sorelle iniziarono{LF}a combattere per la "pace".{#Name="Zero"}
 Vengono da un fiore che metterà fine{LF}al mondo, e combattono per la PACE?{#Name="Zero"}
 ...Esilarante.{#Name="Zero"}
-Comunque, fu allora che feci la mia scelta:{#Name="Zero"}
+Comunque, fu allora che presi la mia decisione:{#Name="Zero"}
 Decisi di uccidere le mie sorelle...{#Name="Zero"}
 e poi distruggere il fiore.{#Name="Zero"}
-Ho pensato che fossi stata io a dare inizio a tutto questo casino, sai?{#Name="Zero"}
-Tanto valeva finirlo.{#Name="Zero"}
+Ho realizzato che iniziai io tutto questo casino, sai?{#Name="Zero"}
+Tanto vale finirlo.{#Name="Zero"}
 Quindi, in breve, è tutto qui.{#Name="Zero"}
 E' di questo che parla tutta questa storia.{#Name="Zero"}
 Michael!{#Name="Zero"}
@@ -6125,7 +6125,7 @@ Proteggete Lady Four con la vostra vita!{#Name="Soldier C"}
 Non lasciate entrare Zero nella cittadella di Lady Four!{#Name="Soldier C"}
 La cittadella è più avanti, eh?{LF}Grazie delle indicazioni, idiota.{#Name="Zero"}
 Diavolo! Uccidete quella donna!{#Name="Soldier C"}
-Lady Four resta con noi!{#Name="Soldier F"}
+Lady Four sta con noi!{#Name="Soldier F"}
 E' sempre Four, Four, Four tutto il giorno{LF}con voi idioti, vero?{#Name="Zero"}
 Non posso credere che caschiate{LF}per quella sua aria tutta carina.{#Name="Zero"}
 Non osare macchiare Lady Four{LF}con quel tuo fiore marcio!{#Name="Soldier E"}
@@ -6135,7 +6135,7 @@ Non se ne parla!{#Name="Dito"}
 Oh ho ho! Incapace di dare il massimo, eh?{#Name="Octa"}
 A volte i vecchietti hanno quel{LF}problema con le loro banane virili!{#Name="Octa"}
 Gah! Sta' zitto, una buona volta!{#Name="Dito"}
-Se la tua banana virile è così tosta,{LF}perché la usi per combattere, eh?{#Name="Dito"}
+Se la tua banana virile è così tosta,{LF}perché non la usi per combattere, eh?{#Name="Dito"}
 Unnnnngh...{#Name="Decadus"}
 E tu! Fenomeno da baraccone! Smettila di immaginartelo!{#Name="Dito"}
 Sai... La resistenza è la chiave per{LF}sopravvivere a una battaglia come questa.{#Name="Cent"}
@@ -6164,8 +6164,8 @@ Ah ah ah! Certo!{#Name="Cent"}
 E' preoccupata che il suo piccolo accessorio{LF}passi di moda!{#Name="Cent"}
 Ehm...giusto. {#Name="Octa"}
 Questo viaggio si sta rivelando{LF}più difficile di quanto mi aspettassi.{#Name="Decadus"}
-Sul serio? E tu cosa ti aspettavi esattamente?{#Name="Dito"}
-Stai viaggiando con ZERO!{LF}E' come una macchina per uccidere.{#Name="Dito"}
+Sul serio? Cosa ti aspettavi esattamente?{#Name="Dito"}
+Stai viaggiando con ZERO!{LF}È una specie di macchina assassina.{#Name="Dito"}
 In effetti è stato un massacro{LF}dopo l'altro... Ungh...{#Name="Decadus"}
 Calmati lì sotto, tigre.{#Name="Dito"}
 Non era un gemito di piacere!{#Name="Decadus"}
@@ -6226,7 +6226,7 @@ O forse eri già fuori di testa fin dall'inizio?{#Name="Mikhail"}
 Già...{#Name="Zero"}
 No, scemo!{#Name="Zero"}
 Tu non sei un demone.{#Name="Zero"}
-E poi io sono...speciale, chiaro? Sono diversa.{#Name="Zero"}
+E poi io sono...speciale, okay? Sono diversa.{#Name="Zero"}
 Vergogna, sorella mia! Vergogna!{#Name="Four"}
 Guardati, uccidi i tuoi{LF}simili per reclamare i loro poteri!{#Name="Four"}
 Non voglio il tuo potere, sorellina.{#Name="Zero"}
@@ -6260,7 +6260,7 @@ No... Ti prego, no!{#Name="Four"}
 M-Ma...come può questo...{#Name="Four"}
 succedere...a...me...{#Name="Four"}
 Non preoccuparti.{#Name="Zero"}
-Le tue sorelle ti raggiungeranno abbastanza presto.{#Name="Zero"}
+Le tue sorelle ti raggiungeranno molto presto.{#Name="Zero"}
 Ehi. E' tutta tua.{#Name="Zero"}
 L'evoluzione di un drago...{#Name="Decadus"}
 Santo cielo! Si è evoluto due volte in una volta sola!{#Name="Octa"}
@@ -6911,7 +6911,7 @@ Non è colpa mia! E' stata cattiva con me!{LF}E' stata cattiva!{#Name="Mikhail"}
 Urrrnnngghhh...{#Name="Decadus"}
 Davvero? Ti eccita anche QUESTO?{#Name="Dito"}
 Porca miseria. Che cos'è, uno zoo del cazzo?{LF}Non ho tempo per queste stronzate!{#Name="Zero"}
-Che fretta c'è? Li faremo a pezzi abbastanza presto.{#Name="Dito"}
+Che fretta c'è? Li faremo fuori a tempo debito.{#Name="Dito"}
 289{#Name="289"}
 649{#Name="649"}
  {#Name="ディト"}
@@ -7538,7 +7538,7 @@ Se dici "Questo disagio è squisito!"{LF}o qualche stronzata simile, giuro che t
 Unnngh...{#Name="Decadus"}
 Che ne dite di un po' di curiosità? Sapevate che{LF}le fate purificano l'aria ruttando?{#Name="Cent"}
 Oh? Non ne avevo idea.{#Name="Octa"}
-Non fare l'impressionato. Se le tira tutte{LF}fuori dal culo.{#Name="Zero"}
+Non essere impressionato. Se le tira tutte{LF}fuori dal culo.{#Name="Zero"}
 Tsk. Suvvia. Questa foresta è contaminata perché{LF}mancano le fate. Non lo vedete? Possibile che sia{LF}l'unico ad accorgersene?{#Name="Cent"}
 Odio davvero, davvero tanto questo tizio.{#Name="Dito"}
 Oh ho! Pare che il nemico abbia una scorta infinita{LF}di tirapiedi di basso livello...{#Name="Octa"}
@@ -7591,12 +7591,12 @@ Sei un idiota. E' questo che aspettavi come risposta?{#Name="Zero"}
 Che diavolo sono queste cose inquietanti?{#Name="Zero"}
 Che bella sorpresa! Dicono che solo quelli dal{LF}cuore puro possano vedere questi piccoletti, sai.{#Name="Cent"}
 Smetti di parlare e combatti!{#Name="Zero"}
-Ugh, questa cosa mi sta facendo impazzire!{#Name="Zero"}
+Ugh, mi sta facendo impazzire!{#Name="Zero"}
 Sono dei piccoli bastardi insistenti, eh?{#Name="Dito"}
 Maledizione! Sono stanca marcia di giocare con le bambole!{#Name="Zero"}
 Pazienza, mia signora. Meglio piegarsi come una canna{LF}nel vento che crollare come una quercia.{#Name="Decadus"}
 Di che diavolo stai parlando?{LF}Stai iniziando a sembrare Cent!{#Name="Zero"}
-Arrrgh, odio questa rottura di palle! Lo odio, lo odio, lo odio!{#Name="Zero"}
+Arrrgh, odio tutto questo! Lo odio, lo odio, lo odio!{#Name="Zero"}
 Oh ho! Pare che la mia signora non sia abituata{LF}a un lavoro così tedioso.{#Name="Octa"}
 Io non sono abituata a nessun lavoro.{#Name="Zero"}
 A parte uccidere.{#Name="Dito"}
@@ -7672,7 +7672,7 @@ Sconfiggi gli Arci Titani!{#Name="説明文"}
 （リザーブ）{#Name="（リザーブ）"}
 （リザーブ）{#Name="（リザーブ）"}
 Zero! Ehi! Ehi, Zero!{#Name="Mikhail"}
-*Sigh* Senti, perché non prendi il volo{LF}e cerchi One e Three, okay?{#Name="Zero"}
+*Sospiro* Senti, perché non prendi il volo{LF}e cerchi One e Three, okay?{#Name="Zero"}
 Awww! Perché? Non ti piace stare con me?{#Name="Mikhail"}
 E' perché puzzo? E' per quello?{#Name="Mikhail"}
 Cosa? No! Io...voglio solo vederti spiegare le{LF}ali e solcare i cieli! ...E roba così.{#Name="Zero"}
@@ -7776,7 +7776,7 @@ Beh, questo è strano.{#Name="Octa"}
 Cosa?{#Name="Zero"}
 In quest'area dovrebbero esserci delle fate.{#Name="Octa"}
 Io non vedo niente.{#Name="Zero"}
-Ah HA! Visto? Il gas velenoso le ha uccise tutte fino all'ultima—{#Name="Cent"}
+Ah HA! Visto? Il gas velenoso le ha uccise tutte fino all'ultim—{#Name="Cent"}
 Sta' zitto, per favore.{#Name="Dito"}
 Santo cielo. Quelli sono troll?{#Name="Octa"}
 Ugh. Troll. Brutti, puzzolenti e stupidi...{LF}Meritano di morire.{#Name="Dito"}
@@ -7789,7 +7789,7 @@ Mi chiedo cosa Lady Three stesse{LF}cercando di dirci prima.{#Name="Decadus"}
 Ha detto che Lady One è in questa foresta, giusto?{#Name="Decadus"}
 E che custodisce un segreto di qualche tipo?{#Name="Decadus"}
 I misteri si moltiplicano tra loro...{#Name="Decadus"}
-Anch'io ho riflettuto{LF}a lungo su questa questione.{#Name="Octa"}
+Anch'io ho riflettuto{LF}a lungo sulla questione.{#Name="Octa"}
 Ma ahimè, ogni volta che penso a Lady Three,{LF}la mia mente viene distratta da immagini continue{LF}dei nostri epici convegni carnali notturni...{#Name="Octa"}
 Non ci stai nemmeno provando, vero?{#Name="Zero"}
 Lady Zero, attenta!{#Name="Decadus"}
@@ -7834,7 +7834,7 @@ Soldato D
 Soldato G
 Insegui Three.{#Name="説明文"}
 Sconfiggi i nemici che ti bloccano la strada!{#Name="説明文"}
-Distruggi le tre statue!{#Name="説明文"}
+Distruggi le statue di Three!{#Name="説明文"}
 Sconfiggi il Cerbero grigio!{#Name="説明文"}
 （リザーブ）{#Name="（リザーブ）"}
 （リザーブ）{#Name="（リザーブ）"}
@@ -7855,7 +7855,7 @@ Avete qualche reazione a queste poesie, mia signora?{#Name="Octa"}
 Sono stanca di questa merda. Ti basta?{#Name="Zero"}
 ...Che c'è? Hai finalmente finito?{#Name="Zero"}
 Il cane agile emerge dagli inferi,{LF}facendo risuonare un tamburo dall'erba...{#Name="Three"}
-Lo sapevo che avrebbe ripreso.{#Name="Zero"}
+Puntuale come al solito...{#Name="Zero"}
 I passi di una fanciulla calpestano l'erba,{LF}lasciando spazio alle spine.{#Name="Three"}
 Danzano. Danzano! Le braci ardenti{LF}danzano fino alla terra promessa.{#Name="Three"}
 Le visioni nella tua mente non sono che fantasmi.{LF}Si librano e tornano alla tomba.{#Name="Three"}
@@ -7883,7 +7883,7 @@ Pezzi di merda? Così prevedibile.{LF}La prossima volta magari prova pustole inc
 Posso scambiarvi con un nuovo gruppo?{#Name="Zero"}
 E' un...un cerbero?{#Name="Decadus"}
 Un esemplare particolarmente brutto e orrido{LF}della specie.{#Name="Octa"}
-Finché muore come tutti gli altri, per me va bene.{#Name="Zero"}
+Finché muore come tutti gli altri, io sono a posto.{#Name="Zero"}
 説明文
 （リザーブ）
 Three
@@ -7957,7 +7957,7 @@ Zero...tu...tu stai bene?{#Name="Mikhail"}
 Lascia perdere me, tu piuttosto!?{#Name="Zero"}
 Io...io ce la metterò tutta... Davvero tutta...{#Name="Mikhail"}
 Maledizione!{#Name="Zero"}
-Esci da lì, idiota!{#Name="Zero"}
+Vai via da lì, idiota!{#Name="Zero"}
 Muoviti! Il veleno sta per... Tu stai per...{#Name="Zero"}
 Mi sa che ci ho provato un po' troppo...{#Name="Mikhail"}
 No! No, devi reincarnarti! Fallo ora!{#Name="Zero"}
@@ -8024,7 +8024,7 @@ Merda! Stiamo finendo il tempo!{#Name="Zero"}
 Uuurgh... Credo di essere avvelenato... Non riesco...a volare...{#Name="Mikhail"}
 Dannazione. Resisti!{#Name="Zero"}
 E' vulnerabile dopo aver sputato quel veleno...{#Name="Zero"}
-Aspetta che si scopra, poi scatena tutto!{#Name="Zero"}
+Aspetta che si scopra, poi scatenati!{#Name="Zero"}
 Attento a quel filo!{#Name="Zero"}
 Spostati quando spara quella roba!{#Name="Zero"}
 Sconfiggi Two e Cent!{#Name=" "}
@@ -8122,7 +8122,7 @@ Zero! Zero!{#Name="Mikhail"}
 Cosa?{#Name="Zero"}
 Faccio un brutto odore anche oggi?{#Name="Mikhail"}
 ...Effettivamente, sai che c'è?{LF}Credo che sia un po' migliorato.{#Name="Zero"}
-Yaaay! Mi sono lavato in un fiume{LF}così d'ora in poi sarò pulito!{#Name="Mikhail"}
+Yaaay! Mi sono lavato in un fiume,{LF}d'ora in poi sarò pulito!{#Name="Mikhail"}
 Quindi, ehm, forse questo significa che non...{#Name="Mikhail"}
 Non mi odierai? O-O avrai paura di me?{#Name="Mikhail"}
 Andiamo. Non ti odio e{LF}di certo non ho paura di te.{#Name="Zero"}
@@ -8227,8 +8227,8 @@ Eh? E' Zero! Il fiore nato dall'uovo...{#Name="Soldier D"}
 361{#Name="361"}
 Questa foresta è terrificante. Nessuna persona sana{LF}potrebbe mai vivere qui.{#Name="Decadus"}
 Mmm? A me non dispiace poi tanto.{#Name="Cent"}
-Ha detto persona SANA, Cent.{LF}Quindi non tu.{#Name="Dito"}
-Ha detto persona SANA, Cent.{LF}Quindi non tu.{#Name="Dito"}
+Ha detto persona SANA, Cent.{LF}Quindi: non tu.{#Name="Dito"}
+Ha detto persona SANA, Cent.{LF}Quindi: non tu.{#Name="Dito"}
 Five? Credevo di averti uccisa.{#Name="Zero"}
 Idiota. Ti sei resuscitata da sola?{#Name="Zero"}
 Sorgi...Galgaliel.{#Name="Five"}
@@ -8244,7 +8244,7 @@ Egregori, danza!{#Name="Cent"}
 Posso occuparmi io di questi tizi...{LF}Forse tu puoi pensare a Five?{#Name="Cent"}
 Che ci fa Five qui nella{LF}foresta invece di Three?{#Name="Zero"}
 Forse Accord aveva ragione sul fatto che{LF}il mondo si stia sgretolando.{#Name="Octa"}
-Oh, per l'amor del cazzo.{#Name="Zero"}
+Oh, che cazzo.{#Name="Zero"}
 E' fantastico! Oh mio Dio,{LF}questo posto è dannatamente fantastico!{#Name="Dito"}
 Guardalo, Cent! E' incredibile!{LF}C'è sangue, budella e...tutto il resto!{#Name="Dito"}
 E' un mondo dove solo il brutto è bello!{#Name="Dito"}
@@ -8284,7 +8284,7 @@ Sorella.{#Name="163"}
 Eh? Aspetta, che diavolo è questo!?{#Name="Dito"}
 Hai evocato un angelo senza l'aiuto di un'Intoner.{#Name="Zero"}
 Dovrai pur pagarne il prezzo in qualche modo.{#Name="Zero"}
-Oh, andiamo! Non è giusto per niente!{#Name="Dito"}
+Oh, andiamo! Non è per niente giusto!{#Name="Dito"}
 L'ho finalmente trovato!{#Name="Dito"}
 Ho finalmente trovato un mondo in cui posso vivere e che posso amare davvero!{#Name="Dito"}
 Zero, aspetta. No! No no no no no no no—{#Name="Dito"}
@@ -9058,7 +9058,7 @@ Direi che è solo una questione di carattere.{#Name="Octa"}
 Infatti. Mikhail ha una{LF}innocenza affascinante. Tu...no.{#Name="Decadus"}
 Oh, per l'amor del cielo! Non sa{LF}nemmeno dire se ha freddo o no!{#Name="Dito"}
 Quella stupida lucertola se la caverà benissimo.{#Name="Dito"}
-Quante volte dobbiamo passarci!?{#Name="Zero"}
+Quante volte dobbiamo affrontare tutto questo!?{#Name="Zero"}
 Ancora e ANCORA... Ne ho abbastanza!{#Name="Zero"}
 Zero? Ehi, Zero! Credo di sentire freddo, Zero!{#Name="Mikhail"}
 Davvero? Mi sorprende che tu senta qualcosa{LF}attraverso quella testaccia dura.{#Name="Zero"}
@@ -9098,7 +9098,7 @@ Che c'è?{#Name="Zero"}
 Che diavolo è questo?{#Name="Zero"}
 Divergenza: Diramazione C{#Name="Accord"}
 13 aprile dell'anno 1000 d.C.{#Name="Accord"}
-Ho osservato una diramazione estremamente preoccupante.{#Name="Accord"}
+Ho osservato una Diramazione estremamente preoccupante.{#Name="Accord"}
 Quando la singolarità nota come Two catturò il drago Mikhail,{#Name="Accord"}
 ho rilevato che gli stava imponendo una sorta di influenza magica.{#Name="Accord"}
 Finora, solo Zero poteva esercitare tale influenza.{LF}Questa è la prima eccezione nota,{#Name="Accord"}
@@ -9346,7 +9346,7 @@ Cosa, quindi sono dipendenti?{LF}Da cosa sono dipendenti?{#Name="Zero"}
 Dal suo canto, immagino.{#Name="Cent"}
 Ehi, Cent ha appena detto qualcosa di sensato!{LF}Fategli un applauso, gente!{#Name="Dito"}
 Con Lady Two sparita, anche il potere{LF}del suo canto svanisce.{#Name="Decadus"}
-Portando così al triste stato{LF}di quello che abbiamo davanti.{#Name="Decadus"}
+Portando così al triste stato{LF}che abbiamo davanti.{#Name="Decadus"}
 Stupido cane. Ti farò a pezzi!{#Name="Zero"}
 Oh, per dio! Non un altro!{#Name="Zero"}
 Temo che i nostri nemici abbiano individuato{LF}la debolezza di Lady Zero.{#Name="Decadus"}
@@ -9359,7 +9359,7 @@ Grazie, Zero! Ce la metterò tutta, okay?{#Name="Mikhail"}
 Possiamo raggiungere Cathedral City{LF}da questo sentiero più avanti?{#Name="Cent"}
 Hmm...{#Name="Accord"}
 Draghi che regrediscono...{LF}Discepoli che abbandonano le loro Intoner...{#Name="Accord"}
-Una diramazione così strana merita uno studio molto attento.{#Name="Accord"}
+Una Diramazione così strana merita uno studio molto attento.{#Name="Accord"}
 Ci sono parecchi non morti da queste parti...{#Name="Octa"}
 Probabilmente stanno riciclando i{LF}corpi dei soldati caduti.{#Name="Decadus"}
 Forse anche questo è un altro sintomo{LF}dell'assenza di Lady Two.{#Name="Octa"}
@@ -9424,8 +9424,8 @@ Allora ti suggerisco di trovarti un altro lavoro!{#Name="Decadus"}
 Ughh! Mi sto stancando di queste teste di cazzo!{#Name="Zero"}
 Voglio solo ammazzare Three e farla finita!{#Name="Zero"}
 Voglio solo ammazzare Three e farla finita!{#Name="Zero"}
-Spostati o muori! Vanno bene entrambe!{#Name="Zero"}
-Porca miseria...{#Name="Zero"}
+Spostatevi o morite! Vanno bene entrambe!{#Name="Zero"}
+Dannazione...{#Name="Zero"}
 Respirate piuttosto pesantemente,{LF}mia signora. Il fiore è...ehm...{#Name="Octa"}
 Sto bene.{#Name="Zero"}
 Zero! Sento il potere di un canto! Lo sento quassù!{#Name="Mikhail"}
@@ -9507,7 +9507,7 @@ Che c'è?{#Name="Zero"}
 Quei cubi richiedono enormi quantità{LF}di energia magica per funzionare.{#Name="Octa"}
 E' molto improbabile che Lady Three{LF}possa alimentarli da sola.{#Name="Octa"}
 Dev'esserci una qualche fonte di energia qui vicino.{#Name="Octa"}
-Heh heh... Ma ovvio che c'è. COME SEMPRE!{#Name="Zero"}
+Heh heh... Ma ovvio che c'è. OVVIAMENTE!{#Name="Zero"}
 スリイは元々ちょっとオカシイ奴だったからな{#Name="ゼロ"}
 自我の破壊をもろともせず、{LF}強力な花を咲かせたのかもしれない{#Name="ゼロ"}
 面倒臭い{#Name="ゼロ"}
@@ -9524,12 +9524,12 @@ Dannazione! Come può una cosa così maledettamente grossa essere così maledett
 {06}>{#Name="Mikhail"}
 Decadus? Come sei arrivato qui?{#Name="Zero"}
 Mi sono fatto dare una spinta da Octa.{#Name="Decadus"}
-E'...quasi impressionante.{#Name="Zero"}
+E'...davvero impressionante.{#Name="Zero"}
 Mi sembra che siate in difficoltà.{#Name="Decadus"}
 Sì, non riesco a colpire questo figlio di puttana saltellante.{#Name="Zero"}
 Lascia fare a me.{#Name="Decadus"}
 Il mio angelo ha il potere di rallentare notevolmente i suoi movimenti.{#Name="Decadus"}
-Sembra ottimo. Procedi!{#Name="Zero"}
+Sembra ottimo. Vai pure!{#Name="Zero"}
 Ehm... Ma se uso tale potere, tornerò a essere un uccello...{#Name="Decadus"}
 La vostra mancanza di pietà è inebriante...{#Name="Decadus"}
 Cosa, vuoi lasciar perdere?{#Name="Zero"}
@@ -10344,7 +10344,7 @@ One
 One{0A}(One's Brother)
 ? ? ?{0A}(Accord)
 Sfonda le difese di Cathedral City.{#Name="説明文"}
-Sconfiggi il Gray Cerberus!{#Name="説明文"}
+Sconfiggi il Cerbero grigio!{#Name="説明文"}
 Sconfiggi Two!{#Name="説明文"}
 Il discepolo Cent si è unito alla battaglia.{#Name="説明文"}
 （リザーブ）{#Name="（リザーブ）"}
@@ -10583,13 +10583,13 @@ Hai dato vita a ognuna di loro...{#Name="One"}
 E poi sei andata e le hai uccise tutte!{LF}Che cosa ti aspettavi?{#Name="One"}
 Maledire il mondo...{#Name="One"}
 E poi salvare il mondo...{#Name="One"}
-Pensavi di poter fare tutto da sola?{LF}Beh, ECCO COSA TI MERITI, CAZZO!{#Name="One"}
+Pensavi di poter fare tutto da sola?{LF}Beh, ECCO COSA OTTIENI, CAZZO!{#Name="One"}
 Ugh... Sei tu quella che dovrebbe essere cancellata, Zero!{#Name="One"}
 Sta' zitta! Sta' zitta, sta' zitta, sta' zitta, STA' ZITTA!{#Name="Zero"}
 Hai ucciso Mikhail...{#Name="Zero"}
 Hai ucciso Mikhaaail!{#Name="Zero"}
 Perché era la tua spada, Zero!{#Name="One"}
-Sei un'Intoner maledetta!{LF}Distruggerai il mondo!{#Name="One"}
+Sei un'Intoner maledetta!{LF}Finirai per distruggere il mondo!{#Name="One"}
 No! Io... Io...{#Name="Zero"}
 Muuuooooriiiiii!{#Name="One"}
 Aaaaaahhh!{#Name="Zero"}
@@ -10672,15 +10672,15 @@ Abbiamo la benedizione di Lady One dalla nostra parte!{#Name="Soldier E"}
 Hai ragione! Non possiamo perdere ora!{#Name="Soldier G"}
 Proteggici! Guidaci!{#Name="Soldier B"}
 I venti della vittoria stanno soffiando!{#Name="Soldier D"}
-Quindi questa è la base principale di One, eh?{#Name="Zero"}
+Quindi questa è la base di One, eh?{#Name="Zero"}
 Sto bene! Vai a prendere quel tizio! {#Name="Zero"}
 Giusto! Sta' attenta, Zero! Sta' attenta, okay?{#Name="Mikhail"}
 Smettila di ripeterti!{#Name="Zero"}
 Il mio nome è Zero, l'Intoner originale, e l'immortale—{#Name="Zero"}
-PIANTALA! Sto cercando di fare un discorso!{#Name="Zero"}
+PIANTATELA! Sto cercando di fare un discorso!{#Name="Zero"}
 Ora... Uh...{#Name="Zero"}
-Oh, per l'amor del cazzo! Ora ho perso il filo!{#Name="Zero"}
-Credi di essere pronto per me!?{#Name="Soldier A"}
+Oh, che cazzo! Ora ho perso il filo!{#Name="Zero"}
+Credi di essere pronta per me!?{#Name="Soldier A"}
 Ha! Che carino.{#Name="Zero"}
 L'unico modo per passare da qui è sui nostri cadaveri!{#Name="Soldier B"}
 Oh ho! E' davvero il genere di cosa che{LF}vuoi dire a un'Intoner e al suo discepolo?{#Name="Octa"}
@@ -10727,12 +10727,12 @@ Alcuni di noi sono dell'opinione che questa{LF}Diramazione debba essere sigillat
 ma io non sono d'accordo.{#Name="Accord"}
 Penso che almeno una di loro{LF}potrebbe riuscirci...{#Name="Accord"}
 ...No. Dovrei fermarmi. {#Name="Accord"}
-Cancellarò questa voce e consegnerò la registrazione{LF}al prossimo passaggio nel suo stato attuale.{#Name="Accord"}
+Cancellerò questa voce e consegnerò la registrazione{LF}al prossimo Recorder nel suo stato attuale.{#Name="Accord"}
 Fine registrazione.{#Name="Accord"}
 Armisael, invadi!{#Name="Octa"}
 Octa!{#Name="Zero"}
 Oh ho ho! Peccato non aver potuto sfoderare la lama un'ultima volta, mia signora!{#Name="Octa"}
-Vedete? Anche in tempi di crisi, la mia spada virile è affilata come quella di una strega—{#Name="Octa"}
+Vedete? Anche in tempi di crisi, la mia spada virile è fidata come la scopa di una str—{#Name="Octa"}
 {06}>{#Name="Zero"}
 {06}>{#Name="Zero"}
 Attivare acceleratore!{#Name="Accord"}
@@ -10745,7 +10745,7 @@ Zero! Tra 51,08 secondi, lo scudo svanirà per 0,5 secondi!{#Name="Accord"}
 Accord...{#Name="Zero"}
 Assicurati solo di essere pronta!{#Name="Accord"}
 Se muori qui, questa intera Diramazione terminerà!{#Name="Accord"}
-Quindi passa dalle parole ai fatti e fa' che succeda!{#Name="Accord"}
+Quindi passa dalle parole ai fatti e vai fino in fondo!{#Name="Accord"}
 ...Ricevuto.{#Name="Accord (lit: Cell Phone)"}
 ...Esecuzione codice.{#Name="Accord (lit: Cell Phone)"}
 {06}>{#Name="Zero"}
@@ -10756,12 +10756,12 @@ E' andata...un po' diversamente...da come avevo previsto...{#Name="Accord"}
 Tuttavia...{#Name="Accord"}
 Penso che così sia stato...più umano...non è vero?{#Name="Accord"}
 Sì. Immagino di sì.{#Name="Zero"}
-Zero... Ti prego...{#Name="Accord"}
+Zero... Per favore...{#Name="Accord"}
 Sono...un po'...stanca.{#Name="Accord"}
 Buonanotte, Accord. Saluta il vecchio mondo da parte mia.{#Name="Zero"}
 Sconfiggi One!{#Name="説明文"}
 L'ultima voce della mia registrazione si avvicina.{#Name="Accord"}
-Qualunque conclusione ci attenda alla fine di questa diramazione,{#Name="Accord"}
+Qualunque conclusione ci attenda alla fine di questa Diramazione,{#Name="Accord"}
 so che non dimenticherò mai questo viaggio...{#Name="Accord"}
 Ma...e tu, Zero?{#Name="Mikhail"}
 Io non voglio ucciderti...{#Name="Mikhail"}
@@ -10818,7 +10818,7 @@ Accord (lit: Cell Phone)
 説明文
 Zero...{#Name="Mikhail"}
 {06}>{#Name=" "}
-Ci siamo.{#Name="Zero"}
+Eccoci qui.{#Name="Zero"}
 Quando il fiore sarà completamente sbocciato, dovrai distruggerlo.{#Name="Zero"}
 ...Okay.{#Name="Mikhail"}
 C'è un'ultima cosa che devo dirti.{#Name="Zero"}
@@ -10831,12 +10831,12 @@ Le Intoner sono state sigillate in un altro mondo.{#Name="Accord"}
 La minaccia del fiore è stata estinta da questa Diramazione.{#Name="Accord"}
 Tuttavia, esiste la possibilità che questo sigillo{LF}possa disfarsi in qualche tempo o luogo futuro.{#Name="Accord"}
 Fino ad allora, i nostri sforzi per registrare continueranno.{#Name="Accord"}
-...Oh. E un'appendice personale riguardo al mio bersaglio d'osservazione, Zero.{#Name="Accord"}
+...Oh. E un'appendice personale riguardo al mio soggetto d'osservazione, Zero.{#Name="Accord"}
 Forse questo va oltre i miei requisiti funzionali come Recorder, ma{#Name="Accord"}
 non riesco a liberarmi della sensazione che, in qualche modo, da qualche parte, Zero sia ancora viva.{#Name="Accord"}
 E che...un giorno...{#Name="Accord"}
-Un giorno, lei e io ci rivedremo.{#Name="Accord"}
-Folle, lo so. Chiamatela intuizione.{#Name="Accord"}
+Un giorno, lei e io ci rivedremo ancora.{#Name="Accord"}
+Folle, lo so. Chiamatela un'intuizione.{#Name="Accord"}
 Passaggio dei compiti di registrazione completato.{#Name="Accord B"}
 Ottimo lavoro.{#Name="Accord B"}
 Beh... Mi chiedo come si svilupperà il futuro da qui in poi?{#Name="Accord B"}
@@ -10847,11 +10847,11 @@ Bene! Dividetevi tutti e iniziate a registrare!{#Name="Accord B"}
 Ricevuto!{#Name="Accords"}
 Spero di rivedervi un giorno.{#Name="Accord B"}
 Ma fino ad allora...{#Name="Accord B"}
-vorrei dire...{LF}Grazie per aver giocato!{#Name="Accord B"}
+Mi piacerebbe dire...{LF}Grazie per aver giocato!{#Name="Accord B"}
 Ehi, Zero?{#Name="Mikhail"}
 Sì?{#Name="ZERO"}
 Io...mi sono divertito molto.{#Name="Mikhail"}
-Con te, intendo. E' stato bello stare con te.{#Name="Mikhail"}
+Con te, intendo. E' stato divertente stare con te.{#Name="Mikhail"}
 Uccidere è stato difficile. E' stato davvero difficile, ma...{#Name="Mikhail"}
 Smettila di ripeterti.{#Name="ZERO"}
 Ma poter stare con te, Zero.{#Name="Mikhail"}
@@ -10919,13 +10919,13 @@ La luce solare infusa di magia può prosciugare la tua salute.{LF}Trova un'area 
 ＴＩＰＳ_３９　　　　　　　　　　一行目{LF}ＴＩＰＳ_３９　　　　　　　　　　二行目{LF}ＴＩＰＳ_３９　　　　　　　　　　三行目{LF}ＴＩＰＳ_３９　　　　　　　　　　四行目{LF}ＴＩＰＳ_３９　　　　　　　　　　五行目{#Name="ＴＩＰＳ_３９"}
 Un'enorme città creata dal Cataclisma.{LF}Godette di prosperità sotto la Chiesa e la sua{LF}Accademia di Magia, ma un'ondata magica accidentale nel 995{LF}la trasformò in una città fantasma. E' anche chiamata "Vecchio mondo"{LF}per le sue rovine e per il suo ruolo di origine di tutta la magia.{#Name="The Cathedral City"}
 Una nazione sotto il dominio dell'Intoner Five. Ha{LF}poca terra coltivabile, ma abbondanti risorse marine.{LF}E' rinomata per i suoi pescherecci, che si scambiano{LF}messaggi tramite una serie di corni. Il suo porto collega{LF}numerose rotte marittime, rendendola un centro di commercio.{#Name="The Land of Seas"}
-Una nazione montuosa con fortezze apparentemente{LF}in ogni angolo. Il suo prodotto più famoso,la pietra d'ambra,{LF}è un materiale raro che può essere trasportato solo portando{LF}carri lungo sentieri stretti e insidiosi.{LF}E' governata dall'Intoner Four.{#Name="The Land of Mountains"}
+Una nazione montuosa con fortezze apparentemente{LF}in ogni angolo. Il suo prodotto più famoso, la pietra d'ambra,{LF}è un materiale raro che può essere trasportato solo portando{LF}carri lungo sentieri stretti e insidiosi.{LF}E' governata dall'Intoner Four.{#Name="The Land of Mountains"}
 Una nazione quasi interamente coperta di foreste. Gran parte di essa{LF}rimane inesplorata dall'umanità, ed è invece{LF}il dominio di fate ed elfi. E' governata in teoria{LF}dall'Intoner Three, anche se lei sembra{LF}in gran parte ignara di ciò che vi accade.{#Name="The Land of Forests"}
 Una grande nazione quasi interamente coperta dal deserto,{LF}che la rende inadatta all'agricoltura. La magnetite è{LF}la sua principale esportazione. Pur essendo lontana dall'essere ricca,{LF}le sue numerose rovine hanno attirato negli ultimi anni{LF}l'interesse turistico di mercanti facoltosi.{#Name="The Land of Sands"}
-Le Terre dei Mari, Monti, Foreste e SabbieLF}sono governate ciascuna da un singolo sovrano.{LF}I sovrani passati erano dittatori che terrorizzavano il {LF}popolo, ma da quando le cinque Intoner li hanno sconfitti,{LF}il mondo è tornato ai pacifici giorni di un tempo.{#Name="Rulers"}
+Le Terre dei Mari, Monti, Foreste e Sabbie{LF}sono governate ciascuna da un singolo sovrano.{LF}I sovrani passati erano dittatori che terrorizzavano il {LF}popolo, ma da quando le cinque Intoner li hanno sconfitti,{LF}il mondo è tornato ai pacifici giorni di un tempo.{#Name="Rulers"}
 Un'organizzazione religiosa esistente fin{LF}dall'antichità. Il gruppo è cresciuto rapidamente dopo il{LF}Cataclisma, creando organizzazioni come l'Accademia{LF}di Magia per gestire la magia. Le sue molteplici sette sono{LF}note collettivamente semplicemente come la "Chiesa".{#Name="The Church"}
-Generalmente, la donna più giovane tra due fratelli nati{LF}dagli stessi genitori. Una "cognata" è la{LF}sorella di un coniuge o la moglie di un fratello, e non{LF}possiede necessariamente un legame di sangue.{#Name="Younger Sister"}
-Generalmente, la donna più anziana tra due fratelli nati{LF}dagli stessi genitori. Una "cognata" è la{LF}sorella di un coniuge o la moglie di un fratello, e non{LF}possiede necessariamente un legame di sangue.{#Name="Elder Sister"}
+Generalmente, la donna più giovane tra due sorelle nate{LF}dagli stessi genitori. Una "cognata" è la{LF}sorella di un coniuge o la moglie di un fratello, e non{LF}possiede necessariamente un legame di sangue.{#Name="Younger Sister"}
+Generalmente, la donna più anziana tra due sorelle nate{LF}dagli stessi genitori. Una "cognata" è la{LF}sorella di un coniuge o la moglie di un fratello, e non{LF}possiede necessariamente un legame di sangue.{#Name="Elder Sister"}
 Un'organizzazione fondata dalla Chiesa nel 910 per la{LF}ricerca sulla magia. La sua storia iniziale è nebulosa, ma{LF}nel 995 un incidente avvenuto alla Central Magic Academy{LF}di Cathedral City la cancellò dalla mappa.{#Name="The Magic Academy"}
 Un metodo per raccogliere e utilizzare energia magica{LF}per vari scopi, sia legati al combattimento sia non.{LF}In quest'epoca non esiste alcuno studio attivo dedicato alla magia,{LF}e solo poche applicazioni limitate sono state{LF}tramandate dalle generazioni precedenti.{#Name="Magic"}
 Persone capaci di usare il potere del canto per esercitare{LF}un'enorme forza offensiva. Sei di loro, tutte donne,{LF}sono state registrate nel corso della storia. Le Intoner liberarono ogni{LF}terra dai sovrani dispotici che un tempo terrorizzavano{LF}il loro popolo, e ora sono venerate come salvatrici.{#Name="Intoners"}
@@ -10934,8 +10934,8 @@ I più forti tra tutti i mostri. Dotati di grande{LF}intelligenza, vivono sugli 
 Eventi soprannaturali oltre la comprensione dell'umanità.{LF}La Chiesa li chiama "salvezza dagli dèi",{LF}e molti sono stati tramandati nel folklore. La maggior parte delle persone{LF}vede le stesse Intoner come miracoli, rendendole{LF}oggetto di culto tra le masse.{#Name="Miracles"}
 Un disastro avvenuto nell'856, preannunciato da un vasto{LF}terremoto nella Penisola Iberica. A questo seguì{LF}l'apparizione improvvisa di un'enorme città durante la notte e{LF}il rilascio di strane creature in tutto il mondo. I registri della Chiesa{LF}suggeriscono che fu un evento capace di cambiare il mondo.{#Name="The Cataclysm"}
 L'esistenza di mondi paralleli innescati da{LF}materia quantistica intrecciata è nota da tempo.{LF}E' possibile spostarsi, o ramificarsi, verso molti{LF}altri mondi, anche se la maggior parte di tali Diramazioni{LF}consente viaggi in una sola direzione.{#Name="Multiple Worlds"}
-Persone, luoghi o cose che possono innescare una divergenza,{LF}o Diramazione, attraverso più mondi. I fenomeni di diramazione{LF}si verificano quando in un'area sono presenti abbastanza particelle magiche e{LF}tutte le condizioni rilevanti sono soddisfatte. Tuttavia, una singolarità{LF}non viene registrata come tale fino a dopo il verificarsi di una Diramazione.{#Name="Singularities"}
-L'atto di usare l'energia del proprio fiore{LF}per scopi offensivi o difensivi.{LF}E' fondamentalmente diverso dalla magia,{LF}poiché si basa sull'imbrigliare energia dalle{LF}proprietà comuni di più mondi.{#Name="The Power of Song"}
+Persone, luoghi o cose che possono innescare una divergenza,{LF}o Diramazione, attraverso più mondi. I fenomeni di Diramazione{LF}si verificano quando in un'area sono presenti abbastanza particelle magiche e{LF}tutte le condizioni rilevanti sono soddisfatte. Tuttavia, una singolarità{LF}non viene registrata come tale fino a dopo il verificarsi di una Diramazione.{#Name="Singularities"}
+L'atto di usare l'energia del proprio fiore{LF}per scopi offensivi o difensivi.{LF}E' fondamentalmente diverso dalla magia,{LF}poiché si basa sull'imbrigliare energia dalle{LF}proprietà ricorrenti di più mondi.{#Name="The Power of Song"}
 Un oggetto parassitario a forma di pianta che si attacca{LF}a un'Intoner. Man mano che il parassita si diffonde,{LF}erode lo spirito e il corpo dell'Intoner ospite.{LF}Può essere distrutto usando un'arma derivata{LF}dal materiale cellulare di un drago.{#Name="The Flower"}
 ＴＩＰＳ_６０　　　　　　　　　　一行目{LF}ＴＩＰＳ_６０　　　　　　　　　　二行目{LF}ＴＩＰＳ_６０　　　　　　　　　　三行目{LF}ＴＩＰＳ_６０　　　　　　　　　　四行目{LF}ＴＩＰＳ_６０　　　　　　　　　　五行目{#Name="ＴＩＰＳ_６０"}
 ＴＩＰＳ_６１　　　　　　　　　　一行目{LF}ＴＩＰＳ_６１　　　　　　　　　　二行目{LF}ＴＩＰＳ_６１　　　　　　　　　　三行目{LF}ＴＩＰＳ_６１　　　　　　　　　　四行目{LF}ＴＩＰＳ_６１　　　　　　　　　　五行目{#Name="ＴＩＰＳ_６１"}
@@ -11367,7 +11367,7 @@ Parte 4: Il Fiore dell'Intoner{#Name=" "}
  {#Name=" "}
 Parte 1: Deliberazione{#Name=" "}
 Parte 2: Verso la Fortezza{#Name=" "}
-Parte 3: L'idiota{#Name=" "}
+Parte 3: Lo scemo{#Name=" "}
 Parte 4: Questioni di miniera{#Name=" "}
  {#Name=" "}
  {#Name=" "}
@@ -12295,7 +12295,7 @@ I Fossili d'Osso sono piuttosto famosi nella Terra delle{LF}Sabbie. Ho bisogno c
 I cittadini della Terra delle Sabbie considerano sacro un libro{LF}noto come Libro della Purezza. Ha nove volumi{LF}in tutto; portameli tutti e nove per una bella ricompensa.
 クエスト説明　４０２０＿１　　　　一行目{LF}クエスト説明　４０２０＿１　　　　二行目{LF}クエスト説明　４０２０＿１　　　　三行目
 Gli abitanti della Terra delle Sabbie usano pietre di Magnetite{LF}per costruire bussole. Sento un'opportunità di{LF}guadagno qui; potresti riportarmene tre?
-La Terra delle Sabbie è invasa dai Fossili Vegetale,{LF}e ho bisogno che tu me ne porti tre per un{LF}progetto a cui sto lavorando. Usa solo i chakram, okay?
+La Terra delle Sabbie è piena di Fossili Vegetale,{LF}e ho bisogno che tu me ne porti tre per un{LF}progetto a cui sto lavorando. Usa solo i chakram, okay?
 Il Libro dell'Innocenza è un tomo molto noto nella{LF}Terra delle Sabbie. Ha tre parti in totale;{LF}trovale tutte e riportale per ottenere una ricompensa.
 Come ringraziamento per tutto il tuo aiuto, ecco una dritta gratis:{LF}a quanto pare, c'è un golem nel deserto che accumula{LF}una grossa somma d'oro. Forse è ora di incassare?
 クエスト説明　４０３０＿２　　　　一行目{LF}クエスト説明　４０３０＿２　　　　二行目{LF}クエスト説明　４０３０＿２　　　　三行目
@@ -13232,81 +13232,81 @@ Cannoniere sconfitto!+500
 Lupo sconfitto!+100
 Lupo delle sabbie sconfitto!+100
 -
-Lupo sconfitto!+200
-Lupo delle sabbie sconfitto!+200
--
-Lanciere sconfitto!+100
-Capitano lanciere sconfitto!+100
--
-Spirito sconfitto!+100
-Spirito superiore sconfitto!+100
--
-Imp sconfitto!+100
--
--
-Ogre sconfitto!+100
-Ogre delle sabbie sconfitto!+100
--
-Troll sconfitto!+100
-Troll brutale sconfitto!+100
--
-Mago sconfitto!+100
--
-Necromante sconfitto!+100
-Stregone sconfitto!+100
--
-Non morto sconfitto!
-Soldato non morto sconfitto!+100
-Paladino non morto sconfitto!+100
--
--
-Viverna sconfitta!+100
--
--
-Spettro sconfitto!+100
--
--
-Viverna sconfitta!+200
-Viverna sconfitta!+300
--
-Gigas sconfitto!
-Gigas sconfitto!+200
-Gigas non morto sconfitto!+100
--
-Titano sconfitto!
-Signore Titano sconfitto!+100
-Arci Titano sconfitto!+100
--
-Cerbero sconfitto!
--
-Cerbero di Fiamme sconfitto!+100
-Cerbero grigio sconfitto!
-Golem distrutto!
--
-花（ワン）
-花（トウ）
-花（スリイ）
-花（フォウ）
-花（ファイブ）
--
-Centauro sconfitto!
-Centauro di Fuoco sconfitto!
--
--
-Cubo Gargoyle distrutto!+100
--
--
--
-Soldato sconfitto!+2000
-Soldato sconfitto!+2100
-Soldato sconfitto!+2200
-Soldato sconfitto!+2300
-Soldato sconfitto!+2400
-Bombardiere sconfitto!+100
-Phanuel sconfitto!+100
-Armaros sconfitto!+100
-Armaros sconfitto!+200
-Armaros sconfitto!+300
+Lupo sconfitto!
+Lupo delle sabbie sconfitto!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Armaros sconfitto!+1
 Armaros sconfitto!+2
 Armaros sconfitto!+3
@@ -13429,28 +13429,28 @@ Lupi sconfitti!
 Lupi delle Sabbie sconfitti!
 -
 Lancieri sconfitti!
-Capitani Lancieri sconfitti!+01
+Capitani Lancieri sconfitti!
 -
 Spiriti sconfitti!
-Spiriti Superiori sconfitti!+01
+Spiriti Superiori sconfitti!
 -
 Imp sconfitti!
 -
 -
 Ogre sconfitti!
-Ogre delle Sabbie sconfitti!+01
+Ogre delle Sabbie sconfitti!
 -
 Troll sconfitti!
-Troll Bruti sconfitti!+01
+Troll Bruti sconfitti!
 -
 Maghi sconfitti!
 -
-Necromanti sconfitti!+01
-Stregoni sconfitti!+01
+Necromanti sconfitti!
+Stregoni sconfitti!
 -
 Non morti sconfitti!
-Soldati non morti sconfitti!+01
-Paladini non morti sconfitti!+01
+Soldati non morti sconfitti!
+Paladini non morti sconfitti!
 -
 -
 Viverne sconfitte!+01
@@ -13464,11 +13464,11 @@ Viverne sconfitte!+03
 -
 Gigas sconfitti!
 Gigas sconfitti!+02
-Gigas non morti sconfitti!+01
+Gigas non morti sconfitti!
 -
-Titani sconfitti!+01
+Titani sconfitti!
 Signori titani sconfitti!+01
-Arci titani sconfitti!+01
+Arci titani sconfitti!
 -
 Cerberi sconfitti!
 -
@@ -13490,7 +13490,7 @@ Cubi Gargoyle distrutti!+01
 -
 -
 -
-Soldati confitti!+020
+Soldati sconfitti!
 Soldati sconfitti!+021
 Soldati sconfitti!+022
 Soldti sconfitti!+023
@@ -13540,7 +13540,7 @@ Four
 Five
 ゼロ最終
 Cent
-Statue di Three
+Statue di Three distrutte
 バリケード小
 バリケード中
 バリケード大
@@ -16269,10 +16269,10 @@ Una lancia che un tempo minacciò il trono{LF}reale. Incute paura ai nemici più
 Una lancia che un tempo minacciò il trono{LF}reale. Incute paura ai nemici più deboli.
 Una lancia che un tempo minacciò il trono{LF}reale. Incute paura ai nemici più deboli.
 Una lancia che un tempo minacciò il trono{LF}reale. Incute paura ai nemici più deboli.
-L'ultima lancia lasciata dall'Imperatore{LF} Sacro. Efficace contro i non morti.
-L'ultima lancia lasciata dall'Imperatore{LF} Sacro. Efficace contro i non morti.
-L'ultima lancia lasciata dall'Imperatore{LF} Sacro. Efficace contro i non morti.
-L'ultima lancia lasciata dall'Imperatore{LF} Sacro. Efficace contro i non morti.
+L'ultima lancia lasciata dall'Imperatore{LF}Sacro. Efficace contro i non morti.
+L'ultima lancia lasciata dall'Imperatore{LF}Sacro. Efficace contro i non morti.
+L'ultima lancia lasciata dall'Imperatore{LF}Sacro. Efficace contro i non morti.
+L'ultima lancia lasciata dall'Imperatore{LF}Sacro. Efficace contro i non morti.
 Una lancia che informa chi la impugna{LF}della sua rovina imminente.
 Una lancia che informa chi la impugna{LF}della sua rovina imminente.
 Una lancia che informa chi la impugna{LF}della sua rovina imminente.

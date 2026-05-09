@@ -11,7 +11,7 @@ Avete qualche reazione a queste poesie, mia signora?{#Name="Octa"}
 Sono stanca di questa merda. Ti basta?{#Name="Zero"}
 ...Che c'è? Hai finalmente finito?{#Name="Zero"}
 Il cane agile emerge dagli inferi,{LF}facendo risuonare un tamburo dall'erba...{#Name="Three"}
-Lo sapevo che avrebbe ripreso.{#Name="Zero"}
+Puntuale come al solito...{#Name="Zero"}
 I passi di una fanciulla calpestano l'erba,{LF}lasciando spazio alle spine.{#Name="Three"}
 Danzano. Danzano! Le braci ardenti{LF}danzano fino alla terra promessa.{#Name="Three"}
 Le visioni nella tua mente non sono che fantasmi.{LF}Si librano e tornano alla tomba.{#Name="Three"}
@@ -39,7 +39,7 @@ Pezzi di merda? Così prevedibile.{LF}La prossima volta magari prova pustole inc
 Posso scambiarvi con un nuovo gruppo?{#Name="Zero"}
 E' un...un cerbero?{#Name="Decadus"}
 Un esemplare particolarmente brutto e orrido{LF}della specie.{#Name="Octa"}
-Finché muore come tutti gli altri, per me va bene.{#Name="Zero"}
+Finché muore come tutti gli altri, io sono a posto.{#Name="Zero"}
 説明文
 （リザーブ）
 Three

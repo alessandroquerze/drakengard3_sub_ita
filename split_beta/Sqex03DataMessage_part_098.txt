@@ -80,7 +80,7 @@ One
 One{0A}(One's Brother)
 ? ? ?{0A}(Accord)
 Sfonda le difese di Cathedral City.{#Name="説明文"}
-Sconfiggi il Gray Cerberus!{#Name="説明文"}
+Sconfiggi il Cerbero grigio!{#Name="説明文"}
 Sconfiggi Two!{#Name="説明文"}
 Il discepolo Cent si è unito alla battaglia.{#Name="説明文"}
 （リザーブ）{#Name="（リザーブ）"}
