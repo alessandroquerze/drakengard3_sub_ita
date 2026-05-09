@@ -250,7 +250,7 @@ Are you okay, Zero?{#Name="Mikhail"}
 `Sì, sto bene.{#Name="Zero"}`
 Yeah, I'm fine.{#Name="Zero"}
 
-`Sono solo questi vermi di soldati a farmi incazzare.{#Name="Zero"}`
+`Sono questi vermi di soldati a farmi incazzare.{#Name="Zero"}`
 These soldier maggots just piss me off, is all.{#Name="Zero"}
 
 `Vermi? Ehi, ti piacciono i vermi, Zero?{#Name="Mikhail"}`

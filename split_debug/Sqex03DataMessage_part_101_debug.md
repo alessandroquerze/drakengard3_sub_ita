@@ -16,7 +16,7 @@ Cursing the world...{#Name="One"}
 `E poi salvare il mondo...{#Name="One"}`
 Then saving the world...{#Name="One"}
 
-`Pensavi di poter fare tutto da sola?{LF}Beh, ECCO COSA TI MERITI, CAZZO!{#Name="One"}`
+`Pensavi di poter fare tutto da sola?{LF}Beh, ECCO COSA OTTIENI, CAZZO!{#Name="One"}`
 You thought you could do everything by yourself?{LF}Well, THIS IS WHAT YOU FUCKING GET!{#Name="One"}
 
 `Ugh... Sei tu quella che dovrebbe essere cancellata, Zero!{#Name="One"}`
@@ -34,7 +34,7 @@ You killed Mikhaaail!{#Name="Zero"}
 `Perché era la tua spada, Zero!{#Name="One"}`
 Because he was your sword, Zero!{#Name="One"}
 
-`Sei un'Intoner maledetta!{LF}Distruggerai il mondo!{#Name="One"}`
+`Sei un'Intoner maledetta!{LF}Finirai per distruggere il mondo!{#Name="One"}`
 You're a cursed Intoner!{LF}You're going to destroy the world!{#Name="One"}
 
 `No! Io... Io...{#Name="Zero"}`
@@ -283,7 +283,7 @@ Protect us! Guide us!{#Name="Soldier B"}
 `I venti della vittoria stanno soffiando!{#Name="Soldier D"}`
 The winds of victory are blowing!{#Name="Soldier D"}
 
-`Quindi questa è la base principale di One, eh?{#Name="Zero"}`
+`Quindi questa è la base di One, eh?{#Name="Zero"}`
 So this is One's home base, is it?{#Name="Zero"}
 
 `Sto bene! Vai a prendere quel tizio! {#Name="Zero"}`
@@ -298,16 +298,16 @@ Stop repeating yourself!{#Name="Zero"}
 `Il mio nome è Zero, l'Intoner originale, e l'immortale—{#Name="Zero"}`
 My name is Zero, the original Intoner, and the immortal—{#Name="Zero"}
 
-`PIANTALA! Sto cercando di fare un discorso!{#Name="Zero"}`
+`PIANTATELA! Sto cercando di fare un discorso!{#Name="Zero"}`
 KNOCK IT OFF! I'm trying to make a speech here!{#Name="Zero"}
 
 `Ora... Uh...{#Name="Zero"}`
 Now... Uh...{#Name="Zero"}
 
-`Oh, per l'amor del cazzo! Ora ho perso il filo!{#Name="Zero"}`
+`Oh, che cazzo! Ora ho perso il filo!{#Name="Zero"}`
 Oh for fuck's sake! Now I lost my place!{#Name="Zero"}
 
-`Credi di essere pronto per me!?{#Name="Soldier A"}`
+`Credi di essere pronta per me!?{#Name="Soldier A"}`
 Think you're ready for me!?{#Name="Soldier A"}
 
 `Ha! Che carino.{#Name="Zero"}`

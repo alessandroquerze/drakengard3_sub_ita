@@ -22,7 +22,7 @@ this happen...to...me...{#Name="Four"}
 `Non preoccuparti.{#Name="Zero"}`
 Don't worry.{#Name="Zero"}
 
-`Le tue sorelle ti raggiungeranno abbastanza presto.{#Name="Zero"}`
+`Le tue sorelle ti raggiungeranno molto presto.{#Name="Zero"}`
 Your sisters will be joining you soon enough.{#Name="Zero"}
 
 `Ehi. E' tutta tua.{#Name="Zero"}`

@@ -244,7 +244,7 @@ One{0A}(One's Brother)
 `Sfonda le difese di Cathedral City.{#Name="説明文"}`
 Break through the Cathedral City's defenses.{#Name="説明文"}
 
-`Sconfiggi il Gray Cerberus!{#Name="説明文"}`
+`Sconfiggi il Cerbero grigio!{#Name="説明文"}`
 Defeat the Gray Cerberus!{#Name="説明文"}
 
 `Sconfiggi Two!{#Name="説明文"}`

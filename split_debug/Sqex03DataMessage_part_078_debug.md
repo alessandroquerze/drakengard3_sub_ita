@@ -199,10 +199,10 @@ This forest is horrifying. No sane{LF}person could ever live here.{#Name="Decadu
 `Mmm? A me non dispiace poi tanto.{#Name="Cent"}`
 Mmm? I don't mind it so much.{#Name="Cent"}
 
-`Ha detto persona SANA, Cent.{LF}Quindi non tu.{#Name="Dito"}`
+`Ha detto persona SANA, Cent.{LF}Quindi: non tu.{#Name="Dito"}`
 He said SANE person, Cent.{LF}That means not you.{#Name="Dito"}
 
-`Ha detto persona SANA, Cent.{LF}Quindi non tu.{#Name="Dito"}`
+`Ha detto persona SANA, Cent.{LF}Quindi: non tu.{#Name="Dito"}`
 He said SANE person, Cent.{LF}That means not you.{#Name="Dito"}
 
 `Five? Credevo di averti uccisa.{#Name="Zero"}`
@@ -250,7 +250,7 @@ What's Five doing here in the{LF}forest instead of Three?{#Name="Zero"}
 `Forse Accord aveva ragione sul fatto che{LF}il mondo si stia sgretolando.{#Name="Octa"}`
 Perhaps Accord was right about{LF}the world breaking down.{#Name="Octa"}
 
-`Oh, per l'amor del cazzo.{#Name="Zero"}`
+`Oh, che cazzo.{#Name="Zero"}`
 Oh, for fuck's sake.{#Name="Zero"}
 
 `E' fantastico! Oh mio Dio,{LF}questo posto è dannatamente fantastico!{#Name="Dito"}`

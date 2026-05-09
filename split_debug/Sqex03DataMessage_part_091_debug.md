@@ -4,7 +4,7 @@ Leave it to me.{#Name="Decadus"}
 `Il mio angelo ha il potere di rallentare notevolmente i suoi movimenti.{#Name="Decadus"}`
 My angel holds the power to slow down his movements by a considerable degree.{#Name="Decadus"}
 
-`Sembra ottimo. Procedi!{#Name="Zero"}`
+`Sembra ottimo. Vai pure!{#Name="Zero"}`
 Sounds great. Get on with it!{#Name="Zero"}
 
 `Ehm... Ma se uso tale potere, tornerò a essere un uccello...{#Name="Decadus"}`

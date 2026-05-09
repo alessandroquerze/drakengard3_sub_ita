@@ -16,7 +16,7 @@ Though, you could sound a bit more thankful, at least...{#Name="Accord"}
 `Comincia a parlare prima che ti faccia a pezzi.{#Name="Zero"}`
 Just start talking before I tear you apart.{#Name="Zero"}
 
-`Oooh, che paura!{#Name="Accord"}`
+`Oooh, spaventosa!{#Name="Accord"}`
 Oooh, scary!{#Name="Accord"}
 
 `Va bene, va bene. Ascolta.{#Name="Accord"}`
@@ -64,7 +64,7 @@ It's growing. Feeding off me.{#Name="Zero"}
 `Prima o poi mi consumerà completamente,{#Name="Zero"}`
 Eventually, it's going to consume me entirely,{#Name="Zero"}
 
-`e indovina cosa succederà, quando sarà maturato del tutto?{#Name="Zero"}`
+`e una volta che succederà, una volta che sarà cresciuto del tutto?{#Name="Zero"}`
 and once that happens? Once it's fully grown?{#Name="Zero"}
 
 `...Distruggerà ogni cosa.{#Name="Zero"}`
@@ -148,7 +148,7 @@ They come from a flower that's gonna end{LF}the world, and they fight for PEACE?
 `...Esilarante.{#Name="Zero"}`
 ...Hilarious.{#Name="Zero"}
 
-`Comunque, fu allora che feci la mia scelta:{#Name="Zero"}`
+`Comunque, fu allora che presi la mia decisione:{#Name="Zero"}`
 Anyway, that's when I made my choice:{#Name="Zero"}
 
 `Decisi di uccidere le mie sorelle...{#Name="Zero"}`
@@ -157,10 +157,10 @@ I decided to kill my sisters...{#Name="Zero"}
 `e poi distruggere il fiore.{#Name="Zero"}`
 and then destroy the flower.{#Name="Zero"}
 
-`Ho pensato che fossi stata io a dare inizio a tutto questo casino, sai?{#Name="Zero"}`
+`Ho realizzato che iniziai io tutto questo casino, sai?{#Name="Zero"}`
 I figured I started this whole mess, ya know?{#Name="Zero"}
 
-`Tanto valeva finirlo.{#Name="Zero"}`
+`Tanto vale finirlo.{#Name="Zero"}`
 I might as well finish it.{#Name="Zero"}
 
 `Quindi, in breve, è tutto qui.{#Name="Zero"}`

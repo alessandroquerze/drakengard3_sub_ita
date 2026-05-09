@@ -52,7 +52,7 @@ You summoned an angel without the aid of an Intoner.{#Name="Zero"}
 `Dovrai pur pagarne il prezzo in qualche modo.{#Name="Zero"}`
 Gonna have to pay for it somehow.{#Name="Zero"}
 
-`Oh, andiamo! Non è giusto per niente!{#Name="Dito"}`
+`Oh, andiamo! Non è per niente giusto!{#Name="Dito"}`
 Oh, come on! That's not even fair!{#Name="Dito"}
 
 `L'ho finalmente trovato!{#Name="Dito"}`

@@ -163,7 +163,7 @@ Part 1: Deliberation{#Name=" "}
 `Parte 2: Verso la Fortezza{#Name=" "}`
 Part 2: To the Fortress{#Name=" "}
 
-`Parte 3: L'idiota{#Name=" "}`
+`Parte 3: Lo scemo{#Name=" "}`
 Part 3: The Dumbass{#Name=" "}
 
 `Parte 4: Questioni di miniera{#Name=" "}`

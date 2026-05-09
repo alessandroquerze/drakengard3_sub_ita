@@ -79,7 +79,7 @@ An enormous city created by the Cataclysm.{LF}It enjoyed prosperity under the Ch
 `Una nazione sotto il dominio dell'Intoner Five. Ha{LF}poca terra coltivabile, ma abbondanti risorse marine.{LF}E' rinomata per i suoi pescherecci, che si scambiano{LF}messaggi tramite una serie di corni. Il suo porto collega{LF}numerose rotte marittime, rendendola un centro di commercio.{#Name="The Land of Seas"}`
 A nation under the rule of the Intoner, Five. It has{LF}little arable land, but bountiful marine resources.{LF}Renowned for its trawler ships, which exchange{LF}messages via a series of horns. Its port connects{LF}a multitude of sea routes, making it a trade hub.{#Name="The Land of Seas"}
 
-`Una nazione montuosa con fortezze apparentemente{LF}in ogni angolo. Il suo prodotto più famoso,la pietra d'ambra,{LF}è un materiale raro che può essere trasportato solo portando{LF}carri lungo sentieri stretti e insidiosi.{LF}E' governata dall'Intoner Four.{#Name="The Land of Mountains"}`
+`Una nazione montuosa con fortezze apparentemente{LF}in ogni angolo. Il suo prodotto più famoso, la pietra d'ambra,{LF}è un materiale raro che può essere trasportato solo portando{LF}carri lungo sentieri stretti e insidiosi.{LF}E' governata dall'Intoner Four.{#Name="The Land of Mountains"}`
 A mountainous nation with fortresses at seemingly{LF}every turn. Its most famous product, Amberstone,{LF}is a rare material that can only be shipped by taking{LF}wagons along narrow and treacherous trails.{LF}Ruled by the Intoner, Four.{#Name="The Land of Mountains"}
 
 `Una nazione quasi interamente coperta di foreste. Gran parte di essa{LF}rimane inesplorata dall'umanità, ed è invece{LF}il dominio di fate ed elfi. E' governata in teoria{LF}dall'Intoner Three, anche se lei sembra{LF}in gran parte ignara di ciò che vi accade.{#Name="The Land of Forests"}`
@@ -94,10 +94,10 @@ The Lands of Seas, Mountains, Forests, and Sands{LF}are each governed by an indi
 `Un'organizzazione religiosa esistente fin{LF}dall'antichità. Il gruppo è cresciuto rapidamente dopo il{LF}Cataclisma, creando organizzazioni come l'Accademia{LF}di Magia per gestire la magia. Le sue molteplici sette sono{LF}note collettivamente semplicemente come la "Chiesa".{#Name="The Church"}`
 A religious organization that has existed since{LF}antiquity. The group has grown rapidly since the{LF}Cataclysm, creating organizations like the Magic{LF}Academy to manage magic. Its multiple sects are{LF}known collectively as simply the "Church."{#Name="The Church"}
 
-`Generalmente, la donna più giovane tra due fratelli nati{LF}dagli stessi genitori. Una "cognata" è la{LF}sorella di un coniuge o la moglie di un fratello, e non{LF}possiede necessariamente un legame di sangue.{#Name="Younger Sister"}`
+`Generalmente, la donna più giovane tra due sorelle nate{LF}dagli stessi genitori. Una "cognata" è la{LF}sorella di un coniuge o la moglie di un fratello, e non{LF}possiede necessariamente un legame di sangue.{#Name="Younger Sister"}`
 Generally, the younger woman of two siblings born{LF}from the same set of parents. A "sister-in-law" is the{LF}sister of a spouse or wife of a sibling, and does not{LF}necessarily possess a blood relation.{#Name="Younger Sister"}
 
-`Generalmente, la donna più anziana tra due fratelli nati{LF}dagli stessi genitori. Una "cognata" è la{LF}sorella di un coniuge o la moglie di un fratello, e non{LF}possiede necessariamente un legame di sangue.{#Name="Elder Sister"}`
+`Generalmente, la donna più anziana tra due sorelle nate{LF}dagli stessi genitori. Una "cognata" è la{LF}sorella di un coniuge o la moglie di un fratello, e non{LF}possiede necessariamente un legame di sangue.{#Name="Elder Sister"}`
 Generally, the older woman of two siblings born{LF}from the same set of parents. A "sister-in-law" is the{LF}sister of a spouse or wife of a sibling, and does not{LF}necessarily possess a blood relation.{#Name="Elder Sister"}
 
 `Un'organizzazione fondata dalla Chiesa nel 910 per la{LF}ricerca sulla magia. La sua storia iniziale è nebulosa, ma{LF}nel 995 un incidente avvenuto alla Central Magic Academy{LF}di Cathedral City la cancellò dalla mappa.{#Name="The Magic Academy"}`
@@ -124,7 +124,7 @@ A disaster that occurred in 856, heralded by a vast{LF}earthquake in the Iberian
 `L'esistenza di mondi paralleli innescati da{LF}materia quantistica intrecciata è nota da tempo.{LF}E' possibile spostarsi, o ramificarsi, verso molti{LF}altri mondi, anche se la maggior parte di tali Diramazioni{LF}consente viaggi in una sola direzione.{#Name="Multiple Worlds"}`
 The existence of parallel worlds triggered by{LF}entangled quantum matter has long been known.{LF}It is possible to shift, or branch, to multiple{LF}other worlds, although most such branches{LF}allow for travel in one direction only.{#Name="Multiple Worlds"}
 
-`Persone, luoghi o cose che possono innescare una divergenza,{LF}o Diramazione, attraverso più mondi. I fenomeni di diramazione{LF}si verificano quando in un'area sono presenti abbastanza particelle magiche e{LF}tutte le condizioni rilevanti sono soddisfatte. Tuttavia, una singolarità{LF}non viene registrata come tale fino a dopo il verificarsi di una Diramazione.{#Name="Singularities"}`
+`Persone, luoghi o cose che possono innescare una divergenza,{LF}o Diramazione, attraverso più mondi. I fenomeni di Diramazione{LF}si verificano quando in un'area sono presenti abbastanza particelle magiche e{LF}tutte le condizioni rilevanti sono soddisfatte. Tuttavia, una singolarità{LF}non viene registrata come tale fino a dopo il verificarsi di una Diramazione.{#Name="Singularities"}`
 Persons, places, or things that can trigger a divergence,{LF}or branch, across multiple worlds. Branch phenomena{LF}occur when enough magic particles are in an area, and{LF}all relevant conditions are met. However, a singularity{LF}is not recorded as such until after a branch occurs.{#Name="Singularities"}
 
 `L'atto di usare l'energia del proprio fiore{LF}per scopi offensivi o difensivi.{LF}E' fondamentalmente diverso dalla magia,{LF}poiché si basa sull'imbrigliare energia dalle{LF}proprietà ricorrenti di più mondi.{#Name="The Power of Song"}`

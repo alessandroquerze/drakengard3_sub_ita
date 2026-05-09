@@ -112,7 +112,7 @@ Citizens of the Land of Sands hold sacred a book{LF}known as the Book of Purity.
 `Gli abitanti della Terra delle Sabbie usano pietre di Magnetite{LF}per costruire bussole. Sento un'opportunità di{LF}guadagno qui; potresti riportarmene tre?`
 People in the Land of Sands use Magnetite stones{LF}to build compasses. I sense an opportunity for{LF}profit here; could you bring back three of them?
 
-`La Terra delle Sabbie è invasa dai Fossili Vegetale,{LF}e ho bisogno che tu me ne porti tre per un{LF}progetto a cui sto lavorando. Usa solo i chakram, okay?`
+`La Terra delle Sabbie è piena di Fossili Vegetale,{LF}e ho bisogno che tu me ne porti tre per un{LF}progetto a cui sto lavorando. Usa solo i chakram, okay?`
 The Land of Sands is overrun with Plant Fossils,{LF}and I need you to bring me three of them for a{LF}project I'm working on. Stick to chakrams, okay?
 
 `Il Libro dell'Innocenza è un tomo molto noto nella{LF}Terra delle Sabbie. Ha tre parti in totale;{LF}trovale tutte e riportale per ottenere una ricompensa.`

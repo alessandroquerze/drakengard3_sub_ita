@@ -262,7 +262,7 @@ Yeah! I can control it! I'm awesome!{#Name="Mikhail"}
 `Hmmm... Ho ancora alcune domande senza risposta.{#Name="Octa"}`
 Hmmm... I still have some unanswered questions.{#Name="Octa"}
 
-`E' vero, questo spiega perché i draghi sembrano intenzionati{LF}a divorare gli Intoner.{#Name="Octa"}`
+`Se vero, questo spiega perché i draghi sembrano intenzionati{LF}a divorare gli Intoner.{#Name="Octa"}`
 True, this explains why dragons seem intent on{LF}devouring Intoners.{#Name="Octa"}
 
 `Ma perché dovrebbero avere un desiderio simile, tanto per cominciare?{#Name="Octa"}`

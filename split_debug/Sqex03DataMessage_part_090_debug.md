@@ -4,10 +4,10 @@ I just wanna murder Three and get this over with!{#Name="Zero"}
 `Voglio solo ammazzare Three e farla finita!{#Name="Zero"}`
 I just wanna murder Three and get this over with!{#Name="Zero"}
 
-`Spostati o muori! Vanno bene entrambe!{#Name="Zero"}`
+`Spostatevi o morite! Vanno bene entrambe!{#Name="Zero"}`
 Move or die! I don't care which!{#Name="Zero"}
 
-`Porca miseria...{#Name="Zero"}`
+`Dannazione...{#Name="Zero"}`
 Dammit...{#Name="Zero"}
 
 `Respirate piuttosto pesantemente,{LF}mia signora. Il fiore è...ehm...{#Name="Octa"}`
@@ -253,7 +253,7 @@ It's highly doubtful Lady Three{LF}could ever power them alone.{#Name="Octa"}
 `Dev'esserci una qualche fonte di energia qui vicino.{#Name="Octa"}`
 There must be some kind of power source nearby.{#Name="Octa"}
 
-`Heh heh... Ma ovvio che c'è. COME SEMPRE!{#Name="Zero"}`
+`Heh heh... Ma ovvio che c'è. OVVIAMENTE!{#Name="Zero"}`
 Heh heh... Of course there is. OF COURSE!{#Name="Zero"}
 
 `スリイは元々ちょっとオカシイ奴だったからな{#Name="ゼロ"}`
@@ -304,7 +304,7 @@ Decadus? How did you get here?{#Name="Zero"}
 `Mi sono fatto dare una spinta da Octa.{#Name="Decadus"}`
 I had Octa give me a boost.{#Name="Decadus"}
 
-`E'...quasi impressionante.{#Name="Zero"}`
+`E'...davvero impressionante.{#Name="Zero"}`
 That's...kind of amazing.{#Name="Zero"}
 
 `Mi sembra che siate in difficoltà.{#Name="Decadus"}`

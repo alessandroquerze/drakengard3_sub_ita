@@ -67,7 +67,7 @@ Really? THAT turns you on too?{#Name="Dito"}
 `Porca miseria. Che cos'è, uno zoo del cazzo?{LF}Non ho tempo per queste stronzate!{#Name="Zero"}`
 Goddammit. What is this, a fucking petting zoo?{LF}I don't have time for this!{#Name="Zero"}
 
-`Che fretta c'è? Li faremo a pezzi abbastanza presto.{#Name="Dito"}`
+`Che fretta c'è? Li faremo fuori a tempo debito.{#Name="Dito"}`
 What's the rush? We'll cut 'em down soon enough.{#Name="Dito"}
 
 `289{#Name="289"}`

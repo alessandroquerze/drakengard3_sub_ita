@@ -166,7 +166,7 @@ Oh, for hell's sake! He can't{LF}even tell if he's cold or not!{#Name="Dito"}
 `Quella stupida lucertola se la caverà benissimo.{#Name="Dito"}`
 That dumb lizard's gonna be just fine.{#Name="Dito"}
 
-`Quante volte dobbiamo passarci!?{#Name="Zero"}`
+`Quante volte dobbiamo affrontare tutto questo!?{#Name="Zero"}`
 How many times do we have to go through this!?{#Name="Zero"}
 
 `Ancora e ANCORA... Ne ho abbastanza!{#Name="Zero"}`
@@ -286,7 +286,7 @@ Divergence: Branch C{#Name="Accord"}
 `13 aprile dell'anno 1000 d.C.{#Name="Accord"}`
 April the 13th, 1000 A.D.{#Name="Accord"}
 
-`Ho osservato una diramazione estremamente preoccupante.{#Name="Accord"}`
+`Ho osservato una Diramazione estremamente preoccupante.{#Name="Accord"}`
 I've observed an extremely worrisome branch.{#Name="Accord"}
 
 `Quando la singolarità nota come Two catturò il drago Mikhail,{#Name="Accord"}`

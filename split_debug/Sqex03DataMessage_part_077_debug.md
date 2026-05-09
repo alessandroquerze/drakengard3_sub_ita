@@ -202,7 +202,7 @@ Do I smell bad again today?{#Name="Mikhail"}
 `...Effettivamente, sai che c'è?{LF}Credo che sia un po' migliorato.{#Name="Zero"}`
 ...Actually, you know what?{LF}I think it's gotten a little better.{#Name="Zero"}
 
-`Yaaay! Mi sono lavato in un fiume{LF}così d'ora in poi sarò pulito!{#Name="Mikhail"}`
+`Yaaay! Mi sono lavato in un fiume,{LF}d'ora in poi sarò pulito!{#Name="Mikhail"}`
 Yaaay! I washed myself in a river{LF}so I'd be clean from now on!{#Name="Mikhail"}
 
 `Quindi, ehm, forse questo significa che non...{#Name="Mikhail"}`

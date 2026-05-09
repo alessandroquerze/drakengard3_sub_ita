@@ -82,7 +82,7 @@ Goodness, this is quite the dilemma indeed...{#Name="Octa"}
 `...Davvero?{#Name="Zero"}`
 ...Really?{#Name="Zero"}
 
-`Se nessuno dei due è disponibile, andranno bene le piante. Anche gli alberi vanno bene,{LF}anzi, ultimamente mi sto davvero godendo i mango!{#Name="Octa"}`
+`Se nessuno dei due è disponibile, andranno bene le piante. Anche gli alberi vanno bene,{LF}in effetti, ultimamente mi sto davvero godendo i mango!{#Name="Octa"}`
 If neither of those are available, plants will do. Trees are all right,{LF}too—in fact, I've been really enjoying mangoes lately!{#Name="Octa"}
 
 `Sai cosa mi piacerebbe davvero provare, prima o poi? Un durian!{#Name="Octa"}`

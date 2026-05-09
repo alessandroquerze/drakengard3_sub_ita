@@ -157,8 +157,8 @@ Story Flow
 `Cambia scheda`
 Switch Tabs
 
-`Seleziona/Cambia scheda`
-Select/Switch Tabs
+`Seleziona/Cambia`
+ Select/Switch Tabs
 
 `Tornare al menu principale?`
 Return to the main menu?

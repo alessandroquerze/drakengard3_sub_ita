@@ -58,8 +58,8 @@ Lancer Captains //cap branch b
 `Spiriti sconfitti!`
 Spirits //primi spiriti nella foresta, prima del re fata
 
-`Spiriti Superiori sconfitti!+01`
-Greater Spirits
+`Spiriti Superiori sconfitti!`
+Greater Spirits //arena fin
 
 `-`
 -
@@ -76,8 +76,8 @@ Imps //primi imp cattedrale branch a
 `Ogre sconfitti!`
 Ogres
 
-`Ogre delle Sabbie sconfitti!+01`
-Sand Ogres
+`Ogre delle Sabbie sconfitti!`
+Sand Ogres //branch d tempio
 
 `-`
 -
@@ -85,8 +85,8 @@ Sand Ogres
 `Troll sconfitti!`
 Trolls //primi troll nella foresta
 
-`Troll Bruti sconfitti!+01`
-Brute Trolls
+`Troll Bruti sconfitti!`
+Brute Trolls //primo incontro branch c
 
 `-`
 -
@@ -100,8 +100,8 @@ Wizards //primi maghi nel deserto cap4
 `Necromanti sconfitti!`
 Necromancers //primi necromanti branch b
 
-`Stregoni sconfitti!+01`
-Sorcerers
+`Stregoni sconfitti!`
+Sorcerers //arena finale accord
 
 `-`
 -
@@ -109,11 +109,11 @@ Sorcerers
 `Non morti sconfitti!`
 Undead //primi non morti nella foresta (cap3)
 
-`Soldati non morti sconfitti!+01`
-Undead Soldiers
+`Soldati non morti sconfitti!`
+Undead Soldiers //branch d foresta
 
-`Paladini non morti sconfitti!+01`
-Undead Paladins
+`Paladini non morti sconfitti!`
+Undead Paladins //arena finale
 
 `-`
 -
@@ -154,14 +154,14 @@ Gigantes //primi gigas cap2 (mikhail)
 `Gigas sconfitti!+02`
 Gigantes
 
-`Gigas non morti sconfitti!+01`
-Undead Gigantes
+`Gigas non morti sconfitti!`
+Undead Gigantes //branch d foresta
 
 `-`
 -
 
-`Titani sconfitti!+01`
-Titans
+`Titani sconfitti!`
+Titans //missione accord?
 
 `Signori titani sconfitti!+01`
 Titan Lords
@@ -232,8 +232,8 @@ Gargoyle Cubes
 `-`
 -
 
-`Soldati confitti!+020`
-Soldiers
+`Soldati sconfitti!`
+Soldiers //arena finale
 
 `Soldati sconfitti!+021`
 Soldiers

@@ -52,10 +52,10 @@ Er...right. {#Name="Octa"}
 `Questo viaggio si sta rivelando{LF}più difficile di quanto mi aspettassi.{#Name="Decadus"}`
 This journey is turning out to be{LF}more difficult than I'd expected.{#Name="Decadus"}
 
-`Sul serio? E tu cosa ti aspettavi esattamente?{#Name="Dito"}`
+`Sul serio? Cosa ti aspettavi esattamente?{#Name="Dito"}`
 Seriously? What exactly were you expecting?{#Name="Dito"}
 
-`Stai viaggiando con ZERO!{LF}E' come una macchina per uccidere.{#Name="Dito"}`
+`Stai viaggiando con ZERO!{LF}È una specie di macchina assassina.{#Name="Dito"}`
 You're traveling with ZERO!{LF}She's like a murder machine.{#Name="Dito"}
 
 `In effetti è stato un massacro{LF}dopo l'altro... Ungh...{#Name="Decadus"}`
@@ -238,7 +238,7 @@ No, dummy!{#Name="Zero"}
 `Tu non sei un demone.{#Name="Zero"}`
 You're not a daemon.{#Name="Zero"}
 
-`E poi io sono...speciale, chiaro? Sono diversa.{#Name="Zero"}`
+`E poi io sono...speciale, okay? Sono diversa.{#Name="Zero"}`
 Plus, I'm...special, okay? I'm different.{#Name="Zero"}
 
 `Vergogna, sorella mia! Vergogna!{#Name="Four"}`

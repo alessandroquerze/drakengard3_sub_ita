@@ -253,7 +253,7 @@ The citadel up ahead, eh?{LF}Thanks for the directions, chump.{#Name="Zero"}
 `Diavolo! Uccidete quella donna!{#Name="Soldier C"}`
 Dammit! Kill that woman!{#Name="Soldier C"}
 
-`Lady Four resta con noi!{#Name="Soldier F"}`
+`Lady Four sta con noi!{#Name="Soldier F"}`
 Lady Four stays with us!{#Name="Soldier F"}
 
 `E' sempre Four, Four, Four tutto il giorno{LF}con voi idioti, vero?{#Name="Zero"}`
@@ -283,7 +283,7 @@ Sometimes old-timers have that{LF}problem with their man-bananas!{#Name="Octa"}
 `Gah! Sta' zitto, una buona volta!{#Name="Dito"}`
 Gah! Shut up already!{#Name="Dito"}
 
-`Se la tua banana virile è così tosta,{LF}perché la usi per combattere, eh?{#Name="Dito"}`
+`Se la tua banana virile è così tosta,{LF}perché non la usi per combattere, eh?{#Name="Dito"}`
 If your man-banana's so tough,{LF}why don't you fight with it, huh?{#Name="Dito"}
 
 `Unnnnngh...{#Name="Decadus"}`

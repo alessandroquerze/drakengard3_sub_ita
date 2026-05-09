@@ -133,7 +133,7 @@ I think at least one of them{LF}might be able to accomplish it...{#Name="Accord"
 `...No. Dovrei fermarmi. {#Name="Accord"}`
 ...No. I should stop. {#Name="Accord"}
 
-`Cancellarò questa voce e consegnerò la registrazione{LF}al prossimo passaggio nel suo stato attuale.{#Name="Accord"}`
+`Cancellerò questa voce e consegnerò la registrazione{LF}al prossimo Recorder nel suo stato attuale.{#Name="Accord"}`
 I'll erase this entry and hand the recording{LF}off to the next pass in its current state.{#Name="Accord"}
 
 `Fine registrazione.{#Name="Accord"}`
@@ -148,7 +148,7 @@ Octa!{#Name="Zero"}
 `Oh ho ho! Peccato non aver potuto sfoderare la lama un'ultima volta, mia signora!{#Name="Octa"}`
 Oh ho ho! A pity we couldn't grind the whetstone one last time, my lady!{#Name="Octa"}
 
-`Vedete? Anche in tempi di crisi, la mia spada virile è affilata come quella di una strega—{#Name="Octa"}`
+`Vedete? Anche in tempi di crisi, la mia spada virile è fidata come la scopa di una str—{#Name="Octa"}`
 See? Even in times of crisis, my man-sword is as sharp as a witch's—{#Name="Octa"}
 
 `{06}>{#Name="Zero"}`
@@ -187,7 +187,7 @@ Just make sure you're ready!{#Name="Accord"}
 `Se muori qui, questa intera Diramazione terminerà!{#Name="Accord"}`
 If you die here, this entire branch is going to terminate!{#Name="Accord"}
 
-`Quindi passa dalle parole ai fatti e fa' che succeda!{#Name="Accord"}`
+`Quindi passa dalle parole ai fatti e vai fino in fondo!{#Name="Accord"}`
 So put your money where your mouth is and make this happen!{#Name="Accord"}
 
 `...Ricevuto.{#Name="Accord (lit: Cell Phone)"}`
@@ -220,7 +220,7 @@ I think this way was...more human...wasn't it?{#Name="Accord"}
 `Sì. Immagino di sì.{#Name="Zero"}`
 Yeah. I guess.{#Name="Zero"}
 
-`Zero... Ti prego...{#Name="Accord"}`
+`Zero... Per favore...{#Name="Accord"}`
 Zero... Please...{#Name="Accord"}
 
 `Sono...un po'...stanca.{#Name="Accord"}`
@@ -235,7 +235,7 @@ Defeat One!{#Name="説明文"}
 `L'ultima voce della mia registrazione si avvicina.{#Name="Accord"}`
 The final entry in my recording draws near.{#Name="Accord"}
 
-`Qualunque conclusione ci attenda alla fine di questa diramazione,{#Name="Accord"}`
+`Qualunque conclusione ci attenda alla fine di questa Diramazione,{#Name="Accord"}`
 No matter what conclusion awaits us at the end of this branch,{#Name="Accord"}
 
 `so che non dimenticherò mai questo viaggio...{#Name="Accord"}`

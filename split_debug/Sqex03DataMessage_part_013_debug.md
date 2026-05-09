@@ -226,7 +226,7 @@ The whole... Wait, what?{#Name="Zero"}
 `Beh, un'Intoner è la scelta migliore, ovviamente.{LF}Ma se non ce n'è una disponibile, un umano può bastare.{#Name="Octa"}`
 Well, an Intoner is best, of course.{LF}But if one's not available, a human will suffice.{#Name="Octa"}
 
-`Se non sono disponibili né l'una né l'altro, ****** andrà bene. Anche ***** vanno bene,{LF}anzi, ultimamente mi sto proprio godendo i ******* !{#Name="Octa"}`
+`Se non sono disponibili né l'una né l'altro, ****** andrà bene. Anche ***** vanno bene,{LF}in effetti, ultimamente mi sto proprio godendo i ******* !{#Name="Octa"}`
 If neither of those are available, ****** will do. ***** are all right,{LF}too—in fact, I've been really enjoying ******* lately!{#Name="Octa"}
 
 `Splendido.{#Name="Zero"}`

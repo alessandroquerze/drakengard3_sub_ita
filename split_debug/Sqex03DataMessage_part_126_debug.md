@@ -88,17 +88,18 @@ Sandwolf
 `-`
 -
 
-`Lupo sconfitto!+200`
-Wolf
+`Lupo sconfitto!`
+Wolf //arena 2 sopr
 
-`Lupo delle sabbie sconfitto!+200`
-Sandwolf
+`Lupo delle sabbie sconfitto!`
+Sandwolf //arena 2 sopr
+
 
 `-`
 -
 
-`Lanciere sconfitto!+100`
-Lancer
+`Lanciere sconfitto!`
+Lancer //arena 2 sopr
 
 `Capitano lanciere sconfitto!+100`
 Lancer Captain
@@ -127,17 +128,17 @@ Imp
 `Ogre sconfitto!+100`
 Ogre
 
-`Ogre delle sabbie sconfitto!+100`
-Sand Ogre
+`Ogre delle sabbie sconfitto!`
+Sand Ogre //arena
 
 `-`
 -
 
-`Troll sconfitto!+100`
-Troll
+`Troll sconfitto!`
+Troll //arena 2 sopr
 
-`Troll brutale sconfitto!+100`
-Brute Troll
+`Troll bruto sconfitto!`
+Brute Troll //arena finale
 
 `-`
 -
@@ -205,8 +206,8 @@ Gigas //primo gigas nel capitolo 2
 `Gigas sconfitto!+200`
 Gigas
 
-`Gigas non morto sconfitto!+100`
-Undead Gigas
+`Gigas non morto sconfitto!`
+Undead Gigas //seconda soppravivenza?
 
 `-`
 -
@@ -214,8 +215,8 @@ Undead Gigas
 `Titano sconfitto!`
 Titan //primo titano nella neve
 
-`Signore Titano sconfitto!+100`
-Titan Lord
+`Signore Titano sconfitto!`
+Titan Lord //branch d
 
 `Arci Titano sconfitto!`
 Arch Titan //primo singolo arci titano branch b
@@ -229,8 +230,8 @@ Cerberus //primo cerbero nella torre con neve (cap2)
 `-`
 -
 
-`Cerbero di Fiamme sconfitto!+100`
-Flame Cerberus
+`Cerbero di Fiamme sconfitto!`
+Flame Cerberus //primo incontro (in realtà doppio) nel deserto branch c
 
 `Cerbero grigio sconfitto!`
 Gray Cerberus //primo incontro in cap2 verso perduto

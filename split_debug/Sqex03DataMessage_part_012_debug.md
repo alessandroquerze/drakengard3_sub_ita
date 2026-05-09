@@ -271,7 +271,7 @@ Where is Lady Two now?{#Name="Decadus"}
 `E come diavolo farei a saperlo?{#Name="Cent"}`
 How on earth would I know?{#Name="Cent"}
 
-`L'ho vista l'ultima volta nelle rovine del deserto, maaa...{LF}cielo, è stato un tempo infinitamente lungo fa. {#Name="Cent"}`
+`L'ho vista l'ultima volta nelle rovine del deserto, maaa...{LF}cielo, è stato moltissimo tempo fa. {#Name="Cent"}`
 I last saw her in the desert ruins, buuut...{LF}goodness, that was ages upon ages ago. {#Name="Cent"}
 
 `Perché l'hai lasciata?{#Name="Zero"}`

@@ -85,7 +85,7 @@ Hey, Cent actually made sense!{LF}Give him a hand, everyone!{#Name="Dito"}
 `Con Lady Two sparita, anche il potere{LF}del suo canto svanisce.{#Name="Decadus"}`
 With Lady Two gone, the power{LF}of her song also vanishes.{#Name="Decadus"}
 
-`Portando così al triste stato{LF}di quello che abbiamo davanti.{#Name="Decadus"}`
+`Portando così al triste stato{LF}che abbiamo davanti.{#Name="Decadus"}`
 Thus leading to the sad state{LF}of affairs before us.{#Name="Decadus"}
 
 `Stupido cane. Ti farò a pezzi!{#Name="Zero"}`
@@ -124,7 +124,7 @@ Hmm...{#Name="Accord"}
 `Draghi che regrediscono...{LF}Discepoli che abbandonano le loro Intoner...{#Name="Accord"}`
 Dragons devolving...{LF}Disciples abandoning their Intoners...{#Name="Accord"}
 
-`Una diramazione così strana merita uno studio molto attento.{#Name="Accord"}`
+`Una Diramazione così strana merita uno studio molto attento.{#Name="Accord"}`
 A branch this strange merits very careful study.{#Name="Accord"}
 
 `Ci sono parecchi non morti da queste parti...{#Name="Octa"}`

@@ -142,7 +142,7 @@ Oh, and if you follow me, I'll kill you too.{#Name="Zero"}
 `Non preoccuparti. Non ho il permesso di interferire in battaglia.{#Name="Accord"}`
 Don't worry. I don't have permission to interfere in battle.{#Name="Accord"}
 
-`Bene, allora.{#Name="Zero"}`
+`Bene allora.{#Name="Zero"}`
 Well, good then.{#Name="Zero"}
 
 `Abbi cura di te.{#Name="Accord"}`
@@ -166,7 +166,7 @@ Mikhail suddenly evolved two levels at once.{#Name="Accord"}
 `In mezzo a tutte queste anomalie,{#Name="Accord"}`
 In the midst of all these anomalies,{#Name="Accord"}
 
-`Zero si sta dirigendo verso La Terra delle Foreste.{#Name="Accord"}`
+`Zero si sta dirigendo verso la Terra delle Foreste.{#Name="Accord"}`
 Zero is heading for the Land of Forests.{#Name="Accord"}
 
 ` `

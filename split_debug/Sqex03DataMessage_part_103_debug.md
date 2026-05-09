@@ -91,7 +91,7 @@ Zero...{#Name="Mikhail"}
 `{06}>{#Name=" "}`
 {06}>{#Name=" "}
 
-`Ci siamo.{#Name="Zero"}`
+`Eccoci qui.{#Name="Zero"}`
 This is it.{#Name="Zero"}
 
 `Quando il fiore sarà completamente sbocciato, dovrai distruggerlo.{#Name="Zero"}`
@@ -130,7 +130,7 @@ However, the possibility exists that this seal{LF}could unravel at some time or 
 `Fino ad allora, i nostri sforzi per registrare continueranno.{#Name="Accord"}`
 Until then, our recording efforts will continue.{#Name="Accord"}
 
-`...Oh. E un'appendice personale riguardo al mio bersaglio d'osservazione, Zero.{#Name="Accord"}`
+`...Oh. E un'appendice personale riguardo al mio soggetto d'osservazione, Zero.{#Name="Accord"}`
 ...Oh. And a personal addendum regarding my observational target, Zero.{#Name="Accord"}
 
 `Forse questo va oltre i miei requisiti funzionali come Recorder, ma{#Name="Accord"}`
@@ -142,10 +142,10 @@ I cannot shake the feeling that somehow, somewhere, Zero is still alive.{#Name="
 `E che...un giorno...{#Name="Accord"}`
 And that...someday...{#Name="Accord"}
 
-`Un giorno, lei e io ci rivedremo.{#Name="Accord"}`
+`Un giorno, lei e io ci rivedremo ancora.{#Name="Accord"}`
 Someday, she and I will see each other again.{#Name="Accord"}
 
-`Folle, lo so. Chiamatela intuizione.{#Name="Accord"}`
+`Folle, lo so. Chiamatela un'intuizione.{#Name="Accord"}`
 Crazy, I know. Call it a hunch.{#Name="Accord"}
 
 `Passaggio dei compiti di registrazione completato.{#Name="Accord B"}`
@@ -178,7 +178,7 @@ I hope to see you again someday.{#Name="Accord B"}
 `Ma fino ad allora...{#Name="Accord B"}`
 But until then...{#Name="Accord B"}
 
-`vorrei dire...{LF}Grazie per aver giocato!{#Name="Accord B"}`
+`Mi piacerebbe dire...{LF}Grazie per aver giocato!{#Name="Accord B"}`
 I'd like to say...{LF}Thank you for playing!{#Name="Accord B"}
 
 `Ehi, Zero?{#Name="Mikhail"}`
@@ -190,7 +190,7 @@ Yeah?{#Name="ZERO"}
 `Io...mi sono divertito molto.{#Name="Mikhail"}`
 I...I had a lot of fun.{#Name="Mikhail"}
 
-`Con te, intendo. E' stato bello stare con te.{#Name="Mikhail"}`
+`Con te, intendo. E' stato divertente stare con te.{#Name="Mikhail"}`
 With you, I mean. It was fun being with you.{#Name="Mikhail"}
 
 `Uccidere è stato difficile. E' stato davvero difficile, ma...{#Name="Mikhail"}`
