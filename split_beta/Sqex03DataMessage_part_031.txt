@@ -9,13 +9,13 @@
 山の本
 森の本
 砂の本
-Libro strappato
+Libro Strappato
 剣兵の本A
 剣兵の本B
 剣兵の本C
-Libro macchiato
+Libro Macchiato
 剣兵の本E
-Libro antico
+Libro Antico
 槍兵の本B
 Libro di Dian Cecht
 Libro di Epona
