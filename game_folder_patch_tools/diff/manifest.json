@@ -1,0 +1,953 @@
+{
+  "format": "simple-game-folder-patch-v1",
+  "created_utc": "2026-05-10T02:05:08.354052+00:00",
+  "notes": "Patch binaria: sovrascrive i file modificati senza interpretare il formato interno.",
+  "include_patterns": [
+    "*"
+  ],
+  "counts": {
+    "changed": 117,
+    "added": 0,
+    "deleted": 0,
+    "unchanged": 8679,
+    "total_patch_entries": 117
+  },
+  "entries": [
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/ALLMESSAGE_SF.XXX",
+      "action": "replace",
+      "base_sha256": "1b49f40ac7e9769a33dd23cb9d1bdc94431f9741f64b3cd8af2c6ac4db7cece3",
+      "new_sha256": "8a3322b0b8f7be6ee5d96b0660acf6c8d712b778bb80736ff59b395e7d321270",
+      "new_size": 8630453,
+      "payload": "data/000000_ae08025043e9_ALLMESSAGE_SF.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG00_CHC_10_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "61c85b549ccb337a2590bfde2711bede7c2c18d2bc1c7624b119c830e9942d48",
+      "new_sha256": "e8fdee6b43fd41c14c599c63c3960a217ab2a49a9c277425a45c68dd7955e2fb",
+      "new_size": 1968804,
+      "payload": "data/000001_75acc4df6275_BG00_CHC_10_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG00_CHC_20_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "613e074caf1d8b634bc4c4e14e97e695229e7f97744a58b7cb144f12a0eaff3a",
+      "new_sha256": "924c6457a720ef79c3c5a13a1b697cc2a8cb82fa811092624e837988e1266d44",
+      "new_size": 7249272,
+      "payload": "data/000002_5bfaa23725e2_BG00_CHC_20_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_10_2_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "affa4d798d4ef94b7c853558b7c2a148ab60dc69aa037bac3d68e9c326bbd051",
+      "new_sha256": "adbef8229a813f0c938088c8dd1847010a2ebe6e8e9495da4886bca9e7fbb978",
+      "new_size": 2592216,
+      "payload": "data/000003_104b173c0711_BG10_SEA_10_2_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_10_3_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "aa39cc85864391c9d026713b0eec960977f00c615ee2eba07a4e415f5067782b",
+      "new_sha256": "5bd52e13b5c90556c71e4db3f40b7f4f7013a4ff177bd39c80516cf234b8c6d3",
+      "new_size": 2583721,
+      "payload": "data/000004_76495744e55e_BG10_SEA_10_3_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_10_4_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "9130425e4f6ba804666de7827f141a31ec04d8157acffbb08ee195bee29c082c",
+      "new_sha256": "2ed7dce1c9d806722d081ce46537518f23ed8123b95760988f349de4d5a513e1",
+      "new_size": 2598666,
+      "payload": "data/000005_2f4a38f65087_BG10_SEA_10_4_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_10_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "fe8c4481939fa421b50b62c59d695a862d9474a54b36b99fb60e5c02fdd884e8",
+      "new_sha256": "a0a2bdb077039c2e9386adb809df3706e5bba4bda35e930f86275807d2dbe2c5",
+      "new_size": 1859627,
+      "payload": "data/000006_bfbd953f31e1_BG10_SEA_10_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_10_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "965a9ee764afd538c0c216c6bc0ed58b1bd5efa3dd3fef15f2d20509f4195421",
+      "new_sha256": "54130a741a9ff44b8adcb1ee2a14b648619ad2c6daf7a70a6aa9fb31c70674f8",
+      "new_size": 6185751,
+      "payload": "data/000007_7a82dc8b879d_BG10_SEA_10_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_20_2_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "261caab0382599726f40a603e7a7d530c71245d1088970cae388c7a809654952",
+      "new_sha256": "4d0dcd8573397d4373d958a750f0bcb81bd612763cd790316be9143177ba31c2",
+      "new_size": 2293216,
+      "payload": "data/000008_b162bec80510_BG10_SEA_20_2_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_20_3_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "35d51e643f68188ebc1c6f24e08aa4d1ccaf27d414b853740e10113d1bd6bceb",
+      "new_sha256": "c41965c950734d0d589d994b2200f2ea0d934f03806dcf9eb5840c3ba488a21b",
+      "new_size": 2289910,
+      "payload": "data/000009_83374bfd0840_BG10_SEA_20_3_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_20_4_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "51a65bb1172e41bee685a85fff49c7da87efa0e307c94ea5d00ad697f5597ce3",
+      "new_sha256": "b6025afbe19487b6a4f7a899bac4ceb38f774063b506aece63ad5f607089b924",
+      "new_size": 2292178,
+      "payload": "data/000010_a11c9e7f595c_BG10_SEA_20_4_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_20_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "e8a652bde7c63ef6baded8e06c47ba0c866b4402c1cb3d423ae4bbf54dbb3002",
+      "new_sha256": "d6a9201cb16940bbe6e4b5525fd46f8b8cd469bed120375424610276477386bc",
+      "new_size": 5231716,
+      "payload": "data/000011_8ad29a46fadc_BG10_SEA_20_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_20_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "da5320231a439a50ce4f76abb7760e29b817398097f9e129082f1cc53e5cc651",
+      "new_sha256": "b74139fecac03bfd8300edb7f33364c489288ac880814b027ce557ad530bf888",
+      "new_size": 2658921,
+      "payload": "data/000012_9449393e36ea_BG10_SEA_20_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_30_1_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "6984b97bf4146e0009e7e138c96ff20fd91c8501389c045f4e57c671fefd157e",
+      "new_sha256": "f673e99d43862c429ce9cf3c6f21b3996de3cf41830367f74612b99d87352d2e",
+      "new_size": 1372596,
+      "payload": "data/000013_8b770508ea3b_BG10_SEA_30_1_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_30_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "debe1c96d94057f6f7c9f41b3d3a6695d21a1a890db07404e4f900ae7ddc2138",
+      "new_sha256": "f2a869ccc6866c63317f2823058a9d931aea5974b49259bd60167fefbdd07a66",
+      "new_size": 7747083,
+      "payload": "data/000014_b7b789ed2bd2_BG10_SEA_30_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_40_5_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "1b6db4bb3add91def3b95d9ae37d664dfa9ac0fe2f1d8983bd7e49fb4f9ea8bd",
+      "new_sha256": "3be357476bb0d4aedef01306cfcc6014bda2c79c9d6aba41f8875c482768c2c5",
+      "new_size": 1543669,
+      "payload": "data/000015_7da56df7d102_BG10_SEA_40_5_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_40_6_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "a26bace6e226b78e526bc0d56d5cda254d67d25570f09297f60761e875919a98",
+      "new_sha256": "29078564b7082f896775c0732102a04eb1dbd1f42f033fb1a2ff28ee41414cbf",
+      "new_size": 1724098,
+      "payload": "data/000016_4178b7d87418_BG10_SEA_40_6_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_40_7_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "0c652cbc53a980b61f1fa2ebc263a0eafd22efba8eae7eac87b26212892e3194",
+      "new_sha256": "11c376a89a567ef3eb2db0e9a3781a6a00c43a4db032843f1e094cffb539efea",
+      "new_size": 6001231,
+      "payload": "data/000017_7bd63852520b_BG10_SEA_40_7_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_40_8_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "c8773b03258f90bc36217f9edc0e039dc412ac6d8d05777063ddc68df2084e19",
+      "new_sha256": "d6153abefb4f7bf59003ef5b7679cb931a8fd00ad4a20fcdac334ba723b5c799",
+      "new_size": 6237622,
+      "payload": "data/000018_28a060fa7a5b_BG10_SEA_40_8_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG10_SEA_40_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "5b1d3bec3b5877eb015343447d6c73f76949c96180362877d7a338078d66ee8c",
+      "new_sha256": "4e98c7a058c6d45160e085c4d53eb7add8f058167fb5e763576eae744096e301",
+      "new_size": 943416,
+      "payload": "data/000019_f4ff7aa8abf3_BG10_SEA_40_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG13_SEA_10_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "f86c44f1883787ce5f2d1d278dc08fc37002bff058b9188df41c563db114d4b4",
+      "new_sha256": "5a52c958220556c3038b8f49e0387409c8cc235dead8aca9e0b25c67d752e985",
+      "new_size": 5324751,
+      "payload": "data/000020_e077eed92f6d_BG13_SEA_10_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG13_SEA_10_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "375a4eab413f957d96ab6d3dee1c48fe22937e07a01bc27dc7a71947b2bb1a10",
+      "new_sha256": "b2e7f2cff584565a02cf754475f79a9a295476500946d1f89ab59e762c440012",
+      "new_size": 2342738,
+      "payload": "data/000021_f3c39c444e9a_BG13_SEA_10_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG14_SEA_10_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "4caa4c7530baf5640c081bf76ed65656642b346e0ad63281c1cbc12aa4cfe2b1",
+      "new_sha256": "b09963ea395d0522af00cf4bd48eb6112a4187f63098534bfc9a562c488266d3",
+      "new_size": 1319927,
+      "payload": "data/000022_4617dfe3e8b2_BG14_SEA_10_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG14_SEA_10_C_EVENT0.XXX",
+      "action": "replace",
+      "base_sha256": "df729ae7b0e2f04222ecfdf2e38d55e365f38c07e481b9c7f4ce2ee47a645d9e",
+      "new_sha256": "03c90a7da6b8fac0e10d6ebcb5bd2dbe69d67b13a6970537b21ce8ee75769376",
+      "new_size": 8336462,
+      "payload": "data/000023_ecccb00a3396_BG14_SEA_10_C_EVENT0.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG14_SEA_10_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "d599bd27cea50c29fa67d636ae158f4bcbf431eb51a2ff1aa2ead6fd6f482a1c",
+      "new_sha256": "58b0da7585fd2245178aac97e3c1cbfa95bcda3905d0aa2a1a894e32df791e6e",
+      "new_size": 1762696,
+      "payload": "data/000024_ab5f1d235f62_BG14_SEA_10_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_60_LD02_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "a87f1846c99d6572c5b186fa4366eea255361a1810ad09f1cb51f5912ad25505",
+      "new_sha256": "6888b7b7ce8eb24245f0eafc2b1c91ae8dee205dc41fa85e76a2b10a262ba733",
+      "new_size": 1518703,
+      "payload": "data/000025_7c99d6ab402f_BG20_60_LD02_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_60_LD04_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "e3d82c369422a8fc55eed9b192fb0568e345071d2faa84779816f3848144a21b",
+      "new_sha256": "6c7c0fc2f875e6a4b4b3de8606576f16c9431d02b95aa900890dbf571a81ed12",
+      "new_size": 2219953,
+      "payload": "data/000026_76022b6a188f_BG20_60_LD04_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_60_LD08_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "254904737b304026a60b011fb282947f1a6b0dfd4d945dd5654465d3ea829294",
+      "new_sha256": "2e59d41c456c45d4936b580200c8053006df7c2d8a9e864a29c52178492a2ac1",
+      "new_size": 5909102,
+      "payload": "data/000027_582588794644_BG20_60_LD08_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_MNT_10_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "1e4f735b9c4f3ed03955e0875cdbaf1a2ede136182e9ade79477d749e8da40fd",
+      "new_sha256": "b9031e2f734c57b9d34be47930d1faf304c76705a555135cf5325afa4250b46b",
+      "new_size": 220649,
+      "payload": "data/000028_5decaac1894a_BG20_MNT_10_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_MNT_10_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "45904ab591102cb6d64dacc5e8a0fa1c7f6921f7ce00e8a70921e1e68106ac0c",
+      "new_sha256": "fe2c76a4261f4a3faf0ee3b88709e467e46eca2a7f826317589bdc7c9314d594",
+      "new_size": 2760245,
+      "payload": "data/000029_0a4aeac36e83_BG20_MNT_10_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_MNT_20_2_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "15a052184a880409f4ef722a6ad0731623c49fdb6ccc0d63e010a226e73b4d73",
+      "new_sha256": "701ae4244fb04b65070fd63ac6a1491e7494d4fa02a0a4f9f5e2eb7ebc59db34",
+      "new_size": 1542898,
+      "payload": "data/000030_adeff8e50309_BG20_MNT_20_2_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_MNT_20_3_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "84af3f2514fe938cd5d3ea580f6c0d757ac86f9be4e763d28d377a962774d6ca",
+      "new_sha256": "0e318fefd3597688a00ee91b1faa07bc605f66b71e5cff6fec3d04dbcccd4410",
+      "new_size": 1546750,
+      "payload": "data/000031_9d1ed90fbd89_BG20_MNT_20_3_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_MNT_20_4_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "9d44f7018c5b3c133e0694f0e88b19eea2602b07a44503a350a1f3e22abea0fd",
+      "new_sha256": "651c6bad1b3f859e929e007be11d9888769010fbae00e960643aa081d857d544",
+      "new_size": 1549336,
+      "payload": "data/000032_c46c7ca1becc_BG20_MNT_20_4_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_MNT_20_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "f0f74f90bb1cb5d4163984dfb35034abe510558dd615e6ca9f24f3ac8289f50e",
+      "new_sha256": "e0c8ee348792d5aedfb2c3ab1774a511421868eb28a18f32213db363b3970dc1",
+      "new_size": 225085,
+      "payload": "data/000033_aaba9c859d29_BG20_MNT_20_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_MNT_20_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "b1e0eb25189570fcc20dffb941832859686fa267e6dcb17c43a452dab1f14aa9",
+      "new_sha256": "bea1816ff0aac6f248d5066f7f9c7efd578fe600bf0fc4ee17f7dbe62935bdee",
+      "new_size": 2769253,
+      "payload": "data/000034_cfb64d86c8a2_BG20_MNT_20_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_MNT_40_1_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "0475a504bd11fc6bc6398ea7f0d4f914196e11aeb0908e79a536b616b39e55a9",
+      "new_sha256": "03a1bf12f6ec0b6bde7e583c5509d23a5e57dfb14bb3a0b1aef2ff19c8b508bb",
+      "new_size": 1110379,
+      "payload": "data/000035_9b9576241f43_BG20_MNT_40_1_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_MNT_40_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "542b51d073fae95014f5e8259425c23c3e233f52db1df2a6e4a6806d4c8666ba",
+      "new_sha256": "d1518192d7ed7257d8ab6d9b339f0d40256e0e656efbe65e5ba34a5734955f67",
+      "new_size": 5337859,
+      "payload": "data/000036_77b6172659af_BG20_MNT_40_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_MNT_40_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "c41df051ecf00bb1212ee45b5d5e2b1dff627ff028eb80d0325b33bd357a42c4",
+      "new_sha256": "52f5e423a3b79d05cc936a30e42ad389e0ba88af166b177f63885215152f86e9",
+      "new_size": 2090038,
+      "payload": "data/000037_9f7e5233c913_BG20_MNT_40_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_MNT_50_2_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "d741fb124700e99fbbbaea373de90e19359f1dc4e3eb1fb55dd1cdaf600d6adf",
+      "new_sha256": "a1b4f2d176593a8d279b7d1e4f4b61ea3494400324dcf9ae7571fdfb57009c75",
+      "new_size": 2550986,
+      "payload": "data/000038_c6c9fb37d723_BG20_MNT_50_2_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_MNT_50_3_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "7c6a77fb0c9dab5d1ca409c09bc1618be96656142a1cf20c80c3ae859a31bd11",
+      "new_sha256": "f4378696ab6bcd186df09ca9adf4ba24a671e27f13a829fefef51d1629bd0f3b",
+      "new_size": 2590518,
+      "payload": "data/000039_805cea8946fb_BG20_MNT_50_3_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_MNT_50_4_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "094ab97ac4e5886f2398646302b37625717295d12877736ee175a2d6cab9bc01",
+      "new_sha256": "7c423837c3cdbc329189b13e42c15b955e9a2ebda6eb9c55a7e6130dd21af3d2",
+      "new_size": 2593475,
+      "payload": "data/000040_b0b922f78760_BG20_MNT_50_4_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG20_MNT_50_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "ea2b405ad6e7ec38e918de8557e1b5a03791aa067b6220eb57d2a2afd05e040d",
+      "new_sha256": "152a4432317ef012c0fa20c40b57b4e4263928824e8255e78842264c0f6f8cb3",
+      "new_size": 2316799,
+      "payload": "data/000041_3ed96f12ef8d_BG20_MNT_50_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG23_MNT_10_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "7b53d45f008b01ef76900a42d0071aba02ff7a22994fb5ad9047a34d2a4d04d4",
+      "new_sha256": "f046251dfdc34878999e03c13c4079c2d26431db7b749d5b2542879696f6fb22",
+      "new_size": 5919273,
+      "payload": "data/000042_2a1717a374e3_BG23_MNT_10_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG23_MNT_10_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "fcfa3dffbfdc31f909a77a0c3290029044188b5155ef79fd9764ca6852bae1d2",
+      "new_sha256": "65e361275c5644dff974b47f723b9a820b5accc9a4dcc5371b8283b794f361c9",
+      "new_size": 3053128,
+      "payload": "data/000043_7b9bf1b90941_BG23_MNT_10_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG23_MNT_20_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "885cf93feaed86ca51e307f2806ed3e0eef5ad4917e5d861bfe0a3e8ada14500",
+      "new_sha256": "79cd62736980d5049f5b85667fede8aed60ec080e8fade71f05f80251d700a87",
+      "new_size": 1458466,
+      "payload": "data/000044_dd7bedb3e2ee_BG23_MNT_20_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG24_MNT_10_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "fa71b338ed1a21bccdee5f0fef943288df7d43b2eb2eb0dfe889c8fdc56eb359",
+      "new_sha256": "d469c3d8ab310a8e27975997e1796bff9d844199bec1a13157ae6e193137be4d",
+      "new_size": 8785585,
+      "payload": "data/000045_10901f4da5d7_BG24_MNT_10_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG24_MNT_10_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "13982983ae0ead11f228bfbc3321c500131f1f3e468779efcec568e8da588f4b",
+      "new_sha256": "68e1081639233a4e9227c55ccb903efa886d964ce2845b7ded2266d8b95aa1a2",
+      "new_size": 1616547,
+      "payload": "data/000046_d5ef49aa30d1_BG24_MNT_10_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG30_FOR_00_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "075f9a872c267657fd0d3214bc3e63f23f446c8ef40d1e8a604d660aeb10d4e3",
+      "new_sha256": "2f8b95e612b6aafd229a01eaa2acd5099856673c5e6e9f830abd9fa727975538",
+      "new_size": 28912522,
+      "payload": "data/000047_6b7a62f703a9_BG30_FOR_00_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG30_FOR_10_2_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "b30149408b1238fd486776446df48b15a19559abeb05220742321fde6e33839b",
+      "new_sha256": "20f21342aaf044b03362a9eed42c66eb03abf01be75c228ef3d0b5d90370892c",
+      "new_size": 3170438,
+      "payload": "data/000048_e50b9a951a74_BG30_FOR_10_2_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG30_FOR_10_3_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "d8f430ea317340e7a239365b41b1e8804a8548c0720f7510ec6f28ed6b189551",
+      "new_sha256": "5db9e66166e93915db92d544f3f6a5da227eecb084b906cc7111a35b23fcd9bc",
+      "new_size": 3166512,
+      "payload": "data/000049_efbd96d7e2db_BG30_FOR_10_3_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG30_FOR_10_4_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "6c6cc238620c103da6f7dab086df0923e0ba02b363bd366fb6ad6282c078a110",
+      "new_sha256": "008b5d00a9d55cd552b4bde8b32ba45e829d0c70d3d23e6d210be3289e803520",
+      "new_size": 3180117,
+      "payload": "data/000050_6041fac09c44_BG30_FOR_10_4_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG30_FOR_10_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "47ce410da8dc3cd1214e6a21fe729e2cf4ca1945f4830c987b3ce6c6a65f8980",
+      "new_sha256": "b1c1673132509603fc66f631975e3f071eeb1bcd9a6986c197e0e24fda9a9868",
+      "new_size": 6869443,
+      "payload": "data/000051_63945a4a1c0a_BG30_FOR_10_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG30_FOR_10_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "ec6c0913a454801a6ce43e20a20dce3b87de3acef3aaacb9d38738af1d80b4f7",
+      "new_sha256": "7f27b90536af00799049bc56bf960ccc3f203cb646666364150c4b2898c8e928",
+      "new_size": 2337705,
+      "payload": "data/000052_cc431cf6ded8_BG30_FOR_10_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG30_FOR_20_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "2e55c53bac2557b5f01c8b22b4494a7f2fec0f27fafefa8bcbe1971dc97576e9",
+      "new_sha256": "c868bff07f03f8a6de7d6d013e925f993a4e6867468674af549ad7a2062221a7",
+      "new_size": 1234985,
+      "payload": "data/000053_ea69c65daa81_BG30_FOR_20_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG30_FOR_30_1_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "a97cea9745cd1a03f7713c01304d674dcd7c2291c6b19686dc6d309e137a2c07",
+      "new_sha256": "6a95c13a8a28d866341bdda161b953aa2282fc8c15d731b8184080b778ef9100",
+      "new_size": 1522556,
+      "payload": "data/000054_0c9d1f6d38e4_BG30_FOR_30_1_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG30_FOR_30_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "4ea7dd48dc4977e34f228a9e47165cbc271c8de1a270af5992a3b56cc1942d0e",
+      "new_sha256": "92dd6569f3900068b7f0d55040a0a4cf0fa2e68b8a94cdd220321311003f9301",
+      "new_size": 3108410,
+      "payload": "data/000055_b204390a4f94_BG30_FOR_30_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG30_FOR_40_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "c28fa765da04c1f2c023cefdc1166ccf8f4e520882a1289805d73147504bdb0c",
+      "new_sha256": "a8226f883a33dbec0431e0d6c0853f8c91c0ce22f6ab0be09142a7c49514f426",
+      "new_size": 5366381,
+      "payload": "data/000056_3a9bbc1e9746_BG30_FOR_40_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG30_FOR_40_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "8776c10f2d64e3040429ded9ef229901c1f820062a55428f2dd350d35b60ad02",
+      "new_sha256": "2efa6e772f6ee42454db42465e0b1240c5ea9c8ddc6511daf1bd5edaae81bcfa",
+      "new_size": 2681775,
+      "payload": "data/000057_24e7fa74d705_BG30_FOR_40_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG30_FOR_50_2_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "0b048df26bfe7f25118267ea9a8d66a3cb2ba438733bec48ddcf2aefe398962e",
+      "new_sha256": "80d3fe9e71b3b61838490defed4538cc1aaa5013f89260f23f8453015c302670",
+      "new_size": 1598867,
+      "payload": "data/000058_41abd462959f_BG30_FOR_50_2_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG30_FOR_50_3_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "43e8c101d579350eb25e8cb62c2744c6c22dc3772781dcf3b5cf1bb9322a74a1",
+      "new_sha256": "041a9bf8ce327975d726b4791a1f4b857596119f05292b69cc600b6db9f93f4a",
+      "new_size": 1480579,
+      "payload": "data/000059_f3658fec6c5f_BG30_FOR_50_3_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG30_FOR_50_4_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "484e7c20d5d998af83802aec96ec544f7d40542021e59d87e9eb13f7b8022002",
+      "new_sha256": "447a3fde38a51dee4283e3c5c57140fdd71e158cefe4c8b8afff3eec6bef18ae",
+      "new_size": 1492704,
+      "payload": "data/000060_1f7adedccdf0_BG30_FOR_50_4_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG30_FOR_50_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "d8a8528f8fafebd171b39e317e61f478891cc410bc3e7dc3ce74984af619517e",
+      "new_sha256": "13d1da8790e060e788dc7f71e8d695a8d2a5f1a8d0f30f8905e4ab1d41bb4121",
+      "new_size": 1504605,
+      "payload": "data/000061_57bb4574c017_BG30_FOR_50_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG30_FOR_60_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "634d59c74e5cd59e88743f4332532fbc1bac77728d740a4c054ce3e84e532cbb",
+      "new_sha256": "4da33726e21985023bcc4319a508a82c825b18cbac1dfe8e4222c5b76e705b49",
+      "new_size": 1644108,
+      "payload": "data/000062_910527de39a3_BG30_FOR_60_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG32_FOR_10_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "ab1c4b2efad86fce94af2d972395d96d55d330fa066c8976d706481e768aa9ae",
+      "new_sha256": "6506bcac3f373e471274de5ec0057476219007d9043e93a7dc6e1a6707c1084d",
+      "new_size": 5429786,
+      "payload": "data/000063_07ea6dfb84c2_BG32_FOR_10_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG32_FOR_10_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "19b4704056d6d03cca1bd87b72d6161628685e07e847aafe0bb7afdc00b0accb",
+      "new_sha256": "7f3623e6dbeede55b8d981e1a45754066178c6a99652708923694888b842e77a",
+      "new_size": 1694222,
+      "payload": "data/000064_b03dc7bd9891_BG32_FOR_10_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG32_FOR_20_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "f675f88b3a330736d9651e0513c7a27629264970fa2462c835f5aeffa8b11159",
+      "new_sha256": "9c919a90491a847be8e0ff8c3cf40f6e570b1b36012b4b7404e01e704c78fe21",
+      "new_size": 10922109,
+      "payload": "data/000065_310fd14bbcd0_BG32_FOR_20_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG32_FOR_20_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "37bba7c35b99867d7e47ec437c73081bfdfb29e234c56e5f42081abd5f6ce1d2",
+      "new_sha256": "09ce26957a059e4f21b787a2b4b0e859bdd8e3d9769a8373474d517c3c6814e4",
+      "new_size": 1202131,
+      "payload": "data/000066_57d9b5cc4048_BG32_FOR_20_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG32_FOR_30_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "1027b48309f9db4125cbdd525a15d2143d1722a1c71414d11397b4cfe537f7e2",
+      "new_sha256": "9e3ea67e3f05b5d4bd79a2ffad30849db634e86ed1ae2745b8b2216accf54deb",
+      "new_size": 873387,
+      "payload": "data/000067_430728578b32_BG32_FOR_30_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG32_FOR_40_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "e2128afb25002a92b38a7464414c2036ef31ef0bb6bddb8cf820095baf19153e",
+      "new_sha256": "0746aff4cae62838e93780384d321178832933e7689c0bf9acd12cfbae84dbcb",
+      "new_size": 313582,
+      "payload": "data/000068_79142922da82_BG32_FOR_40_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG32_FOR_40_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "8441738b768ff96624120dde2ecade1dce59a4bad5709691ddbc2ee9e6f52d7a",
+      "new_sha256": "1ba38dd87c9d14834428f23b7e9616576a48e1967537a1b82a040ef80ec5703d",
+      "new_size": 2032005,
+      "payload": "data/000069_62a4e855d93b_BG32_FOR_40_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG32_FOR_50_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "970b54ad95dcd67718a9800b5b4b5832d1fa5548fd46b900eec4afaf5be1e2f5",
+      "new_sha256": "81d32d110fe9515633140e368e9ccde7e5298f67bbce58df880691f2844af8fd",
+      "new_size": 2620432,
+      "payload": "data/000070_0a677629a72b_BG32_FOR_50_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG33_FOR_10_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "96ba9b0392d8c8c1e8662beb2628572521984963a9fca7cc6e92eee3a21602d2",
+      "new_sha256": "b126557c9a7b8097ada4961ab44ab5a706ad824fd5fae379bdfdfbc65bcd5c10",
+      "new_size": 6010776,
+      "payload": "data/000071_8d6d06f1e427_BG33_FOR_10_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG33_FOR_10_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "bd4d86063fe5d1098eb49f998542614ac0507c7c094ce9980d2e812b90dd93ee",
+      "new_sha256": "171bf25c23b9005c45a234591e128f35fe8ec0412ba4b85e32dea4c6843e2a9b",
+      "new_size": 10164658,
+      "payload": "data/000072_32a5280420b5_BG33_FOR_10_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG33_FOR_20_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "1de7dca35d4ce63f24682d306a1f39222abede49834c4ef2240aa22aefa20a9d",
+      "new_sha256": "abb4fa0fdfe96201c55d830a79b9889e695f7745da42161437e8ebab58867b3f",
+      "new_size": 9345163,
+      "payload": "data/000073_f64412629137_BG33_FOR_20_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG40_SND_10_2_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "a265a9b3407ef1c715e6128911ea9cf09062464a1451c4d7cdc152ed1d4601ee",
+      "new_sha256": "b89318e957f48a23a7526a9ec1e488e87e7d353ea9a7f3d1d6591bbfb098b1d9",
+      "new_size": 1202161,
+      "payload": "data/000074_9b43c1f65359_BG40_SND_10_2_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG40_SND_10_3_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "ec73f5feb17e9134d652cea50e3654fc76a9c193aa7203f953d420046f5c3640",
+      "new_sha256": "851c1ccb76a610810b7961725907c8513c98e774731b6b7881e7b336c12760ee",
+      "new_size": 1206831,
+      "payload": "data/000075_bbf557854715_BG40_SND_10_3_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG40_SND_10_4_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "42657b6f6c8c75c0b096225360c724d8c71d943ae51ea5c5682f99993554b918",
+      "new_sha256": "064d5039d279e3a7027389a76d437575279a8d79920fe3a3b4d434b5df4a89ef",
+      "new_size": 1224552,
+      "payload": "data/000076_61739e90d785_BG40_SND_10_4_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG40_SND_10_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "3144842500133b5bb9e8735f8109cf681d19ae64de6d2560f0174796bdc27a81",
+      "new_sha256": "e9e784760c8c15370d0ef3b703055f29a4587065cc08143eae3b034b2648288a",
+      "new_size": 146266,
+      "payload": "data/000077_a05d922a0714_BG40_SND_10_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG40_SND_10_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "44e5c6f893bc9d21933b76976a997b4abbb5837909985ac8a7130a33b65580e2",
+      "new_sha256": "0125530c64753f2778850f1abe0c72473dd9539a489edc0165594e600e73a522",
+      "new_size": 2659880,
+      "payload": "data/000078_a042545d9d32_BG40_SND_10_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG40_SND_20_2_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "be098df09b35d638174ce8af53b45a2ed1f9a994cd30e60c70c584f7e4b76c7a",
+      "new_sha256": "e63aeb6d9f6f74cf7b39d120c682011407be4f579f8de3123e5519f403fa1ba4",
+      "new_size": 1796822,
+      "payload": "data/000079_79bbac31566a_BG40_SND_20_2_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG40_SND_20_3_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "f7eeeceae4fcd3f6abbe00ae9cb1ea6869ef5ffea036874bd24fb321629f8497",
+      "new_sha256": "a98b5a90ad10c7a81c41e0f50c7c58c470453526d214bc55e030ea1b3c5b3612",
+      "new_size": 1792448,
+      "payload": "data/000080_1ab0bc841055_BG40_SND_20_3_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG40_SND_20_4_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "242a79235ad1fcd513f1ecdf46825b9a367c6ecae382b3d0ca3b5f9a02fcb98a",
+      "new_sha256": "9726e1deab74832c8490257741dc693793b8fd54a36706d5e77fadcaef5646e6",
+      "new_size": 1792668,
+      "payload": "data/000081_34d9d079df68_BG40_SND_20_4_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG40_SND_20_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "7ce169ac8fdc1112b882d5a826dd565bd07c6c95668b602373376da1570feaab",
+      "new_sha256": "4876000841d48864b81e01aea96bccf559346167c21d18301d43da40342ac1e1",
+      "new_size": 5398838,
+      "payload": "data/000082_f38eee03b574_BG40_SND_20_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG40_SND_20_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "cac49bbbd5b9798b32a54cf702662455622b34506305099ad2601a7aabb16fc7",
+      "new_sha256": "2b63a5a99bac6d5ec4871e51cdb9b70c4057e89703e7feae40c7356573ef9e1c",
+      "new_size": 2008449,
+      "payload": "data/000083_4e91eb882677_BG40_SND_20_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG40_SND_30_1_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "21caf70333f6a57a2cdce02a4897241b6235d2afe25ce810f8b6dc6905484ce7",
+      "new_sha256": "5fb96b03f4b1403db3a2306cfbb8559fff08f80d2407cc3fad71bbcf94c329fd",
+      "new_size": 2037551,
+      "payload": "data/000084_89748b6080ca_BG40_SND_30_1_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG40_SND_30_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "5f4b3149cfd8e8e89e6ef3651aaffc892bf458041de22c298dd3d4f93381b1c9",
+      "new_sha256": "74b243bf5ec04218cf730e2eb4f0863bfc03c75bfb59ae21900969734e083610",
+      "new_size": 3379067,
+      "payload": "data/000085_eed96374f69b_BG40_SND_30_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG40_SND_40_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "006cd9eac78fe2919feb6a7836be16f6c7b542e0579eb7c4824a9da10c1b2177",
+      "new_sha256": "e88d12abe84e5489de059a38b8b67ff6e027ca2d53e732af36cc7e0f9c18ed1b",
+      "new_size": 1092628,
+      "payload": "data/000086_10d26ae5ae5e_BG40_SND_40_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG41_SND_10_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "60ae6e5b3eaa1a62bccc9c79247298ee297f759ceb6123e3fad6dfbe5cd2f4f1",
+      "new_sha256": "dac382b1e517c834ead9d0c2c97f34da39860025ee70ca5999360bd5566689ae",
+      "new_size": 2325348,
+      "payload": "data/000087_59967b33be1b_BG41_SND_10_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG41_SND_20_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "e4b2e4b68d938336044132193f08568831b7dce514841df280dccc416461fe3a",
+      "new_sha256": "3cbebe5952d4fbc12ff0f5a415f45968b056da1c3863e35d5fda3e5994ae302c",
+      "new_size": 7668764,
+      "payload": "data/000088_8fb9aef69876_BG41_SND_20_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG41_SND_20_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "614273d9c07f2a4e7aae36dd49bf147226ea358135ede9f60b3ccf56fe8ae9b5",
+      "new_sha256": "d46d5e64a83d6d62e2c13bd08e26ea2c7fa545bf1e7b2aa6361ffba998c32735",
+      "new_size": 1875593,
+      "payload": "data/000089_ed9211ae56ef_BG41_SND_20_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG41_SND_30_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "66c03e902c16257ffdfcb7762e6c48e8434a8576d5fae2e0b6bc05f8a269982e",
+      "new_sha256": "851a2dae93c710193981824dbb7929e1bb8b2a8dab1ea0d04897464d0dd56f88",
+      "new_size": 1515615,
+      "payload": "data/000090_d9e9dd3ae146_BG41_SND_30_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG43_20_LD00_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "4f7dffba6b02a2aaac6bfd5b91e512994462accfe136f167d05641527000de6c",
+      "new_sha256": "445094ff7deac65c55f6bb0a1a53cf754c2cdfe5425786980d4a6521fe9a2586",
+      "new_size": 1563808,
+      "payload": "data/000091_83fbb7c32199_BG43_20_LD00_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG43_20_LD01_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "14c77535a42fb06d067997a1b2642deef9c44f3e5733fb5d0b22df1f7da92683",
+      "new_sha256": "f61d3b7a97fb13322edefee3b55dc426fa8e11393c14eb3e810c5aa541dd1f10",
+      "new_size": 5485679,
+      "payload": "data/000092_8fbbd8dfee7c_BG43_20_LD01_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG43_SND_10_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "e3ba7015750bec72a0991fab5d5b107f43f31145596e4b0ba5b2801b22ad19ac",
+      "new_sha256": "5b2a4c90be83d9a4c1eca17e36beaf37464c0a47ea5b003ba63b400a4dc592ed",
+      "new_size": 261871,
+      "payload": "data/000093_a889f570b56d_BG43_SND_10_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG43_SND_10_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "a3ec01a06c1acba7d0c3ed6720f6b89253dd938fa027800c38f47e5db98b08bb",
+      "new_sha256": "0865751c0e5991d67ccebd5b65d970776b57b7c7148e34fe9bbf152fc768a342",
+      "new_size": 2506660,
+      "payload": "data/000094_4d433f86c209_BG43_SND_10_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG45_SND_10_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "558a71a283f230f7e76ee1603339beb038c34e6b2b6dbb2fcf7c24d298c56fc0",
+      "new_sha256": "2a0e0d520ca249c3ff55b0233b5ea3f97dfdf0e9b88eff0c7688d92d3433d5a8",
+      "new_size": 598028,
+      "payload": "data/000095_6e8726a914a1_BG45_SND_10_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG45_SND_10_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "8dbcb0d0b66a80e9e0b2bc1d5d0474d862ebb4e802bfaf646601c83145901012",
+      "new_sha256": "21985353fc6409f1d6599b40b3cdbe4b96e16e62ca874f2e1642be89d985a678",
+      "new_size": 662342,
+      "payload": "data/000096_49a25768df68_BG45_SND_10_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG50_CHC_00_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "71858ab687859cc186090c32c2671eaf1ba4335816cda8952010b9fdc1766b43",
+      "new_sha256": "246205f04baa96ab5a7bcc66dfa446c86ae4df5a63190ce84c25ba7460153377",
+      "new_size": 28896818,
+      "payload": "data/000097_59832419638e_BG50_CHC_00_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG50_CHC_10_C_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "172387566129625b595eb0bab6ab4e23463c8e28fdaf8189ab4d84fefcac923a",
+      "new_sha256": "8ac002ab4ea4aa5c033e318219c81963adf133b9dcd14401a4d3faae09ef3247",
+      "new_size": 6034283,
+      "payload": "data/000098_8aca18e4f47c_BG50_CHC_10_C_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG50_CHC_20_2_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "7ea11bf02fe7247a6496889f9b9455750a6c62584d2c738d568eb045b8e2981e",
+      "new_sha256": "d9642b799af6ec35f6471c1b7849d9f43ee1a4689a8fbeb8e6fa097a4b8a3d79",
+      "new_size": 1660158,
+      "payload": "data/000099_61750fbd4c5f_BG50_CHC_20_2_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG50_CHC_20_3_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "6a32a5680f2c538b94c37eb7e2387bfa9b1a4c0e40c895e1d498e5b7332c7e35",
+      "new_sha256": "291ab01ea9b1c7e6142f938e08ed491ecf653aac0e772cacfb945f896ae14c45",
+      "new_size": 1657664,
+      "payload": "data/000100_6ae60a291f86_BG50_CHC_20_3_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG50_CHC_20_4_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "734301ac8f4688fee13628dc528c338837ce0a395496a0e7c193a060ddcce324",
+      "new_sha256": "007bb9ef50b22660c7e9c8114cf0cdd3581a9a7620f62e80875f348d7ac04e4a",
+      "new_size": 1693831,
+      "payload": "data/000101_f97c8a237614_BG50_CHC_20_4_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG50_CHC_20_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "b1f9108b1ccef3ccca1aa9b4133c77643750ef029c4a339803b226bad2a33028",
+      "new_sha256": "5ed1c0e2b77e3d5fa670f95cbddae50341f7c7cf5cec74dc5a117cd36345beaa",
+      "new_size": 2682257,
+      "payload": "data/000102_51d3b407721b_BG50_CHC_20_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG50_CHC_30_2_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "d19734d06883b124416708800bb9845d3006454bb7b466c8bf38b39683b3910b",
+      "new_sha256": "8dd041d6d8c0b324022747065a2142d77c7c066b0273f89a12c6462d8f0038dc",
+      "new_size": 2011377,
+      "payload": "data/000103_e5895ee733b5_BG50_CHC_30_2_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG50_CHC_30_3_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "114184981178765ce781abfecd12d0a7ff93377faa0cae5e338a8281cb631278",
+      "new_sha256": "f8447f2e1ca598463fa6312a1f3b030d132169a8a1a0f7e98a80e9eb602df53d",
+      "new_size": 2041338,
+      "payload": "data/000104_7082db8f6b0d_BG50_CHC_30_3_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG50_CHC_30_4_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "bf7b1f0cf1295d0c5876da5e2db5199254111c08e612893071826e4dbf27cf32",
+      "new_sha256": "a555287f497e6a07d51cdf4574e7dcbe953a57af6934228a321891dd57506650",
+      "new_size": 2042336,
+      "payload": "data/000105_b5062a2aceef_BG50_CHC_30_4_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG50_CHC_30_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "238d77a68158ca9c8569bf62ee76923971e252c13e4ed5504384ec7a9f848aec",
+      "new_sha256": "ab669da09573915a2e6e9a6fa3fae8528b8297a17700010088fab0d067be7533",
+      "new_size": 1459001,
+      "payload": "data/000106_6edb06e0094c_BG50_CHC_30_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG50_CHC_40_1_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "0772ecf68bb0c96bb242c623d45c5c9c81944804b46c41aaed0b25d28a089b24",
+      "new_sha256": "1cdaa12a8108c19322726356678781391ab47312b739b8a321684b858892b521",
+      "new_size": 1016836,
+      "payload": "data/000107_d4662d8f7329_BG50_CHC_40_1_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG50_CHC_40_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "a6661bd4a9e2ec236042b94f4d702c76db3ceea998780ae85716022666dcc131",
+      "new_sha256": "adc21418da4d6ba20f560d36590b5249a9a138c38cdbee6f994064326bbda202",
+      "new_size": 1548033,
+      "payload": "data/000108_6ce1f305888e_BG50_CHC_40_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG50_M5010_LD00_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "8492ce1b940d24e20970624cfe13899340df34447fe760771b943b7cca265dbb",
+      "new_sha256": "b34383a7e276a734f01e0ef13debf9599af7171689c90e1bc40919a77d8608a9",
+      "new_size": 562236,
+      "payload": "data/000109_0e99ccbebe13_BG50_M5010_LD00_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG50_M5010_LD01_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "22b8c16123fb402b3a4af5da3443a7889cbd46352c9bba05e0d75853b777b98e",
+      "new_sha256": "e2485c60f7c7a80b9f9e8f968682aeb54edf11167d408c367c27914d3c9f2fe2",
+      "new_size": 855173,
+      "payload": "data/000110_62cbffa5cbd6_BG50_M5010_LD01_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG51_CHC_10_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "207e903f8d6cbd8606ba4a581b2472d4e5a2d20dfc03e32558bba24316b6999c",
+      "new_sha256": "fe38281ea6ad134c0ad8e4fd49f77235607a13e760bffde447dc3e7bbb51cd98",
+      "new_size": 2594491,
+      "payload": "data/000111_1a34528ac23d_BG51_CHC_10_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG51_CHC_20_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "b7f5a903c46e8878ee79f3f14d8e317221b7a14fa0b80de770be9ea43cbfefe1",
+      "new_sha256": "7f89d44749c524ceac1c4664c55cb23611bdc29bd4d45718e5d01778bcef068d",
+      "new_size": 2173787,
+      "payload": "data/000112_f34ba88fa54c_BG51_CHC_20_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/BG53_CHC_10_EVENT.XXX",
+      "action": "replace",
+      "base_sha256": "116cd439004cdbf2010e6f8c8f673a9aea91462abf66e705aa5e45b8b8105ef4",
+      "new_sha256": "df7da78cd2a0e2c962b08b1a314590d0efcba34d549e0cd5b3b6a2778b14cc9d",
+      "new_size": 1903426,
+      "payload": "data/000113_2d0eef0b8d04_BG53_CHC_10_EVENT.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/MISSIONMESSAGE_SF.XXX",
+      "action": "replace",
+      "base_sha256": "4eb4e7ba630bbc9a80545b42ba1e9cc37c75b34d8ed9ba83f6fd9c654fb1e2cf",
+      "new_sha256": "41f1e7bacd5b3ecbeb85d4601776dd30c7d63e1907c82f0cdb022cd65d60059f",
+      "new_size": 8629741,
+      "payload": "data/000114_02a1ba1447ff_MISSIONMESSAGE_SF.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/COOKEDPS3/STAFFROLLMSG_SF.XXX",
+      "action": "replace",
+      "base_sha256": "c9b218a0105010f0f84f1ad4f393644f2cf62d8f6e991690938f434eb184dc0d",
+      "new_sha256": "f2c9af7c8544f3c3b97b8a919aa42b27cfb880fd63c1958d2ce4ea99ed5afd48",
+      "new_size": 382653,
+      "payload": "data/000115_3cd65078615c_STAFFROLLMSG_SF.XXX.lzma"
+    },
+    {
+      "path": "PS3_GAME/USRDIR/SQEX03GAME/PS3TOC.TXT",
+      "action": "replace",
+      "base_sha256": "7b33d9c816018889ebfb4e1caf6aa6daa51ab5d51df05d358d2ca98938e1d6c5",
+      "new_sha256": "a404ce7fc582e73a8bfc70d6bd4336acf1184c66409f7f575757ceafaf25ac6f",
+      "new_size": 659564,
+      "payload": "data/000116_bc5202c6731f_PS3TOC.TXT.lzma"
+    }
+  ]
+}
